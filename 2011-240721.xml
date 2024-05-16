@@ -1,0 +1,1101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CONTRACT LG="NB" CATEGORY="ORIGINAL" FORM="2" VERSION="R2.0.7.D02">
+    <SENDER>
+        <LOGIN CLASS="B"/>
+        <USER/>
+        <NO_DOC_EXT>M226849</NO_DOC_EXT>
+    </SENDER>
+    <FD_CONTRACT CTYPE="SERVICES">
+        <CONTRACTING_AUTHORITY_INFORMATION>
+            <NAME_ADDRESSES_CONTACT_CONTRACT>
+                <CA_CE_CONCESSIONAIRE_PROFILE>
+                    <ORGANISATION>Arbeid og velferdsdirektoratet, NAV økonomi,anskaffelser og forretningsjuridisk
+                        avdeling
+                    </ORGANISATION>
+                    <ADDRESS>Postboks 5, St Olavs plass,</ADDRESS>
+                    <TOWN>OSLO</TOWN>
+                    <POSTAL_CODE>0130</POSTAL_CODE>
+                    <COUNTRY VALUE="NO"/>
+                    <CONTACT_POINT>Anskaffelser og forretningsjuridisk</CONTACT_POINT>
+                    <ATTENTION>Jørgen Iversen</ATTENTION>
+                    <PHONE>21 07 00 00</PHONE>
+                    <E_MAIL>nav.anskaffelser.ikt.konsulenttjenester@nav.no</E_MAIL>
+                    <FAX>21 07 10 10</FAX>
+                </CA_CE_CONCESSIONAIRE_PROFILE>
+                <INTERNET_ADDRESSES_CONTRACT>
+                    <URL_GENERAL>www.nav.no</URL_GENERAL>
+                    <URL_BUYER>http://www.doffin.no//search/Search_AuthProfile.aspx?ID=AA0005</URL_BUYER>
+                </INTERNET_ADDRESSES_CONTRACT>
+                <FURTHER_INFORMATION>
+                    <IDEM/>
+                </FURTHER_INFORMATION>
+                <SPECIFICATIONS_AND_ADDITIONAL_DOCUMENTS>
+                    <IDEM/>
+                </SPECIFICATIONS_AND_ADDITIONAL_DOCUMENTS>
+                <TENDERS_REQUESTS_APPLICATIONS_MUST_BE_SENT_TO>
+                    <IDEM/>
+                </TENDERS_REQUESTS_APPLICATIONS_MUST_BE_SENT_TO>
+            </NAME_ADDRESSES_CONTACT_CONTRACT>
+            <TYPE_AND_ACTIVITIES_AND_PURCHASING_ON_BEHALF>
+                <TYPE_AND_ACTIVITIES>
+                    <TYPE_OF_CONTRACTING_AUTHORITY VALUE="MINISTRY"/>
+                    <TYPE_OF_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+                </TYPE_AND_ACTIVITIES>
+            </TYPE_AND_ACTIVITIES_AND_PURCHASING_ON_BEHALF>
+        </CONTRACTING_AUTHORITY_INFORMATION>
+        <OBJECT_CONTRACT_INFORMATION>
+            <DESCRIPTION_CONTRACT_INFORMATION>
+                <TITLE_CONTRACT>Anskaffelse av rammeavtaler for konsulenttjenester innenfor IKT-området</TITLE_CONTRACT>
+                <TYPE_CONTRACT_LOCATION>
+                    <TYPE_CONTRACT VALUE="SERVICES"/>
+                    <SERVICE_CATEGORY VALUE="7"/>
+                </TYPE_CONTRACT_LOCATION>
+                <LOCATION_NUTS>
+                    <LOCATION>Oslo</LOCATION>
+                </LOCATION_NUTS>
+                <NOTICE_INVOLVES VALUE="ESTABLISHMENT_FRAMEWORK_AGREEMENT"/>
+                <F02_FRAMEWORK>
+                    <SEVERAL_OPERATORS>
+                        <MAX_NUMBER_PARTICIPANTS>120</MAX_NUMBER_PARTICIPANTS>
+                    </SEVERAL_OPERATORS>
+                    <DURATION_FRAMEWORK_YEAR>2</DURATION_FRAMEWORK_YEAR>
+                    <TOTAL_ESTIMATED>
+                        <COSTS_RANGE_AND_CURRENCY CURRENCY="NOK">
+                            <RANGE_VALUE_COST>
+                                <LOW_VALUE>704000000</LOW_VALUE>
+                                <HIGH_VALUE>920000000</HIGH_VALUE>
+                            </RANGE_VALUE_COST>
+                        </COSTS_RANGE_AND_CURRENCY>
+                    </TOTAL_ESTIMATED>
+                </F02_FRAMEWORK>
+                <SHORT_CONTRACT_DESCRIPTION>
+                    <P>NAV IKT ønsker med denne konkurransen å anskaffe rammeavtaler for konsulenttjenester innenfor
+                        IKT-området. Avtalene skal dekke behov for kompetanse som oppdragsgiver ikke har tilgang til i
+                        egen etat på et gitt tidspunkt eller der det er et selvstendig behov for ekstern oppgaveløsning.
+                        Avtalene kan også benyttes ved behov for ekstra kapasitet.
+                    </P>
+                    <P>Konsulenttjenestene som etterspørres er delt inn i følgende kompetanseområder:</P>
+                    <P>- Prosjektstyring / - rådgivning</P>
+                    <P>- Strategiplanlegging / -rådgivning</P>
+                    <P>- Arkitektur og løsningsspesifikasjon</P>
+                    <P>- Teknisk arkitektur (Drift)</P>
+                    <P>- Test og kvalitetssikring</P>
+                    <P>- Logistikk, OeBS og e-handel</P>
+                    <P>- Agresso</P>
+                    <P>- Elektronisk samhandling</P>
+                    <P>- Systemutvikling / programmering</P>
+                    <P>- Drift av IT-systemer og plattformer</P>
+                    <P>- Datakommunikasjon</P>
+                    <P>- Telekommunikasjon</P>
+                    <P>- Operativsystemer</P>
+                    <P>- Datalagring</P>
+                    <P>- Spesialister på databaser</P>
+                    <P>- Spesialister på applikasjonsintegrasjon</P>
+                    <P>Oppdragsgiver planlegger å gjennomføre en omfattende fornyelse/modernisering av IKT
+                        (Moderniseringsprosjektet). På bakgrunn av dette kan verdien på konsulentavtalene innen IKT bli
+                        noe annerledes enn de estimater som er oppgitt i denne kunngjøringen. Se ellers
+                        kvalifikasjonsgrunnlaget vedr. dette.
+                    </P>
+                    <P>Vedr. hvilke enheter avtatelen skal gjelde for, se kvalifikasjonsgrunnlaget.</P>
+                    <P>
+                        <P/>
+                        <P/>
+                        <P>Merk: For å melde din interesse i denne kunngjøringen og motta tilleggsinformasjon vennligst
+                            besøk Doffin nettsiden http://www.doffin.no/Search/Search_Switch.aspx?ID=226849.
+                        </P>
+                    </P>
+                </SHORT_CONTRACT_DESCRIPTION>
+                <CPV>
+                    <CPV_MAIN>
+                        <CPV_CODE CODE="72224000"/>
+                    </CPV_MAIN>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72226000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72227000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72228000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72266000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72600000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72590000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72220000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72000000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72130000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72140000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72200000"/>
+                    </CPV_ADDITIONAL>
+                </CPV>
+                <CONTRACT_COVERED_GPA VALUE="YES"/>
+                <F02_DIVISION_INTO_LOTS>
+                    <F02_DIV_INTO_LOT_YES VALUE="ONE_OR_MORE_LOT">
+                        <F02_ANNEX_B>
+                            <LOT_NUMBER>10</LOT_NUMBER>
+                            <LOT_TITLE>Drift av IT-systemer og plattformer</LOT_TITLE>
+                            <LOTS ITEM="23045442">
+                                <LOT_DESCRIPTION>
+                                    <P>Se kvalifikasjonsgrunnlaget for eksempler som kan ligge under området.</P>
+                                </LOT_DESCRIPTION>
+                            </LOTS>
+                            <CPV>
+                                <CPV_MAIN>
+                                    <CPV_CODE CODE="72315200"/>
+                                </CPV_MAIN>
+                                <CPV_ADDITIONAL>
+                                    <CPV_CODE CODE="72514000"/>
+                                </CPV_ADDITIONAL>
+                                <CPV_ADDITIONAL>
+                                    <CPV_CODE CODE="72514100"/>
+                                </CPV_ADDITIONAL>
+                                <CPV_ADDITIONAL>
+                                    <CPV_CODE CODE="72514200"/>
+                                </CPV_ADDITIONAL>
+                                <CPV_ADDITIONAL>
+                                    <CPV_CODE CODE="72514300"/>
+                                </CPV_ADDITIONAL>
+                                <CPV_ADDITIONAL>
+                                    <CPV_CODE CODE="72600000"/>
+                                </CPV_ADDITIONAL>
+                            </CPV>
+                            <NATURE_QUANTITY_SCOPE>
+                                <TOTAL_QUANTITY_OR_SCOPE>
+                                    <P>Avtalen vil gjelde i to år fra signeringsdato. Oppdragsgiver (Kunden) har opsjon
+                                        på forlengelse av avtalen i ytterligere to år med ett år av gangen (2+1+1).
+                                    </P>
+                                    <P/>
+                                    <P/>
+                                    <P/>
+                                    <P/>
+                                    <P/>
+                                    <P/>
+                                    <P>Se verdi under</P>
+                                </TOTAL_QUANTITY_OR_SCOPE>
+                                <COSTS_RANGE_AND_CURRENCY CURRENCY="NOK">
+                                    <RANGE_VALUE_COST>
+                                        <LOW_VALUE>28000000</LOW_VALUE>
+                                        <HIGH_VALUE>56000000</HIGH_VALUE>
+                                    </RANGE_VALUE_COST>
+                                </COSTS_RANGE_AND_CURRENCY>
+                            </NATURE_QUANTITY_SCOPE>
+                            <PERIOD_WORK_DATE_STARTING>
+                                <MONTHS>24</MONTHS>
+                            </PERIOD_WORK_DATE_STARTING>
+                            <ADDITIONAL_INFORMATION_ABOUT_LOTS>
+                                <P>Sjekk beløp</P>
+                            </ADDITIONAL_INFORMATION_ABOUT_LOTS>
+                        </F02_ANNEX_B>
+                        <F02_ANNEX_B>
+                            <LOT_NUMBER>1</LOT_NUMBER>
+                            <LOT_TITLE>Prosjektstyring/ - rådgivning</LOT_TITLE>
+                            <LOTS ITEM="23035149">
+                                <LOT_DESCRIPTION>
+                                    <P>Se kvalifikasjonsgrunnlaget for eksempler som kan ligge under området.</P>
+                                </LOT_DESCRIPTION>
+                            </LOTS>
+                            <CPV>
+                                <CPV_MAIN>
+                                    <CPV_CODE CODE="72600000"/>
+                                </CPV_MAIN>
+                                <CPV_ADDITIONAL>
+                                    <CPV_CODE CODE="72000000"/>
+                                </CPV_ADDITIONAL>
+                                <CPV_ADDITIONAL>
+                                    <CPV_CODE CODE="72100000"/>
+                                </CPV_ADDITIONAL>
+                                <CPV_ADDITIONAL>
+                                    <CPV_CODE CODE="72130000"/>
+                                </CPV_ADDITIONAL>
+                                <CPV_ADDITIONAL>
+                                    <CPV_CODE CODE="72246000"/>
+                                </CPV_ADDITIONAL>
+                                <CPV_ADDITIONAL>
+                                    <CPV_CODE CODE="79421000"/>
+                                </CPV_ADDITIONAL>
+                                <CPV_ADDITIONAL>
+                                    <CPV_CODE CODE="72224000"/>
+                                </CPV_ADDITIONAL>
+                            </CPV>
+                            <NATURE_QUANTITY_SCOPE>
+                                <TOTAL_QUANTITY_OR_SCOPE>
+                                    <P>Avtalen vil gjelde i to år fra signeringsdato. Oppdragsgiver (Kunden) har opsjon
+                                        på forlengelse av avtalen i ytterligere to år med ett år av gangen (2+1+1).
+                                    </P>
+                                    <P/>
+                                    <P/>
+                                    <P/>
+                                    <P/>
+                                    <P/>
+                                    <P/>
+                                    <P>Se verdi under</P>
+                                </TOTAL_QUANTITY_OR_SCOPE>
+                                <COSTS_RANGE_AND_CURRENCY CURRENCY="NOK">
+                                    <RANGE_VALUE_COST>
+                                        <LOW_VALUE>280000000</LOW_VALUE>
+                                        <HIGH_VALUE>320000000</HIGH_VALUE>
+                                    </RANGE_VALUE_COST>
+                                </COSTS_RANGE_AND_CURRENCY>
+                            </NATURE_QUANTITY_SCOPE>
+                            <PERIOD_WORK_DATE_STARTING>
+                                <MONTHS>24</MONTHS>
+                            </PERIOD_WORK_DATE_STARTING>
+                            <ADDITIONAL_INFORMATION_ABOUT_LOTS>
+                                <P/>
+                            </ADDITIONAL_INFORMATION_ABOUT_LOTS>
+                        </F02_ANNEX_B>
+                        <F02_ANNEX_B>
+                            <LOT_NUMBER>11</LOT_NUMBER>
+                            <LOT_TITLE>Datakommunikasjon</LOT_TITLE>
+                            <LOTS ITEM="23045859">
+                                <LOT_DESCRIPTION>
+                                    <P>Se kvalifikasjonsgrunnlaget for eksempler som kan ligge under området.</P>
+                                </LOT_DESCRIPTION>
+                            </LOTS>
+                            <CPV>
+                                <CPV_MAIN>
+                                    <CPV_CODE CODE="72212200"/>
+                                </CPV_MAIN>
+                                <CPV_ADDITIONAL>
+                                    <CPV_CODE CODE="72212210"/>
+                                </CPV_ADDITIONAL>
+                                <CPV_ADDITIONAL>
+                                    <CPV_CODE CODE="72212214"/>
+                                </CPV_ADDITIONAL>
+                                <CPV_ADDITIONAL>
+                                    <CPV_CODE CODE="72212215"/>
+                                </CPV_ADDITIONAL>
+                                <CPV_ADDITIONAL>
+                                    <CPV_CODE CODE="72212219"/>
+                                </CPV_ADDITIONAL>
+                                <CPV_ADDITIONAL>
+                                    <CPV_CODE CODE="72315100"/>
+                                </CPV_ADDITIONAL>
+                                <CPV_ADDITIONAL>
+                                    <CPV_CODE CODE="72315200"/>
+                                </CPV_ADDITIONAL>
+                                <CPV_ADDITIONAL>
+                                    <CPV_CODE CODE="72600000"/>
+                                </CPV_ADDITIONAL>
+                            </CPV>
+                            <NATURE_QUANTITY_SCOPE>
+                                <TOTAL_QUANTITY_OR_SCOPE>
+                                    <P>Avtalen vil gjelde i to år fra signeringsdato. Oppdragsgiver (Kunden) har opsjon
+                                        på forlengelse av avtalen i ytterligere to år med ett år av gangen (2+1+1).
+                                    </P>
+                                    <P/>
+                                    <P/>
+                                    <P/>
+                                    <P/>
+                                    <P>Se verdi under</P>
+                                </TOTAL_QUANTITY_OR_SCOPE>
+                                <COSTS_RANGE_AND_CURRENCY CURRENCY="NOK">
+                                    <RANGE_VALUE_COST>
+                                        <LOW_VALUE>24000000</LOW_VALUE>
+                                        <HIGH_VALUE>40000000</HIGH_VALUE>
+                                    </RANGE_VALUE_COST>
+                                </COSTS_RANGE_AND_CURRENCY>
+                            </NATURE_QUANTITY_SCOPE>
+                            <PERIOD_WORK_DATE_STARTING>
+                                <MONTHS>24</MONTHS>
+                            </PERIOD_WORK_DATE_STARTING>
+                            <ADDITIONAL_INFORMATION_ABOUT_LOTS>
+                                <P/>
+                            </ADDITIONAL_INFORMATION_ABOUT_LOTS>
+                        </F02_ANNEX_B>
+                        <F02_ANNEX_B>
+                            <LOT_NUMBER>12</LOT_NUMBER>
+                            <LOT_TITLE>Telekommunikasjon</LOT_TITLE>
+                            <LOTS ITEM="23050425">
+                                <LOT_DESCRIPTION>
+                                    <P>Se kvalifikasjonsgrunnlaget for eksempler som kan ligge under området.</P>
+                                </LOT_DESCRIPTION>
+                            </LOTS>
+                            <CPV>
+                                <CPV_MAIN>
+                                    <CPV_CODE CODE="71316000"/>
+                                </CPV_MAIN>
+                                <CPV_ADDITIONAL>
+                                    <CPV_CODE CODE="72600000"/>
+                                </CPV_ADDITIONAL>
+                            </CPV>
+                            <NATURE_QUANTITY_SCOPE>
+                                <TOTAL_QUANTITY_OR_SCOPE>
+                                    <P>Avtalen vil gjelde i to år fra signeringsdato. Oppdragsgiver (Kunden) har opsjon
+                                        på forlengelse av avtalen i ytterligere to år med ett år av gangen (2+1+1).
+                                    </P>
+                                    <P/>
+                                    <P/>
+                                    <P/>
+                                    <P>Se verdi under</P>
+                                </TOTAL_QUANTITY_OR_SCOPE>
+                                <COSTS_RANGE_AND_CURRENCY CURRENCY="NOK">
+                                    <RANGE_VALUE_COST>
+                                        <LOW_VALUE>12000000</LOW_VALUE>
+                                        <HIGH_VALUE>20000000</HIGH_VALUE>
+                                    </RANGE_VALUE_COST>
+                                </COSTS_RANGE_AND_CURRENCY>
+                            </NATURE_QUANTITY_SCOPE>
+                            <PERIOD_WORK_DATE_STARTING>
+                                <MONTHS>24</MONTHS>
+                            </PERIOD_WORK_DATE_STARTING>
+                            <ADDITIONAL_INFORMATION_ABOUT_LOTS>
+                                <P/>
+                            </ADDITIONAL_INFORMATION_ABOUT_LOTS>
+                        </F02_ANNEX_B>
+                        <F02_ANNEX_B>
+                            <LOT_NUMBER>13</LOT_NUMBER>
+                            <LOT_TITLE>Operativsystemer</LOT_TITLE>
+                            <LOTS ITEM="23050655">
+                                <LOT_DESCRIPTION>
+                                    <P>Se kvalifikasjonsgrunnlaget for eksempler som kan ligge under området.</P>
+                                </LOT_DESCRIPTION>
+                            </LOTS>
+                            <CPV>
+                                <CPV_MAIN>
+                                    <CPV_CODE CODE="72212213"/>
+                                </CPV_MAIN>
+                                <CPV_ADDITIONAL>
+                                    <CPV_CODE CODE="72212214"/>
+                                </CPV_ADDITIONAL>
+                                <CPV_ADDITIONAL>
+                                    <CPV_CODE CODE="72212600"/>
+                                </CPV_ADDITIONAL>
+                                <CPV_ADDITIONAL>
+                                    <CPV_CODE CODE="72600000"/>
+                                </CPV_ADDITIONAL>
+                            </CPV>
+                            <NATURE_QUANTITY_SCOPE>
+                                <TOTAL_QUANTITY_OR_SCOPE>
+                                    <P>Avtalen vil gjelde i to år fra signeringsdato. Oppdragsgiver (Kunden) har opsjon
+                                        på forlengelse av avtalen i ytterligere to år med ett år av gangen (2+1+1).
+                                    </P>
+                                    <P/>
+                                    <P/>
+                                    <P/>
+                                    <P/>
+                                    <P>Se verdi under</P>
+                                </TOTAL_QUANTITY_OR_SCOPE>
+                                <COSTS_RANGE_AND_CURRENCY CURRENCY="NOK">
+                                    <RANGE_VALUE_COST>
+                                        <LOW_VALUE>16000000</LOW_VALUE>
+                                        <HIGH_VALUE>32000000</HIGH_VALUE>
+                                    </RANGE_VALUE_COST>
+                                </COSTS_RANGE_AND_CURRENCY>
+                            </NATURE_QUANTITY_SCOPE>
+                            <ADDITIONAL_INFORMATION_ABOUT_LOTS>
+                                <P>Sjekk verdi</P>
+                            </ADDITIONAL_INFORMATION_ABOUT_LOTS>
+                        </F02_ANNEX_B>
+                        <F02_ANNEX_B>
+                            <LOT_NUMBER>14</LOT_NUMBER>
+                            <LOT_TITLE>Datalagring</LOT_TITLE>
+                            <LOTS ITEM="23050940">
+                                <LOT_DESCRIPTION>
+                                    <P>Se kvalifikasjonsgrunnlaget for eksempler som kan ligge under området.
+                                    </P>
+                                    <P/>
+                                </LOT_DESCRIPTION>
+                            </LOTS>
+                            <CPV>
+                                <CPV_MAIN>
+                                    <CPV_CODE CODE="72317000"/>
+                                </CPV_MAIN>
+                                <CPV_ADDITIONAL>
+                                    <CPV_CODE CODE="79415200"/>
+                                </CPV_ADDITIONAL>
+                                <CPV_ADDITIONAL>
+                                    <CPV_CODE CODE="71220000"/>
+                                </CPV_ADDITIONAL>
+                                <CPV_ADDITIONAL>
+                                    <CPV_CODE CODE="72212941"/>
+                                </CPV_ADDITIONAL>
+                                <CPV_ADDITIONAL>
+                                    <CPV_CODE CODE="72600000"/>
+                                </CPV_ADDITIONAL>
+                            </CPV>
+                            <NATURE_QUANTITY_SCOPE>
+                                <TOTAL_QUANTITY_OR_SCOPE>
+                                    <P>Avtalen vil gjelde i to år fra signeringsdato. Oppdragsgiver (Kunden) har opsjon
+                                        på forlengelse av avtalen i ytterligere to år med ett år av gangen (2+1+1).
+                                    </P>
+                                    <P/>
+                                    <P/>
+                                    <P/>
+                                    <P>Se verdi under</P>
+                                </TOTAL_QUANTITY_OR_SCOPE>
+                                <COSTS_RANGE_AND_CURRENCY CURRENCY="NOK">
+                                    <RANGE_VALUE_COST>
+                                        <LOW_VALUE>5600000</LOW_VALUE>
+                                        <HIGH_VALUE>7200000</HIGH_VALUE>
+                                    </RANGE_VALUE_COST>
+                                </COSTS_RANGE_AND_CURRENCY>
+                            </NATURE_QUANTITY_SCOPE>
+                            <PERIOD_WORK_DATE_STARTING>
+                                <MONTHS>24</MONTHS>
+                            </PERIOD_WORK_DATE_STARTING>
+                            <ADDITIONAL_INFORMATION_ABOUT_LOTS>
+                                <P/>
+                            </ADDITIONAL_INFORMATION_ABOUT_LOTS>
+                        </F02_ANNEX_B>
+                        <F02_ANNEX_B>
+                            <LOT_NUMBER>15</LOT_NUMBER>
+                            <LOT_TITLE>Spesialister på databaser</LOT_TITLE>
+                            <LOTS ITEM="23051209">
+                                <LOT_DESCRIPTION>
+                                    <P>Se kvalifikasjonsgrunnlaget for eksempler som kan ligge under området.</P>
+                                </LOT_DESCRIPTION>
+                            </LOTS>
+                            <CPV>
+                                <CPV_MAIN>
+                                    <CPV_CODE CODE="72600000"/>
+                                </CPV_MAIN>
+                            </CPV>
+                            <NATURE_QUANTITY_SCOPE>
+                                <TOTAL_QUANTITY_OR_SCOPE>
+                                    <P>Avtalen vil gjelde i to år fra signeringsdato. Oppdragsgiver (Kunden) har opsjon
+                                        på forlengelse av avtalen i ytterligere to år med ett år av gangen (2+1+1).
+                                    </P>
+                                    <P/>
+                                    <P/>
+                                    <P/>
+                                    <P>Se verdi under</P>
+                                </TOTAL_QUANTITY_OR_SCOPE>
+                                <COSTS_RANGE_AND_CURRENCY CURRENCY="NOK">
+                                    <RANGE_VALUE_COST>
+                                        <LOW_VALUE>5600000</LOW_VALUE>
+                                        <HIGH_VALUE>7200000</HIGH_VALUE>
+                                    </RANGE_VALUE_COST>
+                                </COSTS_RANGE_AND_CURRENCY>
+                            </NATURE_QUANTITY_SCOPE>
+                            <PERIOD_WORK_DATE_STARTING>
+                                <MONTHS>24</MONTHS>
+                            </PERIOD_WORK_DATE_STARTING>
+                            <ADDITIONAL_INFORMATION_ABOUT_LOTS>
+                                <P/>
+                            </ADDITIONAL_INFORMATION_ABOUT_LOTS>
+                        </F02_ANNEX_B>
+                        <F02_ANNEX_B>
+                            <LOT_NUMBER>16</LOT_NUMBER>
+                            <LOT_TITLE>Spesialister på applikasjonsintegrasjon</LOT_TITLE>
+                            <LOTS ITEM="23051411">
+                                <LOT_DESCRIPTION>
+                                    <P>Se kvalifikasjonsgrunnlaget for eksempler som kan ligge under området.</P>
+                                </LOT_DESCRIPTION>
+                            </LOTS>
+                            <CPV>
+                                <CPV_MAIN>
+                                    <CPV_CODE CODE="72212000"/>
+                                </CPV_MAIN>
+                                <CPV_ADDITIONAL>
+                                    <CPV_CODE CODE="72421000"/>
+                                </CPV_ADDITIONAL>
+                                <CPV_ADDITIONAL>
+                                    <CPV_CODE CODE="72422000"/>
+                                </CPV_ADDITIONAL>
+                                <CPV_ADDITIONAL>
+                                    <CPV_CODE CODE="72227000"/>
+                                </CPV_ADDITIONAL>
+                                <CPV_ADDITIONAL>
+                                    <CPV_CODE CODE="72228000"/>
+                                </CPV_ADDITIONAL>
+                                <CPV_ADDITIONAL>
+                                    <CPV_CODE CODE="71243000"/>
+                                </CPV_ADDITIONAL>
+                                <CPV_ADDITIONAL>
+                                    <CPV_CODE CODE="72600000"/>
+                                </CPV_ADDITIONAL>
+                            </CPV>
+                            <NATURE_QUANTITY_SCOPE>
+                                <TOTAL_QUANTITY_OR_SCOPE>
+                                    <P>Avtalen vil gjelde i to år fra signeringsdato. Oppdragsgiver (Kunden) har opsjon
+                                        på forlengelse av avtalen i ytterligere to år med ett år av gangen (2+1+1).
+                                    </P>
+                                    <P/>
+                                    <P/>
+                                    <P/>
+                                    <P/>
+                                    <P>Se verdi under</P>
+                                </TOTAL_QUANTITY_OR_SCOPE>
+                                <COSTS_RANGE_AND_CURRENCY CURRENCY="NOK">
+                                    <RANGE_VALUE_COST>
+                                        <LOW_VALUE>16000000</LOW_VALUE>
+                                        <HIGH_VALUE>28800000</HIGH_VALUE>
+                                    </RANGE_VALUE_COST>
+                                </COSTS_RANGE_AND_CURRENCY>
+                            </NATURE_QUANTITY_SCOPE>
+                            <PERIOD_WORK_DATE_STARTING>
+                                <MONTHS>24</MONTHS>
+                            </PERIOD_WORK_DATE_STARTING>
+                            <ADDITIONAL_INFORMATION_ABOUT_LOTS>
+                                <P/>
+                            </ADDITIONAL_INFORMATION_ABOUT_LOTS>
+                        </F02_ANNEX_B>
+                        <F02_ANNEX_B>
+                            <LOT_NUMBER>2</LOT_NUMBER>
+                            <LOT_TITLE>Strategiplanlegging/ – rådgivning</LOT_TITLE>
+                            <LOTS ITEM="23041958">
+                                <LOT_DESCRIPTION>
+                                    <P>Se kvalifikasjonsgrunnlaget for eksempler som kan ligge under området.</P>
+                                </LOT_DESCRIPTION>
+                            </LOTS>
+                            <CPV>
+                                <CPV_MAIN>
+                                    <CPV_CODE CODE="72222000"/>
+                                </CPV_MAIN>
+                                <CPV_ADDITIONAL>
+                                    <CPV_CODE CODE="72000000"/>
+                                </CPV_ADDITIONAL>
+                                <CPV_ADDITIONAL>
+                                    <CPV_CODE CODE="72130000"/>
+                                </CPV_ADDITIONAL>
+                                <CPV_ADDITIONAL>
+                                    <CPV_CODE CODE="72246000"/>
+                                </CPV_ADDITIONAL>
+                                <CPV_ADDITIONAL>
+                                    <CPV_CODE CODE="72600000"/>
+                                </CPV_ADDITIONAL>
+                            </CPV>
+                            <NATURE_QUANTITY_SCOPE>
+                                <TOTAL_QUANTITY_OR_SCOPE>
+                                    <P>Avtalen vil gjelde i to år fra signeringsdato. Oppdragsgiver (Kunden) har opsjon
+                                        på forlengelse av avtalen i ytterligere to år med ett år av gangen (2+1+1).
+                                    </P>
+                                    <P/>
+                                    <P/>
+                                    <P/>
+                                    <P>Se verdi under</P>
+                                </TOTAL_QUANTITY_OR_SCOPE>
+                                <COSTS_RANGE_AND_CURRENCY CURRENCY="NOK">
+                                    <RANGE_VALUE_COST>
+                                        <LOW_VALUE>12000000</LOW_VALUE>
+                                        <HIGH_VALUE>16000000</HIGH_VALUE>
+                                    </RANGE_VALUE_COST>
+                                </COSTS_RANGE_AND_CURRENCY>
+                            </NATURE_QUANTITY_SCOPE>
+                            <PERIOD_WORK_DATE_STARTING>
+                                <MONTHS>24</MONTHS>
+                            </PERIOD_WORK_DATE_STARTING>
+                            <ADDITIONAL_INFORMATION_ABOUT_LOTS>
+                                <P/>
+                            </ADDITIONAL_INFORMATION_ABOUT_LOTS>
+                        </F02_ANNEX_B>
+                        <F02_ANNEX_B>
+                            <LOT_NUMBER>3</LOT_NUMBER>
+                            <LOT_TITLE>Arkitektur og løsningsspesifikasjon</LOT_TITLE>
+                            <LOTS ITEM="23042457">
+                                <LOT_DESCRIPTION>
+                                    <P>Se kvalifikasjonsgrunnlaget for eksempler som kan ligge under området.</P>
+                                </LOT_DESCRIPTION>
+                            </LOTS>
+                            <CPV>
+                                <CPV_MAIN>
+                                    <CPV_CODE CODE="72600000"/>
+                                </CPV_MAIN>
+                                <CPV_ADDITIONAL>
+                                    <CPV_CODE CODE="71210000"/>
+                                </CPV_ADDITIONAL>
+                                <CPV_ADDITIONAL>
+                                    <CPV_CODE CODE="72000000"/>
+                                </CPV_ADDITIONAL>
+                                <CPV_ADDITIONAL>
+                                    <CPV_CODE CODE="72130000"/>
+                                </CPV_ADDITIONAL>
+                                <CPV_ADDITIONAL>
+                                    <CPV_CODE CODE="72212710"/>
+                                </CPV_ADDITIONAL>
+                                <CPV_ADDITIONAL>
+                                    <CPV_CODE CODE="72212730"/>
+                                </CPV_ADDITIONAL>
+                                <CPV_ADDITIONAL>
+                                    <CPV_CODE CODE="72212732"/>
+                                </CPV_ADDITIONAL>
+                            </CPV>
+                            <NATURE_QUANTITY_SCOPE>
+                                <TOTAL_QUANTITY_OR_SCOPE>
+                                    <P>Avtalen vil gjelde i to år fra signeringsdato. Oppdragsgiver (Kunden) har opsjon
+                                        på forlengelse av avtalen i ytterligere to år med ett år av gangen (2+1+1).
+                                    </P>
+                                    <P/>
+                                    <P/>
+                                    <P/>
+                                    <P/>
+                                    <P/>
+                                    <P>Se verdi under</P>
+                                </TOTAL_QUANTITY_OR_SCOPE>
+                                <COSTS_RANGE_AND_CURRENCY CURRENCY="NOK">
+                                    <RANGE_VALUE_COST>
+                                        <LOW_VALUE>96000000</LOW_VALUE>
+                                        <HIGH_VALUE>128000000</HIGH_VALUE>
+                                    </RANGE_VALUE_COST>
+                                </COSTS_RANGE_AND_CURRENCY>
+                            </NATURE_QUANTITY_SCOPE>
+                            <PERIOD_WORK_DATE_STARTING>
+                                <MONTHS>24</MONTHS>
+                            </PERIOD_WORK_DATE_STARTING>
+                            <ADDITIONAL_INFORMATION_ABOUT_LOTS>
+                                <P/>
+                            </ADDITIONAL_INFORMATION_ABOUT_LOTS>
+                        </F02_ANNEX_B>
+                        <F02_ANNEX_B>
+                            <LOT_NUMBER>4</LOT_NUMBER>
+                            <LOT_TITLE>Teknisk arkitektur (Drift)</LOT_TITLE>
+                            <LOTS ITEM="23043430">
+                                <LOT_DESCRIPTION>
+                                    <P>Se kvalifikasjonsgrunnlaget for eksempler som kan ligge under området.</P>
+                                </LOT_DESCRIPTION>
+                            </LOTS>
+                            <CPV>
+                                <CPV_MAIN>
+                                    <CPV_CODE CODE="72600000"/>
+                                </CPV_MAIN>
+                            </CPV>
+                            <NATURE_QUANTITY_SCOPE>
+                                <TOTAL_QUANTITY_OR_SCOPE>
+                                    <P>Avtalen vil gjelde i to år fra signeringsdato. Oppdragsgiver (Kunden) har opsjon
+                                        på forlengelse av avtalen i ytterligere to år med ett år av gangen (2+1+1).
+                                    </P>
+                                    <P/>
+                                    <P/>
+                                    <P/>
+                                    <P/>
+                                    <P>Se verdi under</P>
+                                </TOTAL_QUANTITY_OR_SCOPE>
+                                <COSTS_RANGE_AND_CURRENCY CURRENCY="NOK">
+                                    <RANGE_VALUE_COST>
+                                        <LOW_VALUE>8000000</LOW_VALUE>
+                                        <HIGH_VALUE>9600000</HIGH_VALUE>
+                                    </RANGE_VALUE_COST>
+                                </COSTS_RANGE_AND_CURRENCY>
+                            </NATURE_QUANTITY_SCOPE>
+                            <PERIOD_WORK_DATE_STARTING>
+                                <MONTHS>24</MONTHS>
+                            </PERIOD_WORK_DATE_STARTING>
+                            <ADDITIONAL_INFORMATION_ABOUT_LOTS>
+                                <P/>
+                            </ADDITIONAL_INFORMATION_ABOUT_LOTS>
+                        </F02_ANNEX_B>
+                        <F02_ANNEX_B>
+                            <LOT_NUMBER>5</LOT_NUMBER>
+                            <LOT_TITLE>Test og kvalitetssikring</LOT_TITLE>
+                            <LOTS ITEM="23043931">
+                                <LOT_DESCRIPTION>
+                                    <P>Se kvalifikasjonsgrunnlaget for eksempler som kan ligge under området.</P>
+                                </LOT_DESCRIPTION>
+                            </LOTS>
+                            <CPV>
+                                <CPV_MAIN>
+                                    <CPV_CODE CODE="71600000"/>
+                                </CPV_MAIN>
+                                <CPV_ADDITIONAL>
+                                    <CPV_CODE CODE="72254000"/>
+                                </CPV_ADDITIONAL>
+                                <CPV_ADDITIONAL>
+                                    <CPV_CODE CODE="72254100"/>
+                                </CPV_ADDITIONAL>
+                                <CPV_ADDITIONAL>
+                                    <CPV_CODE CODE="72800000"/>
+                                </CPV_ADDITIONAL>
+                                <CPV_ADDITIONAL>
+                                    <CPV_CODE CODE="72820000"/>
+                                </CPV_ADDITIONAL>
+                                <CPV_ADDITIONAL>
+                                    <CPV_CODE CODE="73430000"/>
+                                </CPV_ADDITIONAL>
+                                <CPV_ADDITIONAL>
+                                    <CPV_CODE CODE="73431000"/>
+                                </CPV_ADDITIONAL>
+                                <CPV_ADDITIONAL>
+                                    <CPV_CODE CODE="72600000"/>
+                                </CPV_ADDITIONAL>
+                            </CPV>
+                            <NATURE_QUANTITY_SCOPE>
+                                <TOTAL_QUANTITY_OR_SCOPE>
+                                    <P>Avtalen vil gjelde i to år fra signeringsdato. Oppdragsgiver (Kunden) har opsjon
+                                        på forlengelse av avtalen i ytterligere to år med ett år av gangen (2+1+1).
+                                    </P>
+                                    <P/>
+                                    <P/>
+                                    <P/>
+                                    <P/>
+                                    <P>Se verdi under</P>
+                                </TOTAL_QUANTITY_OR_SCOPE>
+                                <COSTS_RANGE_AND_CURRENCY CURRENCY="NOK">
+                                    <RANGE_VALUE_COST>
+                                        <LOW_VALUE>20000000</LOW_VALUE>
+                                        <HIGH_VALUE>32000000</HIGH_VALUE>
+                                    </RANGE_VALUE_COST>
+                                </COSTS_RANGE_AND_CURRENCY>
+                            </NATURE_QUANTITY_SCOPE>
+                            <PERIOD_WORK_DATE_STARTING>
+                                <MONTHS>24</MONTHS>
+                            </PERIOD_WORK_DATE_STARTING>
+                            <ADDITIONAL_INFORMATION_ABOUT_LOTS>
+                                <P/>
+                            </ADDITIONAL_INFORMATION_ABOUT_LOTS>
+                        </F02_ANNEX_B>
+                        <F02_ANNEX_B>
+                            <LOT_NUMBER>6</LOT_NUMBER>
+                            <LOT_TITLE>Logistikk, OeBS og e-handel</LOT_TITLE>
+                            <LOTS ITEM="23044236">
+                                <LOT_DESCRIPTION>
+                                    <P>Se kvalifikasjonsgrunnlaget for eksempler som kan ligge under området.</P>
+                                </LOT_DESCRIPTION>
+                            </LOTS>
+                            <CPV>
+                                <CPV_MAIN>
+                                    <CPV_CODE CODE="72600000"/>
+                                </CPV_MAIN>
+                            </CPV>
+                            <NATURE_QUANTITY_SCOPE>
+                                <TOTAL_QUANTITY_OR_SCOPE>
+                                    <P>Avtalen vil gjelde i to år fra signeringsdato. Oppdragsgiver (Kunden) har opsjon
+                                        på forlengelse av avtalen i ytterligere to år med ett år av gangen (2+1+1).
+                                    </P>
+                                    <P/>
+                                    <P/>
+                                    <P/>
+                                    <P>Se verdi under</P>
+                                </TOTAL_QUANTITY_OR_SCOPE>
+                                <COSTS_RANGE_AND_CURRENCY CURRENCY="NOK">
+                                    <RANGE_VALUE_COST>
+                                        <LOW_VALUE>5600000</LOW_VALUE>
+                                        <HIGH_VALUE>9600000</HIGH_VALUE>
+                                    </RANGE_VALUE_COST>
+                                </COSTS_RANGE_AND_CURRENCY>
+                            </NATURE_QUANTITY_SCOPE>
+                            <PERIOD_WORK_DATE_STARTING>
+                                <MONTHS>24</MONTHS>
+                            </PERIOD_WORK_DATE_STARTING>
+                            <ADDITIONAL_INFORMATION_ABOUT_LOTS>
+                                <P/>
+                            </ADDITIONAL_INFORMATION_ABOUT_LOTS>
+                        </F02_ANNEX_B>
+                        <F02_ANNEX_B>
+                            <LOT_NUMBER>7</LOT_NUMBER>
+                            <LOT_TITLE>Agresso</LOT_TITLE>
+                            <LOTS ITEM="23044657">
+                                <LOT_DESCRIPTION>
+                                    <P>Se kvalifikasjonsgrunnlaget for eksempler som kan ligge under området.</P>
+                                </LOT_DESCRIPTION>
+                            </LOTS>
+                            <CPV>
+                                <CPV_MAIN>
+                                    <CPV_CODE CODE="72600000"/>
+                                </CPV_MAIN>
+                            </CPV>
+                            <NATURE_QUANTITY_SCOPE>
+                                <TOTAL_QUANTITY_OR_SCOPE>
+                                    <P>Avtalen vil gjelde i to år fra signeringsdato. Oppdragsgiver (Kunden) har opsjon
+                                        på forlengelse av avtalen i ytterligere to år med ett år av gangen (2+1+1).
+                                    </P>
+                                    <P/>
+                                    <P/>
+                                    <P/>
+                                    <P>Se verdi under</P>
+                                </TOTAL_QUANTITY_OR_SCOPE>
+                                <COSTS_RANGE_AND_CURRENCY CURRENCY="NOK">
+                                    <RANGE_VALUE_COST>
+                                        <LOW_VALUE>5600000</LOW_VALUE>
+                                        <HIGH_VALUE>9600000</HIGH_VALUE>
+                                    </RANGE_VALUE_COST>
+                                </COSTS_RANGE_AND_CURRENCY>
+                            </NATURE_QUANTITY_SCOPE>
+                            <PERIOD_WORK_DATE_STARTING>
+                                <MONTHS>24</MONTHS>
+                            </PERIOD_WORK_DATE_STARTING>
+                            <ADDITIONAL_INFORMATION_ABOUT_LOTS>
+                                <P/>
+                            </ADDITIONAL_INFORMATION_ABOUT_LOTS>
+                        </F02_ANNEX_B>
+                        <F02_ANNEX_B>
+                            <LOT_NUMBER>8</LOT_NUMBER>
+                            <LOT_TITLE>Elektronisk samhandling</LOT_TITLE>
+                            <LOTS ITEM="23044837">
+                                <LOT_DESCRIPTION>
+                                    <P>Se kvalifikasjonsgrunnlaget for eksempler som kan ligge under området.</P>
+                                </LOT_DESCRIPTION>
+                            </LOTS>
+                            <CPV>
+                                <CPV_MAIN>
+                                    <CPV_CODE CODE="72600000"/>
+                                </CPV_MAIN>
+                            </CPV>
+                            <NATURE_QUANTITY_SCOPE>
+                                <TOTAL_QUANTITY_OR_SCOPE>
+                                    <P>Avtalen vil gjelde i to år fra signeringsdato. Oppdragsgiver (Kunden) har opsjon
+                                        på forlengelse av avtalen i ytterligere to år med ett år av gangen (2+1+1).
+                                    </P>
+                                    <P/>
+                                    <P/>
+                                    <P>Se verdi under</P>
+                                </TOTAL_QUANTITY_OR_SCOPE>
+                                <COSTS_RANGE_AND_CURRENCY CURRENCY="NOK">
+                                    <RANGE_VALUE_COST>
+                                        <LOW_VALUE>120000000</LOW_VALUE>
+                                        <HIGH_VALUE>136000000</HIGH_VALUE>
+                                    </RANGE_VALUE_COST>
+                                </COSTS_RANGE_AND_CURRENCY>
+                            </NATURE_QUANTITY_SCOPE>
+                            <PERIOD_WORK_DATE_STARTING>
+                                <MONTHS>24</MONTHS>
+                            </PERIOD_WORK_DATE_STARTING>
+                            <ADDITIONAL_INFORMATION_ABOUT_LOTS>
+                                <P/>
+                            </ADDITIONAL_INFORMATION_ABOUT_LOTS>
+                        </F02_ANNEX_B>
+                        <F02_ANNEX_B>
+                            <LOT_NUMBER>9</LOT_NUMBER>
+                            <LOT_TITLE>Systemutvikling / programmering</LOT_TITLE>
+                            <LOTS ITEM="23045115">
+                                <LOT_DESCRIPTION>
+                                    <P>Se kvalifikasjonsgrunnlaget for eksempler som kan ligge under området.</P>
+                                </LOT_DESCRIPTION>
+                            </LOTS>
+                            <CPV>
+                                <CPV_MAIN>
+                                    <CPV_CODE CODE="72514200"/>
+                                </CPV_MAIN>
+                                <CPV_ADDITIONAL>
+                                    <CPV_CODE CODE="72200000"/>
+                                </CPV_ADDITIONAL>
+                                <CPV_ADDITIONAL>
+                                    <CPV_CODE CODE="72211000"/>
+                                </CPV_ADDITIONAL>
+                                <CPV_ADDITIONAL>
+                                    <CPV_CODE CODE="72212000"/>
+                                </CPV_ADDITIONAL>
+                                <CPV_ADDITIONAL>
+                                    <CPV_CODE CODE="72243000"/>
+                                </CPV_ADDITIONAL>
+                                <CPV_ADDITIONAL>
+                                    <CPV_CODE CODE="72600000"/>
+                                </CPV_ADDITIONAL>
+                            </CPV>
+                            <NATURE_QUANTITY_SCOPE>
+                                <TOTAL_QUANTITY_OR_SCOPE>
+                                    <P>Avtalen vil gjelde i to år fra signeringsdato. Oppdragsgiver (Kunden) har opsjon
+                                        på forlengelse av avtalen i ytterligere to år med ett år av gangen (2+1+1).
+                                    </P>
+                                    <P/>
+                                    <P/>
+                                    <P>Se verdi under</P>
+                                </TOTAL_QUANTITY_OR_SCOPE>
+                                <COSTS_RANGE_AND_CURRENCY CURRENCY="NOK">
+                                    <RANGE_VALUE_COST>
+                                        <LOW_VALUE>48000000</LOW_VALUE>
+                                        <HIGH_VALUE>64000000</HIGH_VALUE>
+                                    </RANGE_VALUE_COST>
+                                </COSTS_RANGE_AND_CURRENCY>
+                            </NATURE_QUANTITY_SCOPE>
+                            <PERIOD_WORK_DATE_STARTING>
+                                <MONTHS>24</MONTHS>
+                            </PERIOD_WORK_DATE_STARTING>
+                            <ADDITIONAL_INFORMATION_ABOUT_LOTS>
+                                <P/>
+                            </ADDITIONAL_INFORMATION_ABOUT_LOTS>
+                        </F02_ANNEX_B>
+                    </F02_DIV_INTO_LOT_YES>
+                </F02_DIVISION_INTO_LOTS>
+                <ACCEPTED_VARIANTS VALUE="NO"/>
+            </DESCRIPTION_CONTRACT_INFORMATION>
+            <QUANTITY_SCOPE>
+                <NATURE_QUANTITY_SCOPE>
+                    <TOTAL_QUANTITY_OR_SCOPE>
+                        <P>Avtalene vil gjelde i to år fra signeringsdato. Oppdragsgiver (Kunden) har opsjon på
+                            forlengelse av avtalen i ytterligere to år med ett år av gangen (2+1+1).
+                        </P>
+                    </TOTAL_QUANTITY_OR_SCOPE>
+                    <COSTS_RANGE_AND_CURRENCY CURRENCY="NOK">
+                        <RANGE_VALUE_COST>
+                            <LOW_VALUE>704000000</LOW_VALUE>
+                            <HIGH_VALUE>920000000</HIGH_VALUE>
+                        </RANGE_VALUE_COST>
+                    </COSTS_RANGE_AND_CURRENCY>
+                </NATURE_QUANTITY_SCOPE>
+                <OPTIONS>
+                    <OPTION_DESCRIPTION>
+                        <P>Avtalene vil gjelde i to år fra signeringsdato. Oppdragsgiver (Kunden) har opsjon på
+                            forlengelse av avtalen i ytterligere to år med ett år av gangen (2+1+1).
+                        </P>
+                    </OPTION_DESCRIPTION>
+                    <NUMBER_POSSIBLE_RENEWALS>2</NUMBER_POSSIBLE_RENEWALS>
+                </OPTIONS>
+            </QUANTITY_SCOPE>
+            <PERIOD_WORK_DATE_STARTING>
+                <MONTHS>24</MONTHS>
+            </PERIOD_WORK_DATE_STARTING>
+        </OBJECT_CONTRACT_INFORMATION>
+        <LEFTI_CONTRACT>
+            <CONTRACT_RELATING_CONDITIONS>
+                <NO_EXISTENCE_OTHER_PARTICULAR_CONDITIONS/>
+            </CONTRACT_RELATING_CONDITIONS>
+            <F02_CONDITIONS_FOR_PARTICIPATION>
+                <ECONOMIC_OPERATORS_PERSONAL_SITUATION>
+                    <P>
+                        (1) Krav til å fremlegge skatteattest for merverdiavgift (Nasjonale krav)
+                    </P>
+                    <P>
+                        (2) Krav til å fremlegge skatteattest for skatt (Nasjonale krav)
+                    </P>
+                    <P>
+                        (3) Krav til å fremlegge egenerklæring i samsvar med forskriftens vedlegg 2 om HMS (Nasjonale
+                        krav)
+                    </P>
+                    <P>
+                        (4) Annet (vennligst presiser dokumentasjonskrav under):
+                    </P>
+                    <P>Det kreves at leverandøren er et lovlig etablert foretak</P>
+                    <P>Dokumentasjonskrav:</P>
+                    <P>Norske leverandører: Firmaattest fra Brønnøysundregistrene</P>
+                    <P>Utenlandske leverandører: Attest for registrering i foretaksregister som foreskrevet i
+                        lovgivningen i den stat hvor leverandøren er etablert.
+                    </P>
+                </ECONOMIC_OPERATORS_PERSONAL_SITUATION>
+                <F02_ECONOMIC_FINANCIAL_CAPACITY>
+                    <EAF_CAPACITY_INFORMATION>
+                        <P>
+                            (1) Annet (vennligst presiser dokumentasjonskrav under):
+                        </P>
+                        <P>Oppdragsgiver innhenter selv regnskapsanalyse gjennomført av Experian, se www.Experian.no.
+                        </P>
+                        <P>Dersom Tilbyder mener analysen ikke vil gi et riktig bilde, bes utfyllende opplysninger sendt
+                            med tilbudet.
+                        </P>
+                    </EAF_CAPACITY_INFORMATION>
+                    <EAF_CAPACITY_MIN_LEVEL>
+                        <P>Det kreves at leverandøren har god økonomisk soliditet. Det kreves en kredittrating på
+                            ”Kredittverdig” eller bedre.
+                        </P>
+                    </EAF_CAPACITY_MIN_LEVEL>
+                </F02_ECONOMIC_FINANCIAL_CAPACITY>
+                <TECHNICAL_CAPACITY_LEFTI>
+                    <T_CAPACITY_INFORMATION>
+                        <P>
+                            (1) Annet (vennligst presiser dokumentasjonskrav under):
+                        </P>
+                        <P>Dokumentasjonskrav relevant erfaring:</P>
+                        <P>- Leverandørens viktigste leveranser de siste 3 årene (per kompetanseområde det leveres
+                            forespørsel for), inkludert:
+                        </P>
+                        <P>- En kortfattet beskrivelse av oppdraget, der leverandørens bidrag i oppdraget fremkommer</P>
+                        <P>- Rolle</P>
+                        <P>- Antall fakturerte timer</P>
+                        <P>- Tidspunkt og varighet</P>
+                        <P>- Oppdragsgiver.</P>
+                        <P>Navn og kontaktinformasjon til kontaktperson hos referansekunden skal være inkludert slik at
+                            NAV kan ta kontakt ved behov.
+                        </P>
+                        <P>Skjema for relevant erfaring følger som vedlegg 2 til kvalifikasjonsgrunnlaget. Dette skal
+                            benyttes i besvarelsen av dette punktet.
+                        </P>
+                        <P>Dokumentasjonskrav kvalitetssikringssystem:</P>
+                        <P>- Redegjørelse vedrørende foretakets kvalitetssikringssystem/- styringssystem, herunder
+                            system for sikring av utvikling og vedlikehold av kompetanse, og eventuelt attester utstedt
+                            av uavhengige organer.
+                        </P>
+                        <P>- Hvis leverandøren leverer èn redegjørelse som gjelder for alle områder det leveres
+                            forespørsel for, må dette framkomme av forespørselen om deltakelse.
+                        </P>
+                        <P>- Hvis leverandøren leverer redegjørelser spisset mot hvert kompetanseområde det leveres
+                            forespørsel om deltakelse for, må disse leveres sortert per område, og det må klart
+                            fremkomme hvilket område redegjørelsen gjelder for.
+                        </P>
+                    </T_CAPACITY_INFORMATION>
+                    <T_CAPACITY_MIN_LEVEL>
+                        <P>- Det kreves at leverandøren har relevant erfaring fra lignende oppdrag.</P>
+                        <P>- Det kreves et godt og velfungerende kvalitetssikringssystem.</P>
+                    </T_CAPACITY_MIN_LEVEL>
+                </TECHNICAL_CAPACITY_LEFTI>
+            </F02_CONDITIONS_FOR_PARTICIPATION>
+        </LEFTI_CONTRACT>
+        <PROCEDURE_DEFINITION_CONTRACT_NOTICE>
+            <TYPE_OF_PROCEDURE>
+                <TYPE_OF_PROCEDURE_DETAIL_FOR_CONTRACT_NOTICE>
+                    <PT_RESTRICTED/>
+                </TYPE_OF_PROCEDURE_DETAIL_FOR_CONTRACT_NOTICE>
+                <MAXIMUM_NUMBER_INVITED>
+                    <OPE_MINIMUM_NUMBER>5</OPE_MINIMUM_NUMBER>
+                    <OPE_MAXIMUM_NUMBER>15</OPE_MAXIMUM_NUMBER>
+                    <OPE_OBJECTIVE_CRITERIA>
+                        <P>Oppdragsgiver vil invitere minst fem og maksimalt 15 av de kvalifiserte leverandørene per
+                            kompetanseområde til å inngi tilbud, forutsatt at et tilstrekkelig antall leverandører blir
+                            kvalifisert.
+                        </P>
+                        <P>Utvelgelsen av leverandørene vil baseres på følgende kriterier fra kvalifikasjonsgrunnlagets
+                            punkt 2.4:
+                        </P>
+                        <P>Erfaring (Vektes 80 %)</P>
+                        <P>Kvalitetssikringssystem (Vektes 20 %)</P>
+                        <P>Vurderingen av leverandørene vil foregå på følgende måte: Leverandørene gis en karakter for
+                            hvert kvalifikasjonskrav på en poengskala fra 0 til 10 der 10 er best. Hver av disse
+                            karakterene blir multiplisert med gjeldende vekttall. Dette vil gi en rangering på hvert
+                            område som ligger til grunn for utvelgelsen.
+                        </P>
+                    </OPE_OBJECTIVE_CRITERIA>
+                </MAXIMUM_NUMBER_INVITED>
+            </TYPE_OF_PROCEDURE>
+            <AWARD_CRITERIA_CONTRACT_NOTICE_INFORMATION>
+                <AWARD_CRITERIA_DETAIL>
+                    <MOST_ECONOMICALLY_ADVANTAGEOUS_TENDER>
+                        <CRITERIA_STATED_IN_OTHER_DOCUMENT/>
+                    </MOST_ECONOMICALLY_ADVANTAGEOUS_TENDER>
+                </AWARD_CRITERIA_DETAIL>
+                <IS_ELECTRONIC_AUCTION_USABLE>
+                    <NO_USE_ELECTRONIC_AUCTION/>
+                </IS_ELECTRONIC_AUCTION_USABLE>
+            </AWARD_CRITERIA_CONTRACT_NOTICE_INFORMATION>
+            <ADMINISTRATIVE_INFORMATION_CONTRACT_NOTICE>
+                <FILE_REFERENCE_NUMBER>11/1944</FILE_REFERENCE_NUMBER>
+                <CONDITIONS_OBTAINING_SPECIFICATIONS>
+                    <TIME_LIMIT>
+                        <DAY>02</DAY>
+                        <MONTH>05</MONTH>
+                        <YEAR>2011</YEAR>
+                    </TIME_LIMIT>
+                </CONDITIONS_OBTAINING_SPECIFICATIONS>
+                <RECEIPT_LIMIT_DATE>
+                    <DAY>02</DAY>
+                    <MONTH>05</MONTH>
+                    <YEAR>2011</YEAR>
+                    <TIME>12:00</TIME>
+                </RECEIPT_LIMIT_DATE>
+                <DISPATCH_INVITATIONS_DATE>
+                    <DAY>19</DAY>
+                    <MONTH>05</MONTH>
+                    <YEAR>2011</YEAR>
+                </DISPATCH_INVITATIONS_DATE>
+                <LANGUAGE>
+                    <LANGUAGE_OTHER>Norsk</LANGUAGE_OTHER>
+                </LANGUAGE>
+            </ADMINISTRATIVE_INFORMATION_CONTRACT_NOTICE>
+        </PROCEDURE_DEFINITION_CONTRACT_NOTICE>
+        <COMPLEMENTARY_INFORMATION_CONTRACT_NOTICE>
+            <ADDITIONAL_INFORMATION>
+                <P>
+                    (NT Ref:226849)
+                </P>
+            </ADDITIONAL_INFORMATION>
+            <NOTICE_DISPATCH_DATE>
+                <DAY>29</DAY>
+                <MONTH>03</MONTH>
+                <YEAR>2011</YEAR>
+            </NOTICE_DISPATCH_DATE>
+        </COMPLEMENTARY_INFORMATION_CONTRACT_NOTICE>
+    </FD_CONTRACT>
+</CONTRACT>
