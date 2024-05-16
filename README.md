@@ -18,6 +18,7 @@
 | CONTRACT        |                     | 200000000?           |                      | [2007-596014.xml][14] | 2008-306918 |             | NAV Drift og utvikling                                                                      | Anskaffelse av vedlikeholds- og videreutviklingsavtale for Arena saksbehandlingssystem |   |   |   |
 | CONTRACT        |                     |                      |                      | [2005-656943.xml][15] | 2005-403461 |             | Rikstrygdeverket                                                                            | Rammeavtale for kjøp av konsulenttjenester til pensjonsprosjektet - Prekvalifisering   |   |   |   |
 | CONTRACT        |                     |                      |                      | [2004-632638.xml][16] | 2005-728398 |             | Rikstrygdeverket                                                                            | Rammeavtale for kjøp av konsulenttjenester til trygdeetatens IT-virksomhet             |   |   |   |
+|                 |                     |                      |                      | [][]                  | 2003-412524 |             | Aetat Arbeidsdirektoratet                                                                   | Rammeavtale for IKT-relaterte konsulenttjenester til Aetat                             |   |   |   |
 
 [1]: ./2024-100693.xml
 [2]: ./2023-668270.xml
