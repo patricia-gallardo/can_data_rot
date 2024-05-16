@@ -1,0 +1,674 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DOFFIN_ESENDERS VERSION="V3.0.4" xsi:noNamespaceSchemaLocation="DOFFIN_ESENDERS.xd"
+                 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <FORM_SECTION>
+        <F02_2014 LG="NB" CATEGORY="ORIGINAL" FORM="F02">
+            <LEGAL_BASIS VALUE="32014L0024"/>
+            <CONTRACTING_BODY>
+                <ADDRESS_CONTRACTING_BODY>
+                    <OFFICIALNAME>ARBEIDS- OG VELFERDSETATEN</OFFICIALNAME>
+                    <NATIONALID>889640782</NATIONALID>
+                    <ADDRESS>Postboks 354</ADDRESS>
+                    <TOWN>Mo i Rana</TOWN>
+                    <POSTAL_CODE>8601</POSTAL_CODE>
+                    <COUNTRY VALUE="NO"/>
+                    <CONTACT_POINT>Else Marie Molden</CONTACT_POINT>
+                    <E_MAIL>else.marie.molden@nav.no</E_MAIL>
+                    <LOCATION code="000000"/>
+                    <URL_GENERAL>https://permalink.mercell.com/194087067.aspx</URL_GENERAL>
+                    <URL_BUYER>http://www.nav.no/</URL_BUYER>
+                </ADDRESS_CONTRACTING_BODY>
+                <DOCUMENT_FULL/>
+                <URL_DOCUMENT>https://permalink.mercell.com/194087067.aspx</URL_DOCUMENT>
+                <ADDRESS_FURTHER_INFO_IDEM/>
+                <URL_PARTICIPATION>https://permalink.mercell.com/194087067.aspx</URL_PARTICIPATION>
+                <CA_TYPE VALUE="MINISTRY"/>
+                <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+            </CONTRACTING_BODY>
+            <OBJECT_CONTRACT>
+                <TITLE>
+                    <P>Anskaffelse av parallelle rammeavtaler for konsulenttjenester til NAV</P>
+                </TITLE>
+                <REFERENCE_NUMBER>22/14419</REFERENCE_NUMBER>
+                <CPV_MAIN>
+                    <CPV_CODE CODE="79400000"/>
+                </CPV_MAIN>
+                <TYPE_CONTRACT CTYPE="SERVICES"/>
+                <SHORT_DESCR>
+                    <P>Arbeids- og velferdsdirektoratet innbyr til begrenset anbudskonkurranse i forbindelse med
+                        anskaffelse av parallelle rammeavtaler for konsulenttjenester.
+                    </P>
+                    <P>Avtalene skal dekke behov for kompetanse som oppdragsgiver ikke har tilgang til i egen etat på et
+                        gitt tidspunkt, eller der det er behov for ekstra kapasitet. Avtalene kan også benyttes ved
+                        behov for ekstern kvalitetssikring.
+                    </P>
+                    <P>Avtalen skal gjelde for Arbeids- og velferdsdirektoratet. Øvrige NAV-enheter (statlig del) har
+                        opsjon på bruk av Avtalen. Enheter som benytter sin opsjon innenfor en delkontrakt
+                        (kompetanseområde) plikter å avrope på rammeavtalene innenfor den samme delkontrakten
+                        (kompetanseområdet) hvis ytterligere behov for konsulenttjenester oppstår i Avtalens løpetid.
+                    </P>
+                    <P>Maksimal verdi per delkontrakt (kompetanseområde) er 25 % over estimert totalverdi.</P>
+                    <P>Klikk her https://permalink.mercell.com/194087067.aspx</P>
+                </SHORT_DESCR>
+                <VAL_ESTIMATED_TOTAL CURRENCY="NOK">428000000.00</VAL_ESTIMATED_TOTAL>
+                <LOT_DIVISION>
+                    <LOT_MAX_NUMBER>8</LOT_MAX_NUMBER>
+                </LOT_DIVISION>
+                <OBJECT_DESCR ITEM="1">
+                    <TITLE>
+                        <P>Delkontrakt (kompetanseområde) 1 - Rekrutteringsbistand - toppledere, direktører</P>
+                    </TITLE>
+                    <LOT_NO>1</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="79600000"/>
+                    </CPV_ADDITIONAL>
+                    <LOCATION code="000000"/>
+                    <MAIN_SITE>
+                        <P>Oslo</P>
+                    </MAIN_SITE>
+                    <SHORT_DESCR>
+                        <P>Rekrutteringsbistand - toppledere, direktører</P>
+                        <P>Som eksempel nevnes:</P>
+                        <P>Full rekrutteringsprosess av topplederstillinger på høyt ledernivå, dette kan for eksempel
+                            være direktører for avdelinger i direktoratet, direktører i linjene, fylkesdirektører o.l.
+                        </P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PROCUREMENT_DOC/>
+                    </AC>
+                    <VAL_OBJECT CURRENCY="NOK">8000000.00</VAL_OBJECT>
+                    <DATE_START>2023-11-01</DATE_START>
+                    <DATE_END>2025-10-31</DATE_END>
+                    <RENEWAL/>
+                    <RENEWAL_DESCR>
+                        <P>Oppdragsgiver (Kunden) har opsjon på forlengelse av avtalen i ytterligere 1 + 1 år.</P>
+                    </RENEWAL_DESCR>
+                    <NB_MIN_LIMIT_CANDIDATE>6</NB_MIN_LIMIT_CANDIDATE>
+                    <NB_MAX_LIMIT_CANDIDATE>9</NB_MAX_LIMIT_CANDIDATE>
+                    <CRITERIA_CANDIDATE>
+                        <P>Utvelgelsen av leverandørene vil baseres på grad av oppfyllelse av kvalifikasjonskravet til
+                            relevant erfaring fra lignende leveranser/oppdrag som angitt i Mercell-portalen.
+                        </P>
+                    </CRITERIA_CANDIDATE>
+                    <NO_ACCEPTED_VARIANTS/>
+                    <OPTIONS/>
+                    <OPTIONS_DESCR>
+                        <P>Avtalen skal gjelde for Arbeids- og velferdsdirektoratet. Øvrige NAV-enheter (statlig del)
+                            har opsjon på bruk av Avtalen. Enheter som benytter sin opsjon innenfor en delkontrakt
+                            (kompetanseområde) plikter å avrope på rammeavtalene innenfor den samme delkontrakten
+                            (kompetanseområdet) hvis ytterligere behov for konsulenttjenester oppstår i Avtalens
+                            løpetid.
+                        </P>
+                    </OPTIONS_DESCR>
+                    <NO_EU_PROGR_RELATED/>
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="2">
+                    <TITLE>
+                        <P>Delkontrakt (kompetanseområde) 2 - Rekrutteringbistand - ledere og medarbeidere</P>
+                    </TITLE>
+                    <LOT_NO>2</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="79600000"/>
+                    </CPV_ADDITIONAL>
+                    <LOCATION code="000000"/>
+                    <MAIN_SITE>
+                        <P>Oslo</P>
+                    </MAIN_SITE>
+                    <SHORT_DESCR>
+                        <P>Rekrutteringsbistand - ledere og medarbeidere</P>
+                        <P>Som eksempler nevnes:</P>
+                        <P>-Full rekrutteringsprosess av lederstillinger på lavere ledernivå, dette kan for eksempel
+                            være ledere for seksjoner og kontor
+                        </P>
+                        <P>-Full rekrutteringsprosess av nøkkelpersonell, spesialister og andre medarbeidere. Det
+                            gjelder særlig stillinger innen økonomi og sikkerhet, men også andre kategorier, med unntak
+                            av IT/teknologiorienterte stillinger.
+                        </P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PROCUREMENT_DOC/>
+                    </AC>
+                    <VAL_OBJECT CURRENCY="NOK">8000000.00</VAL_OBJECT>
+                    <DATE_START>2023-11-01</DATE_START>
+                    <DATE_END>2025-10-31</DATE_END>
+                    <RENEWAL/>
+                    <RENEWAL_DESCR>
+                        <P>Oppdragsgiver (Kunden) har opsjon på forlengelse av avtalen i ytterligere 1 + 1 år.</P>
+                    </RENEWAL_DESCR>
+                    <NB_MIN_LIMIT_CANDIDATE>7</NB_MIN_LIMIT_CANDIDATE>
+                    <NB_MAX_LIMIT_CANDIDATE>12</NB_MAX_LIMIT_CANDIDATE>
+                    <CRITERIA_CANDIDATE>
+                        <P>Utvelgelsen av leverandørene vil baseres på grad av oppfyllelse av kvalifikasjonskravet til
+                            relevant erfaring fra lignende leveranser/oppdrag som angitt i Mercell-portalen.
+                        </P>
+                    </CRITERIA_CANDIDATE>
+                    <NO_ACCEPTED_VARIANTS/>
+                    <OPTIONS/>
+                    <OPTIONS_DESCR>
+                        <P>Avtalen skal gjelde for Arbeids- og velferdsdirektoratet. Øvrige NAV-enheter (statlig del)
+                            har opsjon på bruk av Avtalen. Enheter som benytter sin opsjon innenfor en delkontrakt
+                            (kompetanseområde) plikter å avrope på rammeavtalene innenfor den samme delkontrakten
+                            (kompetanseområdet) hvis ytterligere behov for konsulenttjenester oppstår i Avtalens
+                            løpetid.
+                        </P>
+                    </OPTIONS_DESCR>
+                    <NO_EU_PROGR_RELATED/>
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="3">
+                    <TITLE>
+                        <P>Delkontrakt (kompetanseområde) 3 - Rekrutteringbistand - IT-personell (medarbeidere)</P>
+                    </TITLE>
+                    <LOT_NO>3</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="79600000"/>
+                    </CPV_ADDITIONAL>
+                    <LOCATION code="000000"/>
+                    <MAIN_SITE>
+                        <P>Oslo</P>
+                    </MAIN_SITE>
+                    <SHORT_DESCR>
+                        <P>Rekrutteringsbistand - IT-personell (medarbeidere)</P>
+                        <P>Som eksempel nevnes:</P>
+                        <P>-Full rekrutteringsprosess av IT-personell. Det gjelder særlig til stillinger innen
+                            IT-sikkerhet og utvikling, men gjelder i alle kategorier knyttet til IT/teknologiorienterte
+                            stillinger.
+                        </P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PROCUREMENT_DOC/>
+                    </AC>
+                    <VAL_OBJECT CURRENCY="NOK">4000000.00</VAL_OBJECT>
+                    <DATE_START>2023-11-01</DATE_START>
+                    <DATE_END>2025-10-31</DATE_END>
+                    <RENEWAL/>
+                    <RENEWAL_DESCR>
+                        <P>Oppdragsgiver (Kunden) har opsjon på forlengelse av avtalen i ytterligere 1 + 1 år.</P>
+                    </RENEWAL_DESCR>
+                    <NB_MIN_LIMIT_CANDIDATE>6</NB_MIN_LIMIT_CANDIDATE>
+                    <NB_MAX_LIMIT_CANDIDATE>9</NB_MAX_LIMIT_CANDIDATE>
+                    <CRITERIA_CANDIDATE>
+                        <P>Utvelgelsen av leverandørene vil baseres på grad av oppfyllelse av kvalifikasjonskravet til
+                            relevant erfaring fra lignende leveranser/oppdrag som angitt i Mercell-portalen.
+                        </P>
+                    </CRITERIA_CANDIDATE>
+                    <NO_ACCEPTED_VARIANTS/>
+                    <OPTIONS/>
+                    <OPTIONS_DESCR>
+                        <P>Avtalen skal gjelde for Arbeids- og velferdsdirektoratet. Øvrige NAV-enheter (statlig del)
+                            har opsjon på bruk av Avtalen. Enheter som benytter sin opsjon innenfor en delkontrakt
+                            (kompetanseområde) plikter å avrope på rammeavtalene innenfor den samme delkontrakten
+                            (kompetanseområdet) hvis ytterligere behov for konsulenttjenester oppstår i Avtalens
+                            løpetid.
+                        </P>
+                    </OPTIONS_DESCR>
+                    <NO_EU_PROGR_RELATED/>
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="4">
+                    <TITLE>
+                        <P>Delkontrakt (kompetanseområde) 4 - Virksomhets- og økonomistyring</P>
+                    </TITLE>
+                    <LOT_NO>4</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="79200000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="79400000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="79419000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72221000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="90711100"/>
+                    </CPV_ADDITIONAL>
+                    <LOCATION code="000000"/>
+                    <MAIN_SITE>
+                        <P>Oslo</P>
+                    </MAIN_SITE>
+                    <SHORT_DESCR>
+                        <P>Virksomhets- og økonomistyring</P>
+                        <P>Som eksempler nevnes:</P>
+                        <P>-Utvikling av virksomhets- og økonomistyring</P>
+                        <P>-Styring som støtter produktutvikling</P>
+                        <P>-Kvalitetsgjennomgang og utfordringsbildet i regnskaps- og budsjettprosesser</P>
+                        <P>-Selvbetjening og automatiserte økonomi- og styringsprosesser</P>
+                        <P>-Utvikling av økonomisk styringsinformasjon og tilgjengeliggjøring av data</P>
+                        <P>-Analyser og innsikt som grunnlag til beslutninger</P>
+                        <P>-Statlige regnskapsstandarder og regnskapsekspertise</P>
+                        <P>-Evalueringer</P>
+                        <P>-Plan-, budsjett-, og rapporteringsprosesser</P>
+                        <P>-Gevinstestimering og gevinstrealisering</P>
+                        <P>-Porteføljestyring</P>
+                        <P>-Risikostyring og risikohåndtering</P>
+                        <P>-Kvalitetsstyring og intern kontroll</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PROCUREMENT_DOC/>
+                    </AC>
+                    <VAL_OBJECT CURRENCY="NOK">80000000.00</VAL_OBJECT>
+                    <DATE_START>2023-11-01</DATE_START>
+                    <DATE_END>2025-10-31</DATE_END>
+                    <RENEWAL/>
+                    <RENEWAL_DESCR>
+                        <P>Oppdragsgiver (Kunden) har opsjon på forlengelse av avtalen i ytterligere 1 + 1 år.</P>
+                    </RENEWAL_DESCR>
+                    <NB_MIN_LIMIT_CANDIDATE>9</NB_MIN_LIMIT_CANDIDATE>
+                    <NB_MAX_LIMIT_CANDIDATE>12</NB_MAX_LIMIT_CANDIDATE>
+                    <CRITERIA_CANDIDATE>
+                        <P>Utvelgelsen av leverandørene vil baseres på grad av oppfyllelse av kvalifikasjonskravet til
+                            relevant erfaring fra lignende leveranser/oppdrag som angitt i Mercell-portalen.
+                        </P>
+                    </CRITERIA_CANDIDATE>
+                    <NO_ACCEPTED_VARIANTS/>
+                    <OPTIONS/>
+                    <OPTIONS_DESCR>
+                        <P>Avtalen skal gjelde for Arbeids- og velferdsdirektoratet. Øvrige NAV-enheter (statlig del)
+                            har opsjon på bruk av Avtalen. Enheter som benytter sin opsjon innenfor en delkontrakt
+                            (kompetanseområde) plikter å avrope på rammeavtalene innenfor den samme delkontrakten
+                            (kompetanseområdet) hvis ytterligere behov for konsulenttjenester oppstår i Avtalens
+                            løpetid.
+                        </P>
+                    </OPTIONS_DESCR>
+                    <NO_EU_PROGR_RELATED/>
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="5">
+                    <TITLE>
+                        <P>Delkontrakt (kompetanseområde) 5 - Prosjektledelse, arkitektur og forretningsrådgivning</P>
+                    </TITLE>
+                    <LOT_NO>5</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72224000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72225000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="79400000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="79414000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="79420000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="79421000"/>
+                    </CPV_ADDITIONAL>
+                    <LOCATION code="000000"/>
+                    <MAIN_SITE>
+                        <P>Oslo</P>
+                    </MAIN_SITE>
+                    <SHORT_DESCR>
+                        <P>Som eksempler nevnes:</P>
+                        <P>-Prosjektledelse av hovedsakelig store og mellomstore prosjekter, eksempelvis innen
+                            digitalisering og prosessutvikling
+                        </P>
+                        <P>-Prosessdrivere, smidig</P>
+                        <P>-Støtte til prosjektledere, teamledere, produktledere mv. på områder som f.eks.</P>
+                        <P>---planlegging</P>
+                        <P>---kartlegging</P>
+                        <P>---kvalitetssikring</P>
+                        <P>---estimering</P>
+                        <P>---risikohåndtering</P>
+                        <P>---gevinstarbeid</P>
+                        <P>-Bistand innen virksomhetsarkitektur, forretningsarkitektur, løsningsarkitektur og
+                            informasjonsarkitektur med tjenester knyttet til:
+                        </P>
+                        <P>---Å skape og formidle et helhetsbilde av virksomheten</P>
+                        <P>---Gi råd og bistand til utviklingstiltak</P>
+                        <P>---Drive eller bidra til prosesser for å ta frem og/eller forankre beslutningsforslag</P>
+                        <P>---Bidra til å sette rammer og retning for innovasjon og utviklingstiltak</P>
+                        <P>-Strategisk bemanningsstyring, herunder bruk av og samspill mellom virkemidlene rekruttering,
+                            utvikling, omstilling og avvikling
+                        </P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PROCUREMENT_DOC/>
+                    </AC>
+                    <VAL_OBJECT CURRENCY="NOK">80000000.00</VAL_OBJECT>
+                    <DATE_START>2023-11-01</DATE_START>
+                    <DATE_END>2025-10-31</DATE_END>
+                    <RENEWAL/>
+                    <RENEWAL_DESCR>
+                        <P>Oppdragsgiver (Kunden) har opsjon på forlengelse av avtalen i ytterligere 1 + 1 år.</P>
+                    </RENEWAL_DESCR>
+                    <NB_MIN_LIMIT_CANDIDATE>13</NB_MIN_LIMIT_CANDIDATE>
+                    <NB_MAX_LIMIT_CANDIDATE>15</NB_MAX_LIMIT_CANDIDATE>
+                    <CRITERIA_CANDIDATE>
+                        <P>Utvelgelsen av leverandørene vil baseres på grad av oppfyllelse av kvalifikasjonskravet til
+                            relevant erfaring fra lignende leveranser/oppdrag som angitt i Mercell-portalen.
+                        </P>
+                    </CRITERIA_CANDIDATE>
+                    <NO_ACCEPTED_VARIANTS/>
+                    <OPTIONS/>
+                    <OPTIONS_DESCR>
+                        <P>Avtalen skal gjelde for Arbeids- og velferdsdirektoratet. Øvrige NAV-enheter (statlig del)
+                            har opsjon på bruk av Avtalen. Enheter som benytter sin opsjon innenfor en delkontrakt
+                            (kompetanseområde) plikter å avrope på rammeavtalene innenfor den samme delkontrakten
+                            (kompetanseområdet) hvis ytterligere behov for konsulenttjenester oppstår i Avtalens
+                            løpetid.
+                        </P>
+                    </OPTIONS_DESCR>
+                    <NO_EU_PROGR_RELATED/>
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="6">
+                    <TITLE>
+                        <P>Delkontrakt (kompetanseområde) 6 - Strategi- og organisasjonsutvikling</P>
+                    </TITLE>
+                    <LOT_NO>6</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72224000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72221000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="79400000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="79414000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="79415200"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="79421000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="90713000"/>
+                    </CPV_ADDITIONAL>
+                    <LOCATION code="000000"/>
+                    <MAIN_SITE>
+                        <P>Oslo</P>
+                    </MAIN_SITE>
+                    <SHORT_DESCR>
+                        <P>Strategi- og organisasjonsutvikling</P>
+                        <P>I hovedsak på overordnet etatsnivå, men kan også være aktuell på enhetsnivå.</P>
+                        <P>Som eksempler nevnes:</P>
+                        <P>-Rådgivning, prosessledelse og prosesstøtte, samt metoder og verktøy knyttet til</P>
+                        <P>-Strategiutvikling og -rådgivning</P>
+                        <P>-Strategiimplementering</P>
+                        <P>-Utvikling av styringsinformasjon som målbilder, styringsparametere og styringsindikatorer
+                        </P>
+                        <P>-Virksomhets- organisasjonsutvikling</P>
+                        <P>-Forretnings- og tjenesteutvikling</P>
+                        <P>-Effektivisering og kontinuerlig forbedring</P>
+                        <P>-Strategisk bærekraft (sosial, økonomisk og miljø)</P>
+                        <P>-Organisasjonsdesign, arbeidsprosesser, roller og ansvar</P>
+                        <P>-Omstillings- og endringsprosesser</P>
+                        <P>-Endringsledelse, digital transformasjon for ledere</P>
+                        <P>-Organisasjonskultur analyse/utredning og evaluering av organisasjon</P>
+                        <P>-Strategisk kompetansearbeid, -utvikling, -styring og - kartlegging</P>
+                        <P>-Organisasjons- og personellanalyser, herunder uthenting og sammenstilling av data, analyser
+                            og beslutningsgrunnlag.
+                        </P>
+                        <P>-Analyser og innsiktsarbeid som grunnlag for beslutninger (innenfor temaene spesifisert
+                            over)
+                        </P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PROCUREMENT_DOC/>
+                    </AC>
+                    <VAL_OBJECT CURRENCY="NOK">120000000.00</VAL_OBJECT>
+                    <DATE_START>2023-11-01</DATE_START>
+                    <DATE_END>2025-10-31</DATE_END>
+                    <RENEWAL/>
+                    <RENEWAL_DESCR>
+                        <P>Oppdragsgiver (Kunden) har opsjon på forlengelse av avtalen i ytterligere 1 + 1 år.</P>
+                    </RENEWAL_DESCR>
+                    <NB_MIN_LIMIT_CANDIDATE>9</NB_MIN_LIMIT_CANDIDATE>
+                    <NB_MAX_LIMIT_CANDIDATE>12</NB_MAX_LIMIT_CANDIDATE>
+                    <CRITERIA_CANDIDATE>
+                        <P>Utvelgelsen av leverandørene vil baseres på grad av oppfyllelse av kvalifikasjonskravet til
+                            relevant erfaring fra lignende leveranser/oppdrag som angitt i Mercell-portalen.
+                        </P>
+                    </CRITERIA_CANDIDATE>
+                    <NO_ACCEPTED_VARIANTS/>
+                    <OPTIONS/>
+                    <OPTIONS_DESCR>
+                        <P>Avtalen skal gjelde for Arbeids- og velferdsdirektoratet. Øvrige NAV-enheter (statlig del)
+                            har opsjon på bruk av Avtalen. Enheter som benytter sin opsjon innenfor en delkontrakt
+                            (kompetanseområde) plikter å avrope på rammeavtalene innenfor den samme delkontrakten
+                            (kompetanseområdet) hvis ytterligere behov for konsulenttjenester oppstår i Avtalens
+                            løpetid.
+                        </P>
+                    </OPTIONS_DESCR>
+                    <NO_EU_PROGR_RELATED/>
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="7">
+                    <TITLE>
+                        <P>Delkontrakt (kompetanseområde) 7 - Sikkerhet</P>
+                    </TITLE>
+                    <LOT_NO>7</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="48730000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="71317210"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="73400000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="75240000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="79000000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="79417000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="79710000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="90711100"/>
+                    </CPV_ADDITIONAL>
+                    <LOCATION code="000000"/>
+                    <MAIN_SITE>
+                        <P>Oslo</P>
+                    </MAIN_SITE>
+                    <SHORT_DESCR>
+                        <P>Sikkerhet</P>
+                        <P>Som eksempler nevnes:</P>
+                        <P>-Samfunnssikkerhet og beredskap</P>
+                        <P>---Forebyggende sikkerhet</P>
+                        <P>---Sikkerhetsstyring og risikorammeverk</P>
+                        <P>---Ledelsesrapportering og kontinuitetsledelse</P>
+                        <P>---Trusseletterretning og analyse</P>
+                        <P>---Sikkerhetslovverk og beste praksis for sikkerhetsområdene</P>
+                        <P>---Personellsikkerhet</P>
+                        <P>-Informasjonssikkerhet og cybersikkerhet</P>
+                        <P>---Risikostyring og tredjepartsrisiko (TPRM)</P>
+                        <P>---ISMS og rammeverk</P>
+                        <P>---Sikkerhetskultur og awareness</P>
+                        <P>---Applikasjonssikkerhet/ SecDevOps</P>
+                        <P>---Sikkerhetsarkitektur</P>
+                        <P>---IAM</P>
+                        <P>---Sikkerhetsmonitorering og -rapportering</P>
+                        <P>-Fysisk sikring av bygg og områder</P>
+                        <P>---herunder sikkerhetsteknologi i «smarte bygg»</P>
+                        <P>---sikringsrisikoanalyse</P>
+                        <P>-Spisskompetanse innen revisjon/verifikasjon av sikkerhetsvurderinger og kontroller i smidig
+                            utvikling
+                        </P>
+                        <P>-Rådgiving og utvikling av prosess, metoder og støttemateriell</P>
+                        <P>-Management for hire på forskjellige nivå, eksempelvis ledelse i påvente av ansettelse, leder
+                            operasjonssenter, CISO, sikkerhetsteam
+                        </P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PROCUREMENT_DOC/>
+                    </AC>
+                    <VAL_OBJECT CURRENCY="NOK">48000000.00</VAL_OBJECT>
+                    <DATE_START>2023-11-01</DATE_START>
+                    <DATE_END>2025-10-31</DATE_END>
+                    <RENEWAL/>
+                    <RENEWAL_DESCR>
+                        <P>Oppdragsgiver (Kunden) har opsjon på forlengelse av avtalen i ytterligere 1 + 1 år.</P>
+                    </RENEWAL_DESCR>
+                    <NB_MIN_LIMIT_CANDIDATE>8</NB_MIN_LIMIT_CANDIDATE>
+                    <NB_MAX_LIMIT_CANDIDATE>12</NB_MAX_LIMIT_CANDIDATE>
+                    <CRITERIA_CANDIDATE>
+                        <P>Utvelgelsen av leverandørene vil baseres på grad av oppfyllelse av kvalifikasjonskravet til
+                            relevant erfaring fra lignende leveranser/oppdrag som angitt i Mercell-portalen.
+                        </P>
+                    </CRITERIA_CANDIDATE>
+                    <NO_ACCEPTED_VARIANTS/>
+                    <OPTIONS/>
+                    <OPTIONS_DESCR>
+                        <P>Avtalen skal gjelde for Arbeids- og velferdsdirektoratet. Øvrige NAV-enheter (statlig del)
+                            har opsjon på bruk av Avtalen. Enheter som benytter sin opsjon innenfor en delkontrakt
+                            (kompetanseområde) plikter å avrope på rammeavtalene innenfor den samme delkontrakten
+                            (kompetanseområdet) hvis ytterligere behov for konsulenttjenester oppstår i Avtalens
+                            løpetid.
+                        </P>
+                    </OPTIONS_DESCR>
+                    <NO_EU_PROGR_RELATED/>
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="8">
+                    <TITLE>
+                        <P>Delkontrakt (kompetanseområde) 8 - Juridiske tjenester</P>
+                    </TITLE>
+                    <LOT_NO>8</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="75231000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="79100000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="79111000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="79140000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="79418000"/>
+                    </CPV_ADDITIONAL>
+                    <LOCATION code="000000"/>
+                    <MAIN_SITE>
+                        <P>Oslo</P>
+                    </MAIN_SITE>
+                    <SHORT_DESCR>
+                        <P>Juridiske tjenester</P>
+                        <P>Som eksempler nevnes:</P>
+                        <P>-Juridisk rådgivning både i enkeltspørsmål og større utredningsarbeid. Særlig knyttet til</P>
+                        <P>---Generell forvaltningsrett herunder offentleglova</P>
+                        <P>---Overordnet arbeids- og velferdsrett</P>
+                        <P>---Personvern</P>
+                        <P>---EØS-rett</P>
+                        <P>-Juridisk rådgivning knyttet til informasjonssikkerhet og personvern generelt</P>
+                        <P>-Juridisk bistand til IT-utvikling for å sikre innebygd personvern og etterlevelse av
+                            regelverk generelt
+                        </P>
+                        <P>-Personvernkonsekvensvurderinger og databehandleravtale spesielt</P>
+                        <P>-Personvernkompetanse knyttet til informasjonsforvaltning</P>
+                        <P>-Bistand relatert til offentlige anskaffelser og avtaleforvaltning</P>
+                        <P>-Bistand relatert til likestillings- og diskrimineringsrett</P>
+                        <P>-Bistand relatert til samerett/urbefolkningsrett</P>
+                        <P>-Bistand ved juridiske konflikter, særlig på områdene nevnt over.</P>
+                        <P>Merk for denne delkontrakten (kompetanseområdet) at det i Konkurransegrunnlagets del III er
+                            stilt følgende krav: Ressursene som tilbys må være advokater med gyldig norsk
+                            advokatbevilling eller advokatfullmektiger med gyldig autorisasjon, og eventuelt andre som
+                            oppfyller Advokatforskriften kapittel 10.
+                        </P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PROCUREMENT_DOC/>
+                    </AC>
+                    <VAL_OBJECT CURRENCY="NOK">80000000.00</VAL_OBJECT>
+                    <DATE_START>2023-11-01</DATE_START>
+                    <DATE_END>2025-10-31</DATE_END>
+                    <RENEWAL/>
+                    <RENEWAL_DESCR>
+                        <P>Oppdragsgiver (Kunden) har opsjon på forlengelse av avtalen i ytterligere 1 + 1 år.</P>
+                    </RENEWAL_DESCR>
+                    <NB_MIN_LIMIT_CANDIDATE>6</NB_MIN_LIMIT_CANDIDATE>
+                    <NB_MAX_LIMIT_CANDIDATE>7</NB_MAX_LIMIT_CANDIDATE>
+                    <CRITERIA_CANDIDATE>
+                        <P>Utvelgelsen av leverandørene vil baseres på grad av oppfyllelse av kvalifikasjonskravet til
+                            relevant erfaring fra lignende leveranser/oppdrag som angitt i Mercell-portalen.
+                        </P>
+                    </CRITERIA_CANDIDATE>
+                    <NO_ACCEPTED_VARIANTS/>
+                    <OPTIONS/>
+                    <OPTIONS_DESCR>
+                        <P>Avtalen skal gjelde for Arbeids- og velferdsdirektoratet. Øvrige NAV-enheter (statlig del)
+                            har opsjon på bruk av Avtalen. Enheter som benytter sin opsjon innenfor en delkontrakt
+                            (kompetanseområde) plikter å avrope på rammeavtalene innenfor den samme delkontrakten
+                            (kompetanseområdet) hvis ytterligere behov for konsulenttjenester oppstår i Avtalens
+                            løpetid.
+                        </P>
+                    </OPTIONS_DESCR>
+                    <NO_EU_PROGR_RELATED/>
+                </OBJECT_DESCR>
+            </OBJECT_CONTRACT>
+            <LEFTI>
+                <SUITABILITY>
+                    <P>Kvalifikasjonskrav: Det kreves at leverandøren er et lovlig etablert foretak.</P>
+                    <P>Dokumentasjonskrav: Norske leverandører: Firmaattest fra Brønnøysundregistret. Utenlandske
+                        leverandører: Attest for registrering i foretaksregister som foreskrevet i lovgivningen i den
+                        stat hvor leverandøren er etablert.
+                    </P>
+                    <P>Kvalifikasjonskrav: Norske leverandører skal ha ordnede forhold med hensyn til betaling av skatt
+                        og merverdiavgift.
+                    </P>
+                    <P>Dokumentasjonskrav: Norske leverandører: Attest for skatt og merverdiavgift fra
+                        skattemyndighetene, ikke eldre enn 6 måneder regnet fra utløp av frist for mottak av forespørsel
+                        om å delta i konkurransen.
+                    </P>
+                </SUITABILITY>
+                <ECONOMIC_FINANCIAL_INFO>
+                    <P>Kvalifikasjonskrav: Det kreves at leverandøren har tilstrekkelig økonomisk kapasitet til å
+                        gjennomføre kontrakten.
+                    </P>
+                    <P>Dokumentasjonskrav: Oppdragsgiver innhenter selv kredittvurdering gjennomført av Experian, se
+                        www.experian.no. Dersom leverandøren mener kredittvurderingen ikke vil gi et riktig bilde, bes
+                        utfyllende opplysninger sendt med kvalifiseringsforespørselen.
+                    </P>
+                </ECONOMIC_FINANCIAL_INFO>
+                <TECHNICAL_PROFESSIONAL_INFO>
+                    <P>Kvalifikasjonskrav: Det kreves relevant erfaring fra lignende leveranser/oppdrag.</P>
+                    <P>Dokumentasjonskrav: Leverandørens 3 viktigste leveranser de siste 3 årene, inkludert en
+                        beskrivelse av oppdraget, deres omfang/verdi, tidspunkt og mottaker. Malen i
+                        kvalifikasjonsgrunnlagets vedlegg 2 skal benyttes for å dokumentere oppfyllelse av kravet.
+                    </P>
+                </TECHNICAL_PROFESSIONAL_INFO>
+            </LEFTI>
+            <PROCEDURE>
+                <PT_RESTRICTED/>
+                <FRAMEWORK>
+                    <SEVERAL_OPERATORS/>
+                    <NB_PARTICIPANTS>55</NB_PARTICIPANTS>
+                </FRAMEWORK>
+                <CONTRACT_COVERED_GPA/>
+                <DATE_RECEIPT_TENDERS>2023-04-14</DATE_RECEIPT_TENDERS>
+                <TIME_RECEIPT_TENDERS>12:00</TIME_RECEIPT_TENDERS>
+                <LANGUAGES>
+                    <LANGUAGE VALUE="NO"/>
+                </LANGUAGES>
+                <DATE_TENDER_VALID>2023-12-15</DATE_TENDER_VALID>
+            </PROCEDURE>
+            <COMPLEMENTARY_INFO>
+                <NO_RECURRENT_PROCUREMENT/>
+                <EORDERING/>
+                <EINVOICING/>
+                <EPAYMENT/>
+                <ADDRESS_REVIEW_BODY>
+                    <OFFICIALNAME>Oslo Tingrett</OFFICIALNAME>
+                    <ADDRESS>Pb. 2106 Vika</ADDRESS>
+                    <TOWN>Oslo</TOWN>
+                    <POSTAL_CODE>0661</POSTAL_CODE>
+                    <COUNTRY VALUE="NO"/>
+                </ADDRESS_REVIEW_BODY>
+                <DATE_DISPATCH_NOTICE>2023-03-07</DATE_DISPATCH_NOTICE>
+            </COMPLEMENTARY_INFO>
+        </F02_2014>
+    </FORM_SECTION>
+    <DOFFIN_APPENDIX>
+        <PUBLISH_TO_TED/>
+    </DOFFIN_APPENDIX>
+</DOFFIN_ESENDERS>
