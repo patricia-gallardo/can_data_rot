@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CONTRACT LG="NB" CATEGORY="ORIGINAL" FORM="2" VERSION="R2.0.7.D02">
+    <SENDER>
+        <LOGIN CLASS="B"/>
+        <USER/>
+        <NO_DOC_EXT>M242392</NO_DOC_EXT>
+    </SENDER>
+    <FD_CONTRACT CTYPE="SERVICES">
+        <CONTRACTING_AUTHORITY_INFORMATION>
+            <NAME_ADDRESSES_CONTACT_CONTRACT>
+                <CA_CE_CONCESSIONAIRE_PROFILE>
+                    <ORGANISATION>Arbeids- og velferdsdirektoratet, NAV økonomi, Anskaffelser og forretningsjuridisk
+                        avdeling
+                    </ORGANISATION>
+                    <ADDRESS>Postboks 5, St Olavs plass,</ADDRESS>
+                    <TOWN>OSLO</TOWN>
+                    <POSTAL_CODE>0130</POSTAL_CODE>
+                    <COUNTRY VALUE="NO"/>
+                    <CONTACT_POINT>Anskaffelser og forretningsjuridisk</CONTACT_POINT>
+                    <ATTENTION>Beate Oliver</ATTENTION>
+                    <PHONE>21 07 18 76</PHONE>
+                    <E_MAIL>nav.anskaffelser.arena.spa@nav.no</E_MAIL>
+                    <FAX>21 07 10 10</FAX>
+                </CA_CE_CONCESSIONAIRE_PROFILE>
+                <INTERNET_ADDRESSES_CONTRACT>
+                    <URL_GENERAL>www.nav.no</URL_GENERAL>
+                    <URL_BUYER>http://www.doffin.no//search/Search_AuthProfile.aspx?ID=AA0005</URL_BUYER>
+                </INTERNET_ADDRESSES_CONTRACT>
+                <FURTHER_INFORMATION>
+                    <CONTACT_DATA>
+                        <ORGANISATION>Arbeids- og velferdsdirektoratet, NAV økonomi, Anskaffelser og forretningsjuridisk
+                            avdeling
+                        </ORGANISATION>
+                        <ADDRESS>Postboks 5, St Olavs plass</ADDRESS>
+                        <TOWN>OSLO</TOWN>
+                        <POSTAL_CODE>0130</POSTAL_CODE>
+                        <COUNTRY VALUE="NO"/>
+                        <CONTACT_POINT>Anskaffelser og forretningsjuridisk</CONTACT_POINT>
+                        <ATTENTION>Beate Oliver</ATTENTION>
+                        <PHONE>21 07 18 76</PHONE>
+                        <E_MAIL>nav.anskaffelser.arena.spa@nav.no</E_MAIL>
+                        <FAX>21 07 10 10</FAX>
+                        <URL>www.nav.no</URL>
+                    </CONTACT_DATA>
+                </FURTHER_INFORMATION>
+                <SPECIFICATIONS_AND_ADDITIONAL_DOCUMENTS>
+                    <CONTACT_DATA>
+                        <ORGANISATION>Arbeids- og velferdsdirektoratet, NAV økonomi, Anskaffelser og forretningsjuridisk
+                            avdeling
+                        </ORGANISATION>
+                        <ADDRESS>Postboks 5, St Olavs plass</ADDRESS>
+                        <TOWN>OSLO</TOWN>
+                        <POSTAL_CODE>0130</POSTAL_CODE>
+                        <COUNTRY VALUE="NO"/>
+                        <CONTACT_POINT>Anskaffelser og forretningsjuridisk</CONTACT_POINT>
+                        <ATTENTION>Beate Oliver</ATTENTION>
+                        <PHONE>21 07 18 76</PHONE>
+                        <E_MAIL>nav.anskaffelser.arena.spa@nav.no</E_MAIL>
+                        <FAX>21 07 10 10</FAX>
+                        <URL>www.nav.no</URL>
+                    </CONTACT_DATA>
+                </SPECIFICATIONS_AND_ADDITIONAL_DOCUMENTS>
+                <TENDERS_REQUESTS_APPLICATIONS_MUST_BE_SENT_TO>
+                    <CONTACT_DATA>
+                        <ORGANISATION>Arbeids- og velferdsdirektoratet, NAV økonomi, Anskaffelser og forretningsjuridisk
+                            avdeling
+                        </ORGANISATION>
+                        <ADDRESS>Postboks 5, St Olavs plass
+                            , Gateadresse Sannergata 2
+                        </ADDRESS>
+                        <TOWN>OSLO</TOWN>
+                        <POSTAL_CODE>0130</POSTAL_CODE>
+                        <COUNTRY VALUE="NO"/>
+                        <CONTACT_POINT>Anskaffelser og forretningsjuridisk</CONTACT_POINT>
+                        <ATTENTION>Beate Oliver</ATTENTION>
+                        <PHONE>21 07 18 76</PHONE>
+                        <E_MAIL>nav.anskaffelser.arena.spa@nav.no</E_MAIL>
+                        <FAX>21 07 10 10</FAX>
+                        <URL>www.nav.no</URL>
+                    </CONTACT_DATA>
+                </TENDERS_REQUESTS_APPLICATIONS_MUST_BE_SENT_TO>
+            </NAME_ADDRESSES_CONTACT_CONTRACT>
+            <TYPE_AND_ACTIVITIES_AND_PURCHASING_ON_BEHALF>
+                <TYPE_AND_ACTIVITIES>
+                    <TYPE_OF_CONTRACTING_AUTHORITY VALUE="MINISTRY"/>
+                    <TYPE_OF_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+                </TYPE_AND_ACTIVITIES>
+            </TYPE_AND_ACTIVITIES_AND_PURCHASING_ON_BEHALF>
+        </CONTRACTING_AUTHORITY_INFORMATION>
+        <OBJECT_CONTRACT_INFORMATION>
+            <DESCRIPTION_CONTRACT_INFORMATION>
+                <TITLE_CONTRACT>Anskaffelse av vedlikeholds- og videreutviklingsavtale for Arena</TITLE_CONTRACT>
+                <TYPE_CONTRACT_LOCATION>
+                    <TYPE_CONTRACT VALUE="SERVICES"/>
+                    <SERVICE_CATEGORY VALUE="7"/>
+                </TYPE_CONTRACT_LOCATION>
+                <LOCATION_NUTS>
+                    <LOCATION>Oslo</LOCATION>
+                </LOCATION_NUTS>
+                <NOTICE_INVOLVES VALUE="ESTABLISHMENT_FRAMEWORK_AGREEMENT"/>
+                <F02_FRAMEWORK>
+                    <SINGLE_OPERATOR/>
+                    <DURATION_FRAMEWORK_YEAR>6</DURATION_FRAMEWORK_YEAR>
+                    <JUSTIFICATION>
+                        <P>Programvaren som er utviklet innenfor Arena er omfattende. Den vesentlige delen av dette er
+                            systemutvikling av løsninger som skal inngå i omfanget av forvaltningskontraktene.
+                        </P>
+                        <P>Løsningene i Arena som skal omfattes av forvaltningskontraktene er komplekse, og det er mange
+                            avhengigheter mellom løsningene innenfor alle de ulike systemporteføljer. For å yte tjeneste
+                            innenfor vedlikehold og videreutvikling kreves god funksjonell forståelse av løsningene og
+                            verdikjedene innenfor eget og andres ansvarsområder, og den tekniske forståelsen og
+                            innsikten må være ned på et meget detaljert nivå. Bl.a. er det i vedlikeholdskontrakten krav
+                            om å reprodusere og rette A-feil i løpet av 4 timer. En forutsetning for å greie dette er en
+                            meget god kjennskap til løsningene. Et slik krav er nødvendig for å sikre kvaliteten av
+                            tjenestene som NAV yter. Tjenestene er i høy grad virksomhetskritiske, og økonomiske og
+                            omdømmemessige konsekvenser kan være store.
+                        </P>
+                        <P>For en ny forvaltningsleverandør er det en betydelig investering å bygge nødvendig
+                            funksjonell og teknisk kompetanse som er spesialisert for løsningene som skal forvaltes.
+                            Omfanget vil normalt være på flere årsverk og strekke seg over en kalendertid på opp til 2
+                            år. I tillegg må en ny forvaltningsleverandør etablere rutiner og prosesser i henhold til
+                            kontraktskravene, og kundens bruk av rammeverk og verktøy må forstås og forankres. Hvis
+                            disse kostnadene ikke kan fordeles på en tilstrekkelig lang kontraktspriode, vil det bli
+                            vanskelig for andre enn den etablerte leverandøren å vinne en forvaltningskontrakt.
+                        </P>
+                        <P>Det er altså en svært omfattende kontrakt, og leverandørene (især de som ikke har kontrakt pr
+                            i dag) må gjøre betydelig investeringer, som kan sies å ha en nedskrivingstid over hele
+                            kontraktsperioden på 4+1+1 år, for å kunne utføre kontraktene. For å sikre konkurransen,
+                            især i forhold til eksisterende leverandører pr i dag, er det nødvendig å ha en
+                            kontraktsperiode på 4+1+1 år.
+                        </P>
+                    </JUSTIFICATION>
+                    <TOTAL_ESTIMATED>
+                        <COSTS_RANGE_AND_CURRENCY CURRENCY="NOK">
+                            <RANGE_VALUE_COST>
+                                <LOW_VALUE>180000000</LOW_VALUE>
+                                <HIGH_VALUE>300000000</HIGH_VALUE>
+                            </RANGE_VALUE_COST>
+                        </COSTS_RANGE_AND_CURRENCY>
+                    </TOTAL_ESTIMATED>
+                </F02_FRAMEWORK>
+                <SHORT_CONTRACT_DESCRIPTION>
+                    <P>Det skal anskaffes en vedlikeholds- og viderutviklingsavtale for Arena. Vedlikehold og
+                        videreutvikling av Arena omfatter i hovedsak feilretting, endringer, beredskapstjenester,
+                        proaktivt vedlikehold, samt videreutvikling basert på regelendringer og nye behov hos
+                        saksbehandlere.
+                    </P>
+                    <P>Arena er et saksbehandlingssystem laget for</P>
+                    <P>• å bidra til et velfungerende arbeidsmarked gjennom støtte til formidling, rekruttering og
+                        tiltak
+                    </P>
+                    <P>• å støtte forvaltning av ytelser under arbeidsledighet, attføring og tiltaksdeltakelse</P>
+                    <P>I NAV skal Arena i tillegg benyttes for oppfølging av personer som har vært sykmeldt en lengre
+                        periode, som er under rehabilitering eller som mottar tidsbegrenset uførestønad. Flere
+                        målgrupper og nye stønader / tjenester kan være aktuelle på sikt. Arena skal også gi støtte til
+                        bedriftsrettet oppfølging av avtalen om inkluderende arbeidsliv.
+                    </P>
+                    <P>
+                        <P/>
+                        <P/>
+                        <P>Merk: For å melde din interesse i denne kunngjøringen og motta tilleggsinformasjon vennligst
+                            besøk Doffin nettsiden http://www.doffin.no/Search/Search_Switch.aspx?ID=242392.
+                        </P>
+                    </P>
+                </SHORT_CONTRACT_DESCRIPTION>
+                <CPV>
+                    <CPV_MAIN>
+                        <CPV_CODE CODE="72000000"/>
+                    </CPV_MAIN>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72230000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72267100"/>
+                    </CPV_ADDITIONAL>
+                </CPV>
+                <CONTRACT_COVERED_GPA VALUE="YES"/>
+                <F02_DIVISION_INTO_LOTS>
+                    <DIV_INTO_LOT_NO/>
+                </F02_DIVISION_INTO_LOTS>
+                <ACCEPTED_VARIANTS VALUE="NO"/>
+            </DESCRIPTION_CONTRACT_INFORMATION>
+            <QUANTITY_SCOPE>
+                <NATURE_QUANTITY_SCOPE>
+                    <TOTAL_QUANTITY_OR_SCOPE>
+                        <P>Verdien av avtalen antas normalt å være 30 – 40 millioner kroner per år. Tjenestens samlede
+                            verdi i avtaleperioden antas å være 180 – 240 millioner kroner eksklusive merverdiavgift.
+                        </P>
+                        <P>NAV planlegger å gjennomføre en omfattende fornyelse / modernisering av IKT i etaten
+                            (Moderniseringsprosjektet). Ved en eventuell oppstart av Moderniseringsprosjektet i
+                            avtaleperioden kan det bli behov for mer omfattende tjenester tilknyttet utviklingen av
+                            Arena enn det som er estimert ovenfor. Hvis Moderniseringsprosjektet blir gjennomført, antas
+                            tjenestens samlede verdi i avtaleperioden å være 180 – 300 millioner kroner eksklusive
+                            merverdiavgift, men det er knyttet stor usikkerhet til tallene for videreutvikling av Arena
+                            i forbindelse med en eventuell Modernisering i avtaleperioden.
+                        </P>
+                    </TOTAL_QUANTITY_OR_SCOPE>
+                    <COSTS_RANGE_AND_CURRENCY CURRENCY="NOK">
+                        <RANGE_VALUE_COST>
+                            <LOW_VALUE>180000000</LOW_VALUE>
+                            <HIGH_VALUE>300000000</HIGH_VALUE>
+                        </RANGE_VALUE_COST>
+                    </COSTS_RANGE_AND_CURRENCY>
+                </NATURE_QUANTITY_SCOPE>
+                <OPTIONS>
+                    <OPTION_DESCRIPTION>
+                        <P>Vedlikeholdsavtalen og rammeavtalen for videreutvikling vil ha en varighet på fire år med
+                            opsjon for Oppdragsgiver til å forlenge avtalen i ytterligere ett år av gangen i inntil to
+                            år (4+1+1)
+                        </P>
+                    </OPTION_DESCRIPTION>
+                    <PROVISIONAL_TIMETABLE_MONTH>12</PROVISIONAL_TIMETABLE_MONTH>
+                    <NUMBER_POSSIBLE_RENEWALS>2</NUMBER_POSSIBLE_RENEWALS>
+                </OPTIONS>
+            </QUANTITY_SCOPE>
+            <PERIOD_WORK_DATE_STARTING>
+                <MONTHS>72</MONTHS>
+            </PERIOD_WORK_DATE_STARTING>
+        </OBJECT_CONTRACT_INFORMATION>
+        <LEFTI_CONTRACT>
+            <CONTRACT_RELATING_CONDITIONS>
+                <NO_EXISTENCE_OTHER_PARTICULAR_CONDITIONS/>
+            </CONTRACT_RELATING_CONDITIONS>
+            <F02_CONDITIONS_FOR_PARTICIPATION>
+                <ECONOMIC_OPERATORS_PERSONAL_SITUATION>
+                    <P>
+                        (1) Krav til å fremlegge skatteattest for merverdiavgift (Nasjonale krav)
+                    </P>
+                    <P>
+                        (2) Krav til å fremlegge skatteattest for skatt (Nasjonale krav)
+                    </P>
+                    <P>
+                        (3) Krav til å fremlegge egenerklæring i samsvar med forskriftens vedlegg 2 om HMS (Nasjonale
+                        krav)
+                    </P>
+                    <P>
+                        (4) Annet (vennligst presiser dokumentasjonskrav under):
+                    </P>
+                    <P>Det kreves at leverandøren er et lovlig etablert foretak:</P>
+                    <P>• Norske leverandører: Firmaattest fra Brønnøysundregistrene</P>
+                    <P>• Utenlandske leverandører: Attest for registrering i foretaksregister som foreskrevet i
+                        lovgivningen i den stat hvor leverandøren er etablert.
+                    </P>
+                </ECONOMIC_OPERATORS_PERSONAL_SITUATION>
+                <F02_ECONOMIC_FINANCIAL_CAPACITY>
+                    <EAF_CAPACITY_INFORMATION>
+                        <P>
+                            (1) Annet (vennligst presiser dokumentasjonskrav under):
+                        </P>
+                        <P>Oppdragsgiver innhenter selv kredittvurdering gjennomført av Experian, se www.Experian.no.
+                        </P>
+                    </EAF_CAPACITY_INFORMATION>
+                    <EAF_CAPACITY_MIN_LEVEL>
+                        <P>Det kreves at leverandøren har god økonomisk soliditet. Kravet er oppfylt med en
+                            kredittrating på "god kredittverdighet" eller bedre.
+                        </P>
+                    </EAF_CAPACITY_MIN_LEVEL>
+                </F02_ECONOMIC_FINANCIAL_CAPACITY>
+                <TECHNICAL_CAPACITY_LEFTI>
+                    <T_CAPACITY_INFORMATION>
+                        <P>
+                            (1) Annet (vennligst presiser dokumentasjonskrav under):
+                        </P>
+                        <P>Kapasitet: En beskrivelse av relevante enheter leverandøren disponerer over til oppfyllelse
+                            av kontrakten.
+                        </P>
+                        <P>Kompetanse: Kortfattet oversikt over generell relevant kompetanse hos leverandøren. Det skal
+                            ikke oppgis hvilke personer som vil tilbys, og det skal ikke leveres inn CV-er.
+                        </P>
+                        <P>Beskrivelse av leverandørens 3 viktigste relevante leveranser de siste 3 årene, der minst én
+                            inkluderer bruk av smidig metodikk. Beskrivelsen skal også inneholde verdi, leverandørens
+                            rolle/ansvarsområde, benyttet teknologi, tidspunkt, virksomhetsområde / virksomhetsprosess
+                            og mottaker.
+                        </P>
+                        <P>Navn og kontaktinformasjon til kontaktperson hos referansekunden som kan bekrefte
+                            opplysningene må kunne oppgis på forespørsel.
+                        </P>
+                        <P>En beskrivelse av metoder og prosesser som er relevante for å sikre kvaliteten.</P>
+                        <P>Redegjørelse vedrørende foretakets kvalitetssikringssystem/- styringssystem, samt eventuelt
+                            attester utstedt av uavhengige organer.
+                        </P>
+                    </T_CAPACITY_INFORMATION>
+                    <T_CAPACITY_MIN_LEVEL>
+                        <P>Det kreves at leverandøren har god gjennomføringsevne.</P>
+                        <P>Det kreves at leverandøren har relevant erfaring fra lignende oppdrag.</P>
+                        <P>Det kreves velprøvde og egnede metoder for kvalitetssikring.</P>
+                    </T_CAPACITY_MIN_LEVEL>
+                </TECHNICAL_CAPACITY_LEFTI>
+            </F02_CONDITIONS_FOR_PARTICIPATION>
+        </LEFTI_CONTRACT>
+        <PROCEDURE_DEFINITION_CONTRACT_NOTICE>
+            <TYPE_OF_PROCEDURE>
+                <TYPE_OF_PROCEDURE_DETAIL_FOR_CONTRACT_NOTICE>
+                    <PT_NEGOTIATED_CHOICE>
+                        <IS_CANDIDATE_SELECTED VALUE="NO"/>
+                    </PT_NEGOTIATED_CHOICE>
+                </TYPE_OF_PROCEDURE_DETAIL_FOR_CONTRACT_NOTICE>
+                <MAXIMUM_NUMBER_INVITED>
+                    <OPE_MINIMUM_NUMBER>3</OPE_MINIMUM_NUMBER>
+                    <OPE_MAXIMUM_NUMBER>6</OPE_MAXIMUM_NUMBER>
+                    <OPE_OBJECTIVE_CRITERIA>
+                        <P>Utvelgelsen vil bli basert på grad av oppfyllelse av nedennevnte kvalifikasjonskrav, jf punkt
+                            3.4. i kvalifikasjonsgrunnlaget.
+                        </P>
+                        <P>Følgende vekttall gjøres gjeldende ved vurderingen:</P>
+                        <P>-Gjennomføringsevne 35 % (oppdragsgiver vil kun evaluere kapsitet og ikke kompetanse)</P>
+                        <P>-Erfaring 45 %</P>
+                        <P>-Metoder for kvalitetssikring 20 %</P>
+                        <P>Vurderingen av leverandørene vil foregå på følgende måte: Leverandørene gis en karakter for
+                            hvert kvalifikasjonskrav på en poengskala fra 0 til 10 der 10 er best. Hver av disse
+                            karakterene blir multiplisert med gjeldende vekttall.
+                        </P>
+                    </OPE_OBJECTIVE_CRITERIA>
+                </MAXIMUM_NUMBER_INVITED>
+                <REDUCTION_OF_THE_NUMBER VALUE="YES"/>
+            </TYPE_OF_PROCEDURE>
+            <AWARD_CRITERIA_CONTRACT_NOTICE_INFORMATION>
+                <AWARD_CRITERIA_DETAIL>
+                    <MOST_ECONOMICALLY_ADVANTAGEOUS_TENDER>
+                        <CRITERIA_STATED_IN_OTHER_DOCUMENT/>
+                    </MOST_ECONOMICALLY_ADVANTAGEOUS_TENDER>
+                </AWARD_CRITERIA_DETAIL>
+                <IS_ELECTRONIC_AUCTION_USABLE>
+                    <NO_USE_ELECTRONIC_AUCTION/>
+                </IS_ELECTRONIC_AUCTION_USABLE>
+            </AWARD_CRITERIA_CONTRACT_NOTICE_INFORMATION>
+            <ADMINISTRATIVE_INFORMATION_CONTRACT_NOTICE>
+                <CONDITIONS_OBTAINING_SPECIFICATIONS>
+                    <TIME_LIMIT>
+                        <DAY>28</DAY>
+                        <MONTH>11</MONTH>
+                        <YEAR>2011</YEAR>
+                    </TIME_LIMIT>
+                </CONDITIONS_OBTAINING_SPECIFICATIONS>
+                <RECEIPT_LIMIT_DATE>
+                    <DAY>28</DAY>
+                    <MONTH>11</MONTH>
+                    <YEAR>2011</YEAR>
+                    <TIME>12:00</TIME>
+                </RECEIPT_LIMIT_DATE>
+                <DISPATCH_INVITATIONS_DATE>
+                    <DAY>04</DAY>
+                    <MONTH>01</MONTH>
+                    <YEAR>2012</YEAR>
+                </DISPATCH_INVITATIONS_DATE>
+                <LANGUAGE>
+                    <LANGUAGE_OTHER>Norsk</LANGUAGE_OTHER>
+                </LANGUAGE>
+            </ADMINISTRATIVE_INFORMATION_CONTRACT_NOTICE>
+        </PROCEDURE_DEFINITION_CONTRACT_NOTICE>
+        <COMPLEMENTARY_INFORMATION_CONTRACT_NOTICE>
+            <ADDITIONAL_INFORMATION>
+                <P>Se kvalifikasjonsgrunnlaget.</P>
+                <P>
+                    (NT Ref:242392)
+                </P>
+            </ADDITIONAL_INFORMATION>
+            <NOTICE_DISPATCH_DATE>
+                <DAY>28</DAY>
+                <MONTH>10</MONTH>
+                <YEAR>2011</YEAR>
+            </NOTICE_DISPATCH_DATE>
+        </COMPLEMENTARY_INFORMATION_CONTRACT_NOTICE>
+    </FD_CONTRACT>
+</CONTRACT>
