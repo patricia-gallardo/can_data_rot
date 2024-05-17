@@ -1,0 +1,720 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CONTRACT_AWARD FORM="3">
+    <NOJ_SECTION>
+        <SECTION_0>
+            <CTRL_CPROC>6</CTRL_CPROC>
+            <NOJ_VERSION>1-test</NOJ_VERSION>
+            <NOJ_FORM>Kunngjøring av kontraktstildeling</NOJ_FORM>
+            <NOJ_FORM_ID>200215</NOJ_FORM_ID>
+            <NOJ_PUBLISHING>1</NOJ_PUBLISHING>
+            <NOJ_THRESHOLD>1</NOJ_THRESHOLD>
+            <NOJ_LOBBY_ID>1</NOJ_LOBBY_ID>
+            <NOJ_NL_TITTEL>Rammeavtale for IKT-relaterte konsulenttjenester til Aetat</NOJ_NL_TITTEL>
+            <NOJ_TRANSLATE_YES>-1</NOJ_TRANSLATE_YES>
+            <NOJ_TRANSLATE_NO>0</NOJ_TRANSLATE_NO>
+            <NOJ_PUBLISHING_NO>-1</NOJ_PUBLISHING_NO>
+            <NOJ_PUBLISHING_SHORT>0</NOJ_PUBLISHING_SHORT>
+            <NOJ_PUBLISHING_LONG>0</NOJ_PUBLISHING_LONG>
+            <NOJ_THRESHOLD_ABOVE>-1</NOJ_THRESHOLD_ABOVE>
+            <NOJ_THRESHOLD_BELOW>0</NOJ_THRESHOLD_BELOW>
+            <NOJ_SENDER_ORGANISATION>Aetat Arbeidsdirektoratet</NOJ_SENDER_ORGANISATION>
+            <NOJ_SENDER_ATTENTION>Hege Ajer Petterson</NOJ_SENDER_ATTENTION>
+            <NOJ_SENDER_ADDRESS>C.J. Hambros pl. 2, A1</NOJ_SENDER_ADDRESS>
+            <NOJ_SENDER_TELEPHONE>23 35 27 43</NOJ_SENDER_TELEPHONE>
+            <NOJ_SENDER_MOBILE/>
+            <NOJ_SENDER_FAX>23 35 27 58</NOJ_SENDER_FAX>
+            <NOJ_SENDER_E_MAIL>hap@adir.aetat.no</NOJ_SENDER_E_MAIL>
+            <NOJ_SENDER_MESSAGE/>
+            <NOJ_DATE_RECEIPT/>
+            <NOJ_IDENTIFIER/>
+            <NOJ_NLREF>2003-08303</NOJ_NLREF>
+            <NOJ_COUNTRY/>
+            <NOJ_LANGUAGE>NO</NOJ_LANGUAGE>
+        </SECTION_0>
+        <SECTION_1>
+            <NOJ_COUNTRY_CODE>Norge</NOJ_COUNTRY_CODE>
+            <CTRL_CTYPE>3</CTRL_CTYPE>
+            <NOJ_CTYPE>3</NOJ_CTYPE>
+            <NOJ_OG_ORGANISATION/>
+            <NOJ_OG_ATTENTION/>
+            <NOJ_OG_ADDRESS/>
+            <NOJ_OG_POSTAL_CODE/>
+            <NOJ_OG_TOWN/>
+            <NOJ_OG_COUNTRY/>
+            <NOJ_OG_PHONE/>
+            <NOJ_OG_FAX/>
+            <NOJ_OG_E_MAIL/>
+            <NOJ_OG_URL/>
+        </SECTION_1>
+        <SECTION_4>
+            <NOJ_DELIVERY_OR_COMPLETION_DATE>0</NOJ_DELIVERY_OR_COMPLETION_DATE>
+            <NOJ_SECURITY_OF_SUPPLIES>0</NOJ_SECURITY_OF_SUPPLIES>
+            <NOJ_AVAILABILITY_OF_SPARES>0</NOJ_AVAILABILITY_OF_SPARES>
+            <NOJ_AFTER_SALES_SERVICE>0</NOJ_AFTER_SALES_SERVICE>
+            <NOJ_RUNNING_COSTS>0</NOJ_RUNNING_COSTS>
+            <NOJ_PROFITABILITY>0</NOJ_PROFITABILITY>
+            <NOJ_TECHNICAL_MERIT>0</NOJ_TECHNICAL_MERIT>
+            <NOJ_AESTETHIC_AND_FUNCTIONAL_CHARACTERISTICS>0</NOJ_AESTETHIC_AND_FUNCTIONAL_CHARACTERISTICS>
+            <NOJ_PRICE>0</NOJ_PRICE>
+            <NOJ_QUALITY>0</NOJ_QUALITY>
+            <NOJ_OTHER_AWARD_CRITERIA>1</NOJ_OTHER_AWARD_CRITERIA>
+            <NOJ_LIST_CRITERIA_01/>
+            <NOJ_LIST_CRITERIA_02/>
+            <NOJ_LIST_CRITERIA_03/>
+            <NOJ_LIST_CRITERIA_04/>
+            <NOJ_LIST_CRITERIA_05/>
+            <NOJ_LIST_CRITERIA_06/>
+            <NOJ_LIST_CRITERIA_07/>
+            <NOJ_LIST_CRITERIA_08/>
+            <NOJ_LIST_CRITERIA_09/>
+            <NOJ_LIST_CRITERIA_10/>
+        </SECTION_4>
+    </NOJ_SECTION>
+    <FD_CONTRACT_AWARD CTYPE="SERVICES">
+        <COVERED_BY_GPA_YES/>
+        <AUTHORITY_CONTRACT_AWARD>
+            <ADDRESS_AUTHORITY>
+                <ORGANISATION>Aetat Arbeidsdirektoratet</ORGANISATION>
+                <ATTENTION>Vibeke Wiik</ATTENTION>
+                <ADDRESS>C.J. Hambros pl. 2, A1</ADDRESS>
+                <POSTAL_CODE>0032</POSTAL_CODE>
+                <TOWN>Oslo</TOWN>
+                <COUNTRY VALUE="NO"/>
+                <PHONE>23 35 24 76</PHONE>
+                <FAX>23 35 27 56</FAX>
+                <E_MAIL>vwi@adir.aetat.no</E_MAIL>
+                <URL>www.aetat.no</URL>
+            </ADDRESS_AUTHORITY>
+            <TYPE_OF_CONTRACTING_AUTHORITY VALUE="CENTRAL"/>
+        </AUTHORITY_CONTRACT_AWARD>
+        <OBJECT_CONTRACT_AWARD>
+            <TYPE_OF_CONTRACT_SERVICES/>
+            <FRAMEWORK_CONTRACT_YES/>
+            <NOMENCLATURE>
+                <CPV>
+                    <CPV_MAIN>
+                        <CPV_CODE CODE="72000000"/>
+                    </CPV_MAIN>
+                </CPV>
+            </NOMENCLATURE>
+            <NAME_GIVEN_TO_CONTRACT>Rammeavtale for IKT-relaterte konsulenttjenester til Aetat</NAME_GIVEN_TO_CONTRACT>
+            <DESCRIPTION_OF_CONTRACT>Kunden har inngått 28 rammeavtaler (14 avtaler for konsulentbistand og 14 for
+                konsulentoppdrag) med 12 leverandører. Avtalene skal sørge for at Kunden kan få dekket sitt løpende
+                behov for IKT-relaterte konsulenttjenester knyttet til systemutviklingsrelaterte tjenester,
+                forvaltningsrelaterte tjenester samt generell rådgivning.
+            </DESCRIPTION_OF_CONTRACT>
+            <ESTIMATED_VALUE>Hver av de 28 avtalene er inngått for 2 år med opsjon på ytterligere 1+1 år. Rammeavtalene
+                har usikkert omfang og verdi. Verdi vil avhenge av Aetats uttak og bevilgninger fra Stortinget. Samlet
+                verdi for alle avtalene i kontraktsperioden kan anslås til å ligge mellom NOK 5.000.000 og NOK
+                60.000.000. Opsjonene vil kunne ha tilsvarende verdi. Anslaget er beheftet med usikkerhet og reelt
+                omfang vil kunne være større eller mindre.
+            </ESTIMATED_VALUE>
+        </OBJECT_CONTRACT_AWARD>
+        <PROCEDURES_CONTRACT_AWARD>
+            <TYPE_OF_PROCEDURE_CONTRACT_AWARD CPROC="NEGOTIATED_COMP">
+                <ANNEX_CONTRACT_AWARD>
+                    <PP_NATURE_NO_SUFFICIENT_PRECISION/>
+                </ANNEX_CONTRACT_AWARD>
+            </TYPE_OF_PROCEDURE_CONTRACT_AWARD>
+            <AWARD_CRITERIA_CONTRACT_AWARD>
+                <MOST_ECONOMIC_CONTRACT_AWARD>
+                    <CRITERIA_NO_NUMBER>Kriterier som oppgitt i konkurransegrunnlaget.</CRITERIA_NO_NUMBER>
+                </MOST_ECONOMIC_CONTRACT_AWARD>
+            </AWARD_CRITERIA_CONTRACT_AWARD>
+        </PROCEDURES_CONTRACT_AWARD>
+        <AWARD_CONTRACT_AWARD>
+            <AWARD_CONTRACT_AWARD_LIST>
+                <NUMBER>1</NUMBER>
+                <AWARD_CONTRACT_VALUE>
+                    <ADDRESS_CONTRACTOR>
+                        <ORGANISATION>UniConsult AS</ORGANISATION>
+                        <ATTENTION/>
+                        <COUNTRY VALUE="NO"/>
+                    </ADDRESS_CONTRACTOR>
+                </AWARD_CONTRACT_VALUE>
+                <SUBCONTRACT_CONTRACT_AWARD_NO/>
+            </AWARD_CONTRACT_AWARD_LIST>
+            <AWARD_CONTRACT_AWARD_LIST>
+                <NUMBER>2</NUMBER>
+                <AWARD_CONTRACT_VALUE>
+                    <ADDRESS_CONTRACTOR>
+                        <ORGANISATION>TietoEnator AS</ORGANISATION>
+                        <ATTENTION/>
+                        <COUNTRY VALUE="NO"/>
+                    </ADDRESS_CONTRACTOR>
+                    <VALUE_OF_CONTRACT CURRENCY="NOK">
+                        <PRICE/>
+                    </VALUE_OF_CONTRACT>
+                </AWARD_CONTRACT_VALUE>
+                <SUBCONTRACT_CONTRACT_AWARD_NO/>
+            </AWARD_CONTRACT_AWARD_LIST>
+            <AWARD_CONTRACT_AWARD_LIST>
+                <NUMBER>3</NUMBER>
+                <AWARD_CONTRACT_VALUE>
+                    <ADDRESS_CONTRACTOR>
+                        <ORGANISATION>TietoEnator AS</ORGANISATION>
+                        <ATTENTION/>
+                        <COUNTRY VALUE="NO"/>
+                    </ADDRESS_CONTRACTOR>
+                </AWARD_CONTRACT_VALUE>
+                <SUBCONTRACT_CONTRACT_AWARD_NO/>
+            </AWARD_CONTRACT_AWARD_LIST>
+            <AWARD_CONTRACT_AWARD_LIST>
+                <NUMBER>4</NUMBER>
+                <AWARD_CONTRACT_VALUE>
+                    <ADDRESS_CONTRACTOR>
+                        <ORGANISATION>TietoEnator AS</ORGANISATION>
+                        <ATTENTION/>
+                        <COUNTRY VALUE="NO"/>
+                    </ADDRESS_CONTRACTOR>
+                </AWARD_CONTRACT_VALUE>
+                <SUBCONTRACT_CONTRACT_AWARD_NO/>
+            </AWARD_CONTRACT_AWARD_LIST>
+            <AWARD_CONTRACT_AWARD_LIST>
+                <NUMBER>5</NUMBER>
+                <AWARD_CONTRACT_VALUE>
+                    <ADDRESS_CONTRACTOR>
+                        <ORGANISATION>TietoEnator AS</ORGANISATION>
+                        <ATTENTION/>
+                        <COUNTRY VALUE="NO"/>
+                    </ADDRESS_CONTRACTOR>
+                </AWARD_CONTRACT_VALUE>
+                <SUBCONTRACT_CONTRACT_AWARD_NO/>
+            </AWARD_CONTRACT_AWARD_LIST>
+            <AWARD_CONTRACT_AWARD_LIST>
+                <NUMBER>6</NUMBER>
+                <AWARD_CONTRACT_VALUE>
+                    <ADDRESS_CONTRACTOR>
+                        <ORGANISATION>Steria AS</ORGANISATION>
+                        <ATTENTION/>
+                        <COUNTRY VALUE="NO"/>
+                    </ADDRESS_CONTRACTOR>
+                </AWARD_CONTRACT_VALUE>
+            </AWARD_CONTRACT_AWARD_LIST>
+            <AWARD_CONTRACT_AWARD_LIST>
+                <NUMBER>7</NUMBER>
+                <AWARD_CONTRACT_VALUE>
+                    <ADDRESS_CONTRACTOR>
+                        <ORGANISATION>Steria AS</ORGANISATION>
+                        <ATTENTION/>
+                        <COUNTRY VALUE="NO"/>
+                    </ADDRESS_CONTRACTOR>
+                </AWARD_CONTRACT_VALUE>
+            </AWARD_CONTRACT_AWARD_LIST>
+            <AWARD_CONTRACT_AWARD_LIST>
+                <NUMBER>8</NUMBER>
+                <AWARD_CONTRACT_VALUE>
+                    <ADDRESS_CONTRACTOR>
+                        <ORGANISATION>Promis AS</ORGANISATION>
+                        <ATTENTION/>
+                        <COUNTRY VALUE="NO"/>
+                    </ADDRESS_CONTRACTOR>
+                </AWARD_CONTRACT_VALUE>
+            </AWARD_CONTRACT_AWARD_LIST>
+            <AWARD_CONTRACT_AWARD_LIST>
+                <NUMBER>9</NUMBER>
+                <AWARD_CONTRACT_VALUE>
+                    <ADDRESS_CONTRACTOR>
+                        <ORGANISATION>Oracle Norge AS</ORGANISATION>
+                        <ATTENTION/>
+                        <COUNTRY VALUE="NO"/>
+                    </ADDRESS_CONTRACTOR>
+                </AWARD_CONTRACT_VALUE>
+            </AWARD_CONTRACT_AWARD_LIST>
+            <AWARD_CONTRACT_AWARD_LIST>
+                <NUMBER>10</NUMBER>
+                <AWARD_CONTRACT_VALUE>
+                    <ADDRESS_CONTRACTOR>
+                        <ORGANISATION>Oracle Norge AS</ORGANISATION>
+                        <ATTENTION/>
+                        <COUNTRY VALUE="NO"/>
+                    </ADDRESS_CONTRACTOR>
+                </AWARD_CONTRACT_VALUE>
+            </AWARD_CONTRACT_AWARD_LIST>
+            <AWARD_CONTRACT_AWARD_LIST>
+                <NUMBER>11</NUMBER>
+                <AWARD_CONTRACT_VALUE>
+                    <ADDRESS_CONTRACTOR>
+                        <ORGANISATION>Objectware AS</ORGANISATION>
+                        <ATTENTION/>
+                        <COUNTRY VALUE="NO"/>
+                    </ADDRESS_CONTRACTOR>
+                </AWARD_CONTRACT_VALUE>
+            </AWARD_CONTRACT_AWARD_LIST>
+            <AWARD_CONTRACT_AWARD_LIST>
+                <NUMBER>12</NUMBER>
+                <AWARD_CONTRACT_VALUE>
+                    <ADDRESS_CONTRACTOR>
+                        <ORGANISATION>Objectware AS</ORGANISATION>
+                        <ATTENTION/>
+                        <COUNTRY VALUE="NO"/>
+                    </ADDRESS_CONTRACTOR>
+                </AWARD_CONTRACT_VALUE>
+            </AWARD_CONTRACT_AWARD_LIST>
+            <AWARD_CONTRACT_AWARD_LIST>
+                <NUMBER>13</NUMBER>
+                <AWARD_CONTRACT_VALUE>
+                    <ADDRESS_CONTRACTOR>
+                        <ORGANISATION>Objectware AS</ORGANISATION>
+                        <ATTENTION/>
+                        <COUNTRY VALUE="NO"/>
+                    </ADDRESS_CONTRACTOR>
+                </AWARD_CONTRACT_VALUE>
+            </AWARD_CONTRACT_AWARD_LIST>
+            <AWARD_CONTRACT_AWARD_LIST>
+                <NUMBER>14</NUMBER>
+                <AWARD_CONTRACT_VALUE>
+                    <ADDRESS_CONTRACTOR>
+                        <ORGANISATION>Objectware AS</ORGANISATION>
+                        <ATTENTION/>
+                        <COUNTRY VALUE="NO"/>
+                    </ADDRESS_CONTRACTOR>
+                </AWARD_CONTRACT_VALUE>
+            </AWARD_CONTRACT_AWARD_LIST>
+            <AWARD_CONTRACT_AWARD_LIST>
+                <NUMBER>15</NUMBER>
+                <AWARD_CONTRACT_VALUE>
+                    <ADDRESS_CONTRACTOR>
+                        <ORGANISATION>Norske Systemarkitekter AS</ORGANISATION>
+                        <ATTENTION/>
+                        <COUNTRY VALUE="NO"/>
+                    </ADDRESS_CONTRACTOR>
+                </AWARD_CONTRACT_VALUE>
+            </AWARD_CONTRACT_AWARD_LIST>
+            <AWARD_CONTRACT_AWARD_LIST>
+                <NUMBER>16</NUMBER>
+                <AWARD_CONTRACT_VALUE>
+                    <ADDRESS_CONTRACTOR>
+                        <ORGANISATION>Norske Systemarkitekter AS</ORGANISATION>
+                        <ATTENTION/>
+                        <COUNTRY VALUE="NO"/>
+                    </ADDRESS_CONTRACTOR>
+                </AWARD_CONTRACT_VALUE>
+            </AWARD_CONTRACT_AWARD_LIST>
+            <AWARD_CONTRACT_AWARD_LIST>
+                <NUMBER>17</NUMBER>
+                <AWARD_CONTRACT_VALUE>
+                    <ADDRESS_CONTRACTOR>
+                        <ORGANISATION>Hewlett-Packard Norge AS</ORGANISATION>
+                        <ATTENTION/>
+                        <COUNTRY VALUE="NO"/>
+                    </ADDRESS_CONTRACTOR>
+                </AWARD_CONTRACT_VALUE>
+            </AWARD_CONTRACT_AWARD_LIST>
+            <AWARD_CONTRACT_AWARD_LIST>
+                <NUMBER>18</NUMBER>
+                <AWARD_CONTRACT_VALUE>
+                    <ADDRESS_CONTRACTOR>
+                        <ORGANISATION>Hewlett-Packard Norge AS</ORGANISATION>
+                        <ATTENTION/>
+                        <COUNTRY VALUE="NO"/>
+                    </ADDRESS_CONTRACTOR>
+                </AWARD_CONTRACT_VALUE>
+            </AWARD_CONTRACT_AWARD_LIST>
+            <AWARD_CONTRACT_AWARD_LIST>
+                <NUMBER>19</NUMBER>
+                <AWARD_CONTRACT_VALUE>
+                    <ADDRESS_CONTRACTOR>
+                        <ORGANISATION>daVinci Consulting AS</ORGANISATION>
+                        <ATTENTION/>
+                        <COUNTRY VALUE="NO"/>
+                    </ADDRESS_CONTRACTOR>
+                </AWARD_CONTRACT_VALUE>
+            </AWARD_CONTRACT_AWARD_LIST>
+            <AWARD_CONTRACT_AWARD_LIST>
+                <NUMBER>20</NUMBER>
+                <AWARD_CONTRACT_VALUE>
+                    <ADDRESS_CONTRACTOR>
+                        <ORGANISATION>Cap Gemini Ernst &amp; Young Norge AS</ORGANISATION>
+                        <ATTENTION/>
+                        <COUNTRY VALUE="NO"/>
+                    </ADDRESS_CONTRACTOR>
+                </AWARD_CONTRACT_VALUE>
+            </AWARD_CONTRACT_AWARD_LIST>
+            <AWARD_CONTRACT_AWARD_LIST>
+                <NUMBER>21</NUMBER>
+                <AWARD_CONTRACT_VALUE>
+                    <ADDRESS_CONTRACTOR>
+                        <ORGANISATION>Cap Gemini</ORGANISATION>
+                        <ATTENTION/>
+                        <COUNTRY VALUE="NO"/>
+                    </ADDRESS_CONTRACTOR>
+                </AWARD_CONTRACT_VALUE>
+            </AWARD_CONTRACT_AWARD_LIST>
+            <AWARD_CONTRACT_AWARD_LIST>
+                <NUMBER>22</NUMBER>
+                <AWARD_CONTRACT_VALUE>
+                    <ADDRESS_CONTRACTOR>
+                        <ORGANISATION>Cap Gemini</ORGANISATION>
+                        <ATTENTION/>
+                        <COUNTRY VALUE="NO"/>
+                    </ADDRESS_CONTRACTOR>
+                </AWARD_CONTRACT_VALUE>
+            </AWARD_CONTRACT_AWARD_LIST>
+            <AWARD_CONTRACT_AWARD_LIST>
+                <NUMBER>23</NUMBER>
+                <AWARD_CONTRACT_VALUE>
+                    <ADDRESS_CONTRACTOR>
+                        <ORGANISATION>Cap Gemini</ORGANISATION>
+                        <ATTENTION/>
+                        <COUNTRY VALUE="NO"/>
+                    </ADDRESS_CONTRACTOR>
+                </AWARD_CONTRACT_VALUE>
+            </AWARD_CONTRACT_AWARD_LIST>
+            <AWARD_CONTRACT_AWARD_LIST>
+                <NUMBER>24</NUMBER>
+                <AWARD_CONTRACT_VALUE>
+                    <ADDRESS_CONTRACTOR>
+                        <ORGANISATION>Cap Gemini</ORGANISATION>
+                        <ATTENTION/>
+                        <COUNTRY VALUE="NO"/>
+                    </ADDRESS_CONTRACTOR>
+                </AWARD_CONTRACT_VALUE>
+            </AWARD_CONTRACT_AWARD_LIST>
+            <AWARD_CONTRACT_AWARD_LIST>
+                <NUMBER>25</NUMBER>
+                <AWARD_CONTRACT_VALUE>
+                    <ADDRESS_CONTRACTOR>
+                        <ORGANISATION>Bekk Consulting AS</ORGANISATION>
+                        <ATTENTION/>
+                        <COUNTRY VALUE="NO"/>
+                    </ADDRESS_CONTRACTOR>
+                </AWARD_CONTRACT_VALUE>
+            </AWARD_CONTRACT_AWARD_LIST>
+            <AWARD_CONTRACT_AWARD_LIST>
+                <NUMBER>26</NUMBER>
+                <AWARD_CONTRACT_VALUE>
+                    <ADDRESS_CONTRACTOR>
+                        <ORGANISATION>Bekk Consulting AS</ORGANISATION>
+                        <ATTENTION/>
+                        <COUNTRY VALUE="NO"/>
+                    </ADDRESS_CONTRACTOR>
+                </AWARD_CONTRACT_VALUE>
+            </AWARD_CONTRACT_AWARD_LIST>
+            <AWARD_CONTRACT_AWARD_LIST>
+                <NUMBER>27</NUMBER>
+                <AWARD_CONTRACT_VALUE>
+                    <ADDRESS_CONTRACTOR>
+                        <ORGANISATION>Accenture ANS</ORGANISATION>
+                        <ATTENTION/>
+                        <COUNTRY VALUE="NO"/>
+                    </ADDRESS_CONTRACTOR>
+                </AWARD_CONTRACT_VALUE>
+            </AWARD_CONTRACT_AWARD_LIST>
+            <AWARD_CONTRACT_AWARD_LIST>
+                <NUMBER>28</NUMBER>
+                <AWARD_CONTRACT_VALUE>
+                    <ADDRESS_CONTRACTOR>
+                        <ORGANISATION>Accenture ANS</ORGANISATION>
+                        <ATTENTION/>
+                        <COUNTRY VALUE="NO"/>
+                    </ADDRESS_CONTRACTOR>
+                </AWARD_CONTRACT_VALUE>
+            </AWARD_CONTRACT_AWARD_LIST>
+            <AWARD_CONTRACT_AWARD_LIST>
+                <NUMBER>1</NUMBER>
+                <AWARD_CONTRACT_VALUE>
+                    <ADDRESS_CONTRACTOR>
+                        <ORGANISATION>UniConsult AS</ORGANISATION>
+                        <ATTENTION/>
+                        <COUNTRY VALUE="NO"/>
+                    </ADDRESS_CONTRACTOR>
+                </AWARD_CONTRACT_VALUE>
+                <SUBCONTRACT_CONTRACT_AWARD_NO/>
+            </AWARD_CONTRACT_AWARD_LIST>
+            <AWARD_CONTRACT_AWARD_LIST>
+                <NUMBER>2</NUMBER>
+                <AWARD_CONTRACT_VALUE>
+                    <ADDRESS_CONTRACTOR>
+                        <ORGANISATION>TietoEnator AS</ORGANISATION>
+                        <ATTENTION/>
+                        <COUNTRY VALUE="NO"/>
+                    </ADDRESS_CONTRACTOR>
+                    <VALUE_OF_CONTRACT CURRENCY="NOK">
+                        <PRICE/>
+                    </VALUE_OF_CONTRACT>
+                </AWARD_CONTRACT_VALUE>
+                <SUBCONTRACT_CONTRACT_AWARD_NO/>
+            </AWARD_CONTRACT_AWARD_LIST>
+            <AWARD_CONTRACT_AWARD_LIST>
+                <NUMBER>3</NUMBER>
+                <AWARD_CONTRACT_VALUE>
+                    <ADDRESS_CONTRACTOR>
+                        <ORGANISATION>TietoEnator AS</ORGANISATION>
+                        <ATTENTION/>
+                        <COUNTRY VALUE="NO"/>
+                    </ADDRESS_CONTRACTOR>
+                </AWARD_CONTRACT_VALUE>
+                <SUBCONTRACT_CONTRACT_AWARD_NO/>
+            </AWARD_CONTRACT_AWARD_LIST>
+            <AWARD_CONTRACT_AWARD_LIST>
+                <NUMBER>4</NUMBER>
+                <AWARD_CONTRACT_VALUE>
+                    <ADDRESS_CONTRACTOR>
+                        <ORGANISATION>TietoEnator AS</ORGANISATION>
+                        <ATTENTION/>
+                        <COUNTRY VALUE="NO"/>
+                    </ADDRESS_CONTRACTOR>
+                </AWARD_CONTRACT_VALUE>
+                <SUBCONTRACT_CONTRACT_AWARD_NO/>
+            </AWARD_CONTRACT_AWARD_LIST>
+            <AWARD_CONTRACT_AWARD_LIST>
+                <NUMBER>5</NUMBER>
+                <AWARD_CONTRACT_VALUE>
+                    <ADDRESS_CONTRACTOR>
+                        <ORGANISATION>TietoEnator AS</ORGANISATION>
+                        <ATTENTION/>
+                        <COUNTRY VALUE="NO"/>
+                    </ADDRESS_CONTRACTOR>
+                </AWARD_CONTRACT_VALUE>
+                <SUBCONTRACT_CONTRACT_AWARD_NO/>
+            </AWARD_CONTRACT_AWARD_LIST>
+            <AWARD_CONTRACT_AWARD_LIST>
+                <NUMBER>6</NUMBER>
+                <AWARD_CONTRACT_VALUE>
+                    <ADDRESS_CONTRACTOR>
+                        <ORGANISATION>Steria AS</ORGANISATION>
+                        <ATTENTION/>
+                        <COUNTRY VALUE="NO"/>
+                    </ADDRESS_CONTRACTOR>
+                </AWARD_CONTRACT_VALUE>
+            </AWARD_CONTRACT_AWARD_LIST>
+            <AWARD_CONTRACT_AWARD_LIST>
+                <NUMBER>7</NUMBER>
+                <AWARD_CONTRACT_VALUE>
+                    <ADDRESS_CONTRACTOR>
+                        <ORGANISATION>Steria AS</ORGANISATION>
+                        <ATTENTION/>
+                        <COUNTRY VALUE="NO"/>
+                    </ADDRESS_CONTRACTOR>
+                </AWARD_CONTRACT_VALUE>
+            </AWARD_CONTRACT_AWARD_LIST>
+            <AWARD_CONTRACT_AWARD_LIST>
+                <NUMBER>8</NUMBER>
+                <AWARD_CONTRACT_VALUE>
+                    <ADDRESS_CONTRACTOR>
+                        <ORGANISATION>Promis AS</ORGANISATION>
+                        <ATTENTION/>
+                        <COUNTRY VALUE="NO"/>
+                    </ADDRESS_CONTRACTOR>
+                </AWARD_CONTRACT_VALUE>
+            </AWARD_CONTRACT_AWARD_LIST>
+            <AWARD_CONTRACT_AWARD_LIST>
+                <NUMBER>9</NUMBER>
+                <AWARD_CONTRACT_VALUE>
+                    <ADDRESS_CONTRACTOR>
+                        <ORGANISATION>Oracle Norge AS</ORGANISATION>
+                        <ATTENTION/>
+                        <COUNTRY VALUE="NO"/>
+                    </ADDRESS_CONTRACTOR>
+                </AWARD_CONTRACT_VALUE>
+            </AWARD_CONTRACT_AWARD_LIST>
+            <AWARD_CONTRACT_AWARD_LIST>
+                <NUMBER>10</NUMBER>
+                <AWARD_CONTRACT_VALUE>
+                    <ADDRESS_CONTRACTOR>
+                        <ORGANISATION>Oracle Norge AS</ORGANISATION>
+                        <ATTENTION/>
+                        <COUNTRY VALUE="NO"/>
+                    </ADDRESS_CONTRACTOR>
+                </AWARD_CONTRACT_VALUE>
+            </AWARD_CONTRACT_AWARD_LIST>
+            <AWARD_CONTRACT_AWARD_LIST>
+                <NUMBER>11</NUMBER>
+                <AWARD_CONTRACT_VALUE>
+                    <ADDRESS_CONTRACTOR>
+                        <ORGANISATION>Objectware AS</ORGANISATION>
+                        <ATTENTION/>
+                        <COUNTRY VALUE="NO"/>
+                    </ADDRESS_CONTRACTOR>
+                </AWARD_CONTRACT_VALUE>
+            </AWARD_CONTRACT_AWARD_LIST>
+            <AWARD_CONTRACT_AWARD_LIST>
+                <NUMBER>12</NUMBER>
+                <AWARD_CONTRACT_VALUE>
+                    <ADDRESS_CONTRACTOR>
+                        <ORGANISATION>Objectware AS</ORGANISATION>
+                        <ATTENTION/>
+                        <COUNTRY VALUE="NO"/>
+                    </ADDRESS_CONTRACTOR>
+                </AWARD_CONTRACT_VALUE>
+            </AWARD_CONTRACT_AWARD_LIST>
+            <AWARD_CONTRACT_AWARD_LIST>
+                <NUMBER>13</NUMBER>
+                <AWARD_CONTRACT_VALUE>
+                    <ADDRESS_CONTRACTOR>
+                        <ORGANISATION>Objectware AS</ORGANISATION>
+                        <ATTENTION/>
+                        <COUNTRY VALUE="NO"/>
+                    </ADDRESS_CONTRACTOR>
+                </AWARD_CONTRACT_VALUE>
+            </AWARD_CONTRACT_AWARD_LIST>
+            <AWARD_CONTRACT_AWARD_LIST>
+                <NUMBER>14</NUMBER>
+                <AWARD_CONTRACT_VALUE>
+                    <ADDRESS_CONTRACTOR>
+                        <ORGANISATION>Objectware AS</ORGANISATION>
+                        <ATTENTION/>
+                        <COUNTRY VALUE="NO"/>
+                    </ADDRESS_CONTRACTOR>
+                </AWARD_CONTRACT_VALUE>
+            </AWARD_CONTRACT_AWARD_LIST>
+            <AWARD_CONTRACT_AWARD_LIST>
+                <NUMBER>15</NUMBER>
+                <AWARD_CONTRACT_VALUE>
+                    <ADDRESS_CONTRACTOR>
+                        <ORGANISATION>Norske Systemarkitekter AS</ORGANISATION>
+                        <ATTENTION/>
+                        <COUNTRY VALUE="NO"/>
+                    </ADDRESS_CONTRACTOR>
+                </AWARD_CONTRACT_VALUE>
+            </AWARD_CONTRACT_AWARD_LIST>
+            <AWARD_CONTRACT_AWARD_LIST>
+                <NUMBER>16</NUMBER>
+                <AWARD_CONTRACT_VALUE>
+                    <ADDRESS_CONTRACTOR>
+                        <ORGANISATION>Norske Systemarkitekter AS</ORGANISATION>
+                        <ATTENTION/>
+                        <COUNTRY VALUE="NO"/>
+                    </ADDRESS_CONTRACTOR>
+                </AWARD_CONTRACT_VALUE>
+            </AWARD_CONTRACT_AWARD_LIST>
+            <AWARD_CONTRACT_AWARD_LIST>
+                <NUMBER>17</NUMBER>
+                <AWARD_CONTRACT_VALUE>
+                    <ADDRESS_CONTRACTOR>
+                        <ORGANISATION>Hewlett-Packard Norge AS</ORGANISATION>
+                        <ATTENTION/>
+                        <COUNTRY VALUE="NO"/>
+                    </ADDRESS_CONTRACTOR>
+                </AWARD_CONTRACT_VALUE>
+            </AWARD_CONTRACT_AWARD_LIST>
+            <AWARD_CONTRACT_AWARD_LIST>
+                <NUMBER>18</NUMBER>
+                <AWARD_CONTRACT_VALUE>
+                    <ADDRESS_CONTRACTOR>
+                        <ORGANISATION>Hewlett-Packard Norge AS</ORGANISATION>
+                        <ATTENTION/>
+                        <COUNTRY VALUE="NO"/>
+                    </ADDRESS_CONTRACTOR>
+                </AWARD_CONTRACT_VALUE>
+            </AWARD_CONTRACT_AWARD_LIST>
+            <AWARD_CONTRACT_AWARD_LIST>
+                <NUMBER>19</NUMBER>
+                <AWARD_CONTRACT_VALUE>
+                    <ADDRESS_CONTRACTOR>
+                        <ORGANISATION>daVinci Consulting AS</ORGANISATION>
+                        <ATTENTION/>
+                        <COUNTRY VALUE="NO"/>
+                    </ADDRESS_CONTRACTOR>
+                </AWARD_CONTRACT_VALUE>
+            </AWARD_CONTRACT_AWARD_LIST>
+            <AWARD_CONTRACT_AWARD_LIST>
+                <NUMBER>20</NUMBER>
+                <AWARD_CONTRACT_VALUE>
+                    <ADDRESS_CONTRACTOR>
+                        <ORGANISATION>Cap Gemini Ernst &amp; Young Norge AS</ORGANISATION>
+                        <ATTENTION/>
+                        <COUNTRY VALUE="NO"/>
+                    </ADDRESS_CONTRACTOR>
+                </AWARD_CONTRACT_VALUE>
+            </AWARD_CONTRACT_AWARD_LIST>
+            <AWARD_CONTRACT_AWARD_LIST>
+                <NUMBER>21</NUMBER>
+                <AWARD_CONTRACT_VALUE>
+                    <ADDRESS_CONTRACTOR>
+                        <ORGANISATION>Cap Gemini</ORGANISATION>
+                        <ATTENTION/>
+                        <COUNTRY VALUE="NO"/>
+                    </ADDRESS_CONTRACTOR>
+                </AWARD_CONTRACT_VALUE>
+            </AWARD_CONTRACT_AWARD_LIST>
+            <AWARD_CONTRACT_AWARD_LIST>
+                <NUMBER>22</NUMBER>
+                <AWARD_CONTRACT_VALUE>
+                    <ADDRESS_CONTRACTOR>
+                        <ORGANISATION>Cap Gemini</ORGANISATION>
+                        <ATTENTION/>
+                        <COUNTRY VALUE="NO"/>
+                    </ADDRESS_CONTRACTOR>
+                </AWARD_CONTRACT_VALUE>
+            </AWARD_CONTRACT_AWARD_LIST>
+            <AWARD_CONTRACT_AWARD_LIST>
+                <NUMBER>23</NUMBER>
+                <AWARD_CONTRACT_VALUE>
+                    <ADDRESS_CONTRACTOR>
+                        <ORGANISATION>Cap Gemini</ORGANISATION>
+                        <ATTENTION/>
+                        <COUNTRY VALUE="NO"/>
+                    </ADDRESS_CONTRACTOR>
+                </AWARD_CONTRACT_VALUE>
+            </AWARD_CONTRACT_AWARD_LIST>
+            <AWARD_CONTRACT_AWARD_LIST>
+                <NUMBER>24</NUMBER>
+                <AWARD_CONTRACT_VALUE>
+                    <ADDRESS_CONTRACTOR>
+                        <ORGANISATION>Cap Gemini</ORGANISATION>
+                        <ATTENTION/>
+                        <COUNTRY VALUE="NO"/>
+                    </ADDRESS_CONTRACTOR>
+                </AWARD_CONTRACT_VALUE>
+            </AWARD_CONTRACT_AWARD_LIST>
+            <AWARD_CONTRACT_AWARD_LIST>
+                <NUMBER>25</NUMBER>
+                <AWARD_CONTRACT_VALUE>
+                    <ADDRESS_CONTRACTOR>
+                        <ORGANISATION>Bekk Consulting AS</ORGANISATION>
+                        <ATTENTION/>
+                        <COUNTRY VALUE="NO"/>
+                    </ADDRESS_CONTRACTOR>
+                </AWARD_CONTRACT_VALUE>
+            </AWARD_CONTRACT_AWARD_LIST>
+            <AWARD_CONTRACT_AWARD_LIST>
+                <NUMBER>26</NUMBER>
+                <AWARD_CONTRACT_VALUE>
+                    <ADDRESS_CONTRACTOR>
+                        <ORGANISATION>Bekk Consulting AS</ORGANISATION>
+                        <ATTENTION/>
+                        <COUNTRY VALUE="NO"/>
+                    </ADDRESS_CONTRACTOR>
+                </AWARD_CONTRACT_VALUE>
+            </AWARD_CONTRACT_AWARD_LIST>
+            <AWARD_CONTRACT_AWARD_LIST>
+                <NUMBER>27</NUMBER>
+                <AWARD_CONTRACT_VALUE>
+                    <ADDRESS_CONTRACTOR>
+                        <ORGANISATION>Accenture ANS</ORGANISATION>
+                        <ATTENTION/>
+                        <COUNTRY VALUE="NO"/>
+                    </ADDRESS_CONTRACTOR>
+                </AWARD_CONTRACT_VALUE>
+            </AWARD_CONTRACT_AWARD_LIST>
+            <AWARD_CONTRACT_AWARD_LIST>
+                <NUMBER>28</NUMBER>
+                <AWARD_CONTRACT_VALUE>
+                    <ADDRESS_CONTRACTOR>
+                        <ORGANISATION>Accenture ANS</ORGANISATION>
+                        <ATTENTION/>
+                        <COUNTRY VALUE="NO"/>
+                    </ADDRESS_CONTRACTOR>
+                </AWARD_CONTRACT_VALUE>
+            </AWARD_CONTRACT_AWARD_LIST>
+        </AWARD_CONTRACT_AWARD>
+        <OTH_INFO_CONTRACT_AWARD>
+            <NON_MANDATORY_NO/>
+            <DATE_OF_CONTRACT_AWARD>
+                <DAY>08</DAY>
+                <MONTH>04</MONTH>
+                <YEAR>2003</YEAR>
+            </DATE_OF_CONTRACT_AWARD>
+            <NUMBER_OF_OFFERS_RECEIVED>21</NUMBER_OF_OFFERS_RECEIVED>
+            <PRIOR_INFORMATION_OJ_NOTICE_YES/>
+            <RELATES_TO_EU_PROJECT_NO/>
+            <NOTICE_DISPATCH_DATE>
+                <DAY>13</DAY>
+                <MONTH>5</MONTH>
+                <YEAR>2003</YEAR>
+            </NOTICE_DISPATCH_DATE>
+        </OTH_INFO_CONTRACT_AWARD>
+    </FD_CONTRACT_AWARD>
+</CONTRACT_AWARD>

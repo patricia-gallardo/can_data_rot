@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CONTRACT_AWARD FORM="3">
+    <NOJ_SECTION>
+        <SECTION_0>
+            <CTRL_CPROC>6</CTRL_CPROC>
+            <NOJ_DTD_VERSION>1.4</NOJ_DTD_VERSION>
+            <NOJ_VERSION>1-test</NOJ_VERSION>
+            <NOJ_FORM>Kunngjøring av kontraktstildeling</NOJ_FORM>
+            <NOJ_FORM_ID>200215</NOJ_FORM_ID>
+            <NOJ_PUBLISHING>2</NOJ_PUBLISHING>
+            <NOJ_THRESHOLD>1</NOJ_THRESHOLD>
+            <NOJ_LOBBY_ID>2</NOJ_LOBBY_ID>
+            <NOJ_NL_TITTEL>Rammeavtale for kjøp av konsulenttjenester til trygdeetatens IT-virksomhet</NOJ_NL_TITTEL>
+            <NOJ_TRANSLATE_YES>-1</NOJ_TRANSLATE_YES>
+            <NOJ_TRANSLATE_NO>0</NOJ_TRANSLATE_NO>
+            <NOJ_PUBLISHING_NO>0</NOJ_PUBLISHING_NO>
+            <NOJ_PUBLISHING_SHORT>-1</NOJ_PUBLISHING_SHORT>
+            <NOJ_PUBLISHING_LONG>0</NOJ_PUBLISHING_LONG>
+            <NOJ_THRESHOLD_ABOVE>-1</NOJ_THRESHOLD_ABOVE>
+            <NOJ_THRESHOLD_BELOW>0</NOJ_THRESHOLD_BELOW>
+            <NOJ_SENDER_ORGANISATION>Rikstrygdeverket</NOJ_SENDER_ORGANISATION>
+            <NOJ_SENDER_ATTENTION>Terje Hanssen</NOJ_SENDER_ATTENTION>
+            <NOJ_SENDER_ADDRESS>Sannergaten 2</NOJ_SENDER_ADDRESS>
+            <NOJ_SENDER_TELEPHONE>22927345</NOJ_SENDER_TELEPHONE>
+            <NOJ_SENDER_MOBILE/>
+            <NOJ_SENDER_FAX>22927369</NOJ_SENDER_FAX>
+            <NOJ_SENDER_E_MAIL>terje.hanssen@trygdeetaten.no</NOJ_SENDER_E_MAIL>
+            <NOJ_SENDER_MESSAGE/>
+            <NOJ_DATE_RECEIPT/>
+            <NOJ_IDENTIFIER/>
+            <NOJ_NLREF>2005-01047</NOJ_NLREF>
+            <NOJ_COUNTRY/>
+            <NOJ_LANGUAGE>NO</NOJ_LANGUAGE>
+        </SECTION_0>
+        <SECTION_1>
+            <NOJ_COUNTRY_CODE>Norge</NOJ_COUNTRY_CODE>
+            <CTRL_CTYPE>3</CTRL_CTYPE>
+            <NOJ_CTYPE>3</NOJ_CTYPE>
+            <NOJ_OG_ORGANISATION/>
+            <NOJ_OG_ATTENTION/>
+            <NOJ_OG_ADDRESS/>
+            <NOJ_OG_POSTAL_CODE/>
+            <NOJ_OG_TOWN/>
+            <NOJ_OG_COUNTRY/>
+            <NOJ_OG_PHONE/>
+            <NOJ_OG_FAX/>
+            <NOJ_OG_E_MAIL/>
+            <NOJ_OG_URL/>
+        </SECTION_1>
+        <SECTION_4>
+            <NOJ_DELIVERY_OR_COMPLETION_DATE>0</NOJ_DELIVERY_OR_COMPLETION_DATE>
+            <NOJ_SECURITY_OF_SUPPLIES>0</NOJ_SECURITY_OF_SUPPLIES>
+            <NOJ_AVAILABILITY_OF_SPARES>0</NOJ_AVAILABILITY_OF_SPARES>
+            <NOJ_AFTER_SALES_SERVICE>0</NOJ_AFTER_SALES_SERVICE>
+            <NOJ_RUNNING_COSTS>0</NOJ_RUNNING_COSTS>
+            <NOJ_PROFITABILITY>0</NOJ_PROFITABILITY>
+            <NOJ_TECHNICAL_MERIT>0</NOJ_TECHNICAL_MERIT>
+            <NOJ_AESTETHIC_AND_FUNCTIONAL_CHARACTERISTICS>0</NOJ_AESTETHIC_AND_FUNCTIONAL_CHARACTERISTICS>
+            <NOJ_PRICE>0</NOJ_PRICE>
+            <NOJ_QUALITY>0</NOJ_QUALITY>
+            <NOJ_OTHER_AWARD_CRITERIA>1</NOJ_OTHER_AWARD_CRITERIA>
+            <NOJ_LIST_CRITERIA_01/>
+            <NOJ_LIST_CRITERIA_02/>
+            <NOJ_LIST_CRITERIA_03/>
+            <NOJ_LIST_CRITERIA_04/>
+            <NOJ_LIST_CRITERIA_05/>
+            <NOJ_LIST_CRITERIA_06/>
+            <NOJ_LIST_CRITERIA_07/>
+            <NOJ_LIST_CRITERIA_08/>
+            <NOJ_LIST_CRITERIA_09/>
+            <NOJ_LIST_CRITERIA_10/>
+        </SECTION_4>
+    </NOJ_SECTION>
+    <FD_CONTRACT_AWARD CTYPE="SERVICES">
+        <AUTHORITY_CONTRACT_AWARD>
+            <ADDRESS_AUTHORITY>
+                <ORGANISATION>Rikstrygdeverket</ORGANISATION>
+                <ATTENTION>Terje Hanssen( fakturareferanse tha2900)</ATTENTION>
+                <ADDRESS>Sannergaten 2, Postboks5200 Nydalen</ADDRESS>
+                <POSTAL_CODE>0426</POSTAL_CODE>
+                <TOWN>Oslo</TOWN>
+                <COUNTRY VALUE="NO"/>
+                <PHONE>22927345</PHONE>
+                <FAX>22927369</FAX>
+                <E_MAIL>terje.hanssen@trygdeetaten.no</E_MAIL>
+            </ADDRESS_AUTHORITY>
+            <TYPE_OF_CONTRACTING_AUTHORITY VALUE="CENTRAL"/>
+        </AUTHORITY_CONTRACT_AWARD>
+        <OBJECT_CONTRACT_AWARD>
+            <TYPE_OF_CONTRACT_SERVICES/>
+            <FRAMEWORK_CONTRACT_YES/>
+            <NOMENCLATURE>
+                <CPV>
+                    <CPV_MAIN>
+                        <CPV_CODE CODE="72000000"/>
+                    </CPV_MAIN>
+                </CPV>
+            </NOMENCLATURE>
+            <NAME_GIVEN_TO_CONTRACT>Rammeavtale for kjøp av konsulenttjenester til trygdeetatens IT-virksomhet
+            </NAME_GIVEN_TO_CONTRACT>
+            <DESCRIPTION_OF_CONTRACT>Rammeavtalen dekker 16 kompetanseområder innen IT-området</DESCRIPTION_OF_CONTRACT>
+        </OBJECT_CONTRACT_AWARD>
+        <PROCEDURES_CONTRACT_AWARD>
+            <TYPE_OF_PROCEDURE_CONTRACT_AWARD CPROC="NEGOTIATED_COMP">
+                <ANNEX_CONTRACT_AWARD>
+                    <PP_NATURE_NO_SUFFICIENT_PRECISION/>
+                </ANNEX_CONTRACT_AWARD>
+            </TYPE_OF_PROCEDURE_CONTRACT_AWARD>
+            <AWARD_CRITERIA_CONTRACT_AWARD>
+                <MOST_ECONOMIC_CONTRACT_AWARD>
+                    <CRITERIA_NO_NUMBER>Kriterier som oppgitt i konkurransegrunnlaget.</CRITERIA_NO_NUMBER>
+                </MOST_ECONOMIC_CONTRACT_AWARD>
+            </AWARD_CRITERIA_CONTRACT_AWARD>
+        </PROCEDURES_CONTRACT_AWARD>
+        <AWARD_CONTRACT_AWARD>
+            <AWARD_CONTRACT_AWARD_LIST>
+                <NUMBER>1</NUMBER>
+                <AWARD_CONTRACT_VALUE>
+                    <ADDRESS_CONTRACTOR>
+                        <ORGANISATION>Ementor Norge AS</ORGANISATION>
+                        <ATTENTION/>
+                        <COUNTRY VALUE="NO"/>
+                    </ADDRESS_CONTRACTOR>
+                </AWARD_CONTRACT_VALUE>
+            </AWARD_CONTRACT_AWARD_LIST>
+            <AWARD_CONTRACT_AWARD_LIST>
+                <NUMBER>2</NUMBER>
+                <AWARD_CONTRACT_VALUE>
+                    <ADDRESS_CONTRACTOR>
+                        <ORGANISATION>Promis AS</ORGANISATION>
+                        <ATTENTION/>
+                        <COUNTRY VALUE="NO"/>
+                    </ADDRESS_CONTRACTOR>
+                </AWARD_CONTRACT_VALUE>
+            </AWARD_CONTRACT_AWARD_LIST>
+            <AWARD_CONTRACT_AWARD_LIST>
+                <NUMBER>3</NUMBER>
+                <AWARD_CONTRACT_VALUE>
+                    <ADDRESS_CONTRACTOR>
+                        <ORGANISATION>Capgemini Norge AS</ORGANISATION>
+                        <ATTENTION/>
+                        <COUNTRY VALUE="NO"/>
+                    </ADDRESS_CONTRACTOR>
+                </AWARD_CONTRACT_VALUE>
+            </AWARD_CONTRACT_AWARD_LIST>
+            <AWARD_CONTRACT_AWARD_LIST>
+                <NUMBER>4</NUMBER>
+                <AWARD_CONTRACT_VALUE>
+                    <ADDRESS_CONTRACTOR>
+                        <ORGANISATION>Ciber Norge AS</ORGANISATION>
+                        <ATTENTION/>
+                        <COUNTRY VALUE="NO"/>
+                    </ADDRESS_CONTRACTOR>
+                </AWARD_CONTRACT_VALUE>
+            </AWARD_CONTRACT_AWARD_LIST>
+            <AWARD_CONTRACT_AWARD_LIST>
+                <NUMBER>5</NUMBER>
+                <AWARD_CONTRACT_VALUE>
+                    <ADDRESS_CONTRACTOR>
+                        <ORGANISATION>Bekk Consulting AS</ORGANISATION>
+                        <ATTENTION/>
+                        <COUNTRY VALUE="NO"/>
+                    </ADDRESS_CONTRACTOR>
+                </AWARD_CONTRACT_VALUE>
+            </AWARD_CONTRACT_AWARD_LIST>
+            <AWARD_CONTRACT_AWARD_LIST>
+                <NUMBER>6</NUMBER>
+                <AWARD_CONTRACT_VALUE>
+                    <ADDRESS_CONTRACTOR>
+                        <ORGANISATION>HM Rådgivning og IT teknologi AS</ORGANISATION>
+                        <ATTENTION/>
+                        <COUNTRY VALUE="NO"/>
+                    </ADDRESS_CONTRACTOR>
+                </AWARD_CONTRACT_VALUE>
+            </AWARD_CONTRACT_AWARD_LIST>
+            <AWARD_CONTRACT_AWARD_LIST>
+                <NUMBER>7</NUMBER>
+                <AWARD_CONTRACT_VALUE>
+                    <ADDRESS_CONTRACTOR>
+                        <ORGANISATION>Software Innovation</ORGANISATION>
+                        <ATTENTION/>
+                        <COUNTRY VALUE="NO"/>
+                    </ADDRESS_CONTRACTOR>
+                </AWARD_CONTRACT_VALUE>
+            </AWARD_CONTRACT_AWARD_LIST>
+            <AWARD_CONTRACT_AWARD_LIST>
+                <NUMBER>8</NUMBER>
+                <AWARD_CONTRACT_VALUE>
+                    <ADDRESS_CONTRACTOR>
+                        <ORGANISATION>Tieto Enator</ORGANISATION>
+                        <ATTENTION/>
+                        <COUNTRY VALUE="NO"/>
+                    </ADDRESS_CONTRACTOR>
+                </AWARD_CONTRACT_VALUE>
+            </AWARD_CONTRACT_AWARD_LIST>
+            <AWARD_CONTRACT_AWARD_LIST>
+                <NUMBER>9</NUMBER>
+                <AWARD_CONTRACT_VALUE>
+                    <ADDRESS_CONTRACTOR>
+                        <ORGANISATION>Kristin Wilhelmsen AS</ORGANISATION>
+                        <ATTENTION/>
+                        <COUNTRY VALUE="NO"/>
+                    </ADDRESS_CONTRACTOR>
+                </AWARD_CONTRACT_VALUE>
+            </AWARD_CONTRACT_AWARD_LIST>
+            <AWARD_CONTRACT_AWARD_LIST>
+                <NUMBER>10</NUMBER>
+                <AWARD_CONTRACT_VALUE>
+                    <ADDRESS_CONTRACTOR>
+                        <ORGANISATION>Steria AS</ORGANISATION>
+                        <ATTENTION/>
+                        <COUNTRY VALUE="NO"/>
+                    </ADDRESS_CONTRACTOR>
+                </AWARD_CONTRACT_VALUE>
+            </AWARD_CONTRACT_AWARD_LIST>
+            <AWARD_CONTRACT_AWARD_LIST>
+                <NUMBER>11</NUMBER>
+                <AWARD_CONTRACT_VALUE>
+                    <ADDRESS_CONTRACTOR>
+                        <ORGANISATION>Accenture ANS</ORGANISATION>
+                        <ATTENTION/>
+                        <COUNTRY VALUE="NO"/>
+                    </ADDRESS_CONTRACTOR>
+                </AWARD_CONTRACT_VALUE>
+            </AWARD_CONTRACT_AWARD_LIST>
+            <AWARD_CONTRACT_AWARD_LIST>
+                <NUMBER>12</NUMBER>
+                <AWARD_CONTRACT_VALUE>
+                    <ADDRESS_CONTRACTOR>
+                        <ORGANISATION>daVinci Consulting AS</ORGANISATION>
+                        <ATTENTION/>
+                        <COUNTRY VALUE="NO"/>
+                    </ADDRESS_CONTRACTOR>
+                </AWARD_CONTRACT_VALUE>
+            </AWARD_CONTRACT_AWARD_LIST>
+            <AWARD_CONTRACT_AWARD_LIST>
+                <NUMBER>13</NUMBER>
+                <AWARD_CONTRACT_VALUE>
+                    <ADDRESS_CONTRACTOR>
+                        <ORGANISATION>IBM Global Services</ORGANISATION>
+                        <ATTENTION/>
+                        <COUNTRY VALUE="NO"/>
+                    </ADDRESS_CONTRACTOR>
+                </AWARD_CONTRACT_VALUE>
+            </AWARD_CONTRACT_AWARD_LIST>
+            <AWARD_CONTRACT_AWARD_LIST>
+                <NUMBER>14</NUMBER>
+                <AWARD_CONTRACT_VALUE>
+                    <ADDRESS_CONTRACTOR>
+                        <ORGANISATION>EdiSys AS</ORGANISATION>
+                        <ATTENTION/>
+                        <COUNTRY VALUE="NO"/>
+                    </ADDRESS_CONTRACTOR>
+                </AWARD_CONTRACT_VALUE>
+            </AWARD_CONTRACT_AWARD_LIST>
+            <AWARD_CONTRACT_AWARD_LIST>
+                <NUMBER>15</NUMBER>
+                <AWARD_CONTRACT_VALUE>
+                    <ADDRESS_CONTRACTOR>
+                        <ORGANISATION>KonsensIT AS</ORGANISATION>
+                        <ATTENTION/>
+                        <COUNTRY VALUE="NO"/>
+                    </ADDRESS_CONTRACTOR>
+                </AWARD_CONTRACT_VALUE>
+            </AWARD_CONTRACT_AWARD_LIST>
+            <AWARD_CONTRACT_AWARD_LIST>
+                <NUMBER>16</NUMBER>
+                <AWARD_CONTRACT_VALUE>
+                    <ADDRESS_CONTRACTOR>
+                        <ORGANISATION>Opus One</ORGANISATION>
+                        <ATTENTION/>
+                        <COUNTRY VALUE="NO"/>
+                    </ADDRESS_CONTRACTOR>
+                </AWARD_CONTRACT_VALUE>
+            </AWARD_CONTRACT_AWARD_LIST>
+            <AWARD_CONTRACT_AWARD_LIST>
+                <NUMBER>17</NUMBER>
+                <AWARD_CONTRACT_VALUE>
+                    <ADDRESS_CONTRACTOR>
+                        <ORGANISATION>Manage IT AS</ORGANISATION>
+                        <ATTENTION/>
+                        <COUNTRY VALUE="NO"/>
+                    </ADDRESS_CONTRACTOR>
+                </AWARD_CONTRACT_VALUE>
+            </AWARD_CONTRACT_AWARD_LIST>
+            <AWARD_CONTRACT_AWARD_LIST>
+                <NUMBER>18</NUMBER>
+                <AWARD_CONTRACT_VALUE>
+                    <ADDRESS_CONTRACTOR>
+                        <ORGANISATION>Egroup ASA</ORGANISATION>
+                        <ATTENTION/>
+                        <COUNTRY VALUE="NO"/>
+                    </ADDRESS_CONTRACTOR>
+                </AWARD_CONTRACT_VALUE>
+            </AWARD_CONTRACT_AWARD_LIST>
+            <AWARD_CONTRACT_AWARD_LIST>
+                <NUMBER>19</NUMBER>
+                <AWARD_CONTRACT_VALUE>
+                    <ADDRESS_CONTRACTOR>
+                        <ORGANISATION>Smartnet AS</ORGANISATION>
+                        <ATTENTION/>
+                        <COUNTRY VALUE="NO"/>
+                    </ADDRESS_CONTRACTOR>
+                </AWARD_CONTRACT_VALUE>
+            </AWARD_CONTRACT_AWARD_LIST>
+            <AWARD_CONTRACT_AWARD_LIST>
+                <NUMBER>20</NUMBER>
+                <AWARD_CONTRACT_VALUE>
+                    <ADDRESS_CONTRACTOR>
+                        <ORGANISATION>Visma Unique AS</ORGANISATION>
+                        <ATTENTION/>
+                        <COUNTRY VALUE="NO"/>
+                    </ADDRESS_CONTRACTOR>
+                </AWARD_CONTRACT_VALUE>
+            </AWARD_CONTRACT_AWARD_LIST>
+            <AWARD_CONTRACT_AWARD_LIST>
+                <NUMBER>21</NUMBER>
+                <AWARD_CONTRACT_VALUE>
+                    <ADDRESS_CONTRACTOR>
+                        <ORGANISATION>Deloitte Consulting</ORGANISATION>
+                        <ATTENTION/>
+                        <COUNTRY VALUE="NO"/>
+                    </ADDRESS_CONTRACTOR>
+                </AWARD_CONTRACT_VALUE>
+            </AWARD_CONTRACT_AWARD_LIST>
+            <AWARD_CONTRACT_AWARD_LIST>
+                <NUMBER>22</NUMBER>
+                <AWARD_CONTRACT_VALUE>
+                    <ADDRESS_CONTRACTOR>
+                        <ORGANISATION>Oracle Norge AS</ORGANISATION>
+                        <ATTENTION/>
+                        <COUNTRY VALUE="NO"/>
+                    </ADDRESS_CONTRACTOR>
+                </AWARD_CONTRACT_VALUE>
+            </AWARD_CONTRACT_AWARD_LIST>
+            <AWARD_CONTRACT_AWARD_LIST>
+                <NUMBER>23</NUMBER>
+                <AWARD_CONTRACT_VALUE>
+                    <ADDRESS_CONTRACTOR>
+                        <ORGANISATION>OKB Consulting AS</ORGANISATION>
+                        <ATTENTION/>
+                        <COUNTRY VALUE="NO"/>
+                    </ADDRESS_CONTRACTOR>
+                </AWARD_CONTRACT_VALUE>
+            </AWARD_CONTRACT_AWARD_LIST>
+            <AWARD_CONTRACT_AWARD_LIST>
+                <NUMBER>24</NUMBER>
+                <AWARD_CONTRACT_VALUE>
+                    <ADDRESS_CONTRACTOR>
+                        <ORGANISATION>Computas AS</ORGANISATION>
+                        <ATTENTION/>
+                        <COUNTRY VALUE="NO"/>
+                    </ADDRESS_CONTRACTOR>
+                </AWARD_CONTRACT_VALUE>
+            </AWARD_CONTRACT_AWARD_LIST>
+            <AWARD_CONTRACT_AWARD_LIST>
+                <NUMBER>25</NUMBER>
+                <AWARD_CONTRACT_VALUE>
+                    <ADDRESS_CONTRACTOR>
+                        <ORGANISATION>Abeo</ORGANISATION>
+                        <ATTENTION/>
+                        <COUNTRY VALUE="NO"/>
+                    </ADDRESS_CONTRACTOR>
+                </AWARD_CONTRACT_VALUE>
+            </AWARD_CONTRACT_AWARD_LIST>
+            <AWARD_CONTRACT_AWARD_LIST>
+                <NUMBER>26</NUMBER>
+                <AWARD_CONTRACT_VALUE>
+                    <ADDRESS_CONTRACTOR>
+                        <ORGANISATION>EDB IT Drift</ORGANISATION>
+                        <ATTENTION/>
+                        <COUNTRY VALUE="NO"/>
+                    </ADDRESS_CONTRACTOR>
+                </AWARD_CONTRACT_VALUE>
+            </AWARD_CONTRACT_AWARD_LIST>
+            <AWARD_CONTRACT_AWARD_LIST>
+                <NUMBER>27</NUMBER>
+                <AWARD_CONTRACT_VALUE>
+                    <ADDRESS_CONTRACTOR>
+                        <ORGANISATION>Hewlett-Packard Norge AS</ORGANISATION>
+                        <ATTENTION/>
+                        <COUNTRY VALUE="NO"/>
+                    </ADDRESS_CONTRACTOR>
+                </AWARD_CONTRACT_VALUE>
+            </AWARD_CONTRACT_AWARD_LIST>
+            <AWARD_CONTRACT_AWARD_LIST>
+                <NUMBER>28</NUMBER>
+                <AWARD_CONTRACT_VALUE>
+                    <ADDRESS_CONTRACTOR>
+                        <ORGANISATION>Classic IT Datakonsulenter</ORGANISATION>
+                        <ATTENTION/>
+                        <COUNTRY VALUE="NO"/>
+                    </ADDRESS_CONTRACTOR>
+                </AWARD_CONTRACT_VALUE>
+            </AWARD_CONTRACT_AWARD_LIST>
+            <AWARD_CONTRACT_AWARD_LIST>
+                <NUMBER>29</NUMBER>
+                <AWARD_CONTRACT_VALUE>
+                    <ADDRESS_CONTRACTOR>
+                        <ORGANISATION>Commercial Data Servers AS</ORGANISATION>
+                        <ATTENTION/>
+                        <COUNTRY VALUE="NO"/>
+                    </ADDRESS_CONTRACTOR>
+                </AWARD_CONTRACT_VALUE>
+            </AWARD_CONTRACT_AWARD_LIST>
+            <AWARD_CONTRACT_AWARD_LIST>
+                <NUMBER>30</NUMBER>
+                <AWARD_CONTRACT_VALUE>
+                    <ADDRESS_CONTRACTOR>
+                        <ORGANISATION>NinetechGruppen</ORGANISATION>
+                        <ATTENTION/>
+                        <COUNTRY VALUE="NO"/>
+                    </ADDRESS_CONTRACTOR>
+                </AWARD_CONTRACT_VALUE>
+            </AWARD_CONTRACT_AWARD_LIST>
+            <AWARD_CONTRACT_AWARD_LIST>
+                <NUMBER>31</NUMBER>
+                <AWARD_CONTRACT_VALUE>
+                    <ADDRESS_CONTRACTOR>
+                        <ORGANISATION>Norske Systemarkitekter</ORGANISATION>
+                        <ATTENTION/>
+                        <COUNTRY VALUE="NO"/>
+                    </ADDRESS_CONTRACTOR>
+                </AWARD_CONTRACT_VALUE>
+            </AWARD_CONTRACT_AWARD_LIST>
+            <AWARD_CONTRACT_AWARD_LIST>
+                <NUMBER>32</NUMBER>
+                <AWARD_CONTRACT_VALUE>
+                    <ADDRESS_CONTRACTOR>
+                        <ORGANISATION>IT Invest AS</ORGANISATION>
+                        <ATTENTION/>
+                        <COUNTRY VALUE="NO"/>
+                    </ADDRESS_CONTRACTOR>
+                </AWARD_CONTRACT_VALUE>
+            </AWARD_CONTRACT_AWARD_LIST>
+            <AWARD_CONTRACT_AWARD_LIST>
+                <NUMBER>33</NUMBER>
+                <AWARD_CONTRACT_VALUE>
+                    <ADDRESS_CONTRACTOR>
+                        <ORGANISATION>Hamar DataKonsult AS</ORGANISATION>
+                        <ATTENTION/>
+                        <COUNTRY VALUE="NO"/>
+                    </ADDRESS_CONTRACTOR>
+                </AWARD_CONTRACT_VALUE>
+            </AWARD_CONTRACT_AWARD_LIST>
+        </AWARD_CONTRACT_AWARD>
+        <OTH_INFO_CONTRACT_AWARD>
+            <NON_MANDATORY_NO/>
+            <REFERENCE_NUMBER_ATTRIBUTED>2004/04315</REFERENCE_NUMBER_ATTRIBUTED>
+            <NUMBER_OF_OFFERS_RECEIVED>69</NUMBER_OF_OFFERS_RECEIVED>
+            <PRIOR_INFORMATION_OJ_NOTICE_YES>
+                <PRIOR_INFORMATION_NUMBER>
+                    <NUMBER>2004/S 135-115783</NUMBER>
+                </PRIOR_INFORMATION_NUMBER>
+                <PRIOR_INFORMATION_DATE>
+                    <DAY>14</DAY>
+                    <MONTH>07</MONTH>
+                    <YEAR>2004</YEAR>
+                </PRIOR_INFORMATION_DATE>
+            </PRIOR_INFORMATION_OJ_NOTICE_YES>
+            <RELATES_TO_EU_PROJECT_NO/>
+            <NOTICE_DISPATCH_DATE>
+                <DAY>21</DAY>
+                <MONTH>1</MONTH>
+                <YEAR>2005</YEAR>
+            </NOTICE_DISPATCH_DATE>
+        </OTH_INFO_CONTRACT_AWARD>
+    </FD_CONTRACT_AWARD>
+</CONTRACT_AWARD>

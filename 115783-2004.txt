@@ -1,0 +1,112 @@
+1.0/022545
+TI: NO-Oslo: computer and related services
+PD: 20040714
+ND: 115783-2004
+OJ: 135/2004
+DR: 20040712
+DS: 20040712
+DT: 20040821
+HD: 3340
+TD: 3 - Invitation to tender
+NC: 4 - Service contract
+PR: 4 - Negotiated procedure
+RP: 6 - European Economic Area (EEA)
+AA: 1 - Central government
+TY: 1 - Global tender
+AC: 9 - Not applicable
+PC: 72000000
+    73220000
+PN: Computer and related services
+    Development consultancy services
+CY: NO
+OL: EN
+AU: RIKSTRYGDEVERKET
+TW: OSLO
+AB: Framework agreement for the purchase of consultancy services for the
+    awarding authority's IT activities.
+    The awarding authority wishes to strengthen the access to resources with
+    special competence for and experience with various IT competence areas.
+    This shall be executed by entering into framework agreements with several
+    providers.
+    CPV: 72000000, 73220000.
+TX: CONTRACT NOTICE
+    Services
+    This contract is covered by the Government Procurement Agreement (GPA):
+    Yes.
+    SECTION I: CONTRACTING AUTHORITY
+    I.1)  Official name and address of the contracting authority:
+    Rikstrygdeverket, Att: Att. Terje Hanssen, Sannergaten 2, N-0426 Oslo.
+    Tel.: 22927345. Fax: 22927369. E-mail: terje.hanssen@trygdeetaten.no.
+    I.2)  Address from which further information can be obtained:
+    Rikstrygdeverket, Att: Lasse Andresen, Sannergaten 2, N-0426 Oslo. Tel.:
+    22927514. E-mail: lasse.andresen@trygdeetaten.no. URL:
+    www.trygdeetaten.no.
+    I.3)  Address from which documentation may be obtained: Same as in I.2,
+    N-.
+    I.4)  Address to which tenders/requests to participate must be sent: Same
+    as in I.2, N-.
+    I.5)  Type of contracting authority: Central level.
+    SECTION II: OBJECT OF THE CONTRACT
+    II.1)  Description
+    II.1.3)  Type of service contract Service category: 07.
+    II.1.4)  Framework agreement: Yes.
+    II.1.5)  Title attributed to the contract by the contracting authority:
+    Framework agreement for the purchase of consultancy services for the
+    awarding authority's IT activities.
+    II.1.6)  Description/object of the contract: The awarding authority wishes
+    to strengthen the access to resources with special competence for and
+    experience with various IT competence areas. This shall be executed by
+    entering into framework agreements with several providers.
+    II.1.8)  Nomenclature
+    II.1.8.1)  Common Procurement Vocabulary (CPV): 72000000, 73220000.
+    II.1.9)  Division into lots: No.
+    II.1.10)  Will variants be accepted: No.
+    II.2)  Quantity or scope of the contract
+    II.2.2)  Options. Description and time when they may be exercised: The
+    framework agreements shall be entered into for 2 years starting from
+    agreement date. Option for 2 years prolongation.
+    SECTION III: LEGAL, ECONOMIC, FINANCIAL AND TECHNICAL INFORMATION
+    III.1)  Conditions relating to the contract
+    III.1.2)  Main terms of financing and payment and/or reference to the
+    relevant provisions: See the tender documents.
+    III.2)  Conditions for participation
+    III.2.1)  Information concerning the personal situation of the contractor,
+    supplier or service provider and information and formalities necessary for
+    the evaluation of the minimum economic, financial and technical capacity
+    required: Tax and VAT certificate, not older than 6 months, issued by the
+    competent authority to the effect that the tenderer has fulfilled his
+    obligations relating to the payment of taxes, social security
+    contributions and VAT. Tax certificates are issued by the chief municipal
+    treasurer in the municipality where the supplier has their head office and
+    by the tax collector in the equivalent county.
+    Health, environment and safety statement. The form can be downloaded from
+    the net address: www.odin.dep.no/nhd, see public procurements -
+    regulations, under FOA, annex 2 or guidelines to FOA, annex 3.
+    III.2.1.2)  Economic and financial capacity – means of proof required:
+    Presentation of the undertaking's balance sheets or extracts from balance
+    sheets.
+    III.3)  Conditions specific to services contracts
+    III.3.1)  Provision of the service is reserved to a specific profession:
+    No.
+    III.3.2)  Legal entities required to state the names and professional
+    qualifications of the personnel responsible for execution of the contract:
+    Yes.
+    SECTION IV: PROCEDURE
+    IV.1)  Type of procedure: Negotiated.
+    IV.1.1)  Candidates already selected: No.
+    IV.2)  Award criteria: The most economically advantageous tender in terms
+    of:
+    Criteria as stated in contract documents.
+    IV.3)  Administrative information
+    IV.3.1)  Reference number attributed to the file by the contracting
+    authority: 2004/04315.
+    IV.3.3)  Time-limit for receipt of tenders or requests to participate:
+    21.8.2004.
+    IV.3.5)  Language or languages in which tenders or requests to participate
+    can be drawn up: Other(s) - third country: Norwegian.
+    SECTION VI: OTHER INFORMATION
+    VI.1)  Non-mandatory notice: No.
+    VI.3)  The contract relates to a project/programme financed by EU funds:
+    No.
+    VI.4)  Additional information: Norsk lysingsblad's reference: 2004-13392.
+    VI.5)  Date of dispatch of this notice: 12.7.2004.
