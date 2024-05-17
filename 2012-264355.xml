@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TED_ESENDERS
+        xsi:noNamespaceSchemaLocation="http://publications.europa.eu/TED_schema/Reception/R2.0.8.S02/TED_ESENDERS.xd"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <SENDER>
+        <LOGIN CLASS="B">
+            <ESENDER_LOGIN>TED32</ESENDER_LOGIN>
+        </LOGIN>
+        <USER>
+            <ORGANISATION>
+                <OFFICIALNAME>Millstream Associates Limited</OFFICIALNAME>
+            </ORGANISATION>
+            <ATTENTION/>
+            <ADDRESS/>
+            <POSTAL_CODE/>
+            <TOWN/>
+            <COUNTRY VALUE="UK"/>
+            <PHONE>+44 1224636999</PHONE>
+            <USER_E_MAILS>
+                <USER_E_MAIL>support@millstream.eu</USER_E_MAIL>
+            </USER_E_MAILS>
+            <URL>http://www.millstream.eu/</URL>
+        </USER>
+        <NO_DOC_EXT>2012-264355</NO_DOC_EXT>
+    </SENDER>
+    <FORM_SECTION>
+        <CONTRACT LG="NB" CATEGORY="ORIGINAL" FORM="2" VERSION="R2.0.8.S02">
+            <FD_CONTRACT CTYPE="SERVICES">
+                <CONTRACTING_AUTHORITY_INFORMATION>
+                    <NAME_ADDRESSES_CONTACT_CONTRACT>
+                        <CA_CE_CONCESSIONAIRE_PROFILE>
+                            <ORGANISATION>
+                                <OFFICIALNAME>Arbeids- og velferdsdirektoratet, NAV økonomi, Anskaffelser og
+                                    forretningsjuridisk avdeling
+                                </OFFICIALNAME>
+                            </ORGANISATION>
+                            <ADDRESS>Postboks 5, St Olavs plass,</ADDRESS>
+                            <TOWN>OSLO</TOWN>
+                            <POSTAL_CODE>0130</POSTAL_CODE>
+                            <COUNTRY VALUE="NO"/>
+                            <ATTENTION>Mildrid Kvalvik</ATTENTION>
+                            <PHONE>+47 21071000</PHONE>
+                            <E_MAILS>
+                                <E_MAIL>nav.anskaffelser.drift@nav.no</E_MAIL>
+                            </E_MAILS>
+                            <FAX>+47 21071010</FAX>
+                        </CA_CE_CONCESSIONAIRE_PROFILE>
+                        <INTERNET_ADDRESSES_CONTRACT>
+                            <URL_GENERAL>www.nav.no</URL_GENERAL>
+                            <URL_BUYER>http://www.doffin.no//search/Search_AuthProfile.aspx?ID=AA0005</URL_BUYER>
+                        </INTERNET_ADDRESSES_CONTRACT>
+                        <FURTHER_INFORMATION>
+                            <IDEM/>
+                        </FURTHER_INFORMATION>
+                        <SPECIFICATIONS_AND_ADDITIONAL_DOCUMENTS>
+                            <IDEM/>
+                        </SPECIFICATIONS_AND_ADDITIONAL_DOCUMENTS>
+                        <TENDERS_REQUESTS_APPLICATIONS_MUST_BE_SENT_TO>
+                            <IDEM/>
+                        </TENDERS_REQUESTS_APPLICATIONS_MUST_BE_SENT_TO>
+                    </NAME_ADDRESSES_CONTACT_CONTRACT>
+                    <TYPE_AND_ACTIVITIES_AND_PURCHASING_ON_BEHALF>
+                        <TYPE_AND_ACTIVITIES>
+                            <TYPE_OF_CONTRACTING_AUTHORITY VALUE="MINISTRY"/>
+                            <TYPE_OF_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+                        </TYPE_AND_ACTIVITIES>
+                        <PURCHASING_ON_BEHALF>
+                            <PURCHASING_ON_BEHALF_NO/>
+                        </PURCHASING_ON_BEHALF>
+                    </TYPE_AND_ACTIVITIES_AND_PURCHASING_ON_BEHALF>
+                </CONTRACTING_AUTHORITY_INFORMATION>
+                <OBJECT_CONTRACT_INFORMATION>
+                    <DESCRIPTION_CONTRACT_INFORMATION>
+                        <TITLE_CONTRACT>Rammeavtale og vedlikeholdsavtale for IKT-sikkerhetsløsninger</TITLE_CONTRACT>
+                        <TYPE_CONTRACT_LOCATION>
+                            <TYPE_CONTRACT VALUE="SERVICES"/>
+                            <SERVICE_CATEGORY>7</SERVICE_CATEGORY>
+                        </TYPE_CONTRACT_LOCATION>
+                        <LOCATION_NUTS>
+                            <LOCATION>Oslo</LOCATION>
+                        </LOCATION_NUTS>
+                        <NOTICE_INVOLVES>
+                            <ESTABLISHMENT_FRAMEWORK_AGREEMENT/>
+                        </NOTICE_INVOLVES>
+                        <F02_FRAMEWORK>
+                            <SINGLE_OPERATOR/>
+                            <DURATION_FRAMEWORK_YEAR>4</DURATION_FRAMEWORK_YEAR>
+                            <TOTAL_ESTIMATED>
+                                <COSTS_RANGE_AND_CURRENCY CURRENCY="NOK">
+                                    <VALUE_COST>32000000</VALUE_COST>
+                                </COSTS_RANGE_AND_CURRENCY>
+                            </TOTAL_ESTIMATED>
+                        </F02_FRAMEWORK>
+                        <SHORT_CONTRACT_DESCRIPTION>
+                            <P>Formålet med anskaffelsen er å sikre IKT Drift tilgang til produkter og tjenester
+                                innenfor området «Sikkerhetsløsninger». Dette omfatter bl.a., men ikke begrenset til,
+                                produkter for soneinndeling og sonekontroll (brannvegger), produkter for lastbalansering
+                                av trafikk, samt konsulenttjenester.
+                            </P>
+                            <P>Anskaffelsen skal videre sikre IKT Drift vedlikehold på ny og eksisterende maskinvare og
+                                programvare innenfor området.
+                            </P>
+                            <P>Merk: For å melde din interesse i denne kunngjøringen og motta tilleggsinformasjon
+                                vennligst besøk Doffin nettsiden
+                                http://www.doffin.no/Search/Search_Switch.aspx?ID=264355.
+                            </P>
+                        </SHORT_CONTRACT_DESCRIPTION>
+                        <CPV>
+                            <CPV_MAIN>
+                                <CPV_CODE CODE="72000000"/>
+                            </CPV_MAIN>
+                        </CPV>
+                        <CONTRACT_COVERED_GPA VALUE="YES"/>
+                        <F02_DIVISION_INTO_LOTS>
+                            <DIV_INTO_LOT_NO/>
+                        </F02_DIVISION_INTO_LOTS>
+                        <ACCEPTED_VARIANTS VALUE="NO"/>
+                    </DESCRIPTION_CONTRACT_INFORMATION>
+                    <QUANTITY_SCOPE>
+                        <OPTIONS>
+                            <OPTION_DESCRIPTION>
+                                <P>Opsjon på forlengelse 1+1 år</P>
+                            </OPTION_DESCRIPTION>
+                        </OPTIONS>
+                        <NO_RECURRENT_CONTRACT/>
+                    </QUANTITY_SCOPE>
+                    <PERIOD_WORK_DATE_STARTING>
+                        <MONTHS>48</MONTHS>
+                    </PERIOD_WORK_DATE_STARTING>
+                </OBJECT_CONTRACT_INFORMATION>
+                <LEFTI_CONTRACT>
+                    <CONTRACT_RELATING_CONDITIONS>
+                        <NO_EXISTENCE_OTHER_PARTICULAR_CONDITIONS/>
+                    </CONTRACT_RELATING_CONDITIONS>
+                    <F02_CONDITIONS_FOR_PARTICIPATION>
+                        <ECONOMIC_OPERATORS_PERSONAL_SITUATION>
+                            <P>(1) Krav til å fremlegge skatteattest for merverdiavgift (Nasjonale krav)</P>
+                            <P>(2) Krav til å fremlegge skatteattest for skatt (Nasjonale krav)</P>
+                            <P>(3) Krav til å fremlegge egenerklæring i samsvar med forskriftens vedlegg 2 om HMS
+                                (Nasjonale krav)
+                            </P>
+                            <P>(4) Annet (vennligst presiser dokumentasjonskrav under):</P>
+                            <P>Det kreves at leverandøren er et lovlig etablert foretak, dokumentert med</P>
+                            <P>• Norske leverandører: Firmaattest fra Brønnøysundregistrene</P>
+                            <P>• Utenlandske leverandører: Attest for registrering i foretaksregister som foreskrevet i
+                                lovgivningen i den stat hvor leverandøren er etablert.
+                            </P>
+                        </ECONOMIC_OPERATORS_PERSONAL_SITUATION>
+                        <F02_ECONOMIC_FINANCIAL_CAPACITY>
+                            <EAF_CAPACITY_INFORMATION>
+                                <P>(1) Annet (vennligst presiser dokumentasjonskrav under):</P>
+                                <P>Oppdragsgiver innhenter selv kredittvurdering gjennomført av Experian, se
+                                    www.Experian.no
+                                </P>
+                            </EAF_CAPACITY_INFORMATION>
+                            <EAF_CAPACITY_MIN_LEVEL>
+                                <P>Det kreves at leverandøren har god økonomisk soliditet. Kravet er oppfylt med en
+                                    kredittrating på ”God kredittverdighet” eller bedre.
+                                </P>
+                            </EAF_CAPACITY_MIN_LEVEL>
+                        </F02_ECONOMIC_FINANCIAL_CAPACITY>
+                        <TECHNICAL_CAPACITY_LEFTI>
+                            <T_CAPACITY_INFORMATION/>
+                            <T_CAPACITY_MIN_LEVEL>
+                                <P>Det kreves meget god gjennomføringsevne, dokumentert ved</P>
+                                <P>• Beskrivelse av leverandørens tekniske kapasitet og faglige kvalifikasjoner.
+                                    Vedrørende kapasitet bes om en beskrivelse av relevante enheter hos leverandøren.
+                                    Vedrørende kvalifikasjoner bes om en kortfattet oversikt over generell relevant
+                                    kompetanse hos leverandøren. Det skal ikke angis hvilke personer som vil tilbys og
+                                    det skal ikke leveres inn CVer.
+                                </P>
+                                <P>• Oversikt over leverandørens gjennomsnittlige generelle arbeidsstyrke og antall
+                                    medarbeidere i den administrative ledelsen i løpet av de siste tre år
+                                </P>
+                                <P>Det kreves betydelig erfaring fra lignende leveranser, dokumentert ved</P>
+                                <P>• Leverandørens viktigste leveranser de siste 3 årene, inkludert en beskrivelse av
+                                    oppdraget, deres verdi, tidspunkt og mottaker
+                                </P>
+                                <P>Det kreves et godt og velfungerende kvalitetssikringssystem, dokumentert ved</P>
+                                <P>• Attest utstedt av sertifiseringsorgan som bekrefter oppfyllelse av
+                                    kvalitetssikringsstandarden, f.eks. ISO9000 eller tilsvarende
+                                </P>
+                                <P>Alternativt:</P>
+                                <P>• En beskrivelse av metoder for kvalitetssikring</P>
+                            </T_CAPACITY_MIN_LEVEL>
+                        </TECHNICAL_CAPACITY_LEFTI>
+                    </F02_CONDITIONS_FOR_PARTICIPATION>
+                </LEFTI_CONTRACT>
+                <PROCEDURE_DEFINITION_CONTRACT_NOTICE>
+                    <TYPE_OF_PROCEDURE>
+                        <TYPE_OF_PROCEDURE_DETAIL_FOR_CONTRACT_NOTICE>
+                            <PT_RESTRICTED/>
+                        </TYPE_OF_PROCEDURE_DETAIL_FOR_CONTRACT_NOTICE>
+                        <MAXIMUM_NUMBER_INVITED>
+                            <OPE_ENVISAGED_NUMBER>5</OPE_ENVISAGED_NUMBER>
+                            <OPE_OBJECTIVE_CRITERIA>
+                                <P>Gjennomføringsevne, vekt 30 %</P>
+                                <P>Erfaring, 50 %</P>
+                                <P>Kvalitetssikringssystem, 20 %</P>
+                            </OPE_OBJECTIVE_CRITERIA>
+                        </MAXIMUM_NUMBER_INVITED>
+                    </TYPE_OF_PROCEDURE>
+                    <AWARD_CRITERIA_CONTRACT_NOTICE_INFORMATION>
+                        <AWARD_CRITERIA_DETAIL>
+                            <MOST_ECONOMICALLY_ADVANTAGEOUS_TENDER>
+                                <CRITERIA_STATED_IN_OTHER_DOCUMENT/>
+                            </MOST_ECONOMICALLY_ADVANTAGEOUS_TENDER>
+                        </AWARD_CRITERIA_DETAIL>
+                        <IS_ELECTRONIC_AUCTION_USABLE>
+                            <NO_USE_ELECTRONIC_AUCTION/>
+                        </IS_ELECTRONIC_AUCTION_USABLE>
+                    </AWARD_CRITERIA_CONTRACT_NOTICE_INFORMATION>
+                    <ADMINISTRATIVE_INFORMATION_CONTRACT_NOTICE>
+                        <FILE_REFERENCE_NUMBER>12/1171</FILE_REFERENCE_NUMBER>
+                        <CONDITIONS_OBTAINING_SPECIFICATIONS/>
+                        <RECEIPT_LIMIT_DATE>
+                            <DAY>07</DAY>
+                            <MONTH>09</MONTH>
+                            <YEAR>2012</YEAR>
+                            <TIME>12:00</TIME>
+                        </RECEIPT_LIMIT_DATE>
+                        <DISPATCH_INVITATIONS_DATE>
+                            <DAY>28</DAY>
+                            <MONTH>09</MONTH>
+                            <YEAR>2012</YEAR>
+                        </DISPATCH_INVITATIONS_DATE>
+                        <LANGUAGE>
+                            <LANGUAGE_OTHER>Norsk</LANGUAGE_OTHER>
+                        </LANGUAGE>
+                    </ADMINISTRATIVE_INFORMATION_CONTRACT_NOTICE>
+                </PROCEDURE_DEFINITION_CONTRACT_NOTICE>
+                <COMPLEMENTARY_INFORMATION_CONTRACT_NOTICE>
+                    <ADDITIONAL_INFORMATION>
+                        <P>(NT Ref:264355)</P>
+                    </ADDITIONAL_INFORMATION>
+                    <NOTICE_DISPATCH_DATE>
+                        <DAY>31</DAY>
+                        <MONTH>07</MONTH>
+                        <YEAR>2012</YEAR>
+                    </NOTICE_DISPATCH_DATE>
+                </COMPLEMENTARY_INFORMATION_CONTRACT_NOTICE>
+            </FD_CONTRACT>
+        </CONTRACT>
+    </FORM_SECTION>
+</TED_ESENDERS>

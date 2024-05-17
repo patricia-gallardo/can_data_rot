@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TED_ESENDERS
+        xsi:noNamespaceSchemaLocation="http://publications.europa.eu/TED_schema/Reception/R2.0.8.S02/TED_ESENDERS.xd"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <SENDER>
+        <LOGIN CLASS="B">
+            <ESENDER_LOGIN>TED32</ESENDER_LOGIN>
+        </LOGIN>
+        <USER>
+            <ORGANISATION>
+                <OFFICIALNAME>Millstream Associates Limited</OFFICIALNAME>
+            </ORGANISATION>
+            <ATTENTION/>
+            <ADDRESS/>
+            <POSTAL_CODE/>
+            <TOWN/>
+            <COUNTRY VALUE="UK"/>
+            <PHONE>+44 1224636999</PHONE>
+            <USER_E_MAILS>
+                <USER_E_MAIL>support@millstream.eu</USER_E_MAIL>
+            </USER_E_MAILS>
+            <URL>http://www.millstream.eu/</URL>
+        </USER>
+        <NO_DOC_EXT>2012-266032</NO_DOC_EXT>
+    </SENDER>
+    <FORM_SECTION>
+        <CONTRACT LG="NB" CATEGORY="ORIGINAL" FORM="2" VERSION="R2.0.8.S02">
+            <FD_CONTRACT CTYPE="SERVICES">
+                <CONTRACTING_AUTHORITY_INFORMATION>
+                    <NAME_ADDRESSES_CONTACT_CONTRACT>
+                        <CA_CE_CONCESSIONAIRE_PROFILE>
+                            <ORGANISATION>
+                                <OFFICIALNAME>Arbeids- og velferdsdirektoratet, NAV økonomi, Anskaffelser og
+                                    forretningsjuridisk avdeling
+                                </OFFICIALNAME>
+                            </ORGANISATION>
+                            <ADDRESS>Postboks 5, St Olavs plass,</ADDRESS>
+                            <TOWN>OSLO</TOWN>
+                            <POSTAL_CODE>0130</POSTAL_CODE>
+                            <COUNTRY VALUE="NO"/>
+                            <CONTACT_POINT>Anskaffelser og forretningsjuridisk avdeling</CONTACT_POINT>
+                            <ATTENTION>Elly-Karin Melbø</ATTENTION>
+                            <PHONE>+47 21071944</PHONE>
+                            <E_MAILS>
+                                <E_MAIL>nav.anskaffelser.ikt.konsulenttjenester@nav.no</E_MAIL>
+                            </E_MAILS>
+                            <FAX>+47 21071010</FAX>
+                        </CA_CE_CONCESSIONAIRE_PROFILE>
+                        <INTERNET_ADDRESSES_CONTRACT>
+                            <URL_GENERAL>www.nav.no</URL_GENERAL>
+                            <URL_BUYER>http://www.doffin.no//search/Search_AuthProfile.aspx?ID=AA0005</URL_BUYER>
+                        </INTERNET_ADDRESSES_CONTRACT>
+                        <FURTHER_INFORMATION>
+                            <IDEM/>
+                        </FURTHER_INFORMATION>
+                        <SPECIFICATIONS_AND_ADDITIONAL_DOCUMENTS>
+                            <IDEM/>
+                        </SPECIFICATIONS_AND_ADDITIONAL_DOCUMENTS>
+                        <TENDERS_REQUESTS_APPLICATIONS_MUST_BE_SENT_TO>
+                            <IDEM/>
+                        </TENDERS_REQUESTS_APPLICATIONS_MUST_BE_SENT_TO>
+                    </NAME_ADDRESSES_CONTACT_CONTRACT>
+                    <TYPE_AND_ACTIVITIES_AND_PURCHASING_ON_BEHALF>
+                        <TYPE_AND_ACTIVITIES>
+                            <TYPE_OF_CONTRACTING_AUTHORITY VALUE="MINISTRY"/>
+                            <TYPE_OF_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+                        </TYPE_AND_ACTIVITIES>
+                        <PURCHASING_ON_BEHALF>
+                            <PURCHASING_ON_BEHALF_NO/>
+                        </PURCHASING_ON_BEHALF>
+                    </TYPE_AND_ACTIVITIES_AND_PURCHASING_ON_BEHALF>
+                </CONTRACTING_AUTHORITY_INFORMATION>
+                <OBJECT_CONTRACT_INFORMATION>
+                    <DESCRIPTION_CONTRACT_INFORMATION>
+                        <TITLE_CONTRACT>Anskaffelse av avtale for bistand til kvalitetssikring</TITLE_CONTRACT>
+                        <TYPE_CONTRACT_LOCATION>
+                            <TYPE_CONTRACT VALUE="SERVICES"/>
+                            <SERVICE_CATEGORY>7</SERVICE_CATEGORY>
+                        </TYPE_CONTRACT_LOCATION>
+                        <LOCATION_NUTS>
+                            <LOCATION>Oslo</LOCATION>
+                        </LOCATION_NUTS>
+                        <NOTICE_INVOLVES>
+                            <PUBLIC_CONTRACT/>
+                        </NOTICE_INVOLVES>
+                        <SHORT_CONTRACT_DESCRIPTION>
+                            <P>Anskaffelsen skal dekke bistand til NAV IKT i forbindelse med kvalitetssikring av etatens
+                                sentrale satsinger på IKT-området. Dette omfatter blant annet NAVs prosjektporteføle,
+                                Moderniseringen av IKT i NAV samt systemintegrasjon og systemutvikling.
+                            </P>
+                            <P>Tjenestens samlede verdi i avtaleperioden inklusive opsjoner antas å være ca 12 - 15
+                                millioner inkl. mva.
+                            </P>
+                            <P>Vedr. varighet, se pkt. II 2.2. Se ellers kvalifikasjonsgrunnlaget for informasjon.</P>
+                            <P>Merk: For å melde din interesse i denne kunngjøringen og motta tilleggsinformasjon
+                                vennligst besøk Doffin nettsiden
+                                http://www.doffin.no/Search/Search_Switch.aspx?ID=266032.
+                            </P>
+                        </SHORT_CONTRACT_DESCRIPTION>
+                        <CPV>
+                            <CPV_MAIN>
+                                <CPV_CODE CODE="72000000"/>
+                            </CPV_MAIN>
+                            <CPV_ADDITIONAL>
+                                <CPV_CODE CODE="72224200"/>
+                            </CPV_ADDITIONAL>
+                            <CPV_ADDITIONAL>
+                                <CPV_CODE CODE="72225000"/>
+                            </CPV_ADDITIONAL>
+                        </CPV>
+                        <CONTRACT_COVERED_GPA VALUE="YES"/>
+                        <F02_DIVISION_INTO_LOTS>
+                            <DIV_INTO_LOT_NO/>
+                        </F02_DIVISION_INTO_LOTS>
+                        <ACCEPTED_VARIANTS VALUE="NO"/>
+                    </DESCRIPTION_CONTRACT_INFORMATION>
+                    <QUANTITY_SCOPE>
+                        <NATURE_QUANTITY_SCOPE>
+                            <TOTAL_QUANTITY_OR_SCOPE>
+                                <P>Tjenestens samlede verdi i avtaleperioden inklusive opsjoner antas å være ca 12-15
+                                    millioner kroner inklusive merverdiavgift
+                                </P>
+                            </TOTAL_QUANTITY_OR_SCOPE>
+                            <COSTS_RANGE_AND_CURRENCY CURRENCY="NOK">
+                                <RANGE_VALUE_COST>
+                                    <LOW_VALUE>9600000</LOW_VALUE>
+                                    <HIGH_VALUE>12000000</HIGH_VALUE>
+                                </RANGE_VALUE_COST>
+                            </COSTS_RANGE_AND_CURRENCY>
+                        </NATURE_QUANTITY_SCOPE>
+                        <OPTIONS>
+                            <OPTION_DESCRIPTION>
+                                <P>Avtalen har en varighet på 2,5 år sammenfallende med gjennomføring av Fase 1 av
+                                    Moderniseringsprogrammet fra januar 2013. NAv tar forbehold om tildeling av midler
+                                    fra bevilgende myndigheter.
+                                </P>
+                                <P>Opsjonen 1: Oppdragsgiver har opsjon på forlengelse av avtalen som sammenfaller med
+                                    Fase 2 av Moderniseringsprogrammet i NAV. Opsjonen har en varighet på inntil 2 år og
+                                    9 måneder, og vil tidligst starte i oktober 2014. For Oppdragsgivers utløsning av
+                                    opsjoner er det i alle tilfelle en forutsetning at det er tildelt tilstrekkelige
+                                    midler.
+                                </P>
+                                <P>Opsjon 2: Oppdragsgiver har opsjon på forlengelse av avtalen for Fase 3 av
+                                    Moderniseringsprogrammet. Opsjonen har en varighet på inntil 2 år og 9 måneder, og
+                                    vil tidligst starte i oktober 2016. For Oppdragsgivers utløsning av opsjoner er det
+                                    i alle tilfelle en forutsetning at det er tildelt tilstrekkelige midler.
+                                </P>
+                                <P>Avtaleforholdet vil under ingen omstendigheter overstige 6,5 år</P>
+                            </OPTION_DESCRIPTION>
+                        </OPTIONS>
+                        <RECURRENT_CONTRACT>
+                            <NUMBER_POSSIBLE_RENEWALS>2</NUMBER_POSSIBLE_RENEWALS>
+                        </RECURRENT_CONTRACT>
+                    </QUANTITY_SCOPE>
+                    <PERIOD_WORK_DATE_STARTING>
+                        <MONTHS>78</MONTHS>
+                    </PERIOD_WORK_DATE_STARTING>
+                </OBJECT_CONTRACT_INFORMATION>
+                <LEFTI_CONTRACT>
+                    <CONTRACT_RELATING_CONDITIONS>
+                        <NO_EXISTENCE_OTHER_PARTICULAR_CONDITIONS/>
+                    </CONTRACT_RELATING_CONDITIONS>
+                    <F02_CONDITIONS_FOR_PARTICIPATION>
+                        <ECONOMIC_OPERATORS_PERSONAL_SITUATION>
+                            <P>(1) Krav til å fremlegge skatteattest for merverdiavgift (Nasjonale krav)</P>
+                            <P>(2) Krav til å fremlegge skatteattest for skatt (Nasjonale krav)</P>
+                            <P>(3) Krav til å fremlegge egenerklæring i samsvar med forskriftens vedlegg 2 om HMS
+                                (Nasjonale krav)
+                            </P>
+                            <P>(4) Annet (vennligst presiser dokumentasjonskrav under):</P>
+                            <P>Krav: Det kreves at leverandøren er et lovlig etablert foretak.</P>
+                            <P>Dokumentasjonskrav:</P>
+                            <P>Norske leverandører: Firmaattest fra Brønnøysundregistrene</P>
+                            <P>Utenlandske leverandører: Attest for registrering i foretaksregister som foreskrevet i
+                                lovgivningen i den stat hvor leverandøren er etablert.
+                            </P>
+                        </ECONOMIC_OPERATORS_PERSONAL_SITUATION>
+                        <F02_ECONOMIC_FINANCIAL_CAPACITY>
+                            <EAF_CAPACITY_INFORMATION>
+                                <P>(1) Annet (vennligst presiser dokumentasjonskrav under):</P>
+                                <P>Oppdragsgiver innhenter selv kredittvurdering gjennomført av Experian. Se
+                                    www.Experian.no
+                                </P>
+                            </EAF_CAPACITY_INFORMATION>
+                            <EAF_CAPACITY_MIN_LEVEL>
+                                <P>Det kreves at leverandøren har god økonomisk soliditet. Kravet er oppfylt med en
+                                    kredittrating på ”God kredittverdighet” eller bedre.
+                                </P>
+                            </EAF_CAPACITY_MIN_LEVEL>
+                        </F02_ECONOMIC_FINANCIAL_CAPACITY>
+                        <TECHNICAL_CAPACITY_LEFTI>
+                            <T_CAPACITY_INFORMATION>
+                                <P>(1) Annet (vennligst presiser dokumentasjonskrav under):</P>
+                                <P>* Leverandøren skal synliggjøre at foretaket innehar kompetanse for gjennomføring av
+                                    denne type oppdrag. Det skal ikke angis personell som skal utføre oppdraget og det
+                                    skal ikke leveres CV.
+                                </P>
+                                <P>* Beskrivelse av leverandørens opp til 5 viktigste relevante leveranser de siste 3
+                                    årene.
+                                </P>
+                                <P>Beskrivelsen skal omfatte mottaker/oppdragsgiver, varighet,
+                                    virksomhetsområde/virksomhetsprosess, verdi, Leverandørens rolle/ansvarsområde og
+                                    beskrivelse av leveransen.
+                                </P>
+                                <P>Hvis verdi ikke kan oppgis av hensyn til konfidensialitet, ber vi Leverandøren oppgi
+                                    antall årsverk for Leverandørens innsats.Mal i vedlegg 2 i kvalifikasjonsgrunnlaget
+                                    skal anvendes.
+                                </P>
+                                <P>Navn og kontaktinformasjon til kontaktperson hos referansekunden som kan bekrefte
+                                    opplysningene må kunne oppgis på forespørsel
+                                </P>
+                                <P>* En kortfattet beskrivelse av Leverandørens generelle metoder og prosesser som er
+                                    relevante for å sikre kvaliteten.
+                                </P>
+                                <P>Redegjørelse vedrørende foretakets kvalitetssikringssystem/- styringssystem, samt
+                                    eventuelt attester utstedt av uavhengige organer.
+                                </P>
+                                <P>For alle ovennevnte dokumentasjonskrav se kravene i kvalifikasjonsgrunnlaget pkt
+                                    3.4
+                                </P>
+                            </T_CAPACITY_INFORMATION>
+                            <T_CAPACITY_MIN_LEVEL>
+                                <P>* Det kreves at Leverandøren har god gjennomføringsevne.</P>
+                                <P>* Det kreves at Leverandøren har relevant erfaring fra lignende oppdrag</P>
+                                <P>* Det kreves at Leverandøren har velprøvde og egnede metoder for kvalitetssikring</P>
+                            </T_CAPACITY_MIN_LEVEL>
+                        </TECHNICAL_CAPACITY_LEFTI>
+                    </F02_CONDITIONS_FOR_PARTICIPATION>
+                </LEFTI_CONTRACT>
+                <PROCEDURE_DEFINITION_CONTRACT_NOTICE>
+                    <TYPE_OF_PROCEDURE>
+                        <TYPE_OF_PROCEDURE_DETAIL_FOR_CONTRACT_NOTICE>
+                            <PT_NEGOTIATED_CHOICE>
+                                <IS_CANDIDATE_SELECTED VALUE="NO"/>
+                            </PT_NEGOTIATED_CHOICE>
+                        </TYPE_OF_PROCEDURE_DETAIL_FOR_CONTRACT_NOTICE>
+                        <MAXIMUM_NUMBER_INVITED>
+                            <OPE_MINIMUM_NUMBER>3</OPE_MINIMUM_NUMBER>
+                            <OPE_OBJECTIVE_CRITERIA>
+                                <P>Utvelgelsen vil bli basert på grad av oppfyllelse av nedennevnte kvalifikasjonskrav,
+                                    jf kvalifikasjonsgrunnlagets punkt 3.4.
+                                </P>
+                                <P>Følgende vekttall gjøres gjeldende ved vurderingen:</P>
+                                <P>Kvalifikasjonskrav Vekt</P>
+                                <P>Gjennomføringsevne 35 %</P>
+                                <P>Erfaring 35 %</P>
+                                <P>Metoder for kvalitetssikring 30 %</P>
+                                <P>Vurderingen av leverandørene vil foregå på følgende måte: Leverandørene gis en
+                                    karakter for hvert kvalifikasjonskrav på en poengskala fra 0 til 10 der 10 er best.
+                                    Hver av disse karakterene blir multiplisert med gjeldende vekttall.
+                                </P>
+                            </OPE_OBJECTIVE_CRITERIA>
+                        </MAXIMUM_NUMBER_INVITED>
+                        <REDUCTION_OF_THE_NUMBER VALUE="YES"/>
+                    </TYPE_OF_PROCEDURE>
+                    <AWARD_CRITERIA_CONTRACT_NOTICE_INFORMATION>
+                        <AWARD_CRITERIA_DETAIL>
+                            <MOST_ECONOMICALLY_ADVANTAGEOUS_TENDER>
+                                <CRITERIA_STATED_IN_OTHER_DOCUMENT/>
+                            </MOST_ECONOMICALLY_ADVANTAGEOUS_TENDER>
+                        </AWARD_CRITERIA_DETAIL>
+                        <IS_ELECTRONIC_AUCTION_USABLE>
+                            <NO_USE_ELECTRONIC_AUCTION/>
+                        </IS_ELECTRONIC_AUCTION_USABLE>
+                    </AWARD_CRITERIA_CONTRACT_NOTICE_INFORMATION>
+                    <ADMINISTRATIVE_INFORMATION_CONTRACT_NOTICE>
+                        <PREVIOUS_PUBLICATION_INFORMATION_NOTICE_F2>
+                            <PREVIOUS_PUBLICATION_EXISTS_F2>
+                                <PREVIOUS_PUBLICATION_NOTICE_F2>
+                                    <PRIOR_INFORMATION_NOTICE_F2 CHOICE="PRIOR_INFORMATION_NOTICE"/>
+                                    <NOTICE_NUMBER_OJ>2012/S 158-264548</NOTICE_NUMBER_OJ>
+                                    <DATE_OJ>
+                                        <DAY>18</DAY>
+                                        <MONTH>08</MONTH>
+                                        <YEAR>2012</YEAR>
+                                    </DATE_OJ>
+                                </PREVIOUS_PUBLICATION_NOTICE_F2>
+                            </PREVIOUS_PUBLICATION_EXISTS_F2>
+                        </PREVIOUS_PUBLICATION_INFORMATION_NOTICE_F2>
+                        <CONDITIONS_OBTAINING_SPECIFICATIONS>
+                            <TIME_LIMIT>
+                                <DAY>02</DAY>
+                                <MONTH>10</MONTH>
+                                <YEAR>2012</YEAR>
+                            </TIME_LIMIT>
+                        </CONDITIONS_OBTAINING_SPECIFICATIONS>
+                        <RECEIPT_LIMIT_DATE>
+                            <DAY>02</DAY>
+                            <MONTH>10</MONTH>
+                            <YEAR>2012</YEAR>
+                            <TIME>12:00</TIME>
+                        </RECEIPT_LIMIT_DATE>
+                        <DISPATCH_INVITATIONS_DATE>
+                            <DAY>10</DAY>
+                            <MONTH>10</MONTH>
+                            <YEAR>2012</YEAR>
+                        </DISPATCH_INVITATIONS_DATE>
+                        <LANGUAGE>
+                            <LANGUAGE_OTHER>Norsk</LANGUAGE_OTHER>
+                        </LANGUAGE>
+                    </ADMINISTRATIVE_INFORMATION_CONTRACT_NOTICE>
+                </PROCEDURE_DEFINITION_CONTRACT_NOTICE>
+                <COMPLEMENTARY_INFORMATION_CONTRACT_NOTICE>
+                    <ADDITIONAL_INFORMATION>
+                        <P>(NT Ref:266032)</P>
+                    </ADDITIONAL_INFORMATION>
+                    <NOTICE_DISPATCH_DATE>
+                        <DAY>28</DAY>
+                        <MONTH>08</MONTH>
+                        <YEAR>2012</YEAR>
+                    </NOTICE_DISPATCH_DATE>
+                </COMPLEMENTARY_INFORMATION_CONTRACT_NOTICE>
+            </FD_CONTRACT>
+        </CONTRACT>
+    </FORM_SECTION>
+</TED_ESENDERS>
