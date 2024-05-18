@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CONTRACT FORM="1" LG="NB" CATEGORY="ORIGINAL">
+    <SENDER>
+        <LOGIN/>
+        <USER/>
+        <NO_DOC_EXT>M83735</NO_DOC_EXT>
+    </SENDER>
+    <FD_CONTRACT CTYPE="SERVICES">
+        <COVERED_BY_GPA_YES/>
+        <AUTHORITY_CONTRACT>
+            <ADDRESS_AUTHORITY>
+                <ORGANISATION>NAV Drift og utvikling</ORGANISATION>
+                <ATTENTION>Tone Karlsen</ATTENTION>
+                <ADDRESS>Kontrakt og innkjøp, Sannergata 2, Postboks 5200 Nydalen</ADDRESS>
+                <POSTAL_CODE>0426</POSTAL_CODE>
+                <TOWN>OSLO</TOWN>
+                <COUNTRY VALUE="NO"/>
+                <PHONE>21 07 00 00</PHONE>
+                <FAX>21 07 10 00</FAX>
+                <E_MAIL>tone.karlsen@nav.no</E_MAIL>
+                <URL>www.nav.no</URL>
+            </ADDRESS_AUTHORITY>
+            <ADDRESS_INFO_OBTAINED>
+                <IDEM/>
+            </ADDRESS_INFO_OBTAINED>
+            <ADDRESS_DOC_OBTAINED>
+                <IDEM/>
+            </ADDRESS_DOC_OBTAINED>
+            <ADDRESS_REQ_SENT>
+                <IDEM/>
+            </ADDRESS_REQ_SENT>
+            <TYPE_OF_CONTRACTING_AUTHORITY VALUE="CENTRAL"/>
+        </AUTHORITY_CONTRACT>
+        <OBJECT_CONTRACT>
+            <DESCRIPTION_CONTRACT>
+                <SERVICE_CATEGORY>7</SERVICE_CATEGORY>
+                <FRAMEWORK_CONTRACT_YES/>
+                <NAME_GIVEN_TO_CONTRACT>Rammeavtale om konsulnettjenester innenfor IKT-området</NAME_GIVEN_TO_CONTRACT>
+                <DESCRIPTION_OF_CONTRACT>
+                    <P>Arbeids- og velferdsetaten v/ NAV Drift og utvikling ønsker med denne konkurransen å anskaffe
+                        avtaler for konsulenttjenester innenfor IKT-området. Avtalene skal dekke behov for kompetanse
+                        som oppdragsgiver ikke har tilgang til i egen etat på et gitt tidspunkt eller der det er et
+                        selvstendig behov for ekstern oppgaveløsning. Avtalene kan også benyttes ved behov for ekstra
+                        kapasitet.
+                    </P>
+                    <P>Konsulenttjenestene som etterspørres er delt inn i følgende kompetanseområder:
+                    </P>
+                    <P/>
+                    <P>• Prosjektledelse/Generell rådgivning
+                    </P>
+                    <P>• Teknisk arkitektur
+                    </P>
+                    <P>• Test
+                    </P>
+                    <P>• Spesialister
+                    </P>
+                    <P>• Systemutvikling/programmering
+                    </P>
+                    <P>• Datakommunikasjon
+                    </P>
+                    <P>• Telekommunikasjon
+                    </P>
+                    <P>• Elektronisk samhandling
+                    </P>
+                    <P>• Intranett, internett, e-handel og e-forvaltning
+                    </P>
+                    <P>• Drift av IT-systemer, plattformer og kommunikasjon
+                    </P>
+                    <P>• Teknisk kvalitetssikring
+                    </P>
+                    <P>• Journal/Arkiv
+                    </P>
+                    <P>• Teknisk arkitektur
+                    </P>
+                    <P>• Virksomhetsarkitektur
+                    </P>
+                    <P>• Strategiplanlegging
+                    </P>
+                    <P/>
+                    <P/>
+                    <P>Merk: Ytterligere informasjon og tilleggsinformasjon relatert til denne kunngjøringen kan være
+                        tilgjengelig på Doffin nettsiden på http://www.doffin.no/Search/Search_Switch.aspx?ID=83735.
+                    </P>
+                </DESCRIPTION_OF_CONTRACT>
+                <SITE_OR_LOCATION>
+                    <LABEL>Oslo</LABEL>
+                </SITE_OR_LOCATION>
+                <NOMENCLATURE>
+                    <CPV>
+                        <CPV_MAIN>
+                            <CPV_CODE CODE="72520000"/>
+                        </CPV_MAIN>
+                        <CPV_ADDITIONNAL>
+                            <CPV_CODE CODE="72220000"/>
+                        </CPV_ADDITIONNAL>
+                    </CPV>
+                </NOMENCLATURE>
+                <DIVISION_INTO_LOTS_YES>
+                    <SEVERAL_LOTS/>
+                </DIVISION_INTO_LOTS_YES>
+                <WILL_VARIANTS_BE_ACCEPTED_NO/>
+            </DESCRIPTION_CONTRACT>
+            <QUANTITY_OR_SCOPE>
+                <NATURE_QUANTITY_SCOPE>
+                    <P>Omfang:
+                    </P>
+                    <P>Oppdragsgiver ønsker med denne konkurransen å inngå en rammeavtale med 2 - 10 leverandører.
+                        Avtalen skal vare i 2 år med ossjon på 1 + 1 år.
+                    </P>
+                    <P/>
+                    <P>Avtalen skal gjelde for følgende enheter i etaten:
+                    </P>
+                    <P>• Arbeids- og velferdsdirektoratet
+                    </P>
+                    <P>• NAV Drift og utvikling
+                    </P>
+                    <P>• Eventuelt andre sentrale enheter som opprettes i avtaleperioden
+                    </P>
+                    <P/>
+                </NATURE_QUANTITY_SCOPE>
+                <OPTIONS_DESCRIPTION_AND_TIME>
+                    <P>Det er opsjon på forlengelse i 1 + 1 år.</P>
+                </OPTIONS_DESCRIPTION_AND_TIME>
+            </QUANTITY_OR_SCOPE>
+            <DURATION_LIMIT>
+                <CONTRACT_STARTING>
+                    <DAY>29</DAY>
+                    <MONTH>03</MONTH>
+                    <YEAR>2007</YEAR>
+                </CONTRACT_STARTING>
+                <CONTRACT_ENDING>
+                    <DAY>29</DAY>
+                    <MONTH>03</MONTH>
+                    <YEAR>2009</YEAR>
+                </CONTRACT_ENDING>
+            </DURATION_LIMIT>
+        </OBJECT_CONTRACT>
+        <INFORMATION_CONTRACT>
+            <CONTRACT_CONDITION>
+                <DEPOSITS_GUARANTEES_REQUIRED>
+                    <P/>
+                </DEPOSITS_GUARANTEES_REQUIRED>
+                <TERMS_OF_FINANCING_AND_PAYMENT>
+                    <P>Se konkurransegrunnlaget.</P>
+                </TERMS_OF_FINANCING_AND_PAYMENT>
+                <LEGAL_FORM_TO_BE_TAKEN>
+                    <P/>
+                </LEGAL_FORM_TO_BE_TAKEN>
+            </CONTRACT_CONDITION>
+            <PARTICIPATION_CONDITION_1_9>
+                <CONTRACTOR_SITUATION>
+                    <DATA>
+                        <P>- Det kreves at leverandøren har et lovlig etablert foretak
+                        </P>
+                        <P>- Det kreves tilstrekkelig økonomi for å kunne gjennomføre den aktuelle kontrakten
+                        </P>
+                        <P>- Det kreves betydelig og relevant erfaring fra tilsvarende oppdrag
+                        </P>
+                        <P>- Det kreves et godt og velfungerende kvalitetssikringssystem</P>
+                    </DATA>
+                    <LEGAL_STATUS>
+                        <P>(1) Firmaattest</P>
+                        <P>(2) HMS - For arbeid som skal utføres i Norge skal oppdragsgiver kreve at samtlige
+                            leverandører fremlegger en egenerklæring om at leverandøren oppfyller, eller ved eventuell
+                            tildeling av kontrakt, vil oppfylle, lovbestemte krav i Norge innen helse, miljø og
+                            sikkerhet (HMS). Denne bestemmelsen gjelder ikke varekontrakter og ved direkte anskaffelser.
+                        </P>
+                        <P>(3) MVA-Attest</P>
+                        <P>(4) Skatteattest</P>
+                    </LEGAL_STATUS>
+                    <FINANCIAL_CAPACITY>
+                        <P>Fremleggelse av foretakets årsregnskap eller utdrag fra dette</P>
+                    </FINANCIAL_CAPACITY>
+                    <TECHNICAL_CAPACITY>
+                        <P>Redegjørelse vedrørende foretakets kvalitetssikringssystem/- styringssystem</P>
+                    </TECHNICAL_CAPACITY>
+                </CONTRACTOR_SITUATION>
+            </PARTICIPATION_CONDITION_1_9>
+            <SERVICE_CONDITION>
+                <SPECIFIC_PROFESSION_NO/>
+                <LEGAL_ENTITIES_REQUIRED_TO_STATE_NO/>
+            </SERVICE_CONDITION>
+        </INFORMATION_CONTRACT>
+        <PROCEDURES_CONTRACT>
+            <TYPE_OF_PROCEDURE_CONTRACT CPROC="OPEN">
+                <CANDIDATES_ALREADY_SELECTED_NO/>
+                <PREVIOUS_PUBLICATIONS/>
+            </TYPE_OF_PROCEDURE_CONTRACT>
+            <AWARD_CRITERIA_1_4_8>
+                <MOST_ECONOMIC_1_4_8>
+                    <AS_STATED_IN_CONTRACT/>
+                </MOST_ECONOMIC_1_4_8>
+            </AWARD_CRITERIA_1_4_8>
+            <ADMINISTRATIVE_INFORMATION_1_4>
+                <REFERENCE_NUMBER_ATTRIBUTED/>
+                <OBTAINING_DOCUMENTATION>
+                    <CONTRACT_OBTAINABLE_UNTIL>
+                        <DAY>09</DAY>
+                        <MONTH>02</MONTH>
+                        <YEAR>2007</YEAR>
+                    </CONTRACT_OBTAINABLE_UNTIL>
+                    <DOCUMENT_METHOD_OF_PAYMENT/>
+                </OBTAINING_DOCUMENTATION>
+                <TIME_LIMIT>
+                    <DEADLINE_TENDER>
+                        <DEADLINE_TENDER_DATE>
+                            <DAY>12</DAY>
+                            <MONTH>02</MONTH>
+                            <YEAR>2007</YEAR>
+                        </DEADLINE_TENDER_DATE>
+                    </DEADLINE_TENDER>
+                    <DEADLINE_TENDER_HOUR>12:00</DEADLINE_TENDER_HOUR>
+                </TIME_LIMIT>
+                <LANGUAGE>
+                    <LANGUAGE_OTHER>Norsk</LANGUAGE_OTHER>
+                </LANGUAGE>
+                <TENDER_VALID>
+                    <TENDER_VALID_UNTIL>
+                        <DAY>14</DAY>
+                        <MONTH>05</MONTH>
+                        <YEAR>2007</YEAR>
+                    </TENDER_VALID_UNTIL>
+                </TENDER_VALID>
+                <CONDITION_OPENING>
+                    <PERSONS_AUTHORISED_TO_BE_PRESENT>Tilbudsåpningen vil ikke være offentlig.
+                    </PERSONS_AUTHORISED_TO_BE_PRESENT>
+                    <CONDITION_DTP>
+                        <TENDER_OPENING_DATE>
+                            <DAY>12</DAY>
+                            <MONTH>02</MONTH>
+                            <YEAR>2007</YEAR>
+                        </TENDER_OPENING_DATE>
+                        <TENDER_OPENING_HOUR>13:00</TENDER_OPENING_HOUR>
+                        <TENDER_OPENING_PLACE>Nav Drift og utvikling, Sannergata 2, 0557 Oslo</TENDER_OPENING_PLACE>
+                    </CONDITION_DTP>
+                </CONDITION_OPENING>
+            </ADMINISTRATIVE_INFORMATION_1_4>
+        </PROCEDURES_CONTRACT>
+        <OTH_INFO_CONTRACT>
+            <NON_MANDATORY_NO/>
+            <IS_RECURRENT_AND_TIMING>Nei</IS_RECURRENT_AND_TIMING>
+            <RELATES_TO_EU_PROJECT_NO/>
+            <OTHER_INFORMATION>
+                <P>Se konkurransegrunnlaget del I for ytterligere krav til dokumentasjon på leverandørens finansielle og
+                    økonomiske stilling.
+                </P>
+                <P>(NT Ref:83735)</P>
+            </OTHER_INFORMATION>
+            <NOTICE_DISPATCH_DATE>
+                <DAY>20</DAY>
+                <MONTH>12</MONTH>
+                <YEAR>2006</YEAR>
+            </NOTICE_DISPATCH_DATE>
+        </OTH_INFO_CONTRACT>
+    </FD_CONTRACT>
+</CONTRACT>
