@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CONTRACT LG="NB" CATEGORY="ORIGINAL" FORM="2" VERSION="R2.0.6">
+    <SENDER>
+        <LOGIN CLASS="B"/>
+        <USER/>
+        <NO_DOC_EXT>M182219</NO_DOC_EXT>
+    </SENDER>
+    <FD_CONTRACT CTYPE="SERVICES">
+        <CONTRACTING_AUTHORITY_INFORMATION>
+            <NAME_ADDRESSES_CONTACT_CONTRACT>
+                <CA_CE_CONCESSIONAIRE_PROFILE>
+                    <ORGANISATION>NAV Drift og utvikling</ORGANISATION>
+                    <ADDRESS>Sannergata 2, Postboks 5200 Nydalen</ADDRESS>
+                    <TOWN>OSLO</TOWN>
+                    <POSTAL_CODE>0426</POSTAL_CODE>
+                    <COUNTRY VALUE="NO"/>
+                    <CONTACT_POINT>Anskaffelse og økonomi</CONTACT_POINT>
+                    <ATTENTION>Gunnar Helge Wiik</ATTENTION>
+                    <PHONE>21 07 10 00</PHONE>
+                    <E_MAIL>gunnar.helge.wiik@nav.no</E_MAIL>
+                    <FAX>21 07 10 10</FAX>
+                </CA_CE_CONCESSIONAIRE_PROFILE>
+                <INTERNET_ADDRESSES_CONTRACT>
+                    <URL_GENERAL>www.nav.no</URL_GENERAL>
+                    <URL_BUYER>http://www.doffin.no/search/Search_AuthProfile.aspx?ID=AA0005</URL_BUYER>
+                </INTERNET_ADDRESSES_CONTRACT>
+                <FURTHER_INFORMATION>
+                    <CONTACT_DATA>
+                        <ORGANISATION>NAV Drift og utvikling</ORGANISATION>
+                        <ADDRESS>Sannergata 2, Postboks 5200 Nydalen</ADDRESS>
+                        <TOWN>OSLO</TOWN>
+                        <POSTAL_CODE>0426</POSTAL_CODE>
+                        <COUNTRY VALUE="NO"/>
+                        <CONTACT_POINT>Anskaffelse og økonomi</CONTACT_POINT>
+                        <ATTENTION>Gunnar Helge Wiik</ATTENTION>
+                        <PHONE>21 07 10 00</PHONE>
+                        <E_MAIL>gunnar.helge.wiik@nav.no</E_MAIL>
+                        <FAX>21 07 10 10</FAX>
+                        <URL>www.nav.no</URL>
+                    </CONTACT_DATA>
+                </FURTHER_INFORMATION>
+                <SPECIFICATIONS_AND_ADDITIONAL_DOCUMENTS>
+                    <IDEM/>
+                </SPECIFICATIONS_AND_ADDITIONAL_DOCUMENTS>
+                <TENDERS_REQUESTS_APPLICATIONS_MUST_BE_SENT_TO>
+                    <IDEM/>
+                </TENDERS_REQUESTS_APPLICATIONS_MUST_BE_SENT_TO>
+            </NAME_ADDRESSES_CONTACT_CONTRACT>
+            <TYPE_AND_ACTIVITIES_AND_PURCHASING_ON_BEHALF>
+                <TYPE_AND_ACTIVITIES>
+                    <TYPE_OF_CONTRACTING_AUTHORITY VALUE="NATIONAL_AGENCY"/>
+                    <TYPE_OF_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+                </TYPE_AND_ACTIVITIES>
+            </TYPE_AND_ACTIVITIES_AND_PURCHASING_ON_BEHALF>
+        </CONTRACTING_AUTHORITY_INFORMATION>
+        <OBJECT_CONTRACT_INFORMATION>
+            <DESCRIPTION_CONTRACT_INFORMATION>
+                <TITLE_CONTRACT>Anskaffelse av vedlikeholds- og videreutviklingsavtale for Fellessystemer
+                </TITLE_CONTRACT>
+                <TYPE_CONTRACT_LOCATION>
+                    <TYPE_CONTRACT VALUE="SERVICES"/>
+                    <SERVICE_CATEGORY VALUE="7"/>
+                </TYPE_CONTRACT_LOCATION>
+                <LOCATION_NUTS>
+                    <LOCATION>Oslo</LOCATION>
+                </LOCATION_NUTS>
+                <NOTICE_INVOLVES VALUE="PUBLIC_CONTRACT"/>
+                <SHORT_CONTRACT_DESCRIPTION>
+                    <P>Målet med anskaffelsen er å inngå vedlikeholdsavtale og rammeavtale for videreutvikling med en
+                        leverandør på tjenester knyttet til Fellessystemer. Den årlige verdien av avtalen vil variere,
+                        men omfanget antas normalt å ligge innenfor 10 til 17 mill. NOK pr. år.
+                    </P>
+                    <P>
+                        <P/>
+                        <P/>
+                        <P>Merk: For å melde din interesse i denne kunngjøringen og motta tilleggsinformasjon vennligst
+                            besøk Doffin nettsiden http://www.doffin.no/Search/Search_Switch.aspx?ID=182219.
+                        </P>
+                    </P>
+                </SHORT_CONTRACT_DESCRIPTION>
+                <CPV>
+                    <CPV_MAIN>
+                        <CPV_CODE CODE="72230000"/>
+                    </CPV_MAIN>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72267100"/>
+                    </CPV_ADDITIONAL>
+                </CPV>
+                <CONTRACT_COVERED_GPA VALUE="YES"/>
+                <F02_DIVISION_INTO_LOTS>
+                    <DIV_INTO_LOT_NO/>
+                </F02_DIVISION_INTO_LOTS>
+            </DESCRIPTION_CONTRACT_INFORMATION>
+            <QUANTITY_SCOPE>
+                <NATURE_QUANTITY_SCOPE>
+                    <COSTS_RANGE_AND_CURRENCY CURRENCY="NOK">
+                        <RANGE_VALUE_COST>
+                            <LOW_VALUE>60000000</LOW_VALUE>
+                            <HIGH_VALUE>102000000</HIGH_VALUE>
+                        </RANGE_VALUE_COST>
+                    </COSTS_RANGE_AND_CURRENCY>
+                </NATURE_QUANTITY_SCOPE>
+                <NO_OPTIONS/>
+            </QUANTITY_SCOPE>
+            <PERIOD_WORK_DATE_STARTING>
+                <MONTHS>72</MONTHS>
+            </PERIOD_WORK_DATE_STARTING>
+        </OBJECT_CONTRACT_INFORMATION>
+        <LEFTI_CONTRACT>
+            <CONTRACT_RELATING_CONDITIONS>
+                <MAIN_FINANCING_CONDITIONS>
+                    <P>Se konkurransegrunnlaget</P>
+                </MAIN_FINANCING_CONDITIONS>
+                <NO_EXISTENCE_OTHER_PARTICULAR_CONDITIONS/>
+            </CONTRACT_RELATING_CONDITIONS>
+            <F02_CONDITIONS_FOR_PARTICIPATION>
+                <ECONOMIC_OPERATORS_PERSONAL_SITUATION>
+                    <P>
+                        (1) Firmaattest
+                    </P>
+                    <P>
+                        (2) Krav til å fremlegge skatteattest for merverdiavgift (Nasjonale krav)
+                    </P>
+                    <P>
+                        (3) Krav til å fremlegge skatteattest for skatt (Nasjonale krav)
+                    </P>
+                    <P>
+                        (4) Krav til å fremlegge egenerklæring i samsvar med forskriftens vedlegg 2 om HMS (Nasjonale
+                        krav)
+                    </P>
+                    <P>
+                        (5) Annet (vennligst presiser dokumentasjonskrav under):
+                    </P>
+                    <P>Jf. konkurransegrunnlaget</P>
+                </ECONOMIC_OPERATORS_PERSONAL_SITUATION>
+                <F02_ECONOMIC_FINANCIAL_CAPACITY>
+                    <EAF_CAPACITY_INFORMATION>
+                        <P>
+                            (1) Annet (vennligst presiser dokumentasjonskrav under):
+                        </P>
+                        <P>Se konkurransegrunnlag</P>
+                    </EAF_CAPACITY_INFORMATION>
+                    <EAF_CAPACITY_MIN_LEVEL>
+                        <P>Det kreves at tilbyder har god økonomisk soliditet</P>
+                    </EAF_CAPACITY_MIN_LEVEL>
+                </F02_ECONOMIC_FINANCIAL_CAPACITY>
+                <TECHNICAL_CAPACITY_LEFTI>
+                    <T_CAPACITY_INFORMATION>
+                        <P>
+                            (1) Annet (vennligst presiser dokumentasjonskrav under):
+                        </P>
+                        <P>Se kvalifikasjonsgrunnlag</P>
+                    </T_CAPACITY_INFORMATION>
+                </TECHNICAL_CAPACITY_LEFTI>
+            </F02_CONDITIONS_FOR_PARTICIPATION>
+            <SERVICES_CONTRACTS_SPECIFIC_CONDITIONS>
+                <REQUESTS_NAMES_PROFESSIONAL_QUALIFICATIONS VALUE="YES"/>
+            </SERVICES_CONTRACTS_SPECIFIC_CONDITIONS>
+        </LEFTI_CONTRACT>
+        <PROCEDURE_DEFINITION_CONTRACT_NOTICE>
+            <TYPE_OF_PROCEDURE>
+                <TYPE_OF_PROCEDURE_DETAIL_FOR_CONTRACT_NOTICE>
+                    <PT_NEGOTIATED_CHOICE>
+                        <IS_CANDIDATE_SELECTED VALUE="NO"/>
+                    </PT_NEGOTIATED_CHOICE>
+                </TYPE_OF_PROCEDURE_DETAIL_FOR_CONTRACT_NOTICE>
+                <MAXIMUM_NUMBER_INVITED>
+                    <OPE_MINIMUM_NUMBER>3</OPE_MINIMUM_NUMBER>
+                    <OPE_MAXIMUM_NUMBER>5</OPE_MAXIMUM_NUMBER>
+                    <OPE_OBJECTIVE_CRITERIA>
+                        <P>Jf. kvalifikasjonsgrunnlag.</P>
+                    </OPE_OBJECTIVE_CRITERIA>
+                </MAXIMUM_NUMBER_INVITED>
+                <REDUCTION_OF_THE_NUMBER VALUE="YES"/>
+            </TYPE_OF_PROCEDURE>
+            <AWARD_CRITERIA_CONTRACT_NOTICE_INFORMATION>
+                <AWARD_CRITERIA_DETAIL>
+                    <MOST_ECONOMICALLY_ADVANTAGEOUS_TENDER>
+                        <CRITERIA_STATED_IN_OTHER_DOCUMENT/>
+                    </MOST_ECONOMICALLY_ADVANTAGEOUS_TENDER>
+                </AWARD_CRITERIA_DETAIL>
+                <IS_ELECTRONIC_AUCTION_USABLE>
+                    <NO_USE_ELECTRONIC_AUCTION/>
+                </IS_ELECTRONIC_AUCTION_USABLE>
+            </AWARD_CRITERIA_CONTRACT_NOTICE_INFORMATION>
+            <ADMINISTRATIVE_INFORMATION_CONTRACT_NOTICE>
+                <CONDITIONS_OBTAINING_SPECIFICATIONS>
+                    <TIME_LIMIT>
+                        <DAY>09</DAY>
+                        <MONTH>11</MONTH>
+                        <YEAR>2009</YEAR>
+                    </TIME_LIMIT>
+                </CONDITIONS_OBTAINING_SPECIFICATIONS>
+                <RECEIPT_LIMIT_DATE>
+                    <DAY>16</DAY>
+                    <MONTH>11</MONTH>
+                    <YEAR>2009</YEAR>
+                    <TIME>12:00</TIME>
+                </RECEIPT_LIMIT_DATE>
+                <DISPATCH_INVITATIONS_DATE>
+                    <DAY>15</DAY>
+                    <MONTH>02</MONTH>
+                    <YEAR>2010</YEAR>
+                </DISPATCH_INVITATIONS_DATE>
+                <LANGUAGE>
+                    <LANGUAGE_OTHER>Norsk</LANGUAGE_OTHER>
+                </LANGUAGE>
+            </ADMINISTRATIVE_INFORMATION_CONTRACT_NOTICE>
+        </PROCEDURE_DEFINITION_CONTRACT_NOTICE>
+        <COMPLEMENTARY_INFORMATION_CONTRACT_NOTICE>
+            <ADDITIONAL_INFORMATION>
+                <P>(NT Ref:182219)</P>
+            </ADDITIONAL_INFORMATION>
+            <NOTICE_DISPATCH_DATE>
+                <DAY>12</DAY>
+                <MONTH>10</MONTH>
+                <YEAR>2009</YEAR>
+            </NOTICE_DISPATCH_DATE>
+        </COMPLEMENTARY_INFORMATION_CONTRACT_NOTICE>
+    </FD_CONTRACT>
+</CONTRACT>

@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CONTRACT FORM="1">
+    <NOJ_SECTION>
+        <SECTION_0>
+            <CTRL_CPROC>3</CTRL_CPROC>
+            <NOJ_DTD_VERSION>1.4</NOJ_DTD_VERSION>
+            <NOJ_VERSION>1- test</NOJ_VERSION>
+            <NOJ_FORM>Kunngjøring av konkurranse</NOJ_FORM>
+            <NOJ_FORM_ID>200212</NOJ_FORM_ID>
+            <NOJ_PUBLISHING>2</NOJ_PUBLISHING>
+            <NOJ_THRESHOLD>1</NOJ_THRESHOLD>
+            <NOJ_LOBBY_ID>1</NOJ_LOBBY_ID>
+            <NOJ_NL_TITTEL>Rammeavtaler om konsulenttjenester innen teknisk kvalitetssikring</NOJ_NL_TITTEL>
+            <NOJ_TRANSLATE_YES>-1</NOJ_TRANSLATE_YES>
+            <NOJ_TRANSLATE_NO>0</NOJ_TRANSLATE_NO>
+            <NOJ_PUBLISHING_NO>0</NOJ_PUBLISHING_NO>
+            <NOJ_PUBLISHING_SHORT>-1</NOJ_PUBLISHING_SHORT>
+            <NOJ_PUBLISHING_LONG>0</NOJ_PUBLISHING_LONG>
+            <NOJ_THRESHOLD_ABOVE>-1</NOJ_THRESHOLD_ABOVE>
+            <NOJ_THRESHOLD_BELOW>0</NOJ_THRESHOLD_BELOW>
+            <NOJ_SENDER_ORGANISATION>Aetat Arbeidsdirektoratet</NOJ_SENDER_ORGANISATION>
+            <NOJ_SENDER_ATTENTION>Hendrik Stang Lund</NOJ_SENDER_ATTENTION>
+            <NOJ_SENDER_ADDRESS>Postboks 8127 Dep, 0032 Oslo</NOJ_SENDER_ADDRESS>
+            <NOJ_SENDER_TELEPHONE>23 35 24 89</NOJ_SENDER_TELEPHONE>
+            <NOJ_SENDER_MOBILE/>
+            <NOJ_SENDER_FAX>35 35 27 58</NOJ_SENDER_FAX>
+            <NOJ_SENDER_E_MAIL>hsl@adir.aetat.no</NOJ_SENDER_E_MAIL>
+            <NOJ_SENDER_MESSAGE/>
+            <NOJ_DATE_RECEIPT/>
+            <NOJ_IDENTIFIER/>
+            <NOJ_NLREF>2004-14693</NOJ_NLREF>
+            <NOJ_COUNTRY>NO</NOJ_COUNTRY>
+            <NOJ_LANGUAGE>NO</NOJ_LANGUAGE>
+        </SECTION_0>
+        <SECTION_1>
+            <NOJ_COUNTRY_CODE>Norge</NOJ_COUNTRY_CODE>
+            <CTRL_CTYPE>3</CTRL_CTYPE>
+            <NOJ_CTYPE>3</NOJ_CTYPE>
+            <NOJ_OG_ORGANISATION/>
+            <NOJ_OG_ATTENTION/>
+            <NOJ_OG_ADDRESS/>
+            <NOJ_OG_POSTAL_CODE/>
+            <NOJ_OG_TOWN/>
+            <NOJ_OG_COUNTRY/>
+            <NOJ_OG_PHONE/>
+            <NOJ_OG_FAX/>
+            <NOJ_OG_E_MAIL/>
+            <NOJ_OG_URL/>
+        </SECTION_1>
+        <SECTION_3>
+            <NOJ_DEPOSITS_GUARANTEES_REQUIRED>
+                <NOJ_DEPOSITS_AMOUNT/>
+                <NOJ_DEPOSITS_CURRENCY/>
+                <NOJ_DEPOSITS_EQUIVALENT_PERCENTAGE_OF_VALUE/>
+                <NOJ_DEPOSIT_CASH_SECURITIES>0</NOJ_DEPOSIT_CASH_SECURITIES>
+                <NOJ_PERFORMANCE_BOND>0</NOJ_PERFORMANCE_BOND>
+                <NOJ_BANK_GUARANTEE>0</NOJ_BANK_GUARANTEE>
+                <NOJ_INDEMNITY_INSURANCE>0</NOJ_INDEMNITY_INSURANCE>
+                <NOJ_SOLIDARITY_SECURITY>0</NOJ_SOLIDARITY_SECURITY>
+                <NOJ_OTHER_GUARANTEES_CHECK>0</NOJ_OTHER_GUARANTEES_CHECK>
+                <NOJ_SEE_TENDER_DOCUMENTS_DEPOSITS>1</NOJ_SEE_TENDER_DOCUMENTS_DEPOSITS>
+                <NOJ_OTHER_GUARANTEES/>
+            </NOJ_DEPOSITS_GUARANTEES_REQUIRED>
+            <NOJ_TERMS_OF_FINANCING_AND_PAYMENT>
+                <NOJ_PROGRESS_PAYMENTS>0</NOJ_PROGRESS_PAYMENTS>
+                <NOJ_FIXED_PRICE>0</NOJ_FIXED_PRICE>
+                <NOJ_PRICE_VARIATION_CLAUSE>0</NOJ_PRICE_VARIATION_CLAUSE>
+                <NOJ_INSTALMENTS>0</NOJ_INSTALMENTS>
+                <NOJ_FIXED_PRICE_INDEX>0</NOJ_FIXED_PRICE_INDEX>
+                <NOJ_PRICE_REVISION_CLAUSE>0</NOJ_PRICE_REVISION_CLAUSE>
+                <NOJ_SEE_TENDER_DOCUMENTS_FINANCING>1</NOJ_SEE_TENDER_DOCUMENTS_FINANCING>
+                <NOJ_OTHER_TERMS_OF_FINANCING_AND_PAYMENT/>
+            </NOJ_TERMS_OF_FINANCING_AND_PAYMENT>
+            <NOJ_LEGAL_FORM_TO_BE_TAKEN>
+                <NOJ_LIMITED_COMPANY>0</NOJ_LIMITED_COMPANY>
+                <NOJ_JOINT_VENTURE>0</NOJ_JOINT_VENTURE>
+                <NOJ_PARTNERSHIP>0</NOJ_PARTNERSHIP>
+                <NOJ_EUROPEAN_ECONOMIC_GROUPING>0</NOJ_EUROPEAN_ECONOMIC_GROUPING>
+                <NOJ_SEE_TENDER_DOCUMENTS_LEGAL_FORM>1</NOJ_SEE_TENDER_DOCUMENTS_LEGAL_FORM>
+                <NOJ_OTHER_LEGAL_FORM_TO_BE_TAKEN/>
+            </NOJ_LEGAL_FORM_TO_BE_TAKEN>
+            <NOJ_OTHER_INFORMATION_PERSONAL_SITUATION>
+                <NOJ_QUALIFICATION>1</NOJ_QUALIFICATION>
+                <NOJ_CERTIFICATE_TAX>1</NOJ_CERTIFICATE_TAX>
+                <NOJ_CERTIFICATE_VAT>1</NOJ_CERTIFICATE_VAT>
+                <NOJ_HES_DECLARATION>1</NOJ_HES_DECLARATION>
+                <NOJ_COMPANY_CERTIFICATE>1</NOJ_COMPANY_CERTIFICATE>
+                <NOJ_APPRENTICESHIP_MEMBER>0</NOJ_APPRENTICESHIP_MEMBER>
+                <NOJ_CERTIFICATE_REGISTRATION>0</NOJ_CERTIFICATE_REGISTRATION>
+                <NOJ_COMPANY_LAST_ANNUAL_REPORT>1</NOJ_COMPANY_LAST_ANNUAL_REPORT>
+                <NOJ_UNDERTAKINGS_BALANCE_SHEETS>1</NOJ_UNDERTAKINGS_BALANCE_SHEETS>
+                <NOJ_STATEMENT_UNDERTAKINGS_TURNOVER>1</NOJ_STATEMENT_UNDERTAKINGS_TURNOVER>
+                <NOJ_DETAILS_SUPPLY_TOTAL_MANPOWER>0</NOJ_DETAILS_SUPPLY_TOTAL_MANPOWER>
+                <NOJ_DETAILS_SUPPLY_PRINCIPAL_DELIVERIES>0</NOJ_DETAILS_SUPPLY_PRINCIPAL_DELIVERIES>
+                <NOJ_DETAILS_SUPPLY_SAMPLES>0</NOJ_DETAILS_SUPPLY_SAMPLES>
+                <NOJ_DETAILS_SUPPLY_HES>0</NOJ_DETAILS_SUPPLY_HES>
+                <NOJ_DETAILS_SUPPLY_QUALITY_ASSURANCE>0</NOJ_DETAILS_SUPPLY_QUALITY_ASSURANCE>
+                <NOJ_DETAILS_SUPPLY_QUALITY_CONTROL>0</NOJ_DETAILS_SUPPLY_QUALITY_CONTROL>
+                <NOJ_DETAILS_SERVICE_TOTAL_MANPOWER>1</NOJ_DETAILS_SERVICE_TOTAL_MANPOWER>
+                <NOJ_DETAILS_SERVICE_MANPOWER>1</NOJ_DETAILS_SERVICE_MANPOWER>
+                <NOJ_DETAILS_SERVICE_PRINCIPAL_DELIVERIES>1</NOJ_DETAILS_SERVICE_PRINCIPAL_DELIVERIES>
+                <NOJ_DETAILS_SERVICE_HES>0</NOJ_DETAILS_SERVICE_HES>
+                <NOJ_DETAILS_SERVICE_QUALITY_ASSURANCE>1</NOJ_DETAILS_SERVICE_QUALITY_ASSURANCE>
+                <NOJ_DETAILS_SERVICE_QUALITY_CONTROL>0</NOJ_DETAILS_SERVICE_QUALITY_CONTROL>
+                <NOJ_DETAILS_WORK_TOTAL_MANPOWER>0</NOJ_DETAILS_WORK_TOTAL_MANPOWER>
+                <NOJ_DETAILS_WORK_MANPOWER>0</NOJ_DETAILS_WORK_MANPOWER>
+                <NOJ_DETAILS_WORK_PRINCIPAL_DELIVERIES>0</NOJ_DETAILS_WORK_PRINCIPAL_DELIVERIES>
+                <NOJ_DETAILS_WORK_TOOLS_EQUIPMENT>0</NOJ_DETAILS_WORK_TOOLS_EQUIPMENT>
+                <NOJ_DETAILS_WORK_HES>0</NOJ_DETAILS_WORK_HES>
+                <NOJ_DETAILS_WORK_QUALITY_ASSURANCE>0</NOJ_DETAILS_WORK_QUALITY_ASSURANCE>
+                <NOJ_DETAILS_WORK_QUALITY_CONTROL>0</NOJ_DETAILS_WORK_QUALITY_CONTROL>
+                <NOJ_LEGAL_STATUS/>
+                <NOJ_LEGAL_STATUS_DOCUMENTS/>
+                <NOJ_FINANCIAL_CAPACITY/>
+                <NOJ_FINANCIAL_CAPACITY_DOCUMENTS/>
+                <NOJ_TECHNICAL_CAPACITY/>
+                <NOJ_SUPPLY_TECHNICAL_CAPACITY_DOCUMENTS/>
+                <NOJ_SERVICE_TECHNICAL_CAPACITY_DOCUMENTS/>
+                <NOJ_WORKS_TECHNICAL_CAPACITY_DOCUMENTS/>
+            </NOJ_OTHER_INFORMATION_PERSONAL_SITUATION>
+        </SECTION_3>
+        <SECTION_4>
+            <NOJ_DELIVERY_OR_COMPLETION_DATE>0</NOJ_DELIVERY_OR_COMPLETION_DATE>
+            <NOJ_SECURITY_OF_SUPPLIES>0</NOJ_SECURITY_OF_SUPPLIES>
+            <NOJ_AVAILABILITY_OF_SPARES>0</NOJ_AVAILABILITY_OF_SPARES>
+            <NOJ_AFTER_SALES_SERVICE>0</NOJ_AFTER_SALES_SERVICE>
+            <NOJ_RUNNING_COSTS>0</NOJ_RUNNING_COSTS>
+            <NOJ_PROFITABILITY>0</NOJ_PROFITABILITY>
+            <NOJ_TECHNICAL_MERIT>0</NOJ_TECHNICAL_MERIT>
+            <NOJ_AESTETHIC_AND_FUNCTIONAL_CHARACTERISTICS>0</NOJ_AESTETHIC_AND_FUNCTIONAL_CHARACTERISTICS>
+            <NOJ_PRICE>0</NOJ_PRICE>
+            <NOJ_QUALITY>0</NOJ_QUALITY>
+            <NOJ_OTHER_AWARD_CRITERIA>0</NOJ_OTHER_AWARD_CRITERIA>
+            <NOJ_LIST_CRITERIA_01/>
+            <NOJ_LIST_CRITERIA_02/>
+            <NOJ_LIST_CRITERIA_03/>
+            <NOJ_LIST_CRITERIA_04/>
+            <NOJ_LIST_CRITERIA_05/>
+            <NOJ_LIST_CRITERIA_06/>
+            <NOJ_LIST_CRITERIA_07/>
+            <NOJ_LIST_CRITERIA_08/>
+            <NOJ_LIST_CRITERIA_09/>
+            <NOJ_LIST_CRITERIA_10/>
+        </SECTION_4>
+        <ANNEXA>
+            <NOJ_COUNTRY_FURTHER_INFO>Norge</NOJ_COUNTRY_FURTHER_INFO>
+            <NOJ_COUNTRY_DOCUMENTS>Norge</NOJ_COUNTRY_DOCUMENTS>
+            <NOJ_COUNTRY_TENDERS>Norge</NOJ_COUNTRY_TENDERS>
+        </ANNEXA>
+    </NOJ_SECTION>
+    <FD_CONTRACT CTYPE="SERVICES">
+        <COVERED_BY_GPA_YES/>
+        <AUTHORITY_CONTRACT>
+            <ADDRESS_AUTHORITY>
+                <ORGANISATION>Aetat Arbeidsdirektoratet</ORGANISATION>
+                <ATTENTION>Cecilie Trehjørningen</ATTENTION>
+                <ADDRESS>Postboks 8127 Dep</ADDRESS>
+                <POSTAL_CODE>0032</POSTAL_CODE>
+                <TOWN>Oslo</TOWN>
+                <COUNTRY VALUE="NO"/>
+                <PHONE>23 35 24 00</PHONE>
+                <FAX>35 35 27 52</FAX>
+                <E_MAIL>rammeavtalerIKT@adir.aetat.no</E_MAIL>
+                <URL>www.aetat.no</URL>
+            </ADDRESS_AUTHORITY>
+            <ADDRESS_INFO_OBTAINED>
+                <IDEM/>
+            </ADDRESS_INFO_OBTAINED>
+            <ADDRESS_DOC_OBTAINED>
+                <IDEM/>
+            </ADDRESS_DOC_OBTAINED>
+            <ADDRESS_REQ_SENT>
+                <IDEM/>
+            </ADDRESS_REQ_SENT>
+            <TYPE_OF_CONTRACTING_AUTHORITY VALUE="CENTRAL"/>
+        </AUTHORITY_CONTRACT>
+        <OBJECT_CONTRACT>
+            <DESCRIPTION_CONTRACT>
+                <SERVICE_CATEGORY>07</SERVICE_CATEGORY>
+                <FRAMEWORK_CONTRACT_YES/>
+                <NAME_GIVEN_TO_CONTRACT>Rammeavtaler om konsulenttjenester innen teknisk kvalitetssikring
+                </NAME_GIVEN_TO_CONTRACT>
+                <DESCRIPTION_OF_CONTRACT>Denne rammeavtalen vil være knyttet til: 1) Teknisk og funksjonell
+                    kvalitetssikring, periodisk og eventuelt løpende. 2) Kvalitetssikre og bistå i utforming av
+                    enterprise- og systemarkitektur. 3) Identifisere risikoområder og foreslå mulige tiltak, herunder
+                    etablere handlingsplan og bistå i gjennomføringen av denne.
+                </DESCRIPTION_OF_CONTRACT>
+                <SITE_OR_LOCATION>
+                    <LABEL>Oslo</LABEL>
+                </SITE_OR_LOCATION>
+                <NOMENCLATURE>
+                    <CPV>
+                        <CPV_MAIN>
+                            <CPV_CODE CODE="72000000"/>
+                        </CPV_MAIN>
+                    </CPV>
+                </NOMENCLATURE>
+                <DIVISION_INTO_LOTS_NO/>
+                <WILL_VARIANTS_BE_ACCEPTED_NO/>
+            </DESCRIPTION_CONTRACT>
+            <QUANTITY_OR_SCOPE>
+                <NATURE_QUANTITY_SCOPE>Ca. NOK 15 mill. for hele kontraktsperioden inkl. opsjoner.
+                </NATURE_QUANTITY_SCOPE>
+                <OPTIONS_DESCRIPTION_AND_TIME>Forlengelse av rammeavtale i 1+1+1 år</OPTIONS_DESCRIPTION_AND_TIME>
+            </QUANTITY_OR_SCOPE>
+            <DURATION_LIMIT>
+                <COMPLETION_PERIOD_MONTHS>24</COMPLETION_PERIOD_MONTHS>
+            </DURATION_LIMIT>
+        </OBJECT_CONTRACT>
+        <INFORMATION_CONTRACT>
+            <CONTRACT_CONDITION>
+                <DEPOSITS_GUARANTEES_REQUIRED>
+                    <P>Se konkurransegrunnlaget.</P>
+                </DEPOSITS_GUARANTEES_REQUIRED>
+                <TERMS_OF_FINANCING_AND_PAYMENT>
+                    <P>Se konkurransegrunnlaget.</P>
+                </TERMS_OF_FINANCING_AND_PAYMENT>
+                <LEGAL_FORM_TO_BE_TAKEN>
+                    <P>Se konkurransegrunnlaget.</P>
+                </LEGAL_FORM_TO_BE_TAKEN>
+            </CONTRACT_CONDITION>
+            <PARTICIPATION_CONDITION_1_9>
+                <CONTRACTOR_SITUATION>
+                    <DATA>
+                        <P>Skatteattest og MVA-attest, ikke eldre enn 6 måneder, utstedt av den kompetente myndighet,
+                            som bekrefter at tilbyder har oppfylt sine forpliktelser med hensyn til betaling av skatter,
+                            trygdeavgifter og MVA. Skatteattestene skrives ut av skatteoppkreverkontoret i den kommunen
+                            hvor leverandøren har sitt hovedkontor og av skattefogden i tilsvarende fylke.
+                        </P>
+                        <P>HMS - egenerklæring. Skjemaet kan hentes på nettadressen: www.odin.dep.no/nhd, se offentlige
+                            anskaffelser - regelverk, under FOA, vedlegg 2 eller veileder til FOA, vedlegg 3.
+                        </P>
+                    </DATA>
+                    <LEGAL_STATUS>
+                        <P>Firmaattest.</P>
+                    </LEGAL_STATUS>
+                    <FINANCIAL_CAPACITY>
+                        <P>Foretakets siste års beretning, samt nyere opplysninger som har relevans til foretakets
+                            regnskapstall.
+                        </P>
+                        <P>Fremleggelse av foretakets årsregnskap eller utdrag fra dette.</P>
+                        <P>Erklæring om foretakets omsetning de siste årene med relevans til denne kontrakten.</P>
+                    </FINANCIAL_CAPACITY>
+                    <TECHNICAL_CAPACITY>
+                        <P>Oversikt over foretakets totale bemanning.</P>
+                        <P>Bemanning for dette oppdraget (organisasjonsplan) med navn og CV for nøkkelpersoner som skal
+                            utføre oppdraget.
+                        </P>
+                        <P>Foretakets viktigste leveranser de siste 3 årene, inkludert deres verdi, tidspunkt og
+                            mottaker.
+                        </P>
+                        <P>Redegjørelse vedrørende foretakets kvalitetsikringssystem/- styringssystem.</P>
+                    </TECHNICAL_CAPACITY>
+                </CONTRACTOR_SITUATION>
+            </PARTICIPATION_CONDITION_1_9>
+            <SERVICE_CONDITION>
+                <SPECIFIC_PROFESSION_NO/>
+                <LEGAL_ENTITIES_REQUIRED_TO_STATE_YES/>
+            </SERVICE_CONDITION>
+        </INFORMATION_CONTRACT>
+        <PROCEDURES_CONTRACT>
+            <TYPE_OF_PROCEDURE_CONTRACT CPROC="NEGOTIATED">
+                <CANDIDATES_ALREADY_SELECTED_NO/>
+            </TYPE_OF_PROCEDURE_CONTRACT>
+            <AWARD_CRITERIA_1_4_8>
+                <MOST_ECONOMIC_1_4_8>
+                    <AS_STATED_IN_CONTRACT/>
+                </MOST_ECONOMIC_1_4_8>
+            </AWARD_CRITERIA_1_4_8>
+            <ADMINISTRATIVE_INFORMATION_1_4>
+                <TIME_LIMIT>
+                    <DEADLINE_TENDER>
+                        <DEADLINE_TENDER_DATE>
+                            <DAY>20</DAY>
+                            <MONTH>09</MONTH>
+                            <YEAR>2004</YEAR>
+                        </DEADLINE_TENDER_DATE>
+                    </DEADLINE_TENDER>
+                    <DEADLINE_TENDER_HOUR>15:45</DEADLINE_TENDER_HOUR>
+                </TIME_LIMIT>
+                <INVITATION_DISPATCH_DATE>
+                    <DAY>12</DAY>
+                    <MONTH>10</MONTH>
+                    <YEAR>2004</YEAR>
+                </INVITATION_DISPATCH_DATE>
+                <LANGUAGE>
+                    <LANGUAGE_OTHER>Norsk</LANGUAGE_OTHER>
+                </LANGUAGE>
+            </ADMINISTRATIVE_INFORMATION_1_4>
+        </PROCEDURES_CONTRACT>
+        <OTH_INFO_CONTRACT>
+            <NOTICE_DISPATCH_DATE>
+                <DAY>11</DAY>
+                <MONTH>8</MONTH>
+                <YEAR>2004</YEAR>
+            </NOTICE_DISPATCH_DATE>
+        </OTH_INFO_CONTRACT>
+    </FD_CONTRACT>
+</CONTRACT>
