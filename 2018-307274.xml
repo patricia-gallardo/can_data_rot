@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DOFFIN_ESENDERS VERSION="V3.0.2" xsi:noNamespaceSchemaLocation="DOFFIN_ESENDERS.xd"
+                 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <FORM_SECTION>
+        <F02_2014 LG="NB" CATEGORY="ORIGINAL" FORM="F02">
+            <LEGAL_BASIS VALUE="32014L0024"/>
+            <CONTRACTING_BODY>
+                <ADDRESS_CONTRACTING_BODY>
+                    <OFFICIALNAME>ARBEIDS- OG VELFERDSETATEN (NAV)</OFFICIALNAME>
+                    <NATIONALID>889640782</NATIONALID>
+                    <ADDRESS>Postboks 5, St Olavs plass</ADDRESS>
+                    <TOWN>OSLO</TOWN>
+                    <POSTAL_CODE>0130</POSTAL_CODE>
+                    <COUNTRY VALUE="NO"/>
+                    <CONTACT_POINT>Unn Irene Lothe</CONTACT_POINT>
+                    <E_MAIL>unn.irene.lothe@nav.no</E_MAIL>
+                    <LOCATION code="000000"/>
+                    <URL_GENERAL>https://permalink.mercell.com/93596735.aspx</URL_GENERAL>
+                    <URL_BUYER>http://www.nav.no/</URL_BUYER>
+                </ADDRESS_CONTRACTING_BODY>
+                <DOCUMENT_FULL/>
+                <URL_DOCUMENT>https://permalink.mercell.com/93596735.aspx</URL_DOCUMENT>
+                <ADDRESS_FURTHER_INFO_IDEM/>
+                <URL_PARTICIPATION>https://permalink.mercell.com/93596735.aspx</URL_PARTICIPATION>
+                <CA_TYPE VALUE="MINISTRY"/>
+                <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+            </CONTRACTING_BODY>
+            <OBJECT_CONTRACT>
+                <TITLE>
+                    <P>Anskaffelse - Rammeavtaler for utvikling og forvaltning av løsninger for vedtaksbehandling og
+                        saksbehandling
+                    </P>
+                </TITLE>
+                <REFERENCE_NUMBER>18-1676</REFERENCE_NUMBER>
+                <CPV_MAIN>
+                    <CPV_CODE CODE="72200000"/>
+                </CPV_MAIN>
+                <TYPE_CONTRACT CTYPE="SERVICES"/>
+                <SHORT_DESCR>
+                    <P>Oppdragsgiver Arbeids- og velferdsdirektoratet innbyr til konkurranse med forhandlinger i
+                        forbindelse med anskaffelse av parallelle rammeavtaler for utvikling og forvaltning av løsninger
+                        for vedtaksbehandling og saksbehandling i NAV.
+                    </P>
+                    <P>Klikk her https://permalink.mercell.com/93596735.aspx</P>
+                </SHORT_DESCR>
+                <VAL_ESTIMATED_TOTAL CURRENCY="NOK">380000000.00</VAL_ESTIMATED_TOTAL>
+                <NO_LOT_DIVISION/>
+                <OBJECT_DESCR ITEM="1">
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72210000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72220000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72230000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72240000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72250000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72260000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72600000"/>
+                    </CPV_ADDITIONAL>
+                    <LOCATION code="010301"/>
+                    <SHORT_DESCR>
+                        <P>Formålet med anskaffelsen er å etablere parallelle rammeavtaler med tre leverandører for
+                            bistand til utvikling og forvaltning av løsninger for vedtaksbehandling og saksbehandling i
+                            NAV, forutsatt at det mottas et tilstrekkelig antall egnede tilbud.
+                        </P>
+                        <P>Systemløsningene som skal utvikles og forvaltes dekker flere av NAVs produktområder, herunder
+                            Pensjon, Familie og Helse.
+                        </P>
+                        <P>Systemløsningene er nærmere beskrevet i kvalifikasjonsgrunnlagets vedlegg 4 og 5</P>
+                        <P>Leverandørens ressurser skal inngå i Oppdragsgivers utviklingsteam og bistå i avtaleperioden
+                            med relevant kompetanse for den utvikling som skjer hos Oppdragsgiver. Leverandøren skal
+                            kunne bemanne ulike teamroller.  
+                        </P>
+                        <P>Oppdragsgiver vil gjennomføre utvikling og forvaltning med interne ressurser og
+                            ressursforsterkning fra leverandørene samt dekning av svingninger i kapasitetsbehov fra
+                            leverandørene. Det kan også være aktuelt at leverandørene tar resultatansvaret for
+                            gjennomføring av utviklingsoppdrag.
+                        </P>
+                        <P>Oppdragsgiver vil legge vekt på bruk av en iterativ og smidig gjennomføringsmodell.</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PROCUREMENT_DOC/>
+                    </AC>
+                    <VAL_OBJECT CURRENCY="NOK">380000000.00</VAL_OBJECT>
+                    <DURATION TYPE="MONTH">48</DURATION>
+                    <NO_RENEWAL/>
+                    <NB_MIN_LIMIT_CANDIDATE>3</NB_MIN_LIMIT_CANDIDATE>
+                    <NB_MAX_LIMIT_CANDIDATE>6</NB_MAX_LIMIT_CANDIDATE>
+                    <CRITERIA_CANDIDATE>
+                        <P>Utvelgelsen av leverandørene vil baseres på grad av oppfyllelse av kvalifikasjonskravene, med
+                            følgende vekttall :
+                        </P>
+                        <P>God kapasitet, vektet 50 %</P>
+                        <P>Relevant erfaring fra lignende leveranser, vektet 40 %</P>
+                        <P>Velprøvde og godt egnede metoder for kvalitetssikring, vektet 10 %</P>
+                    </CRITERIA_CANDIDATE>
+                    <NO_ACCEPTED_VARIANTS/>
+                    <NO_OPTIONS/>
+                    <ECATALOGUE_REQUIRED/>
+                    <NO_EU_PROGR_RELATED/>
+                </OBJECT_DESCR>
+            </OBJECT_CONTRACT>
+            <LEFTI>
+                <SUITABILITY>
+                    <P>Norske leverandører skal ha ordnede forhold med hensyn til betaling av skatt og merverdiavgift,
+                        dokumentert med;
+                    </P>
+                    <P>Norske leverandører: Attest for skatt og merverdiavgift fra skattemyndighetene, ikke eldre enn 6
+                        måneder regnet fra utløp av frist for mottak av forespørsel om å delta i konkurransen
+                    </P>
+                    <P>Det kreves at leverandøren er et lovlig etablert foretak, dokumentert med:</P>
+                    <P>Norske leverandører: Firmaattest fra Brønnøysundregistret</P>
+                    <P>Utenlandske leverandører: Attest for registrering i foretaksregister som foreskrevet i
+                        lovgivningen i den stat hvor leverandøren er etablert.
+                    </P>
+                    <P>Utenlandske leverandører: Attest for registrering i foretaksregister som foreskrevet i
+                        lovgivningen i den stat hvor leverandøren er etablert.
+                    </P>
+                </SUITABILITY>
+                <ECONOMIC_FINANCIAL_INFO>
+                    <P>Det kreves at leverandøren har god økonomisk soliditet. Kravet er oppfylt med en kredittrating på
+                        "God kredittverdighet" eller bedre.
+                    </P>
+                    <P>Oppdragsgiver innhenter selv kredittvurdering gjennomført av Experian, se www.Experian.no</P>
+                    <P>Dersom leverandøren mener kredittvurderingen ikke vil gi et riktig bilde, bes utfyllende
+                        opplysninger sendt med kvalifiseringssøknaden.
+                    </P>
+                </ECONOMIC_FINANCIAL_INFO>
+                <TECHNICAL_PROFESSIONAL_INFO>
+                    <P>1. Det kreves god kapasitet, dokumentert med beskrivelse av Leverandørens kapasitet relevant for
+                        utvikling og forvaltning av systemløsninger for vedtaksbehandling og saksbehandling som omfatter
+                    </P>
+                    <P>- En beskrivelse av relevante enheter hos Leverandøren</P>
+                    <P>- Antall relevante ressurser i henhold til innhold og omfang for anskaffelsen innenfor
+                        Arkitektur/løsningsutforming, Design/utvikling, Test, Team- og prosjektledelse, Støtte
+                        fag/forretning
+                    </P>
+                    <P>Malen i kvalifikasjonsgrunnlaget vedlegg 2 skal benyttes for andre strekpunkt. Det skal ikke
+                        angis hvilke personer som vil tilbys og det skal ikke leveres inn CV-er.
+                    </P>
+                    <P>2. Det kreves relevant erfaring fra lignende leveranser, dokumentert med beskrivelse av
+                        leverandørens opp til 3 mest relevante leveranser de siste 3 årene. Beskrivelsen skal for hver
+                        leveranse omfatte
+                    </P>
+                    <P>- mottaker/oppdragsgiver, - varighet, -virksomhetsområde /-prosess, - omfang (hvis verdi ikke kan
+                        oppgis av hensyn til konfidensialitet, ber vi Leverandøren oppgi antall årsverk for
+                        Leverandørens innsats),
+                    </P>
+                    <P>- Leverandørens rolle/hovedoppgaver, -bruk av smidig gjennomføringsmodell, -teknologi som ble
+                        benyttet, - beskrivelse av leveransen. Malen i kvalifikasjonsgrunnlagets vedlegg 3 skal benyttes
+                        for dette
+                    </P>
+                    <P>punktet. Navn og kontaktinformasjon til kontaktperson hos referansekunden som kan bekrefte
+                        opplysningene må kunne oppgis på forespørsel.
+                    </P>
+                    <P>3. Det kreves velprøvde og godt egnede metoder for kvalitetssikring, dokumentert med:</P>
+                    <P>- En kortfattet beskrivelse av Leverandørens generelle metoder og prosesser som er relevante for
+                        å sikre kvaliteten på ytelsen. Det skal ikke være salgstekst, produkt¬beskrivelser eller
+                        erfaringsbeskrivelser.
+                    </P>
+                    <P>Følgende områder skal inngå: Arkitektur/løsningsutforming, Design/utvikling, Test, Team- og
+                        prosjektledelse, Støtte fag/forretning
+                    </P>
+                    <P>- Redegjørelse vedrørende foretakets kvalitetssikringssystem / styringssystem, samt eventuelle
+                        attester utstedt av uavhengige organer.
+                    </P>
+                </TECHNICAL_PROFESSIONAL_INFO>
+            </LEFTI>
+            <PROCEDURE>
+                <PT_COMPETITIVE_NEGOTIATION/>
+                <REDUCTION_RECOURSE/>
+                <RIGHT_CONTRACT_INITIAL_TENDERS/>
+                <CONTRACT_COVERED_GPA/>
+                <DATE_RECEIPT_TENDERS>2018-11-23</DATE_RECEIPT_TENDERS>
+                <TIME_RECEIPT_TENDERS>12:00</TIME_RECEIPT_TENDERS>
+                <DATE_DISPATCH_INVITATIONS>2018-11-28</DATE_DISPATCH_INVITATIONS>
+                <LANGUAGES>
+                    <LANGUAGE VALUE="NO"/>
+                </LANGUAGES>
+                <DATE_TENDER_VALID>2019-05-31</DATE_TENDER_VALID>
+            </PROCEDURE>
+            <COMPLEMENTARY_INFO>
+                <NO_RECURRENT_PROCUREMENT/>
+                <EINVOICING/>
+                <EPAYMENT/>
+                <ADDRESS_REVIEW_BODY>
+                    <OFFICIALNAME>Arbeids- og velferdsdirektoratet</OFFICIALNAME>
+                    <TOWN>Oslo</TOWN>
+                    <COUNTRY VALUE="NO"/>
+                </ADDRESS_REVIEW_BODY>
+                <DATE_DISPATCH_NOTICE>2018-10-22</DATE_DISPATCH_NOTICE>
+            </COMPLEMENTARY_INFO>
+        </F02_2014>
+    </FORM_SECTION>
+    <DOFFIN_APPENDIX>
+        <PUBLISH_TO_TED/>
+    </DOFFIN_APPENDIX>
+</DOFFIN_ESENDERS>

@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DOFFIN_ESENDERS VERSION="V3.0.4" xsi:noNamespaceSchemaLocation="DOFFIN_ESENDERS.xd"
+                 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <FORM_SECTION>
+        <F02_2014 LG="NB" CATEGORY="ORIGINAL" FORM="F02">
+            <LEGAL_BASIS VALUE="32014L0024"/>
+            <CONTRACTING_BODY>
+                <ADDRESS_CONTRACTING_BODY>
+                    <OFFICIALNAME>ARBEIDS- OG VELFERDSETATEN (NAV)</OFFICIALNAME>
+                    <NATIONALID>889640782</NATIONALID>
+                    <ADDRESS>Postboks 354</ADDRESS>
+                    <TOWN>Mo i Rana</TOWN>
+                    <POSTAL_CODE>8601</POSTAL_CODE>
+                    <COUNTRY VALUE="NO"/>
+                    <CONTACT_POINT>Henrik Lerche</CONTACT_POINT>
+                    <PHONE>+47 90692678</PHONE>
+                    <E_MAIL>henrik.lerche@nav.no</E_MAIL>
+                    <LOCATION code="000000"/>
+                    <URL_GENERAL>https://permalink.mercell.com/152522386.aspx</URL_GENERAL>
+                    <URL_BUYER>http://www.nav.no/</URL_BUYER>
+                </ADDRESS_CONTRACTING_BODY>
+                <DOCUMENT_FULL/>
+                <URL_DOCUMENT>https://permalink.mercell.com/152522386.aspx</URL_DOCUMENT>
+                <ADDRESS_FURTHER_INFO_IDEM/>
+                <URL_PARTICIPATION>https://permalink.mercell.com/152522386.aspx</URL_PARTICIPATION>
+                <CA_TYPE VALUE="MINISTRY"/>
+                <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+            </CONTRACTING_BODY>
+            <OBJECT_CONTRACT>
+                <TITLE>
+                    <P>Prekvalifisering til konkurranse om Utviklings- og analyseverktøy stormaskin</P>
+                </TITLE>
+                <REFERENCE_NUMBER>20/21253</REFERENCE_NUMBER>
+                <CPV_MAIN>
+                    <CPV_CODE CODE="72000000"/>
+                </CPV_MAIN>
+                <TYPE_CONTRACT CTYPE="SERVICES"/>
+                <SHORT_DESCR>
+                    <P>Arbeids- og velferdsdirektoratet (NAV) skal gjennomføre anskaffelser innenfor;</P>
+                    <P>- programvare for stormaskinmiljøet (z/OS),</P>
+                    <P>-- programvare for applikasjonsutvikling</P>
+                    <P>Det blir en konkurranseutsetting av tjenester og utviklingsområder som pr. i dag er
+                        kontraktsfestet innenfor kategorien Applikasjonsutvikling. Anskaffelsen vil bli gjennomført som
+                        konkurranse med forhandlinger. Avtaleinngåelse er planlagt ca. 25.06.2021.
+                    </P>
+                    <P>Klikk her https://permalink.mercell.com/152522386.aspx</P>
+                </SHORT_DESCR>
+                <NO_LOT_DIVISION/>
+                <OBJECT_DESCR ITEM="1">
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="48000000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72267100"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72300000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72500000"/>
+                    </CPV_ADDITIONAL>
+                    <LOCATION code="103000"/>
+                    <SHORT_DESCR>
+                        <P>NAV planlegger å gjennomføre en konkurranse med forhandlinger for tjenesteområdet som fremgår
+                            av tabellen under. Dette er et tjenesteområde som det er nødvendig å konkurranseutsette nå
+                            som avtalen går mot utløp.
+                        </P>
+                        <P>Programvaretjenesten er sentral for stormaskinmiljøet i NAV. Det skal opprettes en
+                            tjenesteavtale for «Underkategori (Avtaleområde)» Utviklings- og analyseverktøy.
+                        </P>
+                        <P>Kategori</P>
+                        <P>Underkategori (Avtaleområde)</P>
+                        <P>Gjeldende kontrakt utløper </P>
+                        <P>Applikasjonsutvikling</P>
+                        <P>Utviklings- og analyseverktøy</P>
+                        <P>(Utviklingsverktøy for feilsøking i batch og online programmer samt analyseverktøy som
+                            avdekker ressursforbruket i programmer)
+                        </P>
+                        <P>Desember 2021</P>
+                        <P>Anskaffelsen vil omfatte to elementer: 1) programvarelisenser og 2) tjenester knyttet til
+                            implementering og vedlikehold av programvaren i oppdragsgivers driftsmiljø, herunder
+                            eventuell migrering fra eksisterende til ny programvare. Leverandørene skal kunne
+                            implementere, integrere, vedlikeholde og videreutvikle de løsningene som tilbys.
+                        </P>
+                        <P>For NAV er det viktig å komme frem til en fleksibel løsning som tjener NAVs stormaskinmiljø
+                            på en optimal måte. Det er også viktig for NAV å sikre fleksibilitet i kostnadene ift
+                            kundens forventninger til redusert bruk og etablere kontrakter som er i henhold til relevant
+                            regelverk som gjelder NAV.
+                        </P>
+                        <P>Avtalens omfang er i henhold til maskinkapasitet. Gjeldende maskinkapasitet er 491 MSU. For
+                            nærmere beskrivelse av omfang vises til konkurransegrunnlagets Del III Bilag 3 Kundens
+                            tekniske plattform.
+                        </P>
+                        <P>Avtalen skal ha en varighet  fra signering og frem til 31.12.2023, med mulighet for
+                            forlengelse i 1 + 1 + 1 år.
+                        </P>
+                        <P>Konkurransegrunnlaget består av følgende dokumenter:</P>
+                        <P>- Del I Betingelser for konkurransen</P>
+                        <P>- Del II Generelle kontraktsvilkår </P>
+                        <P>- Del III Bilag</P>
+                        <P>--</P>
+                        <P>Bilag 1 Kundens krav til Programvaren og dokumentasjon</P>
+                        <P>--</P>
+                        <P>Bilag 2 Leverandørens beskrivelse av Programvaren</P>
+                        <P>--</P>
+                        <P>Bilag 3 Kundens tekniske plattform</P>
+                        <P>--</P>
+                        <P>Bilag 4 Kundens krav til Vedlikeholdstjenestene</P>
+                        <P>--</P>
+                        <P>Bilag 5 Leverandørens beskrivelse av Vedlikeholdstjenestene</P>
+                        <P>--</P>
+                        <P>Bilag 6 Oppstartsprosjekt for installasjon og idriftsettelse av Programvaren</P>
+                        <P>--</P>
+                        <P>Bilag 7 Administrative bestemmelser</P>
+                        <P>--</P>
+                        <P>Bilag 8 Samlet pris og prisbestemmelser inklusive regnearket «Avtale om kjøp av programvare
+                            Bilag 8»
+                        </P>
+                        <P>--</P>
+                        <P>Bilag 9 Leverandørens avvik til den generelle avtaleteksten</P>
+                        <P>--</P>
+                        <P>Bilag 10 Endringer av Avtalen etter avtaleinngåelsen</P>
+                        <P>--</P>
+                        <P>Bilag 11 Erklæring om taushetsplikt</P>
+                        <P>--</P>
+                        <P>Bilag 12 Lisensbetingelser for standard programvare og fri programvare</P>
+                        <P>Avtaleinngåelse planlegges innen 25.06.2021.</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PROCUREMENT_DOC/>
+                    </AC>
+                    <DATE_START>2021-07-01</DATE_START>
+                    <DATE_END>2023-12-31</DATE_END>
+                    <RENEWAL/>
+                    <RENEWAL_DESCR>
+                        <P>1+1+1 opsjonsår</P>
+                    </RENEWAL_DESCR>
+                    <NB_MIN_LIMIT_CANDIDATE>3</NB_MIN_LIMIT_CANDIDATE>
+                    <NB_MAX_LIMIT_CANDIDATE>5</NB_MAX_LIMIT_CANDIDATE>
+                    <CRITERIA_CANDIDATE>
+                        <P>Utvelgelsen av leverandørene vil baseres på grad av oppfyllelse av følgende
+                            kvalifikasjonskrav angitt i kvalifikasjonsgrunnlagets punkt 2.4: Gjennomføringsevne, vekt 40
+                            % Erfaring fra lignende leveranser, vekt 60 %
+                        </P>
+                    </CRITERIA_CANDIDATE>
+                    <NO_ACCEPTED_VARIANTS/>
+                    <OPTIONS/>
+                    <OPTIONS_DESCR>
+                        <P>-Avtalen skal ha en varighet fra signering og frem til 31.12.2023. Kunden har opsjon på
+                            forlengelse av avtalene med 1+1+1 år.
+                        </P>
+                    </OPTIONS_DESCR>
+                    <NO_EU_PROGR_RELATED/>
+                </OBJECT_DESCR>
+            </OBJECT_CONTRACT>
+            <LEFTI>
+                <SUITABILITY>
+                    <P>Krav: Norske leverandører skal ha ordnede forhold med hensyn til betaling av skatt og
+                        merverdiavgift. Dokumentasjonskrav: Norske leverandører - Attest for skatt og merverdiavgift fra
+                        skattemyndighetene, ikke eldre enn 6 måneder regnet fra utløp av frist for mottak av forespørsel
+                        om å delta i konkurransen. Krav: Det kreves at leverandøren er et lovlig etablert foretak.
+                        Dokumentasjonskrav: Norske leverandører - Firmaattest fra Brønnøysundregistret. Utenlandske
+                        leverandører - Attest for registrering i foretaksregister som foreskrevet i lovgivningen i den
+                        stat hvor leverandøren er etablert.
+                    </P>
+                </SUITABILITY>
+                <ECONOMIC_FINANCIAL_INFO>
+                    <P>Krav: Det kreves at leverandøren har tilstrekkelig økonomisk kapasitet til å gjennomføre
+                        kontrakten. Dokumentasjon: Oppdragsgiver innhenter selv kredittvurdering gjennomført av
+                        Experian, se www.experian.no. Dersom leverandøren mener kredittvurderingen ikke vil gi et riktig
+                        bilde, bes utfyllende opplysninger sendt med kvalifiseringsforespørselen.
+                    </P>
+                </ECONOMIC_FINANCIAL_INFO>
+                <TECHNICAL_PROFESSIONAL_INFO>
+                    <P>Krav: Det kreves god gjennomføringsevne. Dokumentasjonskrav: Beskrivelse av leverandørens
+                        tekniske kapasitet og faglige kvalifikasjoner. Vedrørende kapasitet bes om en beskrivelse av
+                        relevante enheter hos leverandøren. Vedrørende kvalifikasjoner bes om en kortfattet oversikt
+                        over generell relevant kompetanse hos leverandøren. Det skal ikke angis hvilke personer som vil
+                        tilbys og det skal ikke leveres inn CV-er. Krav: Det kreves erfaring fra lignende leveranser.
+                        Dokumentasjonskrav: Beskrivelse av Leverandørens viktigste leveranser de siste 3 årene,
+                        inkludert en beskrivelse av oppdraget, deres verdi, tidspunkt og mottaker. Krav: Det kreves et
+                        godt og velfungerende kvalitetssikringssystem. Dokumentasjonskrav: En redegjørelse vedrørende
+                        foretakets kvalitetssikringssystem/- styringssystem, samt eventuelt attester utstedt av
+                        uavhengige organer.
+                    </P>
+                </TECHNICAL_PROFESSIONAL_INFO>
+            </LEFTI>
+            <PROCEDURE>
+                <PT_COMPETITIVE_NEGOTIATION/>
+                <REDUCTION_RECOURSE/>
+                <RIGHT_CONTRACT_INITIAL_TENDERS/>
+                <CONTRACT_COVERED_GPA/>
+                <NOTICE_NUMBER_OJ>2020/S 212-520396</NOTICE_NUMBER_OJ>
+                <DATE_RECEIPT_TENDERS>2021-04-26</DATE_RECEIPT_TENDERS>
+                <TIME_RECEIPT_TENDERS>12:00</TIME_RECEIPT_TENDERS>
+                <DATE_DISPATCH_INVITATIONS>2021-04-29</DATE_DISPATCH_INVITATIONS>
+                <LANGUAGES>
+                    <LANGUAGE VALUE="NO"/>
+                </LANGUAGES>
+                <DURATION_TENDER_VALID TYPE="MONTH">3</DURATION_TENDER_VALID>
+            </PROCEDURE>
+            <COMPLEMENTARY_INFO>
+                <RECURRENT_PROCUREMENT/>
+                <ESTIMATED_TIMING>
+                    <P>N/A</P>
+                </ESTIMATED_TIMING>
+                <EINVOICING/>
+                <EPAYMENT/>
+                <ADDRESS_REVIEW_BODY>
+                    <OFFICIALNAME>Oslo tingrett</OFFICIALNAME>
+                    <ADDRESS>Postboks 2106 Vika</ADDRESS>
+                    <TOWN>Oslo</TOWN>
+                    <POSTAL_CODE>0125</POSTAL_CODE>
+                    <COUNTRY VALUE="NO"/>
+                </ADDRESS_REVIEW_BODY>
+                <DATE_DISPATCH_NOTICE>2021-03-23</DATE_DISPATCH_NOTICE>
+            </COMPLEMENTARY_INFO>
+        </F02_2014>
+    </FORM_SECTION>
+    <DOFFIN_APPENDIX>
+        <REFERENCE_SECTION>
+            <REFERENCE_DOFFIN>2020-381301</REFERENCE_DOFFIN>
+        </REFERENCE_SECTION>
+        <PUBLISH_TO_TED/>
+    </DOFFIN_APPENDIX>
+</DOFFIN_ESENDERS>

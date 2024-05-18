@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CONTRACT_AWARD FORM="3">
+    <NOJ_SECTION>
+        <SECTION_0>
+            <CTRL_CPROC>6</CTRL_CPROC>
+            <NOJ_VERSION>1-test</NOJ_VERSION>
+            <NOJ_FORM>Kunngjøring av kontraktstildeling</NOJ_FORM>
+            <NOJ_FORM_ID>200215</NOJ_FORM_ID>
+            <NOJ_PUBLISHING>1</NOJ_PUBLISHING>
+            <NOJ_THRESHOLD>1</NOJ_THRESHOLD>
+            <NOJ_LOBBY_ID>1</NOJ_LOBBY_ID>
+            <NOJ_NL_TITTEL>Videreutvikling av saksbehandlingssytemet Arena</NOJ_NL_TITTEL>
+            <NOJ_TRANSLATE_YES>-1</NOJ_TRANSLATE_YES>
+            <NOJ_TRANSLATE_NO>0</NOJ_TRANSLATE_NO>
+            <NOJ_PUBLISHING_NO>-1</NOJ_PUBLISHING_NO>
+            <NOJ_PUBLISHING_SHORT>0</NOJ_PUBLISHING_SHORT>
+            <NOJ_PUBLISHING_LONG>0</NOJ_PUBLISHING_LONG>
+            <NOJ_THRESHOLD_ABOVE>-1</NOJ_THRESHOLD_ABOVE>
+            <NOJ_THRESHOLD_BELOW>0</NOJ_THRESHOLD_BELOW>
+            <NOJ_SENDER_ORGANISATION>Aetat Arbeidsdirektoratet</NOJ_SENDER_ORGANISATION>
+            <NOJ_SENDER_ATTENTION>Rolf Torgeir Aase</NOJ_SENDER_ATTENTION>
+            <NOJ_SENDER_ADDRESS>C.J. Hambros Plass 2 A1, 0032 Oslo</NOJ_SENDER_ADDRESS>
+            <NOJ_SENDER_TELEPHONE>22 35 24 70</NOJ_SENDER_TELEPHONE>
+            <NOJ_SENDER_MOBILE/>
+            <NOJ_SENDER_FAX/>
+            <NOJ_SENDER_E_MAIL>rta@adir.aetat.no</NOJ_SENDER_E_MAIL>
+            <NOJ_SENDER_MESSAGE>16849 RO</NOJ_SENDER_MESSAGE>
+            <NOJ_DATE_RECEIPT/>
+            <NOJ_IDENTIFIER/>
+            <NOJ_NLREF>2003-12819</NOJ_NLREF>
+            <NOJ_COUNTRY>NO</NOJ_COUNTRY>
+            <NOJ_LANGUAGE>NO</NOJ_LANGUAGE>
+        </SECTION_0>
+        <SECTION_1>
+            <NOJ_COUNTRY_CODE>Norge</NOJ_COUNTRY_CODE>
+            <CTRL_CTYPE>3</CTRL_CTYPE>
+            <NOJ_CTYPE>3</NOJ_CTYPE>
+            <NOJ_OG_ORGANISATION/>
+            <NOJ_OG_ATTENTION/>
+            <NOJ_OG_ADDRESS/>
+            <NOJ_OG_POSTAL_CODE/>
+            <NOJ_OG_TOWN/>
+            <NOJ_OG_COUNTRY/>
+            <NOJ_OG_PHONE/>
+            <NOJ_OG_FAX/>
+            <NOJ_OG_E_MAIL/>
+            <NOJ_OG_URL/>
+        </SECTION_1>
+        <SECTION_4>
+            <NOJ_DELIVERY_OR_COMPLETION_DATE>0</NOJ_DELIVERY_OR_COMPLETION_DATE>
+            <NOJ_SECURITY_OF_SUPPLIES>0</NOJ_SECURITY_OF_SUPPLIES>
+            <NOJ_AVAILABILITY_OF_SPARES>0</NOJ_AVAILABILITY_OF_SPARES>
+            <NOJ_AFTER_SALES_SERVICE>0</NOJ_AFTER_SALES_SERVICE>
+            <NOJ_RUNNING_COSTS>0</NOJ_RUNNING_COSTS>
+            <NOJ_PROFITABILITY>0</NOJ_PROFITABILITY>
+            <NOJ_TECHNICAL_MERIT>0</NOJ_TECHNICAL_MERIT>
+            <NOJ_AESTETHIC_AND_FUNCTIONAL_CHARACTERISTICS>0</NOJ_AESTETHIC_AND_FUNCTIONAL_CHARACTERISTICS>
+            <NOJ_PRICE>0</NOJ_PRICE>
+            <NOJ_QUALITY>0</NOJ_QUALITY>
+            <NOJ_OTHER_AWARD_CRITERIA>1</NOJ_OTHER_AWARD_CRITERIA>
+            <NOJ_LIST_CRITERIA_01/>
+            <NOJ_LIST_CRITERIA_02/>
+            <NOJ_LIST_CRITERIA_03/>
+            <NOJ_LIST_CRITERIA_04/>
+            <NOJ_LIST_CRITERIA_05/>
+            <NOJ_LIST_CRITERIA_06/>
+            <NOJ_LIST_CRITERIA_07/>
+            <NOJ_LIST_CRITERIA_08/>
+            <NOJ_LIST_CRITERIA_09/>
+            <NOJ_LIST_CRITERIA_10/>
+        </SECTION_4>
+    </NOJ_SECTION>
+    <FD_CONTRACT_AWARD CTYPE="SERVICES">
+        <COVERED_BY_GPA_YES/>
+        <AUTHORITY_CONTRACT_AWARD>
+            <ADDRESS_AUTHORITY>
+                <ORGANISATION>Aetat Arbeidsdirektoratet</ORGANISATION>
+                <ATTENTION>Vibeke Wiik</ATTENTION>
+                <ADDRESS>C.J. Hambros Plass 2 A1</ADDRESS>
+                <POSTAL_CODE>0032</POSTAL_CODE>
+                <TOWN>Oslo</TOWN>
+                <COUNTRY VALUE="NO"/>
+                <PHONE>22 35 24 00</PHONE>
+                <FAX>-</FAX>
+                <E_MAIL>-</E_MAIL>
+            </ADDRESS_AUTHORITY>
+            <TYPE_OF_CONTRACTING_AUTHORITY VALUE="CENTRAL"/>
+        </AUTHORITY_CONTRACT_AWARD>
+        <OBJECT_CONTRACT_AWARD>
+            <TYPE_OF_CONTRACT_SERVICES>
+                <SERVICE_CATEGORY>07</SERVICE_CATEGORY>
+            </TYPE_OF_CONTRACT_SERVICES>
+            <FRAMEWORK_CONTRACT_YES/>
+            <NOMENCLATURE>
+                <CPV>
+                    <CPV_MAIN>
+                        <CPV_CODE CODE="72000000"/>
+                    </CPV_MAIN>
+                </CPV>
+            </NOMENCLATURE>
+            <NAME_GIVEN_TO_CONTRACT>Videreutvikling av saksbehandlingssytemet Arena</NAME_GIVEN_TO_CONTRACT>
+            <DESCRIPTION_OF_CONTRACT>Saksbehandlingssystemet Arena dekker alle kjerneprosesser i Aetat, både
+                forvaltningsoppgaver knyttet til dagpenger og attføringsytelser og markedsrettede oppgaver knyttet til
+                service og informasjon, formidling og rekruttering, avklaring og kvalifisering. Systemet er implementert
+                gjennom 3 hovedleveranser. Den siste hovedleveransen ble produksjonssatt i oktober 2002. Systemet er
+                utviklet og levert av Computas AS.
+                Saksbehandlingssystemet er utviklet for Aetat og basert på Oracle database, bruk av Oracle
+                utviklingsverktøy, Java-programvare og Computas sitt rammeverk FrameSolutions Beans.
+                Kunden planlegger å foreta betydelig videreutvikling av Arena. Kunden har på denne bakgrunn inngått en
+                avtale med en leverandører som tilbyr slik videreutvikling.
+            </DESCRIPTION_OF_CONTRACT>
+            <ESTIMATED_VALUE>Forventet rundt 15 000 000 NOK i året</ESTIMATED_VALUE>
+        </OBJECT_CONTRACT_AWARD>
+        <PROCEDURES_CONTRACT_AWARD>
+            <TYPE_OF_PROCEDURE_CONTRACT_AWARD CPROC="NEGOTIATED_COMP">
+                <ANNEX_CONTRACT_AWARD>
+                    <PP_NATURE_NO_SUFFICIENT_PRECISION/>
+                </ANNEX_CONTRACT_AWARD>
+            </TYPE_OF_PROCEDURE_CONTRACT_AWARD>
+            <AWARD_CRITERIA_CONTRACT_AWARD>
+                <MOST_ECONOMIC_CONTRACT_AWARD>
+                    <CRITERIA_NO_NUMBER>Kriterier som oppgitt i konkurransegrunnlaget.</CRITERIA_NO_NUMBER>
+                </MOST_ECONOMIC_CONTRACT_AWARD>
+            </AWARD_CRITERIA_CONTRACT_AWARD>
+        </PROCEDURES_CONTRACT_AWARD>
+        <AWARD_CONTRACT_AWARD>
+            <AWARD_CONTRACT_AWARD_LIST>
+                <NUMBER>1</NUMBER>
+                <AWARD_CONTRACT_VALUE>
+                    <ADDRESS_CONTRACTOR>
+                        <ORGANISATION>TietoEnator AS</ORGANISATION>
+                        <ATTENTION>Per Kristian Hove</ATTENTION>
+                        <ADDRESS>Postboks 233 Økern</ADDRESS>
+                        <POSTAL_CODE>0510</POSTAL_CODE>
+                        <TOWN>Oslo</TOWN>
+                        <COUNTRY VALUE="NO"/>
+                        <PHONE>22 07 60 00</PHONE>
+                    </ADDRESS_CONTRACTOR>
+                </AWARD_CONTRACT_VALUE>
+                <SUBCONTRACT_CONTRACT_AWARD_YES>
+                    <NOT_KNOW/>
+                </SUBCONTRACT_CONTRACT_AWARD_YES>
+            </AWARD_CONTRACT_AWARD_LIST>
+        </AWARD_CONTRACT_AWARD>
+        <OTH_INFO_CONTRACT_AWARD>
+            <NON_MANDATORY_NO/>
+            <DATE_OF_CONTRACT_AWARD>
+                <DAY>10</DAY>
+                <MONTH>06</MONTH>
+                <YEAR>2003</YEAR>
+            </DATE_OF_CONTRACT_AWARD>
+            <NUMBER_OF_OFFERS_RECEIVED>3</NUMBER_OF_OFFERS_RECEIVED>
+            <PRIOR_INFORMATION_OJ_NOTICE_YES>
+                <PRIOR_INFORMATION_NUMBER>
+                    <NUMBER>2003/S 37-031977</NUMBER>
+                </PRIOR_INFORMATION_NUMBER>
+                <PRIOR_INFORMATION_DATE>
+                    <DAY>21</DAY>
+                    <MONTH>02</MONTH>
+                    <YEAR>2003</YEAR>
+                </PRIOR_INFORMATION_DATE>
+            </PRIOR_INFORMATION_OJ_NOTICE_YES>
+            <RELATES_TO_EU_PROJECT_NO/>
+            <NOTICE_DISPATCH_DATE>
+                <DAY>14</DAY>
+                <MONTH>7</MONTH>
+                <YEAR>2003</YEAR>
+            </NOTICE_DISPATCH_DATE>
+        </OTH_INFO_CONTRACT_AWARD>
+    </FD_CONTRACT_AWARD>
+</CONTRACT_AWARD>
