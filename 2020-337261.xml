@@ -1,0 +1,2481 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DOFFIN_ESENDERS VERSION="V3.0.2" xsi:noNamespaceSchemaLocation="DOFFIN_ESENDERS.xd"
+                 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <FORM_SECTION>
+        <F03_2014 LG="NB" CATEGORY="ORIGINAL" FORM="F03">
+            <LEGAL_BASIS VALUE="32014L0024"/>
+            <CONTRACTING_BODY>
+                <ADDRESS_CONTRACTING_BODY>
+                    <OFFICIALNAME>ARBEIDS- OG VELFERDSETATEN (NAV)</OFFICIALNAME>
+                    <NATIONALID>889640782</NATIONALID>
+                    <ADDRESS>Postboks 5, St Olavs plass</ADDRESS>
+                    <TOWN>OSLO</TOWN>
+                    <POSTAL_CODE>0130</POSTAL_CODE>
+                    <COUNTRY VALUE="NO"/>
+                    <CONTACT_POINT>Else Marie Molden</CONTACT_POINT>
+                    <E_MAIL>else.marie.molden@nav.no</E_MAIL>
+                    <LOCATION code="000000"/>
+                    <URL_GENERAL>https://permalink.mercell.com/99883201.aspx</URL_GENERAL>
+                    <URL_BUYER>http://www.nav.no/</URL_BUYER>
+                </ADDRESS_CONTRACTING_BODY>
+                <CA_TYPE VALUE="MINISTRY"/>
+                <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+            </CONTRACTING_BODY>
+            <OBJECT_CONTRACT>
+                <TITLE>
+                    <P>Anskaffelse av parallelle rammeavtaler for konsulenttjenester til NAV</P>
+                </TITLE>
+                <REFERENCE_NUMBER>18-3445</REFERENCE_NUMBER>
+                <CPV_MAIN>
+                    <CPV_CODE CODE="72224000"/>
+                </CPV_MAIN>
+                <TYPE_CONTRACT CTYPE="SERVICES"/>
+                <SHORT_DESCR>
+                    <P>Arbeids- og velferdsdirektoratet, heretter kalt Oppdragsgiver, innbyr til begrenset
+                        anbudskonkurranse i forbindelse med anskaffelse av parallelle rammeavtaler for
+                        konsulenttjenester. Dette er en anskaffelsesprosedyre hvor Oppdragsgiver velger ut hvilke
+                        leverandører som kan gi tilbud blant de som tilfredsstiller kravene i dette
+                        kvalifikasjonsgrunnlaget.
+                    </P>
+                    <P>Avtalene skal dekke behov for kompetanse som oppdragsgiver ikke har tilgang til i egen etat på et
+                        gitt tidspunkt, eller der det er behov ekstra kapasitet. Avtalene kan også benyttes ved behov
+                        for ekstern kvalitetssikring. Konsulenttjenestene som etterspørres er inndelt i
+                        kompetanseområder, og det gjennomføres selvstendige konkurranser på hvert enkelt
+                        kompetanseområde.
+                    </P>
+                    <P>Konsulenttjenestene som etterspørres er inndelt i 14 delkonkurranser/kompetanseområder, og det
+                        gjennomføres selvstendige konkurranser på hvert enkelt kompetanseområde.
+                    </P>
+                </SHORT_DESCR>
+                <VAL_TOTAL CURRENCY="NOK">640000000.00</VAL_TOTAL>
+                <LOT_DIVISION/>
+                <OBJECT_DESCR ITEM="1">
+                    <TITLE>
+                        <P>Anskaffelse av parallelle rammeavtaler for konsulenttjenester til NAV -
+                            Rekrutteringsbistand
+                        </P>
+                    </TITLE>
+                    <LOT_NO>1</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="79600000"/>
+                    </CPV_ADDITIONAL>
+                    <LOCATION code="000000"/>
+                    <MAIN_SITE>
+                        <P>Oslo</P>
+                    </MAIN_SITE>
+                    <SHORT_DESCR>
+                        <P>Rekrutteringsbistand</P>
+                        <P>Som eksempler nevnes:</P>
+                        <P>Full rekrutteringsprosess av nøkkelpersonell og av ledere fra og med kontorsjef og høyere
+                            nivåer.
+                        </P>
+                        <P>Deler av rekrutteringsprosess av nøkkelpersonell og av ledere fra og med kontorsjef og høyere
+                            nivåer, slik som
+                        </P>
+                        <P>- behovsanalyse</P>
+                        <P>- kunngjøring</P>
+                        <P>- search, intervju, testing og innstilling</P>
+                        <P>Rådgivning knyttet til rekrutteringsprosessen.</P>
+                        <P>Bistand til prosessforbedring og kvalitetssikring i forbindelse med rekruttering.</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_QUALITY>
+                            <AC_CRITERION>Forventet kvalitet ut fra den samlede kompetansen til de spesifikke personene
+                                som tilbys for tjenesten, dokumentert gjennom vedlagte CV-er
+                            </AC_CRITERION>
+                            <AC_WEIGHTING>40</AC_WEIGHTING>
+                        </AC_QUALITY>
+                        <AC_QUALITY>
+                            <AC_CRITERION>Beskrivelse av arbeidsmetodikk for rekruttering</AC_CRITERION>
+                            <AC_WEIGHTING>10</AC_WEIGHTING>
+                        </AC_QUALITY>
+                        <AC_PRICE>
+                            <AC_WEIGHTING>50</AC_WEIGHTING>
+                        </AC_PRICE>
+                    </AC>
+                    <OPTIONS/>
+                    <OPTIONS_DESCR>
+                        <P>Opsjon for bruk av rammeavtalene for øvrige NAV-enheter (statlig del).</P>
+                    </OPTIONS_DESCR>
+                    <NO_EU_PROGR_RELATED/>
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="2">
+                    <TITLE>
+                        <P>Anskaffelse av parallelle rammeavtaler for konsulenttjenester til NAV - Ledelsesstøtte /
+                            -utvikling
+                        </P>
+                    </TITLE>
+                    <LOT_NO>2</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="79420000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="79414000"/>
+                    </CPV_ADDITIONAL>
+                    <LOCATION code="000000"/>
+                    <MAIN_SITE>
+                        <P>Oslo</P>
+                    </MAIN_SITE>
+                    <SHORT_DESCR>
+                        <P>Ledelsesstøtte / -utvikling</P>
+                        <P>Som eksempler nevnes:</P>
+                        <P>Coaching</P>
+                        <P>Karriereveiledning</P>
+                        <P>Mentorstøtte</P>
+                        <P>Endringsledelse</P>
+                        <P>Kompetanseledelse</P>
+                        <P>Produkt- og prosessledelse</P>
+                        <P>Utvikling av ledergrupper og team</P>
+                        <P>Måling / oppfølging av ledere, herunder systemer, verktøy og metoder</P>
+                        <P>Rådgivning på strategisk ledelsesutvikling med særlig vekt på digital transformasjon</P>
+                        <P>Støtte til bruk av digitale læringsformer i ledelsesutvikling</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_QUALITY>
+                            <AC_CRITERION>Forventet kvalitet ut fra den samlede kompetansen til de spesifikke personene
+                                som tilbys for tjenesten, dokumentert gjennom vedlagte CV-er
+                            </AC_CRITERION>
+                            <AC_WEIGHTING>45</AC_WEIGHTING>
+                        </AC_QUALITY>
+                        <AC_QUALITY>
+                            <AC_CRITERION>Kvaliteten på metodikk for kompetanseoverføring til oppdragsgiver
+                            </AC_CRITERION>
+                            <AC_WEIGHTING>5</AC_WEIGHTING>
+                        </AC_QUALITY>
+                        <AC_PRICE>
+                            <AC_WEIGHTING>50</AC_WEIGHTING>
+                        </AC_PRICE>
+                    </AC>
+                    <OPTIONS/>
+                    <OPTIONS_DESCR>
+                        <P>Opsjon for bruk av rammeavtalene for øvrige NAV-enheter (statlig del).</P>
+                    </OPTIONS_DESCR>
+                    <NO_EU_PROGR_RELATED/>
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="3">
+                    <TITLE>
+                        <P>Anskaffelse av parallelle rammeavtaler for konsulenttjenester til NAV - Virksomhets- og
+                            organisasjonsutvikling
+                        </P>
+                    </TITLE>
+                    <LOT_NO>3</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="79400000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="79000000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="79415200"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="79411100"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="79414000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72223000"/>
+                    </CPV_ADDITIONAL>
+                    <LOCATION code="000000"/>
+                    <MAIN_SITE>
+                        <P>Oslo</P>
+                    </MAIN_SITE>
+                    <SHORT_DESCR>
+                        <P>Virksomhets- og organisasjonsutvikling</P>
+                        <P>Som eksempel nevnes:</P>
+                        <P>Rådgivning, prosessledelse og prosesstøtte knyttet til</P>
+                        <P>- Strategiutvikling og -rådgivning</P>
+                        <P>- Forretnings- og tjenesteutvikling</P>
+                        <P>- Produktinnovasjon</P>
+                        <P>- Virksomhetsutvikling og kontinuerlig forbedring (herunder metoder og verktøy)</P>
+                        <P>- Omstillings- og endringsprosesser</P>
+                        <P>- Organisasjonskultur og mangfold analyse/utredning og evaluering av organisasjon</P>
+                        <P>- Effektivisering og serviceutvikling</P>
+                        <P>- Organisasjonsdesign, arbeidsprosesser, roller og ansvar</P>
+                        <P>- Metoder og verktøy innen strategisk kompetansearbeid, -utvikling, -styring og -
+                            kartlegging
+                        </P>
+                        <P>- Strategisk bemanningsstyring, herunder bruk av og samspill mellom virkemidlene
+                            rekruttering, utvikling, omstilling og avvikling.
+                        </P>
+                        <P>- Organisasjons- og personellanalyser, herunder uthenting og sammenstilling av data, analyser
+                            og
+                        </P>
+                        <P>beslutningsgrunnlag.</P>
+                        <P>- Agile metoder som for eksempel design sprint, hypotesedrevet utvikling, verdimålinger,
+                            teamutvikling mm
+                        </P>
+                        <P>-Teknisk rådgivning på teknologiske trender, hvordan teknologi vil fornye NAV med teknologier
+                            som kunstig intelligens, automatisering og datadrevet beslutningsstøtte.
+                        </P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_QUALITY>
+                            <AC_CRITERION>Forventet kvalitet ut fra den samlede kompetansen til de spesifikke personene
+                                som tilbys for tjenesten, dokumentert gjennom vedlagte CV-er
+                            </AC_CRITERION>
+                            <AC_WEIGHTING>45</AC_WEIGHTING>
+                        </AC_QUALITY>
+                        <AC_QUALITY>
+                            <AC_CRITERION>Kvaliteten på metodikk for kompetanseoverføring til oppdragsgiver
+                            </AC_CRITERION>
+                            <AC_WEIGHTING>5</AC_WEIGHTING>
+                        </AC_QUALITY>
+                        <AC_PRICE>
+                            <AC_WEIGHTING>50</AC_WEIGHTING>
+                        </AC_PRICE>
+                    </AC>
+                    <OPTIONS/>
+                    <OPTIONS_DESCR>
+                        <P>Opsjon for bruk av rammeavtalene for øvrige NAV-enheter (statlig del).</P>
+                    </OPTIONS_DESCR>
+                    <NO_EU_PROGR_RELATED/>
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="4">
+                    <TITLE>
+                        <P>Anskaffelse av parallelle rammeavtaler for konsulenttjenester til NAV - Virksomhets- og
+                            økonomistyring
+                        </P>
+                    </TITLE>
+                    <LOT_NO>4</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="79400000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="79000000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="79412000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="79419000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="90711100"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72221000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="79411100"/>
+                    </CPV_ADDITIONAL>
+                    <LOCATION code="000000"/>
+                    <MAIN_SITE>
+                        <P>Oslo</P>
+                    </MAIN_SITE>
+                    <SHORT_DESCR>
+                        <P>Virksomhets- og økonomistyring</P>
+                        <P>Som eksempel nevnes:</P>
+                        <P>Rådgivning, metoder og verktøy knyttet til</P>
+                        <P>- Utvikling av effektbasert virksomhets- og økonomistyring</P>
+                        <P>- Styring som støtter produktutvikling</P>
+                        <P>- Smidig virksomhetsstyring</P>
+                        <P>- Kvalitet/utfordringer regnskapsprosesser</P>
+                        <P>- Selvbetjening og automatiserte økonomi- og styringsprosesser (standardløsninger)</P>
+                        <P>- Digitalisering styringsinformasjon (enkle tjenester og standardløsninger)</P>
+                        <P>- Spisskompetanse på utvikling av styringsinformasjon</P>
+                        <P>- Analyser og innsikt som grunnlag til beslutninger og styringssignaler</P>
+                        <P>- Evalueringer</P>
+                        <P>- Gevinstestimering og gevinstrealisering</P>
+                        <P>- Porteføljestyring</P>
+                        <P>- Risikostyring og risikohåndtering</P>
+                        <P>- Kvalitetsstyring</P>
+                        <P>- Informasjonssikkerhet og personvern på virksomhetsnivå</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_QUALITY>
+                            <AC_CRITERION>Forventet kvalitet ut fra den samlede kompetansen til de spesifikke personene
+                                som tilbys for tjenesten, dokumentert gjennom vedlagte CV-er
+                            </AC_CRITERION>
+                            <AC_WEIGHTING>45</AC_WEIGHTING>
+                        </AC_QUALITY>
+                        <AC_QUALITY>
+                            <AC_CRITERION>Kvaliteten på metodikk for kompetanseoverføring til oppdragsgiver
+                            </AC_CRITERION>
+                            <AC_WEIGHTING>5</AC_WEIGHTING>
+                        </AC_QUALITY>
+                        <AC_PRICE>
+                            <AC_WEIGHTING>50</AC_WEIGHTING>
+                        </AC_PRICE>
+                    </AC>
+                    <OPTIONS/>
+                    <OPTIONS_DESCR>
+                        <P>Opsjon for bruk av rammeavtalene for øvrige NAV-enheter (statlig del).</P>
+                    </OPTIONS_DESCR>
+                    <NO_EU_PROGR_RELATED/>
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="5">
+                    <TITLE>
+                        <P>Anskaffelse av parallelle rammeavtaler for konsulenttjenester til NAV - Prosjektledelse
+                            /-rådgivning
+                        </P>
+                    </TITLE>
+                    <LOT_NO>5</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="79421000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="79418000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="79421100"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="79421200"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="79412000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72224000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72225000"/>
+                    </CPV_ADDITIONAL>
+                    <LOCATION code="000000"/>
+                    <MAIN_SITE>
+                        <P>Oslo</P>
+                    </MAIN_SITE>
+                    <SHORT_DESCR>
+                        <P>Prosjektledelse /-rådgivning</P>
+                        <P>Som eksempler nevnes:</P>
+                        <P>Bistand relatert til avtaleforvaltning, offentlige anskaffelser og teknologi</P>
+                        <P>Bistand til gjennomføring av prosjekter</P>
+                        <P>Bistand til prosjektledere, teamledere på områder som f.eks.</P>
+                        <P>- planlegging og oppfølging</P>
+                        <P>- kartlegging</P>
+                        <P>- kvalitetssikring</P>
+                        <P>- estimering</P>
+                        <P>- risikohåndtering</P>
+                        <P>- gevinstplaner</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_QUALITY>
+                            <AC_CRITERION>Forventet kvalitet ut fra den samlede kompetansen til de spesifikke personene
+                                som tilbys for tjenesten, dokumentert gjennom vedlagte CV-er
+                            </AC_CRITERION>
+                            <AC_WEIGHTING>45</AC_WEIGHTING>
+                        </AC_QUALITY>
+                        <AC_QUALITY>
+                            <AC_CRITERION>Kvaliteten på metodikk for kompetanseoverføring til oppdragsgiver
+                            </AC_CRITERION>
+                            <AC_WEIGHTING>5</AC_WEIGHTING>
+                        </AC_QUALITY>
+                        <AC_PRICE>
+                            <AC_WEIGHTING>50</AC_WEIGHTING>
+                        </AC_PRICE>
+                    </AC>
+                    <OPTIONS/>
+                    <OPTIONS_DESCR>
+                        <P>Opsjon for bruk av rammeavtalene for øvrige NAV-enheter (statlig del).</P>
+                    </OPTIONS_DESCR>
+                    <NO_EU_PROGR_RELATED/>
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="6">
+                    <TITLE>
+                        <P>Anskaffelse av parallelle rammeavtaler for konsulenttjenester til NAV - Virksomhets- og
+                            løsningsarkitektur
+                        </P>
+                    </TITLE>
+                    <LOT_NO>6</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72000000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="79000000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="79417000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72227000"/>
+                    </CPV_ADDITIONAL>
+                    <LOCATION code="000000"/>
+                    <MAIN_SITE>
+                        <P>Oslo</P>
+                    </MAIN_SITE>
+                    <SHORT_DESCR>
+                        <P>Virksomhets- og løsningsarkitektur</P>
+                        <P>Som eksempler nevnes:</P>
+                        <P>Virksomhetsarkitektur</P>
+                        <P>Forretningsarkitektur og innovasjon</P>
+                        <P>Løsningsarkitektur</P>
+                        <P>Informasjonsarkitektur, dataarkitektur, datamodellering</P>
+                        <P>Applikasjonsarkitektur</P>
+                        <P>Integrasjonsarkitektur og elektronisk samhandling</P>
+                        <P>Teknisk infrastruktur og driftsarkitektur</P>
+                        <P>Sikkerhetsarkitektur og sikkerhet i skytjenester</P>
+                        <P>Arkitektur for SaaS, PaaS og IaaS</P>
+                        <P>Kvalitetskrav inkludert skalerbarhet og ytelse</P>
+                        <P>Arkitekturverktøy (kompetanse på verktøy og erfaring med bruk)</P>
+                        <P>Personvernkonsekvensvurderinger og databehandleravtaler</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_QUALITY>
+                            <AC_CRITERION>Forventet kvalitet ut fra den samlede kompetansen til de spesifikke personene
+                                som tilbys for tjenesten, dokumentert gjennom vedlagte CV-er
+                            </AC_CRITERION>
+                            <AC_WEIGHTING>45</AC_WEIGHTING>
+                        </AC_QUALITY>
+                        <AC_QUALITY>
+                            <AC_CRITERION>Kvaliteten på metodikk for kompetanseoverføring til oppdragsgiver
+                            </AC_CRITERION>
+                            <AC_WEIGHTING>5</AC_WEIGHTING>
+                        </AC_QUALITY>
+                        <AC_PRICE>
+                            <AC_WEIGHTING>50</AC_WEIGHTING>
+                        </AC_PRICE>
+                    </AC>
+                    <OPTIONS/>
+                    <OPTIONS_DESCR>
+                        <P>Opsjon for bruk av rammeavtalene for øvrige NAV-enheter (statlig del).</P>
+                    </OPTIONS_DESCR>
+                    <NO_EU_PROGR_RELATED/>
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="7">
+                    <TITLE>
+                        <P>Anskaffelse av parallelle rammeavtaler for konsulenttjenester til NAV - Designtjenester</P>
+                    </TITLE>
+                    <LOT_NO>7</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72413000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="79415200"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72000000"/>
+                    </CPV_ADDITIONAL>
+                    <LOCATION code="000000"/>
+                    <MAIN_SITE>
+                        <P>Oslo</P>
+                    </MAIN_SITE>
+                    <SHORT_DESCR>
+                        <P>Designtjenester</P>
+                        <P>Som eksempler nevnes:</P>
+                        <P>Kompetanse innenfor designtjenester;</P>
+                        <P>Produkt (Aka UX)</P>
+                        <P>- Interaksjonsdesign</P>
+                        <P>- Visuell design</P>
+                        <P>Tjenestedesign</P>
+                        <P>Innholdsproduksjon og design / tekstforfattere</P>
+                        <P>Strategisk- og forretningsdesign</P>
+                        <P>User Research</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_QUALITY>
+                            <AC_CRITERION>Forventet kvalitet ut fra den samlede kompetansen til de spesifikke personene
+                                som tilbys for tjenesten, dokumentert gjennom vedlagte CV-er
+                            </AC_CRITERION>
+                            <AC_WEIGHTING>45</AC_WEIGHTING>
+                        </AC_QUALITY>
+                        <AC_QUALITY>
+                            <AC_CRITERION>Kvaliteten på metodikk for kompetanseoverføring til oppdragsgiver
+                            </AC_CRITERION>
+                            <AC_WEIGHTING>5</AC_WEIGHTING>
+                        </AC_QUALITY>
+                        <AC_PRICE>
+                            <AC_WEIGHTING>50</AC_WEIGHTING>
+                        </AC_PRICE>
+                    </AC>
+                    <OPTIONS/>
+                    <OPTIONS_DESCR>
+                        <P>Opsjon for bruk av rammeavtalene for øvrige NAV-enheter (statlig del).</P>
+                    </OPTIONS_DESCR>
+                    <NO_EU_PROGR_RELATED/>
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="8">
+                    <TITLE>
+                        <P>Anskaffelse av parallelle rammeavtaler for konsulenttjenester til NAV - Produktutvikling</P>
+                    </TITLE>
+                    <LOT_NO>8</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72000000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="48000000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72200000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72212220"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72421000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72212732"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72220000"/>
+                    </CPV_ADDITIONAL>
+                    <LOCATION code="000000"/>
+                    <MAIN_SITE>
+                        <P>Oslo</P>
+                    </MAIN_SITE>
+                    <SHORT_DESCR>
+                        <P>Produktutvikling</P>
+                        <P>Som eksempler nevnes:</P>
+                        <P>Roller innen teknisk lederskap og utvikling, med erfaring fra kontinuerlige leveranser</P>
+                        <P>Front end og back end</P>
+                        <P>Eksempler på dagens teknologi er Java, Kotlin, React, Kafka, Elm, Azure/GCP med mer.</P>
+                        <P>Monitorering av applikasjonsspesifikke metrikker, automatisert testing og fokus på
+                            sluttbruker.
+                        </P>
+                        <P>Datadrevet utvikling som driver for kontinuerlig forbedring og innsikt</P>
+                        <P>Applikasjonssikkerhet, innebygd personvern</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_QUALITY>
+                            <AC_CRITERION>Forventet kvalitet ut fra den samlede kompetansen til de spesifikke personene
+                                som tilbys for tjenesten, dokumentert gjennom vedlagte CV-er
+                            </AC_CRITERION>
+                            <AC_WEIGHTING>45</AC_WEIGHTING>
+                        </AC_QUALITY>
+                        <AC_QUALITY>
+                            <AC_CRITERION>Kvaliteten på metodikk for kompetanseoverføring til oppdragsgiver
+                            </AC_CRITERION>
+                            <AC_WEIGHTING>5</AC_WEIGHTING>
+                        </AC_QUALITY>
+                        <AC_PRICE>
+                            <AC_WEIGHTING>50</AC_WEIGHTING>
+                        </AC_PRICE>
+                    </AC>
+                    <OPTIONS/>
+                    <OPTIONS_DESCR>
+                        <P>Opsjon for bruk av rammeavtalene for øvrige NAV-enheter (statlig del).</P>
+                    </OPTIONS_DESCR>
+                    <NO_EU_PROGR_RELATED/>
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="9">
+                    <TITLE>
+                        <P>Anskaffelse av parallelle rammeavtaler for konsulenttjenester til NAV - Videreutvikling av
+                            eksisterende applikasjoner
+                        </P>
+                    </TITLE>
+                    <LOT_NO>9</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="71600000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72212984"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72226000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72254000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72254100"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="73430000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72000000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72200000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72212211"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72212620"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72220000"/>
+                    </CPV_ADDITIONAL>
+                    <LOCATION code="000000"/>
+                    <MAIN_SITE>
+                        <P>Oslo</P>
+                    </MAIN_SITE>
+                    <SHORT_DESCR>
+                        <P>Videreutvikling av eksisterende applikasjoner</P>
+                        <P>Som eksempler nevnes:</P>
+                        <P>Videreutvikling og migrering innen teknologi som f.eks. Cobol, C/C++, Visual Basic, Oracle
+                            PL/SQL
+                        </P>
+                        <P>Testkompetanse bl.a. innen</P>
+                        <P>- Testdata</P>
+                        <P>- Ytelsestest</P>
+                        <P>- Sikkerhetstest</P>
+                        <P>- Avbruddstest</P>
+                        <P>RPA-utvikling</P>
+                        <P>Regelmotor som Blaze Advisor og tilsvarende, samt kunnskap om sikker kommunikasjon innen
+                            helsesektoren
+                        </P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_QUALITY>
+                            <AC_CRITERION>Forventet kvalitet ut fra den samlede kompetansen til de spesifikke personene
+                                som tilbys for tjenesten, dokumentert gjennom vedlagte CV-er
+                            </AC_CRITERION>
+                            <AC_WEIGHTING>45</AC_WEIGHTING>
+                        </AC_QUALITY>
+                        <AC_QUALITY>
+                            <AC_CRITERION>Kvaliteten på metodikk for kompetanseoverføring til oppdragsgiver
+                            </AC_CRITERION>
+                            <AC_WEIGHTING>5</AC_WEIGHTING>
+                        </AC_QUALITY>
+                        <AC_PRICE>
+                            <AC_WEIGHTING>50</AC_WEIGHTING>
+                        </AC_PRICE>
+                    </AC>
+                    <OPTIONS/>
+                    <OPTIONS_DESCR>
+                        <P>Opsjon for bruk av rammeavtalene for øvrige NAV-enheter (statlig del).</P>
+                    </OPTIONS_DESCR>
+                    <NO_EU_PROGR_RELATED/>
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="10">
+                    <TITLE>
+                        <P>Anskaffelse av parallelle rammeavtaler for konsulenttjenester til NAV -
+                            Informasjonsforvaltning
+                        </P>
+                    </TITLE>
+                    <LOT_NO>10</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="64216000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="64216200"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="79140000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="48810000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72000000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72320000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72220000"/>
+                    </CPV_ADDITIONAL>
+                    <LOCATION code="000000"/>
+                    <MAIN_SITE>
+                        <P>Oslo</P>
+                    </MAIN_SITE>
+                    <SHORT_DESCR>
+                        <P>Informasjonsforvaltning</P>
+                        <P>Som eksempler nevnes:</P>
+                        <P>Rådgivning, bistand og innleie innen</P>
+                        <P>Design og prototyping av visualiseringsløsninger</P>
+                        <P>- grafiske fremstillinger, dashboards, tabellrapporter, «what-if» analyser mm</P>
+                        <P>Databearbeiding og klargjøring for visualisering</P>
+                        <P>Datakobling av ulike datakilder</P>
+                        <P>Konstruksjon og produksjonssetting av visualiseringsløsninger</P>
+                        <P>Produksjon, utvikling og forvaltning av styringsinformasjon</P>
+                        <P>Brukerstøtte for styringsverktøy</P>
+                        <P>Databaseuttrekk</P>
+                        <P>Ekspertise og utviklingskapasitet innen utnyttelse av stordata, avansert analyse og
+                            AI/maskinlæring
+                        </P>
+                        <P>Personvernkompetanse knyttet til informasjonsforvaltning</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_QUALITY>
+                            <AC_CRITERION>Forventet kvalitet ut fra den samlede kompetansen til de spesifikke personene
+                                som tilbys for tjenesten, dokumentert gjennom vedlagte CV-er
+                            </AC_CRITERION>
+                            <AC_WEIGHTING>45</AC_WEIGHTING>
+                        </AC_QUALITY>
+                        <AC_QUALITY>
+                            <AC_CRITERION>Kvaliteten på metodikk for kompetanseoverføring til oppdragsgiver
+                            </AC_CRITERION>
+                            <AC_WEIGHTING>5</AC_WEIGHTING>
+                        </AC_QUALITY>
+                        <AC_PRICE>
+                            <AC_WEIGHTING>50</AC_WEIGHTING>
+                        </AC_PRICE>
+                    </AC>
+                    <OPTIONS/>
+                    <OPTIONS_DESCR>
+                        <P>Opsjon for bruk av rammeavtalene for øvrige NAV-enheter (statlig del).</P>
+                    </OPTIONS_DESCR>
+                    <NO_EU_PROGR_RELATED/>
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="11">
+                    <TITLE>
+                        <P>Anskaffelse av parallelle rammeavtaler for konsulenttjenester til NAV - Microsoftløsninger
+                        </P>
+                    </TITLE>
+                    <LOT_NO>11</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72000000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="48620000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72220000"/>
+                    </CPV_ADDITIONAL>
+                    <LOCATION code="000000"/>
+                    <MAIN_SITE>
+                        <P>Oslo</P>
+                    </MAIN_SITE>
+                    <SHORT_DESCR>
+                        <P>Microsoftløsninger</P>
+                        <P>Som eksempler nevnes:</P>
+                        <P>Spesialistkompetanse på Microsoftløsninger, herunder bl.a.</P>
+                        <P>- Skytjenester fra Microsoft (O365, Azure, SharePoint, OneDrive)</P>
+                        <P>- MS Windows klient og server/DataCenter teknologi og administrasjon</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_QUALITY>
+                            <AC_CRITERION>Forventet kvalitet ut fra den samlede kompetansen til de spesifikke personene
+                                som tilbys for tjenesten, dokumentert gjennom vedlagte CV-er
+                            </AC_CRITERION>
+                            <AC_WEIGHTING>45</AC_WEIGHTING>
+                        </AC_QUALITY>
+                        <AC_QUALITY>
+                            <AC_CRITERION>Kvaliteten på metodikk for kompetanseoverføring til oppdragsgiver
+                            </AC_CRITERION>
+                            <AC_WEIGHTING>5</AC_WEIGHTING>
+                        </AC_QUALITY>
+                        <AC_PRICE>
+                            <AC_WEIGHTING>50</AC_WEIGHTING>
+                        </AC_PRICE>
+                    </AC>
+                    <OPTIONS/>
+                    <OPTIONS_DESCR>
+                        <P>Opsjon for bruk av rammeavtalene for øvrige NAV-enheter (statlig del).</P>
+                    </OPTIONS_DESCR>
+                    <NO_EU_PROGR_RELATED/>
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="12">
+                    <TITLE>
+                        <P>Anskaffelse av parallelle rammeavtaler for konsulenttjenester til NAV -
+                            Virksomhetsløsninger
+                        </P>
+                    </TITLE>
+                    <LOT_NO>12</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72510000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="50324100"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72267100"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72000000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72220000"/>
+                    </CPV_ADDITIONAL>
+                    <LOCATION code="000000"/>
+                    <MAIN_SITE>
+                        <P>Oslo</P>
+                    </MAIN_SITE>
+                    <SHORT_DESCR>
+                        <P>Virksomhetsløsninger</P>
+                        <P>Som eksempler nevnes:</P>
+                        <P>Drift og vedlikehold av Oracle eBusiness Suite</P>
+                        <P>Rapportering ved hjelp av Oracle Discoverer</P>
+                        <P>Oppsett av system, funksjonell og teknisk kompetanse</P>
+                        <P>Fakturasystem integrert med OeBS</P>
+                        <P>Grensesnitt, for eksempel mot fakturabehandling</P>
+                        <P>Digitalisering/automatisering av logistikkløsninger og -prosesser</P>
+                        <P>Rådgivning og bistand til SaaS løsninger som;</P>
+                        <P>CRM, RPA, Chatbots, HR Core, HR løsninger, ID systemer, arkivløsninger, læringsportaler,
+                            rekrutteringsløsninger, samhandlingsløsninger, ERP, aktivitetsstyring, logistikk og eHandel
+                        </P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_QUALITY>
+                            <AC_CRITERION>Forventet kvalitet ut fra den samlede kompetansen til de spesifikke personene
+                                som tilbys for tjenesten, dokumentert gjennom vedlagte CV-er
+                            </AC_CRITERION>
+                            <AC_WEIGHTING>45</AC_WEIGHTING>
+                        </AC_QUALITY>
+                        <AC_QUALITY>
+                            <AC_CRITERION>Kvaliteten på metodikk for kompetanseoverføring til oppdragsgiver
+                            </AC_CRITERION>
+                            <AC_WEIGHTING>5</AC_WEIGHTING>
+                        </AC_QUALITY>
+                        <AC_PRICE>
+                            <AC_WEIGHTING>50</AC_WEIGHTING>
+                        </AC_PRICE>
+                    </AC>
+                    <OPTIONS/>
+                    <OPTIONS_DESCR>
+                        <P>Opsjon for bruk av rammeavtalene for øvrige NAV-enheter (statlig del).</P>
+                    </OPTIONS_DESCR>
+                    <NO_EU_PROGR_RELATED/>
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="13">
+                    <TITLE>
+                        <P>Anskaffelse av parallelle rammeavtaler for konsulenttjenester til NAV - Plattformer</P>
+                    </TITLE>
+                    <LOT_NO>13</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72000000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72600000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="64212000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72317000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72212985"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="48611000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="48600000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72510000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72220000"/>
+                    </CPV_ADDITIONAL>
+                    <LOCATION code="000000"/>
+                    <MAIN_SITE>
+                        <P>Oslo</P>
+                    </MAIN_SITE>
+                    <SHORT_DESCR>
+                        <P>Plattformer</P>
+                        <P>Som eksempler nevnes:</P>
+                        <P>- Drift, produksjon og feilsøking, for eksempel</P>
+                        <P>- VMWare, HPUX, Red Hat Linux, Z/OS, Cisco, Oracle, DB2 for Z / OS, DL/1, VSAM, ARS-Remedy,
+                            IBMs TWS, PostgreSQL
+                        </P>
+                        <P>- Driftskompetanse og spesialistkompetanse innen IN-tjenester og mobiltelefon og video
+                            løsninger
+                        </P>
+                        <P>- Spesialistkompetanse på Citrix, CoreOS, Container teknologi og Kubernetes</P>
+                        <P>- Spesialistkompetanse innen design og arkitektur for datalagring</P>
+                        <P>- Spesialistkompetanse innen plattform analyse og databasetuning, for eksempel</P>
+                        <P>- DB2 for z/OS, DL/1, VSAM, Oracle, Elk-stack</P>
+                        <P>- Driftskompetanse og spesialistkompetanse innen mellomvare, for eksempel</P>
+                        <P>- MQSeries, CICS, WebSphere Applikasjonstjener, BPM og DataPower, WebLogic
+                            Applikasjonstjener, XML, J2EE / JCA / CTG / JMS / JAAS, JMX, LDAP, JBoss Applikasjonsserver,
+                            Oracle FORMS, SonicMQ
+                        </P>
+                        <P>- Spesialistkompetanse på service management løsninger og rammeverk</P>
+                        <P>- Teknologirådgiving</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_QUALITY>
+                            <AC_CRITERION>Forventet kvalitet ut fra den samlede kompetansen til de spesifikke personene
+                                som tilbys for tjenesten, dokumentert gjennom vedlagte CV-er
+                            </AC_CRITERION>
+                            <AC_WEIGHTING>45</AC_WEIGHTING>
+                        </AC_QUALITY>
+                        <AC_QUALITY>
+                            <AC_CRITERION>Kvaliteten på metodikk for kompetanseoverføring til oppdragsgiver
+                            </AC_CRITERION>
+                            <AC_WEIGHTING>5</AC_WEIGHTING>
+                        </AC_QUALITY>
+                        <AC_PRICE>
+                            <AC_WEIGHTING>50</AC_WEIGHTING>
+                        </AC_PRICE>
+                    </AC>
+                    <OPTIONS/>
+                    <OPTIONS_DESCR>
+                        <P>Opsjon for bruk av rammeavtalene for øvrige NAV-enheter (statlig del).</P>
+                    </OPTIONS_DESCR>
+                    <NO_EU_PROGR_RELATED/>
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="14">
+                    <TITLE>
+                        <P>Anskaffelse av parallelle rammeavtaler for konsulenttjenester til NAV - Datakommunikasjon</P>
+                    </TITLE>
+                    <LOT_NO>14</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72000000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72720000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72700000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72212732"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="48730000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="48732000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="73431000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="79417000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72710000"/>
+                    </CPV_ADDITIONAL>
+                    <LOCATION code="000000"/>
+                    <MAIN_SITE>
+                        <P>Oslo</P>
+                    </MAIN_SITE>
+                    <SHORT_DESCR>
+                        <P>Datakommunikasjon</P>
+                        <P>Som eksempler nevnes:</P>
+                        <P>Spesialistkompetanse innen LAN, WAN og nettverkssikkerhet</P>
+                        <P>- Cisco Nexus N7K, N5K og N2k (miljø med bl.a. FabricPath, MPLS, FCoE og OTV), Cisco ACI,
+                            Fiberchannel og Ficon Wireless og DNA
+                        </P>
+                        <P>- Checkpoint, F5 (LTM, APM, WAF, ASM), Cisco ESA, Mcafee Web Gateway, DNS,
+                            Sertifikathåndtering
+                        </P>
+                        <P>- Generell teknisk- /arkitekturkompetanse innen nettverk og nettverksikkerhet, herunder sky-
+                            og hybridtopologi
+                        </P>
+                        <P>- Kompetanse på automatisering innenfor fagfeltet, penetrasjonstesting, Federated Identity
+                            management og CASB teknologi, samt kompetanse innen migrering fra On-prem til Public Cloud
+                        </P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_QUALITY>
+                            <AC_CRITERION>Forventet kvalitet ut fra den samlede kompetansen til de spesifikke personene
+                                som tilbys for tjenesten, dokumentert gjennom vedlagte CV-er
+                            </AC_CRITERION>
+                            <AC_WEIGHTING>45</AC_WEIGHTING>
+                        </AC_QUALITY>
+                        <AC_QUALITY>
+                            <AC_CRITERION>Kvaliteten på metodikk for kompetanseoverføring til oppdragsgiver
+                            </AC_CRITERION>
+                            <AC_WEIGHTING>5</AC_WEIGHTING>
+                        </AC_QUALITY>
+                        <AC_PRICE>
+                            <AC_WEIGHTING>50</AC_WEIGHTING>
+                        </AC_PRICE>
+                    </AC>
+                    <OPTIONS/>
+                    <OPTIONS_DESCR>
+                        <P>Opsjon for bruk av rammeavtalene for øvrige NAV-enheter (statlig del).</P>
+                    </OPTIONS_DESCR>
+                    <NO_EU_PROGR_RELATED/>
+                </OBJECT_DESCR>
+            </OBJECT_CONTRACT>
+            <PROCEDURE>
+                <PT_RESTRICTED/>
+                <CONTRACT_COVERED_GPA/>
+                <NOTICE_NUMBER_OJ>2019/S 038-087031</NOTICE_NUMBER_OJ>
+            </PROCEDURE>
+            <AWARD_CONTRACT ITEM="1">
+                <LOT_NO>1</LOT_NO>
+                <TITLE>
+                    <P>Anskaffelse av parallelle rammeavtaler for konsulenttjenester til NAV</P>
+                </TITLE>
+                <AWARDED_CONTRACT>
+                    <DATE_CONCLUSION_CONTRACT>2019-10-31</DATE_CONCLUSION_CONTRACT>
+                    <TENDERS>
+                        <NB_TENDERS_RECEIVED>8</NB_TENDERS_RECEIVED>
+                        <NB_TENDERS_RECEIVED_SME>7</NB_TENDERS_RECEIVED_SME>
+                        <NB_TENDERS_RECEIVED_OTHER_EU>8</NB_TENDERS_RECEIVED_OTHER_EU>
+                        <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+                        <NB_TENDERS_RECEIVED_EMEANS>8</NB_TENDERS_RECEIVED_EMEANS>
+                    </TENDERS>
+                    <CONTRACTORS>
+                        <AWARDED_TO_GROUP/>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Experis AS</OFFICIALNAME>
+                                <ADDRESS>Lakkegata 53</ADDRESS>
+                                <TOWN>OSLO</TOWN>
+                                <POSTAL_CODE>0187</POSTAL_CODE>
+                                <COUNTRY VALUE="NO"/>
+                                <PHONE>+47 22018000</PHONE>
+                                <FAX>+47 22835110</FAX>
+                                <LOCATION code="010000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Capus AS</OFFICIALNAME>
+                                <ADDRESS>Postboks 5498 Majorstuen</ADDRESS>
+                                <TOWN>OSLO</TOWN>
+                                <POSTAL_CODE>0305</POSTAL_CODE>
+                                <COUNTRY VALUE="NO"/>
+                                <PHONE>+47 22941100</PHONE>
+                                <E_MAIL>adm@capus.no</E_MAIL>
+                                <FAX>+47 22941101</FAX>
+                                <LOCATION code="010000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Skagerak Consulting as</OFFICIALNAME>
+                                <ADDRESS>Nordre Kullerød 1</ADDRESS>
+                                <TOWN>SANDEFJORD</TOWN>
+                                <POSTAL_CODE>3241</POSTAL_CODE>
+                                <COUNTRY VALUE="NO"/>
+                                <PHONE>+47 41431938</PHONE>
+                                <E_MAIL>post@skc.no</E_MAIL>
+                                <LOCATION code="030706"/>
+                            </ADDRESS_CONTRACTOR>
+                            <SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Cruit AS</OFFICIALNAME>
+                                <ADDRESS>Karl Johans gate 25</ADDRESS>
+                                <TOWN>OSLO</TOWN>
+                                <POSTAL_CODE>0159</POSTAL_CODE>
+                                <COUNTRY VALUE="NO"/>
+                                <PHONE>+47 92086167</PHONE>
+                                <E_MAIL>consulting@cruit.no</E_MAIL>
+                                <LOCATION code="010000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Headvisor AS</OFFICIALNAME>
+                                <ADDRESS>Torgallmenningen 1A</ADDRESS>
+                                <TOWN>BERGEN</TOWN>
+                                <POSTAL_CODE>5014</POSTAL_CODE>
+                                <COUNTRY VALUE="NO"/>
+                                <PHONE>+47 22476550</PHONE>
+                                <FAX>+47 22413000</FAX>
+                                <LOCATION code="051201"/>
+                            </ADDRESS_CONTRACTOR>
+                            <SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Advisi SA</OFFICIALNAME>
+                                <ADDRESS>Fjordgaten 9</ADDRESS>
+                                <TOWN>Tønsberg</TOWN>
+                                <POSTAL_CODE>3125</POSTAL_CODE>
+                                <COUNTRY VALUE="NO"/>
+                                <PHONE>+47 99476242</PHONE>
+                                <E_MAIL>sb@advisi.no</E_MAIL>
+                                <LOCATION code="030704"/>
+                            </ADDRESS_CONTRACTOR>
+                            <SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Hartmark Executive Search AS</OFFICIALNAME>
+                                <ADDRESS>Hoffsveien 21/23</ADDRESS>
+                                <TOWN>OSLO</TOWN>
+                                <POSTAL_CODE>0275</POSTAL_CODE>
+                                <COUNTRY VALUE="NO"/>
+                                <PHONE>+47 22517500</PHONE>
+                                <E_MAIL>firmapost@hartmark.no</E_MAIL>
+                                <LOCATION code="010000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <SME/>
+                        </CONTRACTOR>
+                    </CONTRACTORS>
+                    <VALUES>
+                        <VAL_ESTIMATED_TOTAL CURRENCY="NOK">12000000.00</VAL_ESTIMATED_TOTAL>
+                        <VAL_TOTAL CURRENCY="NOK">12000000.00</VAL_TOTAL>
+                    </VALUES>
+                </AWARDED_CONTRACT>
+            </AWARD_CONTRACT>
+            <AWARD_CONTRACT ITEM="2">
+                <LOT_NO>2</LOT_NO>
+                <AWARDED_CONTRACT>
+                    <DATE_CONCLUSION_CONTRACT>2019-10-31</DATE_CONCLUSION_CONTRACT>
+                    <TENDERS>
+                        <NB_TENDERS_RECEIVED>14</NB_TENDERS_RECEIVED>
+                        <NB_TENDERS_RECEIVED_SME>8</NB_TENDERS_RECEIVED_SME>
+                        <NB_TENDERS_RECEIVED_OTHER_EU>14</NB_TENDERS_RECEIVED_OTHER_EU>
+                        <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+                        <NB_TENDERS_RECEIVED_EMEANS>14</NB_TENDERS_RECEIVED_EMEANS>
+                    </TENDERS>
+                    <CONTRACTORS>
+                        <AWARDED_TO_GROUP/>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>PricewaterhouseCoopers AS</OFFICIALNAME>
+                                <TOWN>oslo</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="010300"/>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Implement Consulting Group AS</OFFICIALNAME>
+                                <TOWN>Oslo</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="010300"/>
+                            </ADDRESS_CONTRACTOR>
+                            <SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Metier Oec AS</OFFICIALNAME>
+                                <TOWN>Oslo</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="010300"/>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Stiftelsen Administrativt Forskningsfond ved NHH (AFF)</OFFICIALNAME>
+                                <TOWN>Bergen</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="051201"/>
+                            </ADDRESS_CONTRACTOR>
+                            <SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Holte Consulting AS</OFFICIALNAME>
+                                <TOWN>Oslo</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="010301"/>
+                            </ADDRESS_CONTRACTOR>
+                            <SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Accenture AS</OFFICIALNAME>
+                                <TOWN>Lysaker</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="010000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>KPMG AS</OFFICIALNAME>
+                                <TOWN>Oslo</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="010000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Ernst &amp; Young AS</OFFICIALNAME>
+                                <TOWN>Oslo</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="010000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Deloitte AS</OFFICIALNAME>
+                                <TOWN>Oslo</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="010000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Right Management Norway AS</OFFICIALNAME>
+                                <TOWN>Oslo</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="010000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <SME/>
+                        </CONTRACTOR>
+                    </CONTRACTORS>
+                    <VALUES>
+                        <VAL_ESTIMATED_TOTAL CURRENCY="NOK">40000000.00</VAL_ESTIMATED_TOTAL>
+                        <VAL_TOTAL CURRENCY="NOK">40000000.00</VAL_TOTAL>
+                    </VALUES>
+                </AWARDED_CONTRACT>
+            </AWARD_CONTRACT>
+            <AWARD_CONTRACT ITEM="3">
+                <LOT_NO>3</LOT_NO>
+                <AWARDED_CONTRACT>
+                    <DATE_CONCLUSION_CONTRACT>2019-10-31</DATE_CONCLUSION_CONTRACT>
+                    <TENDERS>
+                        <NB_TENDERS_RECEIVED>16</NB_TENDERS_RECEIVED>
+                        <NB_TENDERS_RECEIVED_SME>6</NB_TENDERS_RECEIVED_SME>
+                        <NB_TENDERS_RECEIVED_OTHER_EU>16</NB_TENDERS_RECEIVED_OTHER_EU>
+                        <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+                        <NB_TENDERS_RECEIVED_EMEANS>16</NB_TENDERS_RECEIVED_EMEANS>
+                    </TENDERS>
+                    <CONTRACTORS>
+                        <AWARDED_TO_GROUP/>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>A-2 Norge AS</OFFICIALNAME>
+                                <TOWN>Oslo</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="010000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Devoteam Fornebu Consulting AS</OFFICIALNAME>
+                                <TOWN>Oslo</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="010000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Sprint Consulting AS</OFFICIALNAME>
+                                <TOWN>Oslo</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="010000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>PricewaterhouseCoopers AS</OFFICIALNAME>
+                                <TOWN>Oslo</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="010000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Metier Oec AS</OFFICIALNAME>
+                                <TOWN>Oslo</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="010000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Accenture AS</OFFICIALNAME>
+                                <TOWN>Lysaker</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="010000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>KPMG AS</OFFICIALNAME>
+                                <TOWN>Oslo</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="010000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Ernst &amp; Young AS</OFFICIALNAME>
+                                <TOWN>Oslo</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="010000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Deloitte AS</OFFICIALNAME>
+                                <TOWN>OSLO</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="010000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Sopra Steria AS</OFFICIALNAME>
+                                <TOWN>Oslo</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="010000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Capgemini Norge AS</OFFICIALNAME>
+                                <TOWN>Oslo</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="010000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>PA Consulting Group AS</OFFICIALNAME>
+                                <TOWN>Oslo</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="010000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <SME/>
+                        </CONTRACTOR>
+                    </CONTRACTORS>
+                    <VALUES>
+                        <VAL_ESTIMATED_TOTAL CURRENCY="NOK">56000000.00</VAL_ESTIMATED_TOTAL>
+                        <VAL_TOTAL CURRENCY="NOK">56000000.00</VAL_TOTAL>
+                    </VALUES>
+                </AWARDED_CONTRACT>
+            </AWARD_CONTRACT>
+            <AWARD_CONTRACT ITEM="4">
+                <LOT_NO>4</LOT_NO>
+                <AWARDED_CONTRACT>
+                    <DATE_CONCLUSION_CONTRACT>2019-10-31</DATE_CONCLUSION_CONTRACT>
+                    <TENDERS>
+                        <NB_TENDERS_RECEIVED>13</NB_TENDERS_RECEIVED>
+                        <NB_TENDERS_RECEIVED_SME>6</NB_TENDERS_RECEIVED_SME>
+                        <NB_TENDERS_RECEIVED_OTHER_EU>13</NB_TENDERS_RECEIVED_OTHER_EU>
+                        <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+                        <NB_TENDERS_RECEIVED_EMEANS>13</NB_TENDERS_RECEIVED_EMEANS>
+                    </TENDERS>
+                    <CONTRACTORS>
+                        <AWARDED_TO_GROUP/>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>PricewaterhouseCoopers AS</OFFICIALNAME>
+                                <TOWN>Oslo</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="010000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Arribatec AS</OFFICIALNAME>
+                                <TOWN>Oslo</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="010000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Accenture AS</OFFICIALNAME>
+                                <TOWN>Lysaker</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="010000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>KPMG AS</OFFICIALNAME>
+                                <TOWN>Oslo</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="010000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Ernst &amp; Young AS</OFFICIALNAME>
+                                <TOWN>Oslo</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="010000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Uniconsult AS</OFFICIALNAME>
+                                <TOWN>Oslo</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="010000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Deloitte AS</OFFICIALNAME>
+                                <TOWN>Oslo</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="010000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Sopra Steria AS</OFFICIALNAME>
+                                <TOWN>Oslo</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="010000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>BDO AS</OFFICIALNAME>
+                                <TOWN>Oslo</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="010000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>PA Consulting Group AS</OFFICIALNAME>
+                                <TOWN>Oslo</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="010000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <SME/>
+                        </CONTRACTOR>
+                    </CONTRACTORS>
+                    <VALUES>
+                        <VAL_ESTIMATED_TOTAL CURRENCY="NOK">32000000.00</VAL_ESTIMATED_TOTAL>
+                        <VAL_TOTAL CURRENCY="NOK">32000000.00</VAL_TOTAL>
+                    </VALUES>
+                </AWARDED_CONTRACT>
+            </AWARD_CONTRACT>
+            <AWARD_CONTRACT ITEM="5">
+                <LOT_NO>5</LOT_NO>
+                <AWARDED_CONTRACT>
+                    <DATE_CONCLUSION_CONTRACT>2019-10-31</DATE_CONCLUSION_CONTRACT>
+                    <TENDERS>
+                        <NB_TENDERS_RECEIVED>14</NB_TENDERS_RECEIVED>
+                        <NB_TENDERS_RECEIVED_SME>5</NB_TENDERS_RECEIVED_SME>
+                        <NB_TENDERS_RECEIVED_OTHER_EU>14</NB_TENDERS_RECEIVED_OTHER_EU>
+                        <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+                        <NB_TENDERS_RECEIVED_EMEANS>14</NB_TENDERS_RECEIVED_EMEANS>
+                    </TENDERS>
+                    <CONTRACTORS>
+                        <AWARDED_TO_GROUP/>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>A-2 Norge AS</OFFICIALNAME>
+                                <TOWN>Oslo</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="010000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Arthur D. Little AS</OFFICIALNAME>
+                                <TOWN>Oslo</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="010000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Promis AS</OFFICIALNAME>
+                                <TOWN>Oslo</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="010000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Metier Oec AS</OFFICIALNAME>
+                                <TOWN>Oslo</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="010000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Holte Consulting AS</OFFICIALNAME>
+                                <TOWN>Oslo</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="010000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Accenture AS</OFFICIALNAME>
+                                <TOWN>Lysaker</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="010000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>KPMG AS</OFFICIALNAME>
+                                <TOWN>Oslo</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="010000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Deloitte AS</OFFICIALNAME>
+                                <TOWN>Oslo</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="010000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Sopra Steria AS</OFFICIALNAME>
+                                <TOWN>Oslo</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="010000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Capgemini Norge AS</OFFICIALNAME>
+                                <TOWN>Oslo</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="010000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME/>
+                        </CONTRACTOR>
+                    </CONTRACTORS>
+                    <VALUES>
+                        <VAL_ESTIMATED_TOTAL CURRENCY="NOK">64000000.00</VAL_ESTIMATED_TOTAL>
+                        <VAL_TOTAL CURRENCY="NOK">64000000.00</VAL_TOTAL>
+                    </VALUES>
+                </AWARDED_CONTRACT>
+            </AWARD_CONTRACT>
+            <AWARD_CONTRACT ITEM="6">
+                <LOT_NO>6</LOT_NO>
+                <AWARDED_CONTRACT>
+                    <DATE_CONCLUSION_CONTRACT>2019-10-31</DATE_CONCLUSION_CONTRACT>
+                    <TENDERS>
+                        <NB_TENDERS_RECEIVED>17</NB_TENDERS_RECEIVED>
+                        <NB_TENDERS_RECEIVED_SME>6</NB_TENDERS_RECEIVED_SME>
+                        <NB_TENDERS_RECEIVED_OTHER_EU>17</NB_TENDERS_RECEIVED_OTHER_EU>
+                        <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+                        <NB_TENDERS_RECEIVED_EMEANS>17</NB_TENDERS_RECEIVED_EMEANS>
+                    </TENDERS>
+                    <CONTRACTORS>
+                        <AWARDED_TO_GROUP/>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>A-2 Norge AS</OFFICIALNAME>
+                                <TOWN>Oslo</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="010000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Devoteam Fornebu Consulting AS</OFFICIALNAME>
+                                <TOWN>Oslo</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="010000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Holte Consulting AS</OFFICIALNAME>
+                                <TOWN>Oslo</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="010000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Accenture AS</OFFICIALNAME>
+                                <TOWN>Lysaker</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="010000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>KPMG AS</OFFICIALNAME>
+                                <TOWN>Oslo</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="010000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Uniconsult AS</OFFICIALNAME>
+                                <TOWN>Oslo</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="010000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Bouvet Norge AS</OFFICIALNAME>
+                                <TOWN>Oslo</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="010000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>CGI Norge AS</OFFICIALNAME>
+                                <TOWN>Oslo</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="010000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Sopra Steria AS</OFFICIALNAME>
+                                <TOWN>Oslo</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="010000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Capgemini Norge AS</OFFICIALNAME>
+                                <TOWN>Oslo</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="010000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Decisive AS</OFFICIALNAME>
+                                <TOWN>Oslo</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="010000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Netcompany AS</OFFICIALNAME>
+                                <TOWN>København</TOWN>
+                                <COUNTRY VALUE="DK"/>
+                                <NUTS CODE="DK"/>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME/>
+                        </CONTRACTOR>
+                    </CONTRACTORS>
+                    <VALUES>
+                        <VAL_ESTIMATED_TOTAL CURRENCY="NOK">88000000.00</VAL_ESTIMATED_TOTAL>
+                        <VAL_TOTAL CURRENCY="NOK">88000000.00</VAL_TOTAL>
+                    </VALUES>
+                </AWARDED_CONTRACT>
+            </AWARD_CONTRACT>
+            <AWARD_CONTRACT ITEM="7">
+                <LOT_NO>7</LOT_NO>
+                <AWARDED_CONTRACT>
+                    <DATE_CONCLUSION_CONTRACT>2019-10-31</DATE_CONCLUSION_CONTRACT>
+                    <TENDERS>
+                        <NB_TENDERS_RECEIVED>15</NB_TENDERS_RECEIVED>
+                        <NB_TENDERS_RECEIVED_SME>5</NB_TENDERS_RECEIVED_SME>
+                        <NB_TENDERS_RECEIVED_OTHER_EU>15</NB_TENDERS_RECEIVED_OTHER_EU>
+                        <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+                        <NB_TENDERS_RECEIVED_EMEANS>15</NB_TENDERS_RECEIVED_EMEANS>
+                    </TENDERS>
+                    <CONTRACTORS>
+                        <AWARDED_TO_GROUP/>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Netlife Design AS</OFFICIALNAME>
+                                <TOWN>Oslo</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="010000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Netlight AS</OFFICIALNAME>
+                                <TOWN>Oslo</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="010000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Halogen AS</OFFICIALNAME>
+                                <TOWN>Oslo</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="010000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Knowit AS</OFFICIALNAME>
+                                <TOWN>Oslo</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="010000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Blank AS</OFFICIALNAME>
+                                <TOWN>Oslo</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="010000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Accenture AS</OFFICIALNAME>
+                                <TOWN>Lysaker</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="010000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Bouvet Norge AS</OFFICIALNAME>
+                                <TOWN>Oslo</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="010000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Sopra Steria AS</OFFICIALNAME>
+                                <TOWN>Oslo</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="010000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Creuna AS</OFFICIALNAME>
+                                <TOWN>Oslo</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="010000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Capgemini Norge AS</OFFICIALNAME>
+                                <TOWN>Oslo</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="010000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Itera Norge AS</OFFICIALNAME>
+                                <TOWN>Oslo</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="010000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Bekk Consulting AS</OFFICIALNAME>
+                                <TOWN>Oslo</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="010000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <SME/>
+                        </CONTRACTOR>
+                    </CONTRACTORS>
+                    <VALUES>
+                        <VAL_ESTIMATED_TOTAL CURRENCY="NOK">88000000.00</VAL_ESTIMATED_TOTAL>
+                        <VAL_TOTAL CURRENCY="NOK">88000000.00</VAL_TOTAL>
+                    </VALUES>
+                </AWARDED_CONTRACT>
+            </AWARD_CONTRACT>
+            <AWARD_CONTRACT ITEM="8">
+                <LOT_NO>8</LOT_NO>
+                <AWARDED_CONTRACT>
+                    <DATE_CONCLUSION_CONTRACT>2019-10-31</DATE_CONCLUSION_CONTRACT>
+                    <TENDERS>
+                        <NB_TENDERS_RECEIVED>14</NB_TENDERS_RECEIVED>
+                        <NB_TENDERS_RECEIVED_SME>4</NB_TENDERS_RECEIVED_SME>
+                        <NB_TENDERS_RECEIVED_OTHER_EU>14</NB_TENDERS_RECEIVED_OTHER_EU>
+                        <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+                        <NB_TENDERS_RECEIVED_EMEANS>14</NB_TENDERS_RECEIVED_EMEANS>
+                    </TENDERS>
+                    <CONTRACTORS>
+                        <AWARDED_TO_GROUP/>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Netlight AS</OFFICIALNAME>
+                                <TOWN>Oslo</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="010000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Innovatec - Innovative Technologies AS</OFFICIALNAME>
+                                <TOWN>Oslo</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="010000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Blank AS</OFFICIALNAME>
+                                <TOWN>Oslo</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="010000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Accenture AS</OFFICIALNAME>
+                                <TOWN>Lysaker</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="010000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>CGI Norge AS</OFFICIALNAME>
+                                <TOWN>Oslo</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="010000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Computas AS</OFFICIALNAME>
+                                <TOWN>Oslo</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="010000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Visma Consulting AS</OFFICIALNAME>
+                                <TOWN>Oslo</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="010000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Systek AS</OFFICIALNAME>
+                                <TOWN>Oslo</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="010000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Sopra Steria AS</OFFICIALNAME>
+                                <TOWN>Oslo</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="010000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Capgemini Norge AS</OFFICIALNAME>
+                                <TOWN>Oslo</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="010000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Decisive AS</OFFICIALNAME>
+                                <TOWN>Oslo</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="010000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Bekk Consulting AS</OFFICIALNAME>
+                                <TOWN>Oslo</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="010000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME/>
+                        </CONTRACTOR>
+                    </CONTRACTORS>
+                    <VALUES>
+                        <VAL_ESTIMATED_TOTAL CURRENCY="NOK">68000000.00</VAL_ESTIMATED_TOTAL>
+                        <VAL_TOTAL CURRENCY="NOK">68000000.00</VAL_TOTAL>
+                    </VALUES>
+                </AWARDED_CONTRACT>
+            </AWARD_CONTRACT>
+            <AWARD_CONTRACT ITEM="9">
+                <LOT_NO>9</LOT_NO>
+                <AWARDED_CONTRACT>
+                    <DATE_CONCLUSION_CONTRACT>2019-10-31</DATE_CONCLUSION_CONTRACT>
+                    <TENDERS>
+                        <NB_TENDERS_RECEIVED>10</NB_TENDERS_RECEIVED>
+                        <NB_TENDERS_RECEIVED_SME>3</NB_TENDERS_RECEIVED_SME>
+                        <NB_TENDERS_RECEIVED_OTHER_EU>10</NB_TENDERS_RECEIVED_OTHER_EU>
+                        <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+                        <NB_TENDERS_RECEIVED_EMEANS>10</NB_TENDERS_RECEIVED_EMEANS>
+                    </TENDERS>
+                    <CONTRACTORS>
+                        <AWARDED_TO_GROUP/>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Innovatec - Innovative Technologies AS</OFFICIALNAME>
+                                <TOWN>Oslo</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="010000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>AVO Consulting Norge AS</OFFICIALNAME>
+                                <TOWN>Bergen</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="051201"/>
+                            </ADDRESS_CONTRACTOR>
+                            <SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Accenture AS</OFFICIALNAME>
+                                <TOWN>Lysaker</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="010000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>International Business Machines AS (IBM AS)</OFFICIALNAME>
+                                <TOWN>Oslo</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="010000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Sopra Steria AS</OFFICIALNAME>
+                                <TOWN>Oslo</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="010000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Capgemini Norge AS</OFFICIALNAME>
+                                <TOWN>Oslo</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="010000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Decisive AS</OFFICIALNAME>
+                                <TOWN>Oslo</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="010000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Netcompany AS</OFFICIALNAME>
+                                <TOWN>København</TOWN>
+                                <COUNTRY VALUE="DK"/>
+                                <NUTS CODE="DK01"/>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Bragd Consulting Network AS</OFFICIALNAME>
+                                <TOWN>Oslo</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="010000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <SME/>
+                        </CONTRACTOR>
+                    </CONTRACTORS>
+                    <VALUES>
+                        <VAL_ESTIMATED_TOTAL CURRENCY="NOK">48000000.00</VAL_ESTIMATED_TOTAL>
+                        <VAL_TOTAL CURRENCY="NOK">48000000.00</VAL_TOTAL>
+                    </VALUES>
+                </AWARDED_CONTRACT>
+            </AWARD_CONTRACT>
+            <AWARD_CONTRACT ITEM="10">
+                <LOT_NO>10</LOT_NO>
+                <AWARDED_CONTRACT>
+                    <DATE_CONCLUSION_CONTRACT>2019-10-31</DATE_CONCLUSION_CONTRACT>
+                    <TENDERS>
+                        <NB_TENDERS_RECEIVED>11</NB_TENDERS_RECEIVED>
+                        <NB_TENDERS_RECEIVED_SME>1</NB_TENDERS_RECEIVED_SME>
+                        <NB_TENDERS_RECEIVED_OTHER_EU>11</NB_TENDERS_RECEIVED_OTHER_EU>
+                        <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+                        <NB_TENDERS_RECEIVED_EMEANS>11</NB_TENDERS_RECEIVED_EMEANS>
+                    </TENDERS>
+                    <CONTRACTORS>
+                        <AWARDED_TO_GROUP/>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>PricewaterhouseCoopers AS</OFFICIALNAME>
+                                <TOWN>Oslo</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="010000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Accenture AS</OFFICIALNAME>
+                                <TOWN>Lysaker</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="010000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>KPMG AS</OFFICIALNAME>
+                                <TOWN>Oslo</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="010000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Ernst &amp; Young AS</OFFICIALNAME>
+                                <TOWN>Oslo</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="010000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>International Business Machines AS (IBM AS)</OFFICIALNAME>
+                                <TOWN>Oslo</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="010000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Deloitte AS</OFFICIALNAME>
+                                <TOWN>Oslo</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="010000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Visma Consulting AS</OFFICIALNAME>
+                                <TOWN>Oslo</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="010000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Atea AS</OFFICIALNAME>
+                                <TOWN>Oslo</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="010000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Capgemini Norge AS</OFFICIALNAME>
+                                <TOWN>Oslo</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="010000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Norsk Regnesentral</OFFICIALNAME>
+                                <TOWN>Oslo</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="010000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <SME/>
+                        </CONTRACTOR>
+                    </CONTRACTORS>
+                    <VALUES>
+                        <VAL_ESTIMATED_TOTAL CURRENCY="NOK">48000000.00</VAL_ESTIMATED_TOTAL>
+                        <VAL_TOTAL CURRENCY="NOK">48000000.00</VAL_TOTAL>
+                    </VALUES>
+                </AWARDED_CONTRACT>
+            </AWARD_CONTRACT>
+            <AWARD_CONTRACT ITEM="11">
+                <LOT_NO>11</LOT_NO>
+                <AWARDED_CONTRACT>
+                    <DATE_CONCLUSION_CONTRACT>2019-10-31</DATE_CONCLUSION_CONTRACT>
+                    <TENDERS>
+                        <NB_TENDERS_RECEIVED>10</NB_TENDERS_RECEIVED>
+                        <NB_TENDERS_RECEIVED_SME>4</NB_TENDERS_RECEIVED_SME>
+                        <NB_TENDERS_RECEIVED_OTHER_EU>10</NB_TENDERS_RECEIVED_OTHER_EU>
+                        <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+                        <NB_TENDERS_RECEIVED_EMEANS>10</NB_TENDERS_RECEIVED_EMEANS>
+                    </TENDERS>
+                    <CONTRACTORS>
+                        <AWARDED_TO_GROUP/>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>KPMG AS</OFFICIALNAME>
+                                <TOWN>Oslo</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="010000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>CGI Norge AS</OFFICIALNAME>
+                                <TOWN>Oslo</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="010000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Move AS</OFFICIALNAME>
+                                <TOWN>Oslo</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="010000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Sopra Steria AS</OFFICIALNAME>
+                                <TOWN>Oslo</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="010000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Crayon AS</OFFICIALNAME>
+                                <TOWN>Oslo</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="010000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Systemintegrasjon AS</OFFICIALNAME>
+                                <TOWN>Oslo</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="010000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>PA Consulting Group AS</OFFICIALNAME>
+                                <TOWN>Oslo</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="010000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>IT Consult AS</OFFICIALNAME>
+                                <TOWN>Oslo</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="010000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <SME/>
+                        </CONTRACTOR>
+                    </CONTRACTORS>
+                    <VALUES>
+                        <VAL_ESTIMATED_TOTAL CURRENCY="NOK">24000000.00</VAL_ESTIMATED_TOTAL>
+                        <VAL_TOTAL CURRENCY="NOK">24000000.00</VAL_TOTAL>
+                    </VALUES>
+                </AWARDED_CONTRACT>
+            </AWARD_CONTRACT>
+            <AWARD_CONTRACT ITEM="12">
+                <LOT_NO>12</LOT_NO>
+                <AWARDED_CONTRACT>
+                    <DATE_CONCLUSION_CONTRACT>2019-10-31</DATE_CONCLUSION_CONTRACT>
+                    <TENDERS>
+                        <NB_TENDERS_RECEIVED>8</NB_TENDERS_RECEIVED>
+                        <NB_TENDERS_RECEIVED_SME>3</NB_TENDERS_RECEIVED_SME>
+                        <NB_TENDERS_RECEIVED_OTHER_EU>8</NB_TENDERS_RECEIVED_OTHER_EU>
+                        <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+                        <NB_TENDERS_RECEIVED_EMEANS>8</NB_TENDERS_RECEIVED_EMEANS>
+                    </TENDERS>
+                    <CONTRACTORS>
+                        <AWARDED_TO_GROUP/>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>EBS Consulting AS</OFFICIALNAME>
+                                <TOWN>Oslo</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="010000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>AVO Consulting Norge AS</OFFICIALNAME>
+                                <TOWN>Bergen</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="051201"/>
+                            </ADDRESS_CONTRACTOR>
+                            <SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>International Business Machines AS (IBM AS)</OFFICIALNAME>
+                                <TOWN>Oslo</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="051201"/>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Capgemini Norge AS</OFFICIALNAME>
+                                <TOWN>Oslo</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="010000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Netcompany AS</OFFICIALNAME>
+                                <TOWN>København</TOWN>
+                                <COUNTRY VALUE="DK"/>
+                                <NUTS CODE="DK01"/>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME/>
+                        </CONTRACTOR>
+                    </CONTRACTORS>
+                    <VALUES>
+                        <VAL_ESTIMATED_TOTAL CURRENCY="NOK">24000000.00</VAL_ESTIMATED_TOTAL>
+                        <VAL_TOTAL CURRENCY="NOK">24000000.00</VAL_TOTAL>
+                    </VALUES>
+                </AWARDED_CONTRACT>
+            </AWARD_CONTRACT>
+            <AWARD_CONTRACT ITEM="13">
+                <LOT_NO>13</LOT_NO>
+                <AWARDED_CONTRACT>
+                    <DATE_CONCLUSION_CONTRACT>2019-10-31</DATE_CONCLUSION_CONTRACT>
+                    <TENDERS>
+                        <NB_TENDERS_RECEIVED>9</NB_TENDERS_RECEIVED>
+                        <NB_TENDERS_RECEIVED_SME>4</NB_TENDERS_RECEIVED_SME>
+                        <NB_TENDERS_RECEIVED_OTHER_EU>9</NB_TENDERS_RECEIVED_OTHER_EU>
+                        <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+                        <NB_TENDERS_RECEIVED_EMEANS>9</NB_TENDERS_RECEIVED_EMEANS>
+                    </TENDERS>
+                    <CONTRACTORS>
+                        <AWARDED_TO_GROUP/>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>International Business Machines AS (IBM AS)</OFFICIALNAME>
+                                <TOWN>Oslo</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="010000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Experis AS</OFFICIALNAME>
+                                <TOWN>Oslo</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="010000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Proact IT Norge AS</OFFICIALNAME>
+                                <TOWN>Oslo</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="010000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Move AS</OFFICIALNAME>
+                                <TOWN>Oslo</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="010000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Sopra Steria AS</OFFICIALNAME>
+                                <TOWN>Oslo</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="010000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Netcompany AS</OFFICIALNAME>
+                                <TOWN>København</TOWN>
+                                <COUNTRY VALUE="DK"/>
+                                <NUTS CODE="DK01"/>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Bragd Consulting Network AS</OFFICIALNAME>
+                                <TOWN>Oslo</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="010000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>IT Consult AS</OFFICIALNAME>
+                                <TOWN>Oslo</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="010000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <SME/>
+                        </CONTRACTOR>
+                    </CONTRACTORS>
+                    <VALUES>
+                        <VAL_ESTIMATED_TOTAL CURRENCY="NOK">36000000.00</VAL_ESTIMATED_TOTAL>
+                        <VAL_TOTAL CURRENCY="NOK">36000000.00</VAL_TOTAL>
+                    </VALUES>
+                </AWARDED_CONTRACT>
+            </AWARD_CONTRACT>
+            <AWARD_CONTRACT ITEM="14">
+                <LOT_NO>14</LOT_NO>
+                <AWARDED_CONTRACT>
+                    <DATE_CONCLUSION_CONTRACT>2019-10-31</DATE_CONCLUSION_CONTRACT>
+                    <TENDERS>
+                        <NB_TENDERS_RECEIVED>5</NB_TENDERS_RECEIVED>
+                        <NB_TENDERS_RECEIVED_SME>2</NB_TENDERS_RECEIVED_SME>
+                        <NB_TENDERS_RECEIVED_OTHER_EU>5</NB_TENDERS_RECEIVED_OTHER_EU>
+                        <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+                        <NB_TENDERS_RECEIVED_EMEANS>5</NB_TENDERS_RECEIVED_EMEANS>
+                    </TENDERS>
+                    <CONTRACTORS>
+                        <AWARDED_TO_GROUP/>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Deloitte AS</OFFICIALNAME>
+                                <TOWN>Oslo</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="010000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Sopra Steria AS</OFFICIALNAME>
+                                <TOWN>Oslo</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="010000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Mnemonic AS</OFFICIALNAME>
+                                <TOWN>Oslo</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="010000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Conscia Norge AS</OFFICIALNAME>
+                                <TOWN>Oslo</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="010000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>IT Consult AS</OFFICIALNAME>
+                                <TOWN>Oslo</TOWN>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="010000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <SME/>
+                        </CONTRACTOR>
+                    </CONTRACTORS>
+                    <VALUES>
+                        <VAL_ESTIMATED_TOTAL CURRENCY="NOK">12000000.00</VAL_ESTIMATED_TOTAL>
+                        <VAL_TOTAL CURRENCY="NOK">12000000.00</VAL_TOTAL>
+                    </VALUES>
+                </AWARDED_CONTRACT>
+            </AWARD_CONTRACT>
+            <COMPLEMENTARY_INFO>
+                <INFO_ADD>
+                    <P>Til punkt VI.2) Elektronisk bestilling vil bli brukt: Minikonkurranser gjennomføres gjennom
+                        Kundens verktøy for konkurransegjennomføring, som per tid er levert av Mercell.
+                    </P>
+                </INFO_ADD>
+                <ADDRESS_REVIEW_BODY>
+                    <OFFICIALNAME>Oslo Tingrett</OFFICIALNAME>
+                    <ADDRESS>Postboks 2106 Vika</ADDRESS>
+                    <TOWN>Oslo</TOWN>
+                    <POSTAL_CODE>0125</POSTAL_CODE>
+                    <COUNTRY VALUE="NO"/>
+                </ADDRESS_REVIEW_BODY>
+                <DATE_DISPATCH_NOTICE>2020-02-03</DATE_DISPATCH_NOTICE>
+            </COMPLEMENTARY_INFO>
+        </F03_2014>
+    </FORM_SECTION>
+    <DOFFIN_APPENDIX>
+        <REFERENCE_SECTION>
+            <REFERENCE_DOFFIN>2019-391203</REFERENCE_DOFFIN>
+        </REFERENCE_SECTION>
+        <PUBLISH_TO_TED/>
+    </DOFFIN_APPENDIX>
+</DOFFIN_ESENDERS>

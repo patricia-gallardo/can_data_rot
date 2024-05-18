@@ -1,0 +1,319 @@
+<doc t='O' id='366644-2010'>
+    <CONTRACT_AWARD ctype='S' lgorig='en' lg='en' category='orig' hd='03337'>
+        <refdtd>CONTRACT_AWARD</refdtd>
+        <refojs>
+            <colloj>S</colloj>
+            <nooj>240</nooj>
+            <datepub>20101210</datepub>
+            <lgoj>EN</lgoj>
+        </refojs>
+        <codifdata>
+            <sector code='1'>Ministry or any other national or federal authority</sector>
+            <natnotice code='7'>Contract award</natnotice>
+            <market code='4'>Service contract</market>
+            <proc code='4'>Negotiated procedure</proc>
+            <marketorg code='B'>European Economic Area (EEA), with participation by GPA countries</marketorg>
+            <typebid code='9'>Not applicable</typebid>
+            <awardcrit code='2'>The most economic tender</awardcrit>
+            <originalcpv code='72230000'>Custom software development services</originalcpv>
+            <originalcpv code='72267100'>Maintenance of information technology software</originalcpv>
+            <datedisp>20101208</datedisp>
+            <refnotice>2009/S 229-329262</refnotice>
+            <isocountry>NO</isocountry>
+            <mainactivities code='S'>General public/services</mainactivities>
+            <nodocojs>366644-2010</nodocojs>
+        </codifdata>
+        <tidoc>
+            <p>NO-Oslo: custom software development services</p>
+            <p>2010/S 240-366644</p>
+        </tidoc>
+        <stidoc>
+            <p>CONTRACT AWARD NOTICE</p>
+        </stidoc>
+        <stidoc>
+            <p>Services</p>
+        </stidoc>
+        <contents>
+            <grseq>
+                <tigrseq>SECTION I: CONTRACTING AUTHORITY</tigrseq>
+                <marklist sep=''>
+                    <mlioccur>
+                        <nomark>I.1)</nomark>
+                        <timark>NAME, ADDRESSES AND CONTACT POINT(S)</timark>
+                        <txtmark>
+                            <p>
+                                <addr>Contact: Attn: Tel. E-mail: Fax
+                                    <organisation>Arbeids- og velferdsdirektoratet, Økonomistab</organisation>
+                                    <address>Sannergata 2, Postboks 5, St. Olavs plass</address>
+                                    <contact>Anskaffelser og forretningsjuridisk avdeling</contact>
+                                    <attention>Cecilie Trehjørningen</attention>
+                                    <postalcode>0130</postalcode>
+                                    <town>Oslo</town>
+                                    <countrycode>NORWAY</countrycode>
+                                    <tel>+47 21070000</tel>
+                                    <email>
+                                        <txemail>cecilie.trehjorningen@nav.no</txemail>
+                                    </email>
+                                    <fax>+47 21071010</fax>
+                                </addr>
+                            </p>
+                            <p>
+                                <ft type='bold'>Internet address(es)</ft>
+                            </p>
+                            <p>General address of the contracting authority
+                                <txurl>www.nav.no</txurl>
+                            </p>
+                            <p>Address of the buyer profile
+                                <txurl>http://www.doffin.no/search/Search_AuthProfile.aspx?ID=AA0005</txurl>
+                            </p>
+                        </txtmark>
+                    </mlioccur>
+                    <mlioccur>
+                        <nomark>I.2)</nomark>
+                        <timark>TYPE OF THE CONTRACTING AUTHORITY AND MAIN ACTIVITY OR ACTIVITIES</timark>
+                        <txtmark>
+                            <p>Ministry or any other national or federal authority, including their regional or local
+                                sub-divisions
+                            </p>
+                            <p>General public services</p>
+                        </txtmark>
+                    </mlioccur>
+                </marklist>
+            </grseq>
+            <grseq>
+                <tigrseq>SECTION II: OBJECT OF THE CONTRACT</tigrseq>
+                <marklist sep=''>
+                    <mlioccur>
+                        <nomark>II.1)</nomark>
+                        <timark>DESCRIPTION</timark>
+                    </mlioccur>
+                    <mlioccur>
+                        <nomark>II.1.1)</nomark>
+                        <timark>Title attributed to the contract</timark>
+                        <txtmark>
+                            <p>Procurement of maintenance and development agreement for Financial systems V2.</p>
+                        </txtmark>
+                    </mlioccur>
+                    <mlioccur>
+                        <nomark>II.1.2)</nomark>
+                        <timark>Type of contract and location of works, place of delivery or of performance</timark>
+                        <txtmark>
+                            <p>Services</p>
+                            <p>Service category: No 7</p>
+                            <p>Main place of performance Oslo, Norway.</p>
+                        </txtmark>
+                    </mlioccur>
+                    <mlioccur>
+                        <nomark>II.1.3)</nomark>
+                        <timark>The notice involves</timark>
+                        <txtmark>
+                            <p>The conclusion of a framework agreement</p>
+                        </txtmark>
+                    </mlioccur>
+                    <mlioccur>
+                        <nomark>II.1.4)</nomark>
+                        <timark>Short description of the contract or purchase(s)</timark>
+                        <txtmark>
+                            <p>The aim is to enter into a maintenance contract and framework agreement for further
+                                development with one service provider of services connected to Financial systems.
+                            </p>
+                            <p>Requirements regarding workplace will be given in the tender documents. The Awarding
+                                Authority finds it necessary to provide guidelines for this area as early as in the
+                                qualification documents. The object for these guidelines is close cooperation between
+                                the Awarding Authority and supplier.
+                            </p>
+                            <p>— Norwegian language is required in connection with all communication with the Awarding
+                                Authority. This involves both reports, meetings, documentation, user support and
+                                additional information,
+                            </p>
+                            <p>— The system documentation may, if agreed upon, be prepared in English,</p>
+                            <p>— The maintenance services shall mainly be implemented in the Awarding Authority’s
+                                premises,
+                            </p>
+                            <p>— Further development shall mainly be implemented in the Awarding Authority’s premises
+                                unless the parties have agreed differently.
+                            </p>
+                            <p>The annual value of the agreement will vary, but the extent is expected to be from 25 000
+                                000 to 35 000 000 NOK per annum.
+                            </p>
+                            <p>The agreement shall be for 4 years, starting from contract signing. Option for the
+                                Awarding Authority to prolong the agreement for an additional 1+1 year(s).
+                            </p>
+                        </txtmark>
+                    </mlioccur>
+                    <mlioccur>
+                        <nomark>II.1.5)</nomark>
+                        <timark>Common procurement vocabulary (CPV)</timark>
+                        <txtmark>
+                            <p><txcpv txt='Custom software development services'>72230000</txcpv>,
+                                <txcpv txt='Maintenance of information technology software'>72267100</txcpv>
+                            </p>
+                        </txtmark>
+                    </mlioccur>
+                    <mlioccur>
+                        <nomark>II.1.6)</nomark>
+                        <timark>Contract covered by the Government Procurement Agreement (GPA)</timark>
+                        <txtmark>
+                            <p>Yes</p>
+                        </txtmark>
+                    </mlioccur>
+                    <mlioccur>
+                        <nomark>II.2)</nomark>
+                        <timark>TOTAL FINAL VALUE OF CONTRACT(S)</timark>
+                    </mlioccur>
+                    <mlioccur>
+                        <nomark>II.2.1)</nomark>
+                        <timark>Total final value of contract(s)</timark>
+                        <txtmark>
+                            <p>Value 200 000 000 NOK</p>
+                            <p>Including VAT. VAT rate (%) 25</p>
+                        </txtmark>
+                    </mlioccur>
+                </marklist>
+            </grseq>
+            <grseq>
+                <tigrseq>SECTION IV: PROCEDURE</tigrseq>
+                <marklist sep=''>
+                    <mlioccur>
+                        <nomark>IV.1)</nomark>
+                        <timark>TYPE OF PROCEDURE</timark>
+                    </mlioccur>
+                    <mlioccur>
+                        <nomark>IV.1.1)</nomark>
+                        <timark>Type of procedure</timark>
+                        <txtmark>
+                            <p>Negotiated with a call for competition</p>
+                        </txtmark>
+                    </mlioccur>
+                    <mlioccur>
+                        <nomark>IV.2)</nomark>
+                        <timark>AWARD CRITERIA</timark>
+                    </mlioccur>
+                    <mlioccur>
+                        <nomark>IV.2.1)</nomark>
+                        <timark>Award criteria</timark>
+                        <txtmark>
+                            <p>The most economically advantageous tender in terms of</p>
+                            <p>1. Total costs. Weighting 35 %</p>
+                            <p>2. Quality of tendered services. Weighting 65 %</p>
+                        </txtmark>
+                    </mlioccur>
+                    <mlioccur tbo='yes'>
+                        <nomark>IV.2.2)</nomark>
+                        <timark>An electronic auction has been used</timark>
+                    </mlioccur>
+                    <mlioccur>
+                        <nomark>IV.3)</nomark>
+                        <timark>ADMINISTRATIVE INFORMATION</timark>
+                    </mlioccur>
+                    <mlioccur tbo='yes'>
+                        <nomark>IV.3.1)</nomark>
+                        <timark>File reference number attributed by the contracting authority</timark>
+                    </mlioccur>
+                    <mlioccur>
+                        <nomark>IV.3.2)</nomark>
+                        <timark>Previous publication(s) concerning the same contract</timark>
+                        <txtmark>
+                            <p>
+                                <ft type='bold'>Contract notice</ft>
+                            </p>
+                            <p>Notice number in the OJEU: <txnum ref='329262-2009'>2009/S 229-329262</txnum> of
+                                27.11.2009
+                            </p>
+                        </txtmark>
+                    </mlioccur>
+                </marklist>
+            </grseq>
+            <grseq>
+                <tigrseq>SECTION V: AWARD OF CONTRACT</tigrseq>
+                <marklist sep=''>
+                    <p>LOT NO: - TITLE Maintenance and development agreement for Financial systems.</p>
+                    <mlioccur>
+                        <nomark>V.1)</nomark>
+                        <timark>Date of contract award decision:</timark>
+                        <txtmark>
+                            <p>9.11.2010</p>
+                        </txtmark>
+                    </mlioccur>
+                    <mlioccur>
+                        <nomark>V.2)</nomark>
+                        <timark>NUMBER OF OFFERS RECEIVED:</timark>
+                        <txtmark>
+                            <p>2</p>
+                        </txtmark>
+                    </mlioccur>
+                    <mlioccur>
+                        <nomark>V.3)</nomark>
+                        <timark>NAME AND ADDRESS OF ECONOMIC OPERATOR IN FAVOUR OF WHOM A CONTRACT AWARD DECISION HAS
+                            BEEN TAKEN
+                        </timark>
+                        <txtmark>
+                            <p>
+                                <addr>
+                                    <organisation>International Business Machines AS (IBM)</organisation>
+                                    <address>Rosenholmveien 25</address>
+                                    <postalcode>1410</postalcode>
+                                    <town>Kolbotn</town>
+                                    <countrycode>NORWAY</countrycode>
+                                </addr>
+                            </p>
+                        </txtmark>
+                    </mlioccur>
+                    <mlioccur>
+                        <nomark>V.4)</nomark>
+                        <timark>INFORMATION ON VALUE OF CONTRACT</timark>
+                        <txtmark>
+                            <p>Initial estimated total value of the contract</p>
+                            <p>Value 200 000 000 NOK</p>
+                            <p>Including VAT. VAT rate (%) 25</p>
+                            <p>If annual or monthly value number of years 6</p>
+                        </txtmark>
+                    </mlioccur>
+                    <mlioccur tbo='yes'>
+                        <nomark>V.5)</nomark>
+                        <timark>THE CONTRACT IS LIKELY TO BE SUB-CONTRACTED</timark>
+                    </mlioccur>
+                </marklist>
+            </grseq>
+            <grseq>
+                <tigrseq>SECTION VI: COMPLEMENTARY INFORMATION</tigrseq>
+                <marklist sep=''>
+                    <mlioccur tbo='yes'>
+                        <nomark>VI.1)</nomark>
+                        <timark>CONTRACT RELATED TO A PROJECT AND/OR PROGRAMME FINANCED BY COMMUNITY FUNDS</timark>
+                    </mlioccur>
+                    <mlioccur>
+                        <nomark>VI.2)</nomark>
+                        <timark>ADDITIONAL INFORMATION</timark>
+                        <txtmark>
+                            <p>(NT Ref:219257)</p>
+                        </txtmark>
+                    </mlioccur>
+                    <mlioccur tbo='yes'>
+                        <nomark>VI.3)</nomark>
+                        <timark>PROCEDURES FOR APPEAL</timark>
+                    </mlioccur>
+                    <mlioccur tbo='yes'>
+                        <nomark>VI.3.1)</nomark>
+                        <timark>Body responsible for appeal procedures</timark>
+                    </mlioccur>
+                    <mlioccur tbo='yes'>
+                        <nomark>VI.3.2)</nomark>
+                        <timark>Lodging of appeals</timark>
+                    </mlioccur>
+                    <mlioccur tbo='yes'>
+                        <nomark>VI.3.3)</nomark>
+                        <timark>Service from which information about the lodging of appeals may be obtained</timark>
+                    </mlioccur>
+                    <mlioccur>
+                        <nomark>VI.4)</nomark>
+                        <timark>DATE OF DISPATCH OF THIS NOTICE:</timark>
+                        <txtmark>
+                            <p>8.12.2010</p>
+                        </txtmark>
+                    </mlioccur>
+                </marklist>
+            </grseq>
+        </contents>
+    </CONTRACT_AWARD>
+</doc>

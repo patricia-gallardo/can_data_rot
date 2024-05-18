@@ -1,0 +1,76 @@
+<doc t='O' id='184820-2010'>
+    <OTH_NOT lgorig='en' lg='en' category='orig' hd='033EC'>
+        <refdtd>OTH_NOT</refdtd>
+        <refojs>
+            <colloj>S</colloj>
+            <nooj>122</nooj>
+            <datepub>20100626</datepub>
+            <lgoj>EN</lgoj>
+        </refojs>
+        <codifdata>
+            <sector code='1'>Ministry or any other national or federal authority</sector>
+            <natnotice code='2'>Additional information</natnotice>
+            <market code='4'>Service contract</market>
+            <proc code='4'>Negotiated procedure</proc>
+            <marketorg code='B'>European Economic Area (EEA), with participation by GPA countries</marketorg>
+            <typebid code='1'>Global tender</typebid>
+            <awardcrit code='2'>The most economic tender</awardcrit>
+            <originalcpv code='48000000'>Software package and information systems</originalcpv>
+            <originalcpv code='72212517'>IT software development services</originalcpv>
+            <originalcpv code='72212516'>Exchange software development services</originalcpv>
+            <originalcpv code='72212781'>System management software development services</originalcpv>
+            <originalcpv code='48781000'>System management software package</originalcpv>
+            <originalcpv code='48517000'>IT software package</originalcpv>
+            <originalcpv code='48516000'>Exchange software package</originalcpv>
+            <datedisp>20100625</datedisp>
+            <refnotice>2010/S 94-142758</refnotice>
+            <deadlinerec>20100611 10:00</deadlinerec>
+            <isocountry>NO</isocountry>
+            <mainactivities code='S'>General public/services</mainactivities>
+            <nodocojs>184820-2010</nodocojs>
+        </codifdata>
+        <tidoc>
+            <p>NO-Oslo: software package and information systems</p>
+            <p>2010/S 122-184820</p>
+        </tidoc>
+        <stidoc>
+            <p>
+                <addr><organisation>Arbeid og velferdsdirektoratet, NAV økonomistab, Regnskap og
+                    utbetaling</organisation>, <address>Postboks 5, St Olavs plass</address>, Anskaffelser og
+                    forretningsjuss, attn: Rolf Kenneth Rolfsen, <countrycode>NORWAY</countrycode>-
+                    <postalcode>0130</postalcode>
+                    <town>Oslo</town>. Tel. <tel>+47 21071876</tel>. E-mail: <email>rolf.kenneth.rolfsen@nav.no</email>.
+                    Fax <fax>+47 21071010</fax>.
+                </addr>
+            </p>
+        </stidoc>
+        <stidoc>
+            <p>
+                <ft type='refoj'>(Supplement to the Official Journal of the European Union, 15.5.2010, <txnum
+                        ref='142758-2010'>2010/S 94-142758</txnum>)
+                </ft>
+            </p>
+        </stidoc>
+        <objnot>
+            <intobjnot>RE:</intobjnot>
+            <cpv>CPV:<txcpv txt='Software package and information systems'>48000000</txcpv>, <txcpv
+                    txt='IT software development services'>72212517</txcpv>, <txcpv
+                    txt='Exchange software development services'>72212516</txcpv>, <txcpv
+                    txt='System management software development services'>72212781</txcpv>, <txcpv
+                    txt='System management software package'>48781000</txcpv>, <txcpv txt='IT software package'>
+                48517000</txcpv>,
+                <txcpv txt='Exchange software package'>48516000</txcpv>
+            </cpv>
+            <p>Software package and information systems.</p>
+            <p>IT software development services.</p>
+            <p>Exchange software development services.</p>
+        </objnot>
+        <contents>
+            <correc>
+                <del>Incomplete procedure<br></br>The awarding procedure has been discontinued.
+                    <br></br>
+                </del>
+            </correc>
+        </contents>
+    </OTH_NOT>
+</doc>
