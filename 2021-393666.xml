@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DOFFIN_ESENDERS VERSION="V3.0.2" xsi:noNamespaceSchemaLocation="DOFFIN_ESENDERS.xd"
+                 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <FORM_SECTION>
+        <F03_2014 LG="NB" CATEGORY="ORIGINAL" FORM="F03">
+            <LEGAL_BASIS VALUE="32014L0024"/>
+            <CONTRACTING_BODY>
+                <ADDRESS_CONTRACTING_BODY>
+                    <OFFICIALNAME>ARBEIDS- OG VELFERDSETATEN (NAV)</OFFICIALNAME>
+                    <NATIONALID>889640782</NATIONALID>
+                    <ADDRESS>Postboks 5, St Olavs plass</ADDRESS>
+                    <TOWN>OSLO</TOWN>
+                    <POSTAL_CODE>0130</POSTAL_CODE>
+                    <COUNTRY VALUE="NO"/>
+                    <CONTACT_POINT>Sølvi K. Tennstrand</CONTACT_POINT>
+                    <PHONE>+47 21071000</PHONE>
+                    <E_MAIL>solvi.kristiansen.tennstrand@nav.no</E_MAIL>
+                    <LOCATION code="000000"/>
+                    <URL_GENERAL>https://permalink.mercell.com/138057089.aspx</URL_GENERAL>
+                    <URL_BUYER>http://www.nav.no/</URL_BUYER>
+                </ADDRESS_CONTRACTING_BODY>
+                <CA_TYPE VALUE="MINISTRY"/>
+                <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+            </CONTRACTING_BODY>
+            <OBJECT_CONTRACT>
+                <TITLE>
+                    <P>Rammeavtaler - Anskaffelse av partneravtaler tjenestekjøp (20/9888)</P>
+                </TITLE>
+                <REFERENCE_NUMBER>21/1641</REFERENCE_NUMBER>
+                <CPV_MAIN>
+                    <CPV_CODE CODE="72200000"/>
+                </CPV_MAIN>
+                <TYPE_CONTRACT CTYPE="SERVICES"/>
+                <SHORT_DESCR>
+                    <P>Formålet med anskaffelsen er å etablere parallelle partneravtaler (rammeavtaler) som skal bidra
+                        til å dekke kapasitet for produktutvikling og vedlikehold av løsninger.
+                    </P>
+                    <P>Vi vil etablere parallelle rammeavtaler med 3 - 4 leverandører, under forutsetning av at vi får
+                        et tilstrekkelig antall egnede tilbud.
+                    </P>
+                </SHORT_DESCR>
+                <VAL_TOTAL CURRENCY="NOK">1200000000.00</VAL_TOTAL>
+                <NO_LOT_DIVISION/>
+                <OBJECT_DESCR ITEM="1">
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72210000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72211000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72212000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72212100"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72220000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="79998000"/>
+                    </CPV_ADDITIONAL>
+                    <LOCATION code="000000"/>
+                    <MAIN_SITE>
+                        <P>Oslo</P>
+                    </MAIN_SITE>
+                    <SHORT_DESCR>
+                        <P>Løsningene som kontinuerlig skal utvikles dekker flere av NAVs produktområder, herunder
+                            arbeid, arbeidsgiver, helse og pensjon og øvrige team i NAV.
+                        </P>
+                        <P>De tilbudte ressursene skal inngå i team som gjennomfører nyutvikling og/eller
+                            videreutvikling og vedlikehold av løsninger og team.
+                        </P>
+                        <P>Leverandørens ressurser skal inngå i Oppdragsgivers utviklingsteam og bistå i avtaleperioden
+                            med relevant kompetanse i forhold til den utvikling som skjer hos Oppdragsgiver.
+                            Leverandøren skal kunne bemanne ulike roller i team.
+                        </P>
+                        <P>Oppdragsgiver vil gjennomføre kontinuerlig utvikling med intern kompetanse og
+                            kompetanseforsterkning fra leverandørene samt dekning av svingninger i kapasitetsbehov fra
+                            leverandørene.
+                        </P>
+                        <P>Denne tjenestekontrakt (partneravtale) skal være hovedavtale for bestilling av ressurser
+                            innenfor de beskrevne kompetanseområdene og NAVs produktområder som del av etablert
+                            partnerskap (dvs nært samarbeidsforhold). NAV har også en eksisterende tjenestekontrakt
+                            (VESA) som skal sikre kapasitet og kompetanse til Kunden for utvikling og forvaltning av
+                            løsninger innenfor vedtaksbehandling og saksbehandling og tilhørende områder.
+                        </P>
+                        <P>VESA-avtalen skal benyttes frem til den utløper innenfor sitt nedslagsfelt, men den skal ikke
+                            fornyes. Deretter vil dette området innlemmes i partneravtalen. VESA utløper i
+                            utgangspunktet senest i februar 2023.
+                        </P>
+                        <P>Videre har NAV også rammeavtaler for konsulenttjenester som for aktuelle områder hovedsakelig
+                            vil benyttes i tilfeller der NAVs kapasitetsbehov er større enn leverandørene under
+                            tjenestekontrakter har kapasitet til, samt tilfeller der oppdraget er utenfor kjerneområdet
+                            for etablert partnerskap.
+                        </P>
+                        <P>Anskaffelsens samlede omfang i avtaleperioden er estimert til å være 400 - 600 FTE. Det
+                            knytter seg imidlertid meget stor usikkerhet til omfanget bl.a. på grunn av arbeidet som
+                            pågår med modernisering av NAV, en omfattende fornyelse/modernisering av IT i etaten og
+                            endringer innenfor NAV IT. Det knytter seg også stor usikkerhet til omfanget de neste årene
+                            som følge av at NAV nå styrer utviklingsarbeidet selv og utfører mye av utviklingsarbeidet
+                            med egne ansatte. Dette vil kunne medføre at kapasitetsbehovet blir noe høyere, eller
+                            vesentlig mindre enn antatt. Anslaget er ikke bindende for NAV.
+                        </P>
+                        <P>De primære brukerne av partneravtalen vil være NAVs IT- avdeling.</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_QUALITY>
+                            <AC_CRITERION>Kvalitet</AC_CRITERION>
+                            <AC_WEIGHTING>70</AC_WEIGHTING>
+                        </AC_QUALITY>
+                        <AC_PRICE>
+                            <AC_WEIGHTING>30</AC_WEIGHTING>
+                        </AC_PRICE>
+                    </AC>
+                    <NO_OPTIONS/>
+                    <NO_EU_PROGR_RELATED/>
+                </OBJECT_DESCR>
+            </OBJECT_CONTRACT>
+            <PROCEDURE>
+                <PT_COMPETITIVE_NEGOTIATION/>
+                <CONTRACT_COVERED_GPA/>
+                <NOTICE_NUMBER_OJ>2020/S 188-454995</NOTICE_NUMBER_OJ>
+            </PROCEDURE>
+            <AWARD_CONTRACT ITEM="1">
+                <TITLE>
+                    <P>Tilbudsinnlevering partneravtale tjenestekjøp</P>
+                </TITLE>
+                <AWARDED_CONTRACT>
+                    <DATE_CONCLUSION_CONTRACT>2021-01-26</DATE_CONCLUSION_CONTRACT>
+                    <TENDERS>
+                        <NB_TENDERS_RECEIVED>5</NB_TENDERS_RECEIVED>
+                        <NB_TENDERS_RECEIVED_SME>0</NB_TENDERS_RECEIVED_SME>
+                        <NB_TENDERS_RECEIVED_OTHER_EU>5</NB_TENDERS_RECEIVED_OTHER_EU>
+                        <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+                        <NB_TENDERS_RECEIVED_EMEANS>5</NB_TENDERS_RECEIVED_EMEANS>
+                    </TENDERS>
+                    <CONTRACTORS>
+                        <NO_AWARDED_TO_GROUP/>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Sopra Steria AS (hovedenhet)</OFFICIALNAME>
+                                <ADDRESS>Biskop Gunnerus' gate 14 A</ADDRESS>
+                                <TOWN>OSLO</TOWN>
+                                <POSTAL_CODE>0185</POSTAL_CODE>
+                                <COUNTRY VALUE="NO"/>
+                                <PHONE>+47 22575600</PHONE>
+                                <E_MAIL>salg.no@soprasteria.com</E_MAIL>
+                                <LOCATION code="010301"/>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME/>
+                        </CONTRACTOR>
+                    </CONTRACTORS>
+                    <VALUES>
+                        <VAL_TOTAL CURRENCY="NOK">1200000000.00</VAL_TOTAL>
+                    </VALUES>
+                </AWARDED_CONTRACT>
+            </AWARD_CONTRACT>
+            <AWARD_CONTRACT ITEM="2">
+                <TITLE>
+                    <P>Tilbudsinnlevering partneravtale tjenestekjøp</P>
+                </TITLE>
+                <AWARDED_CONTRACT>
+                    <DATE_CONCLUSION_CONTRACT>2021-01-26</DATE_CONCLUSION_CONTRACT>
+                    <TENDERS>
+                        <NB_TENDERS_RECEIVED>5</NB_TENDERS_RECEIVED>
+                        <NB_TENDERS_RECEIVED_SME>0</NB_TENDERS_RECEIVED_SME>
+                        <NB_TENDERS_RECEIVED_OTHER_EU>5</NB_TENDERS_RECEIVED_OTHER_EU>
+                        <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+                        <NB_TENDERS_RECEIVED_EMEANS>5</NB_TENDERS_RECEIVED_EMEANS>
+                    </TENDERS>
+                    <CONTRACTORS>
+                        <NO_AWARDED_TO_GROUP/>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Computas AS</OFFICIALNAME>
+                                <ADDRESS>Akersgata 35-39</ADDRESS>
+                                <TOWN>Oslo</TOWN>
+                                <POSTAL_CODE>0158</POSTAL_CODE>
+                                <COUNTRY VALUE="NO"/>
+                                <PHONE>+47 21993320</PHONE>
+                                <E_MAIL>info@computas.no</E_MAIL>
+                                <LOCATION code="010301"/>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME/>
+                        </CONTRACTOR>
+                    </CONTRACTORS>
+                    <VALUES>
+                        <VAL_TOTAL CURRENCY="NOK">1200000000.00</VAL_TOTAL>
+                    </VALUES>
+                </AWARDED_CONTRACT>
+            </AWARD_CONTRACT>
+            <AWARD_CONTRACT ITEM="3">
+                <TITLE>
+                    <P>Tilbudsinnlevering partneravtale tjenestekjøp</P>
+                </TITLE>
+                <AWARDED_CONTRACT>
+                    <DATE_CONCLUSION_CONTRACT>2021-01-26</DATE_CONCLUSION_CONTRACT>
+                    <TENDERS>
+                        <NB_TENDERS_RECEIVED>5</NB_TENDERS_RECEIVED>
+                        <NB_TENDERS_RECEIVED_SME>0</NB_TENDERS_RECEIVED_SME>
+                        <NB_TENDERS_RECEIVED_OTHER_EU>5</NB_TENDERS_RECEIVED_OTHER_EU>
+                        <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+                        <NB_TENDERS_RECEIVED_EMEANS>5</NB_TENDERS_RECEIVED_EMEANS>
+                    </TENDERS>
+                    <CONTRACTORS>
+                        <NO_AWARDED_TO_GROUP/>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Bekk Consulting AS</OFFICIALNAME>
+                                <ADDRESS>Akershusstranda 21 Skur 39</ADDRESS>
+                                <TOWN>OSLO</TOWN>
+                                <POSTAL_CODE>0150</POSTAL_CODE>
+                                <COUNTRY VALUE="NO"/>
+                                <PHONE>+47 23357700</PHONE>
+                                <E_MAIL>post@bekk.no</E_MAIL>
+                                <FAX>+47 23357701</FAX>
+                                <LOCATION code="010301"/>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME/>
+                        </CONTRACTOR>
+                    </CONTRACTORS>
+                    <VALUES>
+                        <VAL_TOTAL CURRENCY="NOK">1200000000.00</VAL_TOTAL>
+                    </VALUES>
+                </AWARDED_CONTRACT>
+            </AWARD_CONTRACT>
+            <AWARD_CONTRACT ITEM="4">
+                <TITLE>
+                    <P>Tilbudsinnlevering partneravtale tjenestekjøp</P>
+                </TITLE>
+                <AWARDED_CONTRACT>
+                    <DATE_CONCLUSION_CONTRACT>2021-01-26</DATE_CONCLUSION_CONTRACT>
+                    <TENDERS>
+                        <NB_TENDERS_RECEIVED>5</NB_TENDERS_RECEIVED>
+                        <NB_TENDERS_RECEIVED_SME>0</NB_TENDERS_RECEIVED_SME>
+                        <NB_TENDERS_RECEIVED_OTHER_EU>5</NB_TENDERS_RECEIVED_OTHER_EU>
+                        <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+                        <NB_TENDERS_RECEIVED_EMEANS>5</NB_TENDERS_RECEIVED_EMEANS>
+                    </TENDERS>
+                    <CONTRACTORS>
+                        <NO_AWARDED_TO_GROUP/>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>KNOWIT AS</OFFICIALNAME>
+                                <ADDRESS>Lakkegata 53</ADDRESS>
+                                <TOWN>OSLO</TOWN>
+                                <POSTAL_CODE>0187</POSTAL_CODE>
+                                <COUNTRY VALUE="NO"/>
+                                <PHONE>+47 02486</PHONE>
+                                <E_MAIL>post@knowit.no</E_MAIL>
+                                <LOCATION code="010301"/>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME/>
+                        </CONTRACTOR>
+                    </CONTRACTORS>
+                    <VALUES>
+                        <VAL_TOTAL CURRENCY="NOK">1200000000.00</VAL_TOTAL>
+                    </VALUES>
+                </AWARDED_CONTRACT>
+            </AWARD_CONTRACT>
+            <COMPLEMENTARY_INFO>
+                <ADDRESS_REVIEW_BODY>
+                    <OFFICIALNAME>Oslo Tingerett</OFFICIALNAME>
+                    <ADDRESS>C.J. Hambros plass 4</ADDRESS>
+                    <TOWN>Oslo</TOWN>
+                    <POSTAL_CODE>0164</POSTAL_CODE>
+                    <COUNTRY VALUE="NO"/>
+                </ADDRESS_REVIEW_BODY>
+                <DATE_DISPATCH_NOTICE>2021-02-03</DATE_DISPATCH_NOTICE>
+            </COMPLEMENTARY_INFO>
+        </F03_2014>
+    </FORM_SECTION>
+    <DOFFIN_APPENDIX>
+        <REFERENCE_SECTION>
+            <REFERENCE_DOFFIN>2020-315257</REFERENCE_DOFFIN>
+        </REFERENCE_SECTION>
+        <PUBLISH_TO_TED/>
+    </DOFFIN_APPENDIX>
+</DOFFIN_ESENDERS>

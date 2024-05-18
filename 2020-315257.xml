@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DOFFIN_ESENDERS VERSION="V3.0.2" xsi:noNamespaceSchemaLocation="DOFFIN_ESENDERS.xd"
+                 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <FORM_SECTION>
+        <F02_2014 LG="NB" CATEGORY="ORIGINAL" FORM="F02">
+            <LEGAL_BASIS VALUE="32014L0024"/>
+            <CONTRACTING_BODY>
+                <ADDRESS_CONTRACTING_BODY>
+                    <OFFICIALNAME>ARBEIDS- OG VELFERDSETATEN (NAV)</OFFICIALNAME>
+                    <NATIONALID>889640782</NATIONALID>
+                    <ADDRESS>Postboks 5, St Olavs plass</ADDRESS>
+                    <TOWN>OSLO</TOWN>
+                    <POSTAL_CODE>0130</POSTAL_CODE>
+                    <COUNTRY VALUE="NO"/>
+                    <CONTACT_POINT>Sølvi K. Tennstrand</CONTACT_POINT>
+                    <PHONE>+47 21071000</PHONE>
+                    <E_MAIL>solvi.kristiansen.tennstrand@nav.no</E_MAIL>
+                    <LOCATION code="000000"/>
+                    <URL_GENERAL>https://permalink.mercell.com/138057089.aspx</URL_GENERAL>
+                    <URL_BUYER>http://www.nav.no/</URL_BUYER>
+                </ADDRESS_CONTRACTING_BODY>
+                <DOCUMENT_FULL/>
+                <URL_DOCUMENT>https://permalink.mercell.com/138057089.aspx</URL_DOCUMENT>
+                <ADDRESS_FURTHER_INFO_IDEM/>
+                <URL_PARTICIPATION>https://permalink.mercell.com/138057089.aspx</URL_PARTICIPATION>
+                <CA_TYPE VALUE="MINISTRY"/>
+                <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+            </CONTRACTING_BODY>
+            <OBJECT_CONTRACT>
+                <TITLE>
+                    <P>Rammeavtaler - Anskaffelse av partneravtaler tjenestekjøp (20/9888)</P>
+                </TITLE>
+                <REFERENCE_NUMBER>20/9888</REFERENCE_NUMBER>
+                <CPV_MAIN>
+                    <CPV_CODE CODE="72200000"/>
+                </CPV_MAIN>
+                <TYPE_CONTRACT CTYPE="SERVICES"/>
+                <SHORT_DESCR>
+                    <P>Formålet med anskaffelsen er å etablere parallelle partneravtaler (rammeavtaler) som skal bidra
+                        til å dekke kapasitet for produktutvikling og vedlikehold av løsninger.
+                    </P>
+                    <P>Vi vil etablere parallelle rammeavtaler med 3 - 4 leverandører, under forutsetning av at vi får
+                        et tilstrekkelig antall egnede tilbud.
+                    </P>
+                    <P>Klikk her https://permalink.mercell.com/138057089.aspx</P>
+                </SHORT_DESCR>
+                <NO_LOT_DIVISION/>
+                <OBJECT_DESCR ITEM="1">
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72210000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72211000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72212000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72212100"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72220000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="79998000"/>
+                    </CPV_ADDITIONAL>
+                    <LOCATION code="000000"/>
+                    <MAIN_SITE>
+                        <P>Oslo</P>
+                    </MAIN_SITE>
+                    <SHORT_DESCR>
+                        <P>Løsningene som kontinuerlig skal utvikles dekker flere av NAVs produktområder, herunder
+                            arbeid, arbeidsgiver, helse og pensjon og øvrige team i NAV.
+                        </P>
+                        <P>De tilbudte ressursene skal inngå i team som gjennomfører nyutvikling og/eller
+                            videreutvikling og vedlikehold av løsninger og team.
+                        </P>
+                        <P>Leverandørens ressurser skal inngå i Oppdragsgivers utviklingsteam og bistå i avtaleperioden
+                            med relevant kompetanse i forhold til den utvikling som skjer hos Oppdragsgiver.
+                            Leverandøren skal kunne bemanne ulike roller i team.
+                        </P>
+                        <P>Oppdragsgiver vil gjennomføre kontinuerlig utvikling med intern kompetanse og
+                            kompetanseforsterkning fra leverandørene samt dekning av svingninger i kapasitetsbehov fra
+                            leverandørene.
+                        </P>
+                        <P>Denne tjenestekontrakt (partneravtale) skal være hovedavtale for bestilling av ressurser
+                            innenfor de beskrevne kompetanseområdene og NAVs produktområder som del av etablert
+                            partnerskap (dvs nært samarbeidsforhold). NAV har også en eksisterende tjenestekontrakt
+                            (VESA) som skal sikre kapasitet og kompetanse til Kunden for utvikling og forvaltning av
+                            løsninger innenfor vedtaksbehandling og saksbehandling og tilhørende områder.
+                        </P>
+                        <P>VESA-avtalen skal benyttes frem til den utløper innenfor sitt nedslagsfelt, men den skal ikke
+                            fornyes. Deretter vil dette området innlemmes i partneravtalen. VESA utløper i
+                            utgangspunktet senest i februar 2023.
+                        </P>
+                        <P>Videre har NAV også rammeavtaler for konsulenttjenester som for aktuelle områder hovedsakelig
+                            vil benyttes i tilfeller der NAVs kapasitetsbehov er større enn leverandørene under
+                            tjenestekontrakter har kapasitet til, samt tilfeller der oppdraget er utenfor kjerneområdet
+                            for etablert partnerskap.
+                        </P>
+                        <P>Anskaffelsens samlede omfang i avtaleperioden er estimert til å være 400 - 600 FTE. Det
+                            knytter seg imidlertid meget stor usikkerhet til omfanget bl.a. på grunn av arbeidet som
+                            pågår med modernisering av NAV, en omfattende fornyelse/modernisering av IT i etaten og
+                            endringer innenfor NAV IT. Det knytter seg også stor usikkerhet til omfanget de neste årene
+                            som følge av at NAV nå styrer utviklingsarbeidet selv og utfører mye av utviklingsarbeidet
+                            med egne ansatte. Dette vil kunne medføre at kapasitetsbehovet blir noe høyere, eller
+                            vesentlig mindre enn antatt. Anslaget er ikke bindende for NAV.
+                        </P>
+                        <P>De primære brukerne av partneravtalen vil være NAVs IT- avdeling.</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PROCUREMENT_DOC/>
+                    </AC>
+                    <DURATION TYPE="MONTH">48</DURATION>
+                    <NO_RENEWAL/>
+                    <NB_MIN_LIMIT_CANDIDATE>4</NB_MIN_LIMIT_CANDIDATE>
+                    <NB_MAX_LIMIT_CANDIDATE>6</NB_MAX_LIMIT_CANDIDATE>
+                    <CRITERIA_CANDIDATE>
+                        <P>Oppdragsgiver vil invitere 4- 6 av de kvalifiserte leverandørene til å inngi tilbud,
+                            forutsatt at et tilstrekkelig antall leverandører blir kvalifisert. Utvelgelsen av
+                            leverandørene vil baseres på følgende kriterier:
+                        </P>
+                        <P>- Meget god gjennomføringsevne, vektet 40 %</P>
+                        <P>- Relevant erfaring fra lignende leveranser, vektet 50 %</P>
+                        <P>- Et godt og velfungerende kvalitetssikringssystem, vektet 10 %</P>
+                    </CRITERIA_CANDIDATE>
+                    <NO_ACCEPTED_VARIANTS/>
+                    <NO_OPTIONS/>
+                    <NO_EU_PROGR_RELATED/>
+                </OBJECT_DESCR>
+            </OBJECT_CONTRACT>
+            <LEFTI>
+                <SUITABILITY>
+                    <P>Kvalifikasjonskrav: Det kreves at leverandøren er et lovlig etablert foretak</P>
+                    <P>Dokumentasjonskrav:</P>
+                    <P>- Norske leverandører: Firmaattest fra Brønnøysundregistret</P>
+                    <P>- Utenlandske leverandører: Attest for registrering i foretaksregister som foreskrevet i
+                        lovgivningen i den stat hvor leverandøren er etablert.
+                    </P>
+                </SUITABILITY>
+                <ECONOMIC_FINANCIAL_INFO>
+                    <P>Kvalifikasjonskrav:</P>
+                    <P>Det kreves at leverandøren har tilstrekkelig økonomisk kapasitet til å gjennomføre kontrakten</P>
+                    <P>Dokumentasjonskrav:</P>
+                    <P>Oppdragsgiver innhenter selv kredittvurdering gjennomført av Experian, se www.experian.no.</P>
+                    <P>Dersom leverandøren mener kredittvurderingen ikke vil gi et riktig bilde, bes utfyllende
+                        opplysninger sendt med kvalifiseringsforespørselen.
+                    </P>
+                    <P>Kvalifikasjonskrav: Norske leverandører skal ha ordnede forhold med hensyn til betaling av skatt
+                        og merverdiavgift
+                    </P>
+                    <P>Dokumentasjonskrav:</P>
+                    <P>Norske leverandører: Attest for skatt og merverdiavgift fra skattemyndighetene, ikke eldre enn 6
+                        måneder regnet fra utløp av frist for mottak av forespørsel om å delta i konkurransen.
+                    </P>
+                </ECONOMIC_FINANCIAL_INFO>
+                <TECHNICAL_PROFESSIONAL_INFO>
+                    <P>Kvalifikasjonskrav:</P>
+                    <P>Det kreves meget god gjennomføringsevne</P>
+                    <P>Dokumentasjonskrav:</P>
+                    <P>Beskrivelse av Leverandørens kapasitet som omfatter</P>
+                    <P>- En beskrivelse som gir en utdypende oversikt over enheter hos Leverandøren som er relevante for
+                        omfanget i rammeavtalen
+                    </P>
+                    <P>- Antall relevante ressurser i henhold til innhold og omfang for anskaffelsen innenfor:</P>
+                    <P>- produktutvikling</P>
+                    <P>- data</P>
+                    <P>- design</P>
+                    <P>- agile coach</P>
+                    <P>Malen i vedlegg 2 i dokumentet "Kvalifikasjonsgrunnlag" skal benyttes for andre strekpunkt. Det
+                        skal ikke angis hvilke personer som vil tilbys og det skal ikke leveres inn CV-er.
+                    </P>
+                    <P>Kvalifikasjonskrav: Det kreves relevant erfaring fra lignende leveranser.</P>
+                    <P>Dokumentasjonskrav: Beskrivelse skal omfatte leverandørens opp til 3 viktigste relevante
+                        leveranser de siste 3 årene.
+                    </P>
+                    <P>Beskrivelsen skal for hver leveranse omfatte</P>
+                    <P>- mottaker/oppdragsgiver</P>
+                    <P>- tidspunkt og varighet</P>
+                    <P>- fagområde</P>
+                    <P>- verdi (hvis verdi ikke kan oppgis av hensyn til konfidensialitet, ber vi Leverandøren oppgi
+                        antall årsverk for Leverandørens innsats)
+                    </P>
+                    <P>- leverandørens rolle/ansvarsområde</P>
+                    <P>- beskrivelse av leveransen inklusive system/teknologi som ble benyttet</P>
+                    <P>Referanseprosjektene skal stå i forhold til Kundens ambisjoner (ref. Kontrakt om fleksible
+                        utviklingstjenester Del III, Bilag 1 pkt. 1.2 NAV ITs ambisjoner.)
+                    </P>
+                    <P>Mal i vedlegg 3 skal benyttes.</P>
+                    <P>Kvalifikasjonskrav: Det kreves et godt og velfungerende kvalitetssikringssystem.</P>
+                    <P>Dokumentasjonskrav:</P>
+                    <P>- En kortfattet beskrivelse av Leverandørens generelle metoder og prosesser som er relevante for
+                        å sikre kvaliteten på ytelsen. Det skal ikke være salgstekst, produktbeskrivelser eller
+                        erfaringsbeskrivelser.
+                    </P>
+                    <P>Følgende områder skal inngå:</P>
+                    <P>- Produktutvikling</P>
+                    <P>- Data</P>
+                    <P>- Design</P>
+                    <P>- Agile coach</P>
+                    <P>Redegjørelse vedrørende foretakets kvalitetssikringssystem / styringssystem, samt eventuelle
+                        attester utstedt av uavhengige organer.
+                    </P>
+                </TECHNICAL_PROFESSIONAL_INFO>
+            </LEFTI>
+            <PROCEDURE>
+                <PT_COMPETITIVE_NEGOTIATION/>
+                <REDUCTION_RECOURSE/>
+                <CONTRACT_COVERED_GPA/>
+                <DATE_RECEIPT_TENDERS>2020-10-29</DATE_RECEIPT_TENDERS>
+                <TIME_RECEIPT_TENDERS>12:00</TIME_RECEIPT_TENDERS>
+                <LANGUAGES>
+                    <LANGUAGE VALUE="NO"/>
+                </LANGUAGES>
+                <DURATION_TENDER_VALID TYPE="MONTH">3</DURATION_TENDER_VALID>
+            </PROCEDURE>
+            <COMPLEMENTARY_INFO>
+                <NO_RECURRENT_PROCUREMENT/>
+                <EINVOICING/>
+                <EPAYMENT/>
+                <ADDRESS_REVIEW_BODY>
+                    <OFFICIALNAME>Oslo Tingerett</OFFICIALNAME>
+                    <ADDRESS>C.J. Hambros plass 4</ADDRESS>
+                    <TOWN>Oslo</TOWN>
+                    <POSTAL_CODE>0164</POSTAL_CODE>
+                    <COUNTRY VALUE="NO"/>
+                </ADDRESS_REVIEW_BODY>
+                <DATE_DISPATCH_NOTICE>2020-09-23</DATE_DISPATCH_NOTICE>
+            </COMPLEMENTARY_INFO>
+        </F02_2014>
+    </FORM_SECTION>
+    <DOFFIN_APPENDIX>
+        <PUBLISH_TO_TED/>
+    </DOFFIN_APPENDIX>
+</DOFFIN_ESENDERS>

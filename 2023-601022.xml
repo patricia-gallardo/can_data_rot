@@ -1,0 +1,2205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DOFFIN_ESENDERS VERSION="V3.0.4" xsi:noNamespaceSchemaLocation="DOFFIN_ESENDERS.xd"
+                 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <FORM_SECTION>
+        <F03_2014 LG="NB" CATEGORY="ORIGINAL" FORM="F03">
+            <LEGAL_BASIS VALUE="32014L0024"/>
+            <CONTRACTING_BODY>
+                <ADDRESS_CONTRACTING_BODY>
+                    <OFFICIALNAME>ARBEIDS- OG VELFERDSETATEN</OFFICIALNAME>
+                    <NATIONALID>889640782</NATIONALID>
+                    <ADDRESS>Postboks 354</ADDRESS>
+                    <TOWN>Mo i Rana</TOWN>
+                    <POSTAL_CODE>8601</POSTAL_CODE>
+                    <COUNTRY VALUE="NO"/>
+                    <CONTACT_POINT>Else Marie Molden</CONTACT_POINT>
+                    <E_MAIL>else.marie.molden@nav.no</E_MAIL>
+                    <LOCATION code="000000"/>
+                    <URL_GENERAL>https://permalink.mercell.com/194087067.aspx</URL_GENERAL>
+                    <URL_BUYER>http://www.nav.no/</URL_BUYER>
+                </ADDRESS_CONTRACTING_BODY>
+                <CA_TYPE VALUE="MINISTRY"/>
+                <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+            </CONTRACTING_BODY>
+            <OBJECT_CONTRACT>
+                <TITLE>
+                    <P>Kontraktstildeling - anskaffelse av parallelle rammeavtaler for konsulenttjenester til NAV</P>
+                </TITLE>
+                <REFERENCE_NUMBER>22/14419</REFERENCE_NUMBER>
+                <CPV_MAIN>
+                    <CPV_CODE CODE="79400000"/>
+                </CPV_MAIN>
+                <TYPE_CONTRACT CTYPE="SERVICES"/>
+                <SHORT_DESCR>
+                    <P>Arbeids- og velferdsdirektoratet innbyr til begrenset anbudskonkurranse i forbindelse med
+                        anskaffelse av parallelle rammeavtaler for konsulenttjenester.
+                    </P>
+                    <P>Avtalene skal dekke behov for kompetanse som oppdragsgiver ikke har tilgang til i egen etat på et
+                        gitt tidspunkt, eller der det er behov for ekstra kapasitet. Avtalene kan også benyttes ved
+                        behov for ekstern kvalitetssikring.
+                    </P>
+                    <P>Avtalen skal gjelde for Arbeids- og velferdsdirektoratet. Øvrige NAV-enheter (statlig del) har
+                        opsjon på bruk av Avtalen. Enheter som benytter sin opsjon innenfor en delkontrakt
+                        (kompetanseområde) plikter å avrope på rammeavtalene innenfor den samme delkontrakten
+                        (kompetanseområdet) hvis ytterligere behov for konsulenttjenester oppstår i Avtalens løpetid.
+                    </P>
+                    <P>Maksimal verdi per delkontrakt (kompetanseområde) er 25 % over estimert totalverdi.</P>
+                </SHORT_DESCR>
+                <VAL_TOTAL CURRENCY="NOK">428000000.00</VAL_TOTAL>
+                <LOT_DIVISION/>
+                <OBJECT_DESCR ITEM="1">
+                    <TITLE>
+                        <P>Delkontrakt (kompetanseområde) 1 - Rekrutteringsbistand - toppledere, direktører</P>
+                    </TITLE>
+                    <LOT_NO>1</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="79600000"/>
+                    </CPV_ADDITIONAL>
+                    <LOCATION code="000000"/>
+                    <MAIN_SITE>
+                        <P>Oslo</P>
+                    </MAIN_SITE>
+                    <SHORT_DESCR>
+                        <P>Rekrutteringsbistand - toppledere, direktører</P>
+                        <P>Som eksempel nevnes:</P>
+                        <P>Full rekrutteringsprosess av topplederstillinger på høyt ledernivå, dette kan for eksempel
+                            være direktører for avdelinger i direktoratet, direktører i linjene, fylkesdirektører o.l.
+                        </P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_QUALITY>
+                            <AC_CRITERION>Kvalitet</AC_CRITERION>
+                            <AC_WEIGHTING>70</AC_WEIGHTING>
+                        </AC_QUALITY>
+                        <AC_PRICE>
+                            <AC_WEIGHTING>30</AC_WEIGHTING>
+                        </AC_PRICE>
+                    </AC>
+                    <OPTIONS/>
+                    <OPTIONS_DESCR>
+                        <P>Avtalen skal gjelde for Arbeids- og velferdsdirektoratet. Øvrige NAV-enheter (statlig del)
+                            har opsjon på bruk av Avtalen. Enheter som benytter sin opsjon innenfor en delkontrakt
+                            (kompetanseområde) plikter å avrope på rammeavtalene innenfor den samme delkontrakten
+                            (kompetanseområdet) hvis ytterligere behov for konsulenttjenester oppstår i Avtalens
+                            løpetid.
+                        </P>
+                    </OPTIONS_DESCR>
+                    <NO_EU_PROGR_RELATED/>
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="2">
+                    <TITLE>
+                        <P>Delkontrakt (kompetanseområde) 2 - Rekrutteringbistand - ledere og medarbeidere</P>
+                    </TITLE>
+                    <LOT_NO>2</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="79600000"/>
+                    </CPV_ADDITIONAL>
+                    <LOCATION code="000000"/>
+                    <MAIN_SITE>
+                        <P>Oslo</P>
+                    </MAIN_SITE>
+                    <SHORT_DESCR>
+                        <P>Rekrutteringsbistand - ledere og medarbeidere</P>
+                        <P>Som eksempler nevnes:</P>
+                        <P>-Full rekrutteringsprosess av lederstillinger på lavere ledernivå, dette kan for eksempel
+                            være ledere for seksjoner og kontor
+                        </P>
+                        <P>-Full rekrutteringsprosess av nøkkelpersonell, spesialister og andre medarbeidere. Det
+                            gjelder særlig stillinger innen økonomi og sikkerhet, men også andre kategorier, med unntak
+                            av IT/teknologiorienterte stillinger.
+                        </P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_QUALITY>
+                            <AC_CRITERION>Kvalitet</AC_CRITERION>
+                            <AC_WEIGHTING>70</AC_WEIGHTING>
+                        </AC_QUALITY>
+                        <AC_PRICE>
+                            <AC_WEIGHTING>30</AC_WEIGHTING>
+                        </AC_PRICE>
+                    </AC>
+                    <OPTIONS/>
+                    <OPTIONS_DESCR>
+                        <P>Avtalen skal gjelde for Arbeids- og velferdsdirektoratet. Øvrige NAV-enheter (statlig del)
+                            har opsjon på bruk av Avtalen. Enheter som benytter sin opsjon innenfor en delkontrakt
+                            (kompetanseområde) plikter å avrope på rammeavtalene innenfor den samme delkontrakten
+                            (kompetanseområdet) hvis ytterligere behov for konsulenttjenester oppstår i Avtalens
+                            løpetid.
+                        </P>
+                    </OPTIONS_DESCR>
+                    <NO_EU_PROGR_RELATED/>
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="3">
+                    <TITLE>
+                        <P>Delkontrakt (kompetanseområde) 3 - Rekrutteringbistand - IT-personell (medarbeidere)</P>
+                    </TITLE>
+                    <LOT_NO>3</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="79600000"/>
+                    </CPV_ADDITIONAL>
+                    <LOCATION code="000000"/>
+                    <MAIN_SITE>
+                        <P>Oslo</P>
+                    </MAIN_SITE>
+                    <SHORT_DESCR>
+                        <P>Rekrutteringsbistand - IT-personell (medarbeidere)</P>
+                        <P>Som eksempel nevnes:</P>
+                        <P>-Full rekrutteringsprosess av IT-personell. Det gjelder særlig til stillinger innen
+                            IT-sikkerhet og utvikling, men gjelder i alle kategorier knyttet til IT/teknologiorienterte
+                            stillinger.
+                        </P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_QUALITY>
+                            <AC_CRITERION>Kvalitet</AC_CRITERION>
+                            <AC_WEIGHTING>70</AC_WEIGHTING>
+                        </AC_QUALITY>
+                        <AC_PRICE>
+                            <AC_WEIGHTING>30</AC_WEIGHTING>
+                        </AC_PRICE>
+                    </AC>
+                    <OPTIONS/>
+                    <OPTIONS_DESCR>
+                        <P>Avtalen skal gjelde for Arbeids- og velferdsdirektoratet. Øvrige NAV-enheter (statlig del)
+                            har opsjon på bruk av Avtalen. Enheter som benytter sin opsjon innenfor en delkontrakt
+                            (kompetanseområde) plikter å avrope på rammeavtalene innenfor den samme delkontrakten
+                            (kompetanseområdet) hvis ytterligere behov for konsulenttjenester oppstår i Avtalens
+                            løpetid.
+                        </P>
+                    </OPTIONS_DESCR>
+                    <NO_EU_PROGR_RELATED/>
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="4">
+                    <TITLE>
+                        <P>Delkontrakt (kompetanseområde) 4 - Virksomhets- og økonomistyring</P>
+                    </TITLE>
+                    <LOT_NO>4</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="79200000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="79400000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="79419000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72221000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="90711100"/>
+                    </CPV_ADDITIONAL>
+                    <LOCATION code="000000"/>
+                    <MAIN_SITE>
+                        <P>Oslo</P>
+                    </MAIN_SITE>
+                    <SHORT_DESCR>
+                        <P>Virksomhets- og økonomistyring</P>
+                        <P>Som eksempler nevnes:</P>
+                        <P>-Utvikling av virksomhets- og økonomistyring</P>
+                        <P>-Styring som støtter produktutvikling</P>
+                        <P>-Kvalitetsgjennomgang og utfordringsbildet i regnskaps- og budsjettprosesser</P>
+                        <P>-Selvbetjening og automatiserte økonomi- og styringsprosesser</P>
+                        <P>-Utvikling av økonomisk styringsinformasjon og tilgjengeliggjøring av data</P>
+                        <P>-Analyser og innsikt som grunnlag til beslutninger</P>
+                        <P>-Statlige regnskapsstandarder og regnskapsekspertise</P>
+                        <P>-Evalueringer</P>
+                        <P>-Plan-, budsjett-, og rapporteringsprosesser</P>
+                        <P>-Gevinstestimering og gevinstrealisering</P>
+                        <P>-Porteføljestyring</P>
+                        <P>-Risikostyring og risikohåndtering</P>
+                        <P>-Kvalitetsstyring og intern kontroll</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_QUALITY>
+                            <AC_CRITERION>Kvalitet</AC_CRITERION>
+                            <AC_WEIGHTING>60</AC_WEIGHTING>
+                        </AC_QUALITY>
+                        <AC_PRICE>
+                            <AC_WEIGHTING>40</AC_WEIGHTING>
+                        </AC_PRICE>
+                    </AC>
+                    <OPTIONS/>
+                    <OPTIONS_DESCR>
+                        <P>Avtalen skal gjelde for Arbeids- og velferdsdirektoratet. Øvrige NAV-enheter (statlig del)
+                            har opsjon på bruk av Avtalen. Enheter som benytter sin opsjon innenfor en delkontrakt
+                            (kompetanseområde) plikter å avrope på rammeavtalene innenfor den samme delkontrakten
+                            (kompetanseområdet) hvis ytterligere behov for konsulenttjenester oppstår i Avtalens
+                            løpetid.
+                        </P>
+                    </OPTIONS_DESCR>
+                    <NO_EU_PROGR_RELATED/>
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="5">
+                    <TITLE>
+                        <P>Delkontrakt (kompetanseområde) 5 - Prosjektledelse, arkitektur og forretningsrådgivning</P>
+                    </TITLE>
+                    <LOT_NO>5</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72224000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72225000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="79400000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="79414000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="79420000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="79421000"/>
+                    </CPV_ADDITIONAL>
+                    <LOCATION code="000000"/>
+                    <MAIN_SITE>
+                        <P>Oslo</P>
+                    </MAIN_SITE>
+                    <SHORT_DESCR>
+                        <P>Som eksempler nevnes:</P>
+                        <P>-Prosjektledelse av hovedsakelig store og mellomstore prosjekter, eksempelvis innen
+                            digitalisering og prosessutvikling
+                        </P>
+                        <P>-Prosessdrivere, smidig</P>
+                        <P>-Støtte til prosjektledere, teamledere, produktledere mv. på områder som f.eks.</P>
+                        <P>---planlegging</P>
+                        <P>---kartlegging</P>
+                        <P>---kvalitetssikring</P>
+                        <P>---estimering</P>
+                        <P>---risikohåndtering</P>
+                        <P>---gevinstarbeid</P>
+                        <P>-Bistand innen virksomhetsarkitektur, forretningsarkitektur, løsningsarkitektur og
+                            informasjonsarkitektur med tjenester knyttet til:
+                        </P>
+                        <P>---Å skape og formidle et helhetsbilde av virksomheten</P>
+                        <P>---Gi råd og bistand til utviklingstiltak</P>
+                        <P>---Drive eller bidra til prosesser for å ta frem og/eller forankre beslutningsforslag</P>
+                        <P>---Bidra til å sette rammer og retning for innovasjon og utviklingstiltak</P>
+                        <P>-Strategisk bemanningsstyring, herunder bruk av og samspill mellom virkemidlene rekruttering,
+                            utvikling, omstilling og avvikling
+                        </P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_QUALITY>
+                            <AC_CRITERION>Kvalitet</AC_CRITERION>
+                            <AC_WEIGHTING>60</AC_WEIGHTING>
+                        </AC_QUALITY>
+                        <AC_PRICE>
+                            <AC_WEIGHTING>40</AC_WEIGHTING>
+                        </AC_PRICE>
+                    </AC>
+                    <OPTIONS/>
+                    <OPTIONS_DESCR>
+                        <P>Avtalen skal gjelde for Arbeids- og velferdsdirektoratet. Øvrige NAV-enheter (statlig del)
+                            har opsjon på bruk av Avtalen. Enheter som benytter sin opsjon innenfor en delkontrakt
+                            (kompetanseområde) plikter å avrope på rammeavtalene innenfor den samme delkontrakten
+                            (kompetanseområdet) hvis ytterligere behov for konsulenttjenester oppstår i Avtalens
+                            løpetid.
+                        </P>
+                    </OPTIONS_DESCR>
+                    <NO_EU_PROGR_RELATED/>
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="6">
+                    <TITLE>
+                        <P>Delkontrakt (kompetanseområde) 6 - Strategi- og organisasjonsutvikling</P>
+                    </TITLE>
+                    <LOT_NO>6</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72224000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72221000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="79400000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="79414000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="79415200"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="79421000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="90713000"/>
+                    </CPV_ADDITIONAL>
+                    <LOCATION code="000000"/>
+                    <MAIN_SITE>
+                        <P>Oslo</P>
+                    </MAIN_SITE>
+                    <SHORT_DESCR>
+                        <P>Strategi- og organisasjonsutvikling</P>
+                        <P>I hovedsak på overordnet etatsnivå, men kan også være aktuell på enhetsnivå.</P>
+                        <P>Som eksempler nevnes:</P>
+                        <P>-Rådgivning, prosessledelse og prosesstøtte, samt metoder og verktøy knyttet til</P>
+                        <P>-Strategiutvikling og -rådgivning</P>
+                        <P>-Strategiimplementering</P>
+                        <P>-Utvikling av styringsinformasjon som målbilder, styringsparametere og styringsindikatorer
+                        </P>
+                        <P>-Virksomhets- organisasjonsutvikling</P>
+                        <P>-Forretnings- og tjenesteutvikling</P>
+                        <P>-Effektivisering og kontinuerlig forbedring</P>
+                        <P>-Strategisk bærekraft (sosial, økonomisk og miljø)</P>
+                        <P>-Organisasjonsdesign, arbeidsprosesser, roller og ansvar</P>
+                        <P>-Omstillings- og endringsprosesser</P>
+                        <P>-Endringsledelse, digital transformasjon for ledere</P>
+                        <P>-Organisasjonskultur analyse/utredning og evaluering av organisasjon</P>
+                        <P>-Strategisk kompetansearbeid, -utvikling, -styring og - kartlegging</P>
+                        <P>-Organisasjons- og personellanalyser, herunder uthenting og sammenstilling av data, analyser
+                            og beslutningsgrunnlag.
+                        </P>
+                        <P>-Analyser og innsiktsarbeid som grunnlag for beslutninger (innenfor temaene spesifisert
+                            over)
+                        </P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_QUALITY>
+                            <AC_CRITERION>Kvalitet</AC_CRITERION>
+                            <AC_WEIGHTING>80</AC_WEIGHTING>
+                        </AC_QUALITY>
+                        <AC_PRICE>
+                            <AC_WEIGHTING>20</AC_WEIGHTING>
+                        </AC_PRICE>
+                    </AC>
+                    <OPTIONS/>
+                    <OPTIONS_DESCR>
+                        <P>Avtalen skal gjelde for Arbeids- og velferdsdirektoratet. Øvrige NAV-enheter (statlig del)
+                            har opsjon på bruk av Avtalen. Enheter som benytter sin opsjon innenfor en delkontrakt
+                            (kompetanseområde) plikter å avrope på rammeavtalene innenfor den samme delkontrakten
+                            (kompetanseområdet) hvis ytterligere behov for konsulenttjenester oppstår i Avtalens
+                            løpetid.
+                        </P>
+                    </OPTIONS_DESCR>
+                    <NO_EU_PROGR_RELATED/>
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="7">
+                    <TITLE>
+                        <P>Delkontrakt (kompetanseområde) 7 - Sikkerhet</P>
+                    </TITLE>
+                    <LOT_NO>7</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="48730000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="71317210"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="73400000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="75240000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="79000000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="79417000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="79710000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="90711100"/>
+                    </CPV_ADDITIONAL>
+                    <LOCATION code="000000"/>
+                    <MAIN_SITE>
+                        <P>Oslo</P>
+                    </MAIN_SITE>
+                    <SHORT_DESCR>
+                        <P>Sikkerhet</P>
+                        <P>Som eksempler nevnes:</P>
+                        <P>-Samfunnssikkerhet og beredskap</P>
+                        <P>---Forebyggende sikkerhet</P>
+                        <P>---Sikkerhetsstyring og risikorammeverk</P>
+                        <P>---Ledelsesrapportering og kontinuitetsledelse</P>
+                        <P>---Trusseletterretning og analyse</P>
+                        <P>---Sikkerhetslovverk og beste praksis for sikkerhetsområdene</P>
+                        <P>---Personellsikkerhet</P>
+                        <P>-Informasjonssikkerhet og cybersikkerhet</P>
+                        <P>---Risikostyring og tredjepartsrisiko (TPRM)</P>
+                        <P>---ISMS og rammeverk</P>
+                        <P>---Sikkerhetskultur og awareness</P>
+                        <P>---Applikasjonssikkerhet/ SecDevOps</P>
+                        <P>---Sikkerhetsarkitektur</P>
+                        <P>---IAM</P>
+                        <P>---Sikkerhetsmonitorering og -rapportering</P>
+                        <P>-Fysisk sikring av bygg og områder</P>
+                        <P>---herunder sikkerhetsteknologi i «smarte bygg»</P>
+                        <P>---sikringsrisikoanalyse</P>
+                        <P>-Spisskompetanse innen revisjon/verifikasjon av sikkerhetsvurderinger og kontroller i smidig
+                            utvikling
+                        </P>
+                        <P>-Rådgiving og utvikling av prosess, metoder og støttemateriell</P>
+                        <P>-Management for hire på forskjellige nivå, eksempelvis ledelse i påvente av ansettelse, leder
+                            operasjonssenter, CISO, sikkerhetsteam
+                        </P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_QUALITY>
+                            <AC_CRITERION>Kvalitet</AC_CRITERION>
+                            <AC_WEIGHTING>60</AC_WEIGHTING>
+                        </AC_QUALITY>
+                        <AC_PRICE>
+                            <AC_WEIGHTING>40</AC_WEIGHTING>
+                        </AC_PRICE>
+                    </AC>
+                    <OPTIONS/>
+                    <OPTIONS_DESCR>
+                        <P>Avtalen skal gjelde for Arbeids- og velferdsdirektoratet. Øvrige NAV-enheter (statlig del)
+                            har opsjon på bruk av Avtalen. Enheter som benytter sin opsjon innenfor en delkontrakt
+                            (kompetanseområde) plikter å avrope på rammeavtalene innenfor den samme delkontrakten
+                            (kompetanseområdet) hvis ytterligere behov for konsulenttjenester oppstår i Avtalens
+                            løpetid.
+                        </P>
+                    </OPTIONS_DESCR>
+                    <NO_EU_PROGR_RELATED/>
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="8">
+                    <TITLE>
+                        <P>Delkontrakt (kompetanseområde) 8 - Juridiske tjenester</P>
+                    </TITLE>
+                    <LOT_NO>8</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="75231000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="79100000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="79111000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="79140000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="79418000"/>
+                    </CPV_ADDITIONAL>
+                    <LOCATION code="000000"/>
+                    <MAIN_SITE>
+                        <P>Oslo</P>
+                    </MAIN_SITE>
+                    <SHORT_DESCR>
+                        <P>Juridiske tjenester</P>
+                        <P>Som eksempler nevnes:</P>
+                        <P>-Juridisk rådgivning både i enkeltspørsmål og større utredningsarbeid. Særlig knyttet til</P>
+                        <P>---Generell forvaltningsrett herunder offentleglova</P>
+                        <P>---Overordnet arbeids- og velferdsrett</P>
+                        <P>---Personvern</P>
+                        <P>---EØS-rett</P>
+                        <P>-Juridisk rådgivning knyttet til informasjonssikkerhet og personvern generelt</P>
+                        <P>-Juridisk bistand til IT-utvikling for å sikre innebygd personvern og etterlevelse av
+                            regelverk generelt
+                        </P>
+                        <P>-Personvernkonsekvensvurderinger og databehandleravtale spesielt</P>
+                        <P>-Personvernkompetanse knyttet til informasjonsforvaltning</P>
+                        <P>-Bistand relatert til offentlige anskaffelser og avtaleforvaltning</P>
+                        <P>-Bistand relatert til likestillings- og diskrimineringsrett</P>
+                        <P>-Bistand relatert til samerett/urbefolkningsrett</P>
+                        <P>-Bistand ved juridiske konflikter, særlig på områdene nevnt over.</P>
+                        <P>Merk for denne delkontrakten (kompetanseområdet) at det i Konkurransegrunnlagets del III er
+                            stilt følgende krav: Ressursene som tilbys må være advokater med gyldig norsk
+                            advokatbevilling eller advokatfullmektiger med gyldig autorisasjon, og eventuelt andre som
+                            oppfyller Advokatforskriften kapittel 10.
+                        </P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_QUALITY>
+                            <AC_CRITERION>Kvalitet</AC_CRITERION>
+                            <AC_WEIGHTING>70</AC_WEIGHTING>
+                        </AC_QUALITY>
+                        <AC_PRICE>
+                            <AC_WEIGHTING>30</AC_WEIGHTING>
+                        </AC_PRICE>
+                    </AC>
+                    <OPTIONS/>
+                    <OPTIONS_DESCR>
+                        <P>Avtalen skal gjelde for Arbeids- og velferdsdirektoratet. Øvrige NAV-enheter (statlig del)
+                            har opsjon på bruk av Avtalen. Enheter som benytter sin opsjon innenfor en delkontrakt
+                            (kompetanseområde) plikter å avrope på rammeavtalene innenfor den samme delkontrakten
+                            (kompetanseområdet) hvis ytterligere behov for konsulenttjenester oppstår i Avtalens
+                            løpetid.
+                        </P>
+                    </OPTIONS_DESCR>
+                    <NO_EU_PROGR_RELATED/>
+                </OBJECT_DESCR>
+            </OBJECT_CONTRACT>
+            <PROCEDURE>
+                <PT_RESTRICTED/>
+                <FRAMEWORK/>
+                <CONTRACT_COVERED_GPA/>
+                <NOTICE_NUMBER_OJ>2023/S 050-149049</NOTICE_NUMBER_OJ>
+            </PROCEDURE>
+            <AWARD_CONTRACT ITEM="1">
+                <TITLE>
+                    <P>Delkontrakt (kompetanseområde) 1 - Rekrutteringsbistand - toppledere, direktører</P>
+                </TITLE>
+                <AWARDED_CONTRACT>
+                    <DATE_CONCLUSION_CONTRACT>2023-10-24</DATE_CONCLUSION_CONTRACT>
+                    <TENDERS>
+                        <NB_TENDERS_RECEIVED>6</NB_TENDERS_RECEIVED>
+                        <NB_TENDERS_RECEIVED_SME>4</NB_TENDERS_RECEIVED_SME>
+                        <NB_TENDERS_RECEIVED_OTHER_EU>6</NB_TENDERS_RECEIVED_OTHER_EU>
+                        <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+                        <NB_TENDERS_RECEIVED_EMEANS>6</NB_TENDERS_RECEIVED_EMEANS>
+                    </TENDERS>
+                    <CONTRACTORS>
+                        <NO_AWARDED_TO_GROUP/>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Experis AS</OFFICIALNAME>
+                                <ADDRESS>Lakkegata 53</ADDRESS>
+                                <TOWN>OSLO</TOWN>
+                                <POSTAL_CODE>0187</POSTAL_CODE>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="103000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME/>
+                        </CONTRACTOR>
+                    </CONTRACTORS>
+                    <VALUES>
+                        <VAL_ESTIMATED_TOTAL CURRENCY="NOK">8000000.00</VAL_ESTIMATED_TOTAL>
+                        <VAL_TOTAL CURRENCY="NOK">8000000.00</VAL_TOTAL>
+                    </VALUES>
+                </AWARDED_CONTRACT>
+            </AWARD_CONTRACT>
+            <AWARD_CONTRACT ITEM="2">
+                <TITLE>
+                    <P>Delkontrakt (kompetanseområde) 1 - Rekrutteringsbistand - toppledere, direktører</P>
+                </TITLE>
+                <AWARDED_CONTRACT>
+                    <DATE_CONCLUSION_CONTRACT>2023-10-23</DATE_CONCLUSION_CONTRACT>
+                    <TENDERS>
+                        <NB_TENDERS_RECEIVED>6</NB_TENDERS_RECEIVED>
+                        <NB_TENDERS_RECEIVED_SME>4</NB_TENDERS_RECEIVED_SME>
+                        <NB_TENDERS_RECEIVED_OTHER_EU>6</NB_TENDERS_RECEIVED_OTHER_EU>
+                        <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+                        <NB_TENDERS_RECEIVED_EMEANS>6</NB_TENDERS_RECEIVED_EMEANS>
+                    </TENDERS>
+                    <CONTRACTORS>
+                        <NO_AWARDED_TO_GROUP/>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Capus AS</OFFICIALNAME>
+                                <ADDRESS>Pilestredet 8</ADDRESS>
+                                <TOWN>OSLO</TOWN>
+                                <POSTAL_CODE>0180</POSTAL_CODE>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="103000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <SME/>
+                        </CONTRACTOR>
+                    </CONTRACTORS>
+                    <VALUES>
+                        <VAL_ESTIMATED_TOTAL CURRENCY="NOK">8000000.00</VAL_ESTIMATED_TOTAL>
+                        <VAL_TOTAL CURRENCY="NOK">8000000.00</VAL_TOTAL>
+                    </VALUES>
+                </AWARDED_CONTRACT>
+            </AWARD_CONTRACT>
+            <AWARD_CONTRACT ITEM="3">
+                <TITLE>
+                    <P>Delkontrakt (kompetanseområde) 1 - Rekrutteringsbistand - toppledere, direktører</P>
+                </TITLE>
+                <AWARDED_CONTRACT>
+                    <DATE_CONCLUSION_CONTRACT>2023-10-24</DATE_CONCLUSION_CONTRACT>
+                    <TENDERS>
+                        <NB_TENDERS_RECEIVED>6</NB_TENDERS_RECEIVED>
+                        <NB_TENDERS_RECEIVED_SME>4</NB_TENDERS_RECEIVED_SME>
+                        <NB_TENDERS_RECEIVED_OTHER_EU>6</NB_TENDERS_RECEIVED_OTHER_EU>
+                        <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+                        <NB_TENDERS_RECEIVED_EMEANS>6</NB_TENDERS_RECEIVED_EMEANS>
+                    </TENDERS>
+                    <CONTRACTORS>
+                        <NO_AWARDED_TO_GROUP/>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Backer Skeie AS</OFFICIALNAME>
+                                <ADDRESS>Rådhusgata 23</ADDRESS>
+                                <TOWN>OSLO</TOWN>
+                                <POSTAL_CODE>0158</POSTAL_CODE>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="103000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <SME/>
+                        </CONTRACTOR>
+                    </CONTRACTORS>
+                    <VALUES>
+                        <VAL_ESTIMATED_TOTAL CURRENCY="NOK">8000000.00</VAL_ESTIMATED_TOTAL>
+                        <VAL_TOTAL CURRENCY="NOK">8000000.00</VAL_TOTAL>
+                    </VALUES>
+                </AWARDED_CONTRACT>
+            </AWARD_CONTRACT>
+            <AWARD_CONTRACT ITEM="4">
+                <TITLE>
+                    <P>Delkontrakt (kompetanseområde) 1 - Rekrutteringsbistand - toppledere, direktører</P>
+                </TITLE>
+                <AWARDED_CONTRACT>
+                    <DATE_CONCLUSION_CONTRACT>2023-10-23</DATE_CONCLUSION_CONTRACT>
+                    <TENDERS>
+                        <NB_TENDERS_RECEIVED>6</NB_TENDERS_RECEIVED>
+                        <NB_TENDERS_RECEIVED_SME>4</NB_TENDERS_RECEIVED_SME>
+                        <NB_TENDERS_RECEIVED_OTHER_EU>6</NB_TENDERS_RECEIVED_OTHER_EU>
+                        <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+                        <NB_TENDERS_RECEIVED_EMEANS>6</NB_TENDERS_RECEIVED_EMEANS>
+                    </TENDERS>
+                    <CONTRACTORS>
+                        <NO_AWARDED_TO_GROUP/>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Cruit AS</OFFICIALNAME>
+                                <ADDRESS>Karl Johans gate 25</ADDRESS>
+                                <TOWN>OSLO</TOWN>
+                                <POSTAL_CODE>0159</POSTAL_CODE>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="103000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <SME/>
+                        </CONTRACTOR>
+                    </CONTRACTORS>
+                    <VALUES>
+                        <VAL_ESTIMATED_TOTAL CURRENCY="NOK">8000000.00</VAL_ESTIMATED_TOTAL>
+                        <VAL_TOTAL CURRENCY="NOK">8000000.00</VAL_TOTAL>
+                    </VALUES>
+                </AWARDED_CONTRACT>
+            </AWARD_CONTRACT>
+            <AWARD_CONTRACT ITEM="5">
+                <TITLE>
+                    <P>Delkontrakt (kompetanseområde) 1 - Rekrutteringsbistand - toppledere, direktører</P>
+                </TITLE>
+                <AWARDED_CONTRACT>
+                    <DATE_CONCLUSION_CONTRACT>2023-10-24</DATE_CONCLUSION_CONTRACT>
+                    <TENDERS>
+                        <NB_TENDERS_RECEIVED>6</NB_TENDERS_RECEIVED>
+                        <NB_TENDERS_RECEIVED_SME>4</NB_TENDERS_RECEIVED_SME>
+                        <NB_TENDERS_RECEIVED_OTHER_EU>6</NB_TENDERS_RECEIVED_OTHER_EU>
+                        <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+                        <NB_TENDERS_RECEIVED_EMEANS>6</NB_TENDERS_RECEIVED_EMEANS>
+                    </TENDERS>
+                    <CONTRACTORS>
+                        <NO_AWARDED_TO_GROUP/>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>The Assessment Company Norge AS</OFFICIALNAME>
+                                <ADDRESS>Parkgata 83</ADDRESS>
+                                <TOWN>HAMAR</TOWN>
+                                <POSTAL_CODE>2318</POSTAL_CODE>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="020403"/>
+                            </ADDRESS_CONTRACTOR>
+                            <SME/>
+                        </CONTRACTOR>
+                    </CONTRACTORS>
+                    <VALUES>
+                        <VAL_ESTIMATED_TOTAL CURRENCY="NOK">8000000.00</VAL_ESTIMATED_TOTAL>
+                        <VAL_TOTAL CURRENCY="NOK">8000000.00</VAL_TOTAL>
+                    </VALUES>
+                </AWARDED_CONTRACT>
+            </AWARD_CONTRACT>
+            <AWARD_CONTRACT ITEM="6">
+                <TITLE>
+                    <P>Delkontrakt (kompetanseområde) 2 - Rekrutteringbistand - ledere og medarbeidere</P>
+                </TITLE>
+                <AWARDED_CONTRACT>
+                    <DATE_CONCLUSION_CONTRACT>2023-10-24</DATE_CONCLUSION_CONTRACT>
+                    <TENDERS>
+                        <NB_TENDERS_RECEIVED>8</NB_TENDERS_RECEIVED>
+                        <NB_TENDERS_RECEIVED_SME>7</NB_TENDERS_RECEIVED_SME>
+                        <NB_TENDERS_RECEIVED_OTHER_EU>8</NB_TENDERS_RECEIVED_OTHER_EU>
+                        <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+                        <NB_TENDERS_RECEIVED_EMEANS>8</NB_TENDERS_RECEIVED_EMEANS>
+                    </TENDERS>
+                    <CONTRACTORS>
+                        <NO_AWARDED_TO_GROUP/>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Experis AS</OFFICIALNAME>
+                                <ADDRESS>Lakkegata 53</ADDRESS>
+                                <TOWN>OSLO</TOWN>
+                                <POSTAL_CODE>0187</POSTAL_CODE>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="103000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME/>
+                        </CONTRACTOR>
+                    </CONTRACTORS>
+                    <VALUES>
+                        <VAL_ESTIMATED_TOTAL CURRENCY="NOK">8000000.00</VAL_ESTIMATED_TOTAL>
+                        <VAL_TOTAL CURRENCY="NOK">8000000.00</VAL_TOTAL>
+                    </VALUES>
+                </AWARDED_CONTRACT>
+            </AWARD_CONTRACT>
+            <AWARD_CONTRACT ITEM="7">
+                <TITLE>
+                    <P>Delkontrakt (kompetanseområde) 2 - Rekrutteringbistand - ledere og medarbeidere</P>
+                </TITLE>
+                <AWARDED_CONTRACT>
+                    <DATE_CONCLUSION_CONTRACT>2023-10-23</DATE_CONCLUSION_CONTRACT>
+                    <TENDERS>
+                        <NB_TENDERS_RECEIVED>8</NB_TENDERS_RECEIVED>
+                        <NB_TENDERS_RECEIVED_SME>7</NB_TENDERS_RECEIVED_SME>
+                        <NB_TENDERS_RECEIVED_OTHER_EU>8</NB_TENDERS_RECEIVED_OTHER_EU>
+                        <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+                        <NB_TENDERS_RECEIVED_EMEANS>8</NB_TENDERS_RECEIVED_EMEANS>
+                    </TENDERS>
+                    <CONTRACTORS>
+                        <NO_AWARDED_TO_GROUP/>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Capus AS</OFFICIALNAME>
+                                <ADDRESS>Pilestredet 8</ADDRESS>
+                                <TOWN>OSLO</TOWN>
+                                <POSTAL_CODE>0180</POSTAL_CODE>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="103000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <SME/>
+                        </CONTRACTOR>
+                    </CONTRACTORS>
+                    <VALUES>
+                        <VAL_ESTIMATED_TOTAL CURRENCY="NOK">8000000.00</VAL_ESTIMATED_TOTAL>
+                        <VAL_TOTAL CURRENCY="NOK">8000000.00</VAL_TOTAL>
+                    </VALUES>
+                </AWARDED_CONTRACT>
+            </AWARD_CONTRACT>
+            <AWARD_CONTRACT ITEM="8">
+                <TITLE>
+                    <P>Delkontrakt (kompetanseområde) 2 - Rekrutteringbistand - ledere og medarbeidere</P>
+                </TITLE>
+                <AWARDED_CONTRACT>
+                    <DATE_CONCLUSION_CONTRACT>2023-10-23</DATE_CONCLUSION_CONTRACT>
+                    <TENDERS>
+                        <NB_TENDERS_RECEIVED>8</NB_TENDERS_RECEIVED>
+                        <NB_TENDERS_RECEIVED_SME>7</NB_TENDERS_RECEIVED_SME>
+                        <NB_TENDERS_RECEIVED_OTHER_EU>8</NB_TENDERS_RECEIVED_OTHER_EU>
+                        <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+                        <NB_TENDERS_RECEIVED_EMEANS>8</NB_TENDERS_RECEIVED_EMEANS>
+                    </TENDERS>
+                    <CONTRACTORS>
+                        <NO_AWARDED_TO_GROUP/>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Cruit AS</OFFICIALNAME>
+                                <ADDRESS>Karl Johans gate 25</ADDRESS>
+                                <TOWN>OSLO</TOWN>
+                                <POSTAL_CODE>0159</POSTAL_CODE>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="103000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <SME/>
+                        </CONTRACTOR>
+                    </CONTRACTORS>
+                    <VALUES>
+                        <VAL_ESTIMATED_TOTAL CURRENCY="NOK">8000000.00</VAL_ESTIMATED_TOTAL>
+                        <VAL_TOTAL CURRENCY="NOK">8000000.00</VAL_TOTAL>
+                    </VALUES>
+                </AWARDED_CONTRACT>
+            </AWARD_CONTRACT>
+            <AWARD_CONTRACT ITEM="9">
+                <TITLE>
+                    <P>Delkontrakt (kompetanseområde) 2 - Rekrutteringbistand - ledere og medarbeidere</P>
+                </TITLE>
+                <AWARDED_CONTRACT>
+                    <DATE_CONCLUSION_CONTRACT>2023-10-24</DATE_CONCLUSION_CONTRACT>
+                    <TENDERS>
+                        <NB_TENDERS_RECEIVED>8</NB_TENDERS_RECEIVED>
+                        <NB_TENDERS_RECEIVED_SME>7</NB_TENDERS_RECEIVED_SME>
+                        <NB_TENDERS_RECEIVED_OTHER_EU>8</NB_TENDERS_RECEIVED_OTHER_EU>
+                        <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+                        <NB_TENDERS_RECEIVED_EMEANS>8</NB_TENDERS_RECEIVED_EMEANS>
+                    </TENDERS>
+                    <CONTRACTORS>
+                        <NO_AWARDED_TO_GROUP/>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>The Assessment Company Norge AS</OFFICIALNAME>
+                                <ADDRESS>Parkgata 83</ADDRESS>
+                                <TOWN>HAMAR</TOWN>
+                                <POSTAL_CODE>2318</POSTAL_CODE>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="020403"/>
+                            </ADDRESS_CONTRACTOR>
+                            <SME/>
+                        </CONTRACTOR>
+                    </CONTRACTORS>
+                    <VALUES>
+                        <VAL_ESTIMATED_TOTAL CURRENCY="NOK">8000000.00</VAL_ESTIMATED_TOTAL>
+                        <VAL_TOTAL CURRENCY="NOK">8000000.00</VAL_TOTAL>
+                    </VALUES>
+                </AWARDED_CONTRACT>
+            </AWARD_CONTRACT>
+            <AWARD_CONTRACT ITEM="10">
+                <TITLE>
+                    <P>Delkontrakt (kompetanseområde) 2 - Rekrutteringbistand - ledere og medarbeidere</P>
+                </TITLE>
+                <AWARDED_CONTRACT>
+                    <DATE_CONCLUSION_CONTRACT>2023-10-24</DATE_CONCLUSION_CONTRACT>
+                    <TENDERS>
+                        <NB_TENDERS_RECEIVED>8</NB_TENDERS_RECEIVED>
+                        <NB_TENDERS_RECEIVED_SME>7</NB_TENDERS_RECEIVED_SME>
+                        <NB_TENDERS_RECEIVED_OTHER_EU>8</NB_TENDERS_RECEIVED_OTHER_EU>
+                        <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+                        <NB_TENDERS_RECEIVED_EMEANS>8</NB_TENDERS_RECEIVED_EMEANS>
+                    </TENDERS>
+                    <CONTRACTORS>
+                        <NO_AWARDED_TO_GROUP/>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Prime Executive AS</OFFICIALNAME>
+                                <ADDRESS>Prinsensgt. 5</ADDRESS>
+                                <TOWN>OSLO</TOWN>
+                                <POSTAL_CODE>0152</POSTAL_CODE>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="103000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <SME/>
+                        </CONTRACTOR>
+                    </CONTRACTORS>
+                    <VALUES>
+                        <VAL_ESTIMATED_TOTAL CURRENCY="NOK">8000000.00</VAL_ESTIMATED_TOTAL>
+                        <VAL_TOTAL CURRENCY="NOK">8000000.00</VAL_TOTAL>
+                    </VALUES>
+                </AWARDED_CONTRACT>
+            </AWARD_CONTRACT>
+            <AWARD_CONTRACT ITEM="11">
+                <TITLE>
+                    <P>Delkontrakt (kompetanseområde) 3 - Rekrutteringbistand - IT-personell (medarbeidere)</P>
+                </TITLE>
+                <AWARDED_CONTRACT>
+                    <DATE_CONCLUSION_CONTRACT>2023-10-24</DATE_CONCLUSION_CONTRACT>
+                    <TENDERS>
+                        <NB_TENDERS_RECEIVED>4</NB_TENDERS_RECEIVED>
+                        <NB_TENDERS_RECEIVED_SME>3</NB_TENDERS_RECEIVED_SME>
+                        <NB_TENDERS_RECEIVED_OTHER_EU>4</NB_TENDERS_RECEIVED_OTHER_EU>
+                        <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+                        <NB_TENDERS_RECEIVED_EMEANS>4</NB_TENDERS_RECEIVED_EMEANS>
+                    </TENDERS>
+                    <CONTRACTORS>
+                        <NO_AWARDED_TO_GROUP/>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Experis AS</OFFICIALNAME>
+                                <ADDRESS>Lakkegata 53</ADDRESS>
+                                <TOWN>OSLO</TOWN>
+                                <POSTAL_CODE>0187</POSTAL_CODE>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="103000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME/>
+                        </CONTRACTOR>
+                    </CONTRACTORS>
+                    <VALUES>
+                        <VAL_ESTIMATED_TOTAL CURRENCY="NOK">4000000.00</VAL_ESTIMATED_TOTAL>
+                        <VAL_TOTAL CURRENCY="NOK">4000000.00</VAL_TOTAL>
+                    </VALUES>
+                </AWARDED_CONTRACT>
+            </AWARD_CONTRACT>
+            <AWARD_CONTRACT ITEM="12">
+                <TITLE>
+                    <P>Delkontrakt (kompetanseområde) 3 - Rekrutteringbistand - IT-personell (medarbeidere)</P>
+                </TITLE>
+                <AWARDED_CONTRACT>
+                    <DATE_CONCLUSION_CONTRACT>2023-10-23</DATE_CONCLUSION_CONTRACT>
+                    <TENDERS>
+                        <NB_TENDERS_RECEIVED>4</NB_TENDERS_RECEIVED>
+                        <NB_TENDERS_RECEIVED_SME>3</NB_TENDERS_RECEIVED_SME>
+                        <NB_TENDERS_RECEIVED_OTHER_EU>4</NB_TENDERS_RECEIVED_OTHER_EU>
+                        <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+                        <NB_TENDERS_RECEIVED_EMEANS>4</NB_TENDERS_RECEIVED_EMEANS>
+                    </TENDERS>
+                    <CONTRACTORS>
+                        <NO_AWARDED_TO_GROUP/>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Capus AS</OFFICIALNAME>
+                                <ADDRESS>Pilestredet 8</ADDRESS>
+                                <TOWN>OSLO</TOWN>
+                                <POSTAL_CODE>0180</POSTAL_CODE>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="103000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <SME/>
+                        </CONTRACTOR>
+                    </CONTRACTORS>
+                    <VALUES>
+                        <VAL_ESTIMATED_TOTAL CURRENCY="NOK">4000000.00</VAL_ESTIMATED_TOTAL>
+                        <VAL_TOTAL CURRENCY="NOK">4000000.00</VAL_TOTAL>
+                    </VALUES>
+                </AWARDED_CONTRACT>
+            </AWARD_CONTRACT>
+            <AWARD_CONTRACT ITEM="13">
+                <TITLE>
+                    <P>Delkontrakt (kompetanseområde) 3 - Rekrutteringbistand - IT-personell (medarbeidere)</P>
+                </TITLE>
+                <AWARDED_CONTRACT>
+                    <DATE_CONCLUSION_CONTRACT>2023-10-23</DATE_CONCLUSION_CONTRACT>
+                    <TENDERS>
+                        <NB_TENDERS_RECEIVED>4</NB_TENDERS_RECEIVED>
+                        <NB_TENDERS_RECEIVED_SME>3</NB_TENDERS_RECEIVED_SME>
+                        <NB_TENDERS_RECEIVED_OTHER_EU>4</NB_TENDERS_RECEIVED_OTHER_EU>
+                        <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+                        <NB_TENDERS_RECEIVED_EMEANS>4</NB_TENDERS_RECEIVED_EMEANS>
+                    </TENDERS>
+                    <CONTRACTORS>
+                        <NO_AWARDED_TO_GROUP/>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Cruit AS</OFFICIALNAME>
+                                <ADDRESS>Karl Johans gate 25</ADDRESS>
+                                <TOWN>OSLO</TOWN>
+                                <POSTAL_CODE>0159</POSTAL_CODE>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="103000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <SME/>
+                        </CONTRACTOR>
+                    </CONTRACTORS>
+                    <VALUES>
+                        <VAL_ESTIMATED_TOTAL CURRENCY="NOK">4000000.00</VAL_ESTIMATED_TOTAL>
+                        <VAL_TOTAL CURRENCY="NOK">4000000.00</VAL_TOTAL>
+                    </VALUES>
+                </AWARDED_CONTRACT>
+            </AWARD_CONTRACT>
+            <AWARD_CONTRACT ITEM="14">
+                <TITLE>
+                    <P>Delkontrakt (kompetanseområde) 4 - Virksomhets- og økonomistyring</P>
+                </TITLE>
+                <AWARDED_CONTRACT>
+                    <DATE_CONCLUSION_CONTRACT>2023-10-24</DATE_CONCLUSION_CONTRACT>
+                    <TENDERS>
+                        <NB_TENDERS_RECEIVED>11</NB_TENDERS_RECEIVED>
+                        <NB_TENDERS_RECEIVED_SME>3</NB_TENDERS_RECEIVED_SME>
+                        <NB_TENDERS_RECEIVED_OTHER_EU>11</NB_TENDERS_RECEIVED_OTHER_EU>
+                        <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+                        <NB_TENDERS_RECEIVED_EMEANS>11</NB_TENDERS_RECEIVED_EMEANS>
+                    </TENDERS>
+                    <CONTRACTORS>
+                        <NO_AWARDED_TO_GROUP/>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Sopra Steria AS</OFFICIALNAME>
+                                <ADDRESS>Biskop Gunnerus' gate 14 A</ADDRESS>
+                                <TOWN>OSLO</TOWN>
+                                <POSTAL_CODE>0185</POSTAL_CODE>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="103000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME/>
+                        </CONTRACTOR>
+                    </CONTRACTORS>
+                    <VALUES>
+                        <VAL_ESTIMATED_TOTAL CURRENCY="NOK">80000000.00</VAL_ESTIMATED_TOTAL>
+                        <VAL_TOTAL CURRENCY="NOK">80000000.00</VAL_TOTAL>
+                    </VALUES>
+                </AWARDED_CONTRACT>
+            </AWARD_CONTRACT>
+            <AWARD_CONTRACT ITEM="15">
+                <TITLE>
+                    <P>Delkontrakt (kompetanseområde) 4 - Virksomhets- og økonomistyring</P>
+                </TITLE>
+                <AWARDED_CONTRACT>
+                    <DATE_CONCLUSION_CONTRACT>2023-10-23</DATE_CONCLUSION_CONTRACT>
+                    <TENDERS>
+                        <NB_TENDERS_RECEIVED>11</NB_TENDERS_RECEIVED>
+                        <NB_TENDERS_RECEIVED_SME>3</NB_TENDERS_RECEIVED_SME>
+                        <NB_TENDERS_RECEIVED_OTHER_EU>11</NB_TENDERS_RECEIVED_OTHER_EU>
+                        <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+                        <NB_TENDERS_RECEIVED_EMEANS>11</NB_TENDERS_RECEIVED_EMEANS>
+                    </TENDERS>
+                    <CONTRACTORS>
+                        <NO_AWARDED_TO_GROUP/>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Deloitte AS</OFFICIALNAME>
+                                <ADDRESS>Dronning Eufemias gate 14</ADDRESS>
+                                <TOWN>OSLO</TOWN>
+                                <POSTAL_CODE>0103</POSTAL_CODE>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="103000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME/>
+                        </CONTRACTOR>
+                    </CONTRACTORS>
+                    <VALUES>
+                        <VAL_ESTIMATED_TOTAL CURRENCY="NOK">80000000.00</VAL_ESTIMATED_TOTAL>
+                        <VAL_TOTAL CURRENCY="NOK">80000000.00</VAL_TOTAL>
+                    </VALUES>
+                </AWARDED_CONTRACT>
+            </AWARD_CONTRACT>
+            <AWARD_CONTRACT ITEM="16">
+                <TITLE>
+                    <P>Delkontrakt (kompetanseområde) 4 - Virksomhets- og økonomistyring</P>
+                </TITLE>
+                <AWARDED_CONTRACT>
+                    <DATE_CONCLUSION_CONTRACT>2023-10-27</DATE_CONCLUSION_CONTRACT>
+                    <TENDERS>
+                        <NB_TENDERS_RECEIVED>11</NB_TENDERS_RECEIVED>
+                        <NB_TENDERS_RECEIVED_SME>3</NB_TENDERS_RECEIVED_SME>
+                        <NB_TENDERS_RECEIVED_OTHER_EU>11</NB_TENDERS_RECEIVED_OTHER_EU>
+                        <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+                        <NB_TENDERS_RECEIVED_EMEANS>11</NB_TENDERS_RECEIVED_EMEANS>
+                    </TENDERS>
+                    <CONTRACTORS>
+                        <NO_AWARDED_TO_GROUP/>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Ernst &amp; Young AS</OFFICIALNAME>
+                                <ADDRESS>Stortorvet 7</ADDRESS>
+                                <TOWN>OSLO</TOWN>
+                                <POSTAL_CODE>0155</POSTAL_CODE>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="103000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME/>
+                        </CONTRACTOR>
+                    </CONTRACTORS>
+                    <VALUES>
+                        <VAL_ESTIMATED_TOTAL CURRENCY="NOK">80000000.00</VAL_ESTIMATED_TOTAL>
+                        <VAL_TOTAL CURRENCY="NOK">80000000.00</VAL_TOTAL>
+                    </VALUES>
+                </AWARDED_CONTRACT>
+            </AWARD_CONTRACT>
+            <AWARD_CONTRACT ITEM="17">
+                <TITLE>
+                    <P>Delkontrakt (kompetanseområde) 4 - Virksomhets- og økonomistyring</P>
+                </TITLE>
+                <AWARDED_CONTRACT>
+                    <DATE_CONCLUSION_CONTRACT>2023-10-31</DATE_CONCLUSION_CONTRACT>
+                    <TENDERS>
+                        <NB_TENDERS_RECEIVED>11</NB_TENDERS_RECEIVED>
+                        <NB_TENDERS_RECEIVED_SME>3</NB_TENDERS_RECEIVED_SME>
+                        <NB_TENDERS_RECEIVED_OTHER_EU>11</NB_TENDERS_RECEIVED_OTHER_EU>
+                        <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+                        <NB_TENDERS_RECEIVED_EMEANS>11</NB_TENDERS_RECEIVED_EMEANS>
+                    </TENDERS>
+                    <CONTRACTORS>
+                        <NO_AWARDED_TO_GROUP/>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Accenture AS</OFFICIALNAME>
+                                <ADDRESS>Rådhusgata 27</ADDRESS>
+                                <TOWN>OSLO</TOWN>
+                                <POSTAL_CODE>0158</POSTAL_CODE>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="103000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME/>
+                        </CONTRACTOR>
+                    </CONTRACTORS>
+                    <VALUES>
+                        <VAL_ESTIMATED_TOTAL CURRENCY="NOK">80000000.00</VAL_ESTIMATED_TOTAL>
+                        <VAL_TOTAL CURRENCY="NOK">80000000.00</VAL_TOTAL>
+                    </VALUES>
+                </AWARDED_CONTRACT>
+            </AWARD_CONTRACT>
+            <AWARD_CONTRACT ITEM="18">
+                <TITLE>
+                    <P>Delkontrakt (kompetanseområde) 4 - Virksomhets- og økonomistyring</P>
+                </TITLE>
+                <AWARDED_CONTRACT>
+                    <DATE_CONCLUSION_CONTRACT>2023-10-26</DATE_CONCLUSION_CONTRACT>
+                    <TENDERS>
+                        <NB_TENDERS_RECEIVED>11</NB_TENDERS_RECEIVED>
+                        <NB_TENDERS_RECEIVED_SME>3</NB_TENDERS_RECEIVED_SME>
+                        <NB_TENDERS_RECEIVED_OTHER_EU>11</NB_TENDERS_RECEIVED_OTHER_EU>
+                        <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+                        <NB_TENDERS_RECEIVED_EMEANS>11</NB_TENDERS_RECEIVED_EMEANS>
+                    </TENDERS>
+                    <CONTRACTORS>
+                        <NO_AWARDED_TO_GROUP/>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>KPMG AS</OFFICIALNAME>
+                                <ADDRESS>Sørkedalsveien 6</ADDRESS>
+                                <TOWN>OSLO</TOWN>
+                                <POSTAL_CODE>0369</POSTAL_CODE>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="103000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME/>
+                        </CONTRACTOR>
+                    </CONTRACTORS>
+                    <VALUES>
+                        <VAL_ESTIMATED_TOTAL CURRENCY="NOK">80000000.00</VAL_ESTIMATED_TOTAL>
+                        <VAL_TOTAL CURRENCY="NOK">80000000.00</VAL_TOTAL>
+                    </VALUES>
+                </AWARDED_CONTRACT>
+            </AWARD_CONTRACT>
+            <AWARD_CONTRACT ITEM="19">
+                <TITLE>
+                    <P>Delkontrakt (kompetanseområde) 4 - Virksomhets- og økonomistyring</P>
+                </TITLE>
+                <AWARDED_CONTRACT>
+                    <DATE_CONCLUSION_CONTRACT>2023-10-19</DATE_CONCLUSION_CONTRACT>
+                    <TENDERS>
+                        <NB_TENDERS_RECEIVED>11</NB_TENDERS_RECEIVED>
+                        <NB_TENDERS_RECEIVED_SME>3</NB_TENDERS_RECEIVED_SME>
+                        <NB_TENDERS_RECEIVED_OTHER_EU>11</NB_TENDERS_RECEIVED_OTHER_EU>
+                        <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+                        <NB_TENDERS_RECEIVED_EMEANS>11</NB_TENDERS_RECEIVED_EMEANS>
+                    </TENDERS>
+                    <CONTRACTORS>
+                        <NO_AWARDED_TO_GROUP/>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>BDO AS</OFFICIALNAME>
+                                <ADDRESS>Munkedamsveien 45 A</ADDRESS>
+                                <TOWN>OSLO</TOWN>
+                                <POSTAL_CODE>0250</POSTAL_CODE>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="103000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME/>
+                        </CONTRACTOR>
+                    </CONTRACTORS>
+                    <VALUES>
+                        <VAL_ESTIMATED_TOTAL CURRENCY="NOK">80000000.00</VAL_ESTIMATED_TOTAL>
+                        <VAL_TOTAL CURRENCY="NOK">80000000.00</VAL_TOTAL>
+                    </VALUES>
+                </AWARDED_CONTRACT>
+            </AWARD_CONTRACT>
+            <AWARD_CONTRACT ITEM="20">
+                <TITLE>
+                    <P>Delkontrakt (kompetanseområde) 4 - Virksomhets- og økonomistyring</P>
+                </TITLE>
+                <AWARDED_CONTRACT>
+                    <DATE_CONCLUSION_CONTRACT>2023-10-23</DATE_CONCLUSION_CONTRACT>
+                    <TENDERS>
+                        <NB_TENDERS_RECEIVED>11</NB_TENDERS_RECEIVED>
+                        <NB_TENDERS_RECEIVED_SME>3</NB_TENDERS_RECEIVED_SME>
+                        <NB_TENDERS_RECEIVED_OTHER_EU>11</NB_TENDERS_RECEIVED_OTHER_EU>
+                        <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+                        <NB_TENDERS_RECEIVED_EMEANS>11</NB_TENDERS_RECEIVED_EMEANS>
+                    </TENDERS>
+                    <CONTRACTORS>
+                        <NO_AWARDED_TO_GROUP/>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>PricewaterhouseCoopers AS</OFFICIALNAME>
+                                <ADDRESS>Dronning Eufemias gate 71</ADDRESS>
+                                <TOWN>OSLO</TOWN>
+                                <POSTAL_CODE>0194</POSTAL_CODE>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="103000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME/>
+                        </CONTRACTOR>
+                    </CONTRACTORS>
+                    <VALUES>
+                        <VAL_ESTIMATED_TOTAL CURRENCY="NOK">80000000.00</VAL_ESTIMATED_TOTAL>
+                        <VAL_TOTAL CURRENCY="NOK">80000000.00</VAL_TOTAL>
+                    </VALUES>
+                </AWARDED_CONTRACT>
+            </AWARD_CONTRACT>
+            <AWARD_CONTRACT ITEM="21">
+                <TITLE>
+                    <P>Delkontrakt (kompetanseområde) 4 - Virksomhets- og økonomistyring</P>
+                </TITLE>
+                <AWARDED_CONTRACT>
+                    <DATE_CONCLUSION_CONTRACT>2023-10-20</DATE_CONCLUSION_CONTRACT>
+                    <TENDERS>
+                        <NB_TENDERS_RECEIVED>11</NB_TENDERS_RECEIVED>
+                        <NB_TENDERS_RECEIVED_SME>3</NB_TENDERS_RECEIVED_SME>
+                        <NB_TENDERS_RECEIVED_OTHER_EU>11</NB_TENDERS_RECEIVED_OTHER_EU>
+                        <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+                        <NB_TENDERS_RECEIVED_EMEANS>11</NB_TENDERS_RECEIVED_EMEANS>
+                    </TENDERS>
+                    <CONTRACTORS>
+                        <NO_AWARDED_TO_GROUP/>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Ework Group Norway AS</OFFICIALNAME>
+                                <ADDRESS>Akersgata 16</ADDRESS>
+                                <TOWN>OSLO</TOWN>
+                                <POSTAL_CODE>0158</POSTAL_CODE>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="103000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <SME/>
+                        </CONTRACTOR>
+                    </CONTRACTORS>
+                    <VALUES>
+                        <VAL_ESTIMATED_TOTAL CURRENCY="NOK">80000000.00</VAL_ESTIMATED_TOTAL>
+                        <VAL_TOTAL CURRENCY="NOK">80000000.00</VAL_TOTAL>
+                    </VALUES>
+                </AWARDED_CONTRACT>
+            </AWARD_CONTRACT>
+            <AWARD_CONTRACT ITEM="22">
+                <TITLE>
+                    <P>Delkontrakt (kompetanseområde) 5 - Prosjektledelse, arkitektur og forretningsrådgivning</P>
+                </TITLE>
+                <AWARDED_CONTRACT>
+                    <DATE_CONCLUSION_CONTRACT>2023-10-23</DATE_CONCLUSION_CONTRACT>
+                    <TENDERS>
+                        <NB_TENDERS_RECEIVED>15</NB_TENDERS_RECEIVED>
+                        <NB_TENDERS_RECEIVED_SME>6</NB_TENDERS_RECEIVED_SME>
+                        <NB_TENDERS_RECEIVED_OTHER_EU>15</NB_TENDERS_RECEIVED_OTHER_EU>
+                        <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+                        <NB_TENDERS_RECEIVED_EMEANS>15</NB_TENDERS_RECEIVED_EMEANS>
+                    </TENDERS>
+                    <CONTRACTORS>
+                        <NO_AWARDED_TO_GROUP/>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Computas AS</OFFICIALNAME>
+                                <ADDRESS>Akersgata 35-39</ADDRESS>
+                                <TOWN>Oslo</TOWN>
+                                <POSTAL_CODE>0158</POSTAL_CODE>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="103000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME/>
+                        </CONTRACTOR>
+                    </CONTRACTORS>
+                    <VALUES>
+                        <VAL_ESTIMATED_TOTAL CURRENCY="NOK">80000000.00</VAL_ESTIMATED_TOTAL>
+                        <VAL_TOTAL CURRENCY="NOK">80000000.00</VAL_TOTAL>
+                    </VALUES>
+                </AWARDED_CONTRACT>
+            </AWARD_CONTRACT>
+            <AWARD_CONTRACT ITEM="23">
+                <TITLE>
+                    <P>Delkontrakt (kompetanseområde) 5 - Prosjektledelse, arkitektur og forretningsrådgivning</P>
+                </TITLE>
+                <AWARDED_CONTRACT>
+                    <DATE_CONCLUSION_CONTRACT>2023-10-27</DATE_CONCLUSION_CONTRACT>
+                    <TENDERS>
+                        <NB_TENDERS_RECEIVED>15</NB_TENDERS_RECEIVED>
+                        <NB_TENDERS_RECEIVED_SME>6</NB_TENDERS_RECEIVED_SME>
+                        <NB_TENDERS_RECEIVED_OTHER_EU>15</NB_TENDERS_RECEIVED_OTHER_EU>
+                        <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+                        <NB_TENDERS_RECEIVED_EMEANS>15</NB_TENDERS_RECEIVED_EMEANS>
+                    </TENDERS>
+                    <CONTRACTORS>
+                        <NO_AWARDED_TO_GROUP/>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Uniconsult AS</OFFICIALNAME>
+                                <ADDRESS>Dronning Mauds gate 3</ADDRESS>
+                                <TOWN>OSLO</TOWN>
+                                <POSTAL_CODE>0123</POSTAL_CODE>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="103000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <SME/>
+                        </CONTRACTOR>
+                    </CONTRACTORS>
+                    <VALUES>
+                        <VAL_ESTIMATED_TOTAL CURRENCY="NOK">80000000.00</VAL_ESTIMATED_TOTAL>
+                        <VAL_TOTAL CURRENCY="NOK">80000000.00</VAL_TOTAL>
+                    </VALUES>
+                </AWARDED_CONTRACT>
+            </AWARD_CONTRACT>
+            <AWARD_CONTRACT ITEM="24">
+                <TITLE>
+                    <P>Delkontrakt (kompetanseområde) 5 - Prosjektledelse, arkitektur og forretningsrådgivning</P>
+                </TITLE>
+                <AWARDED_CONTRACT>
+                    <DATE_CONCLUSION_CONTRACT>2023-10-31</DATE_CONCLUSION_CONTRACT>
+                    <TENDERS>
+                        <NB_TENDERS_RECEIVED>15</NB_TENDERS_RECEIVED>
+                        <NB_TENDERS_RECEIVED_SME>6</NB_TENDERS_RECEIVED_SME>
+                        <NB_TENDERS_RECEIVED_OTHER_EU>15</NB_TENDERS_RECEIVED_OTHER_EU>
+                        <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+                        <NB_TENDERS_RECEIVED_EMEANS>15</NB_TENDERS_RECEIVED_EMEANS>
+                    </TENDERS>
+                    <CONTRACTORS>
+                        <NO_AWARDED_TO_GROUP/>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Accenture AS</OFFICIALNAME>
+                                <ADDRESS>Rådhusgata 27</ADDRESS>
+                                <TOWN>OSLO</TOWN>
+                                <POSTAL_CODE>0158</POSTAL_CODE>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="103000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME/>
+                        </CONTRACTOR>
+                    </CONTRACTORS>
+                    <VALUES>
+                        <VAL_ESTIMATED_TOTAL CURRENCY="NOK">80000000.00</VAL_ESTIMATED_TOTAL>
+                        <VAL_TOTAL CURRENCY="NOK">80000000.00</VAL_TOTAL>
+                    </VALUES>
+                </AWARDED_CONTRACT>
+            </AWARD_CONTRACT>
+            <AWARD_CONTRACT ITEM="25">
+                <TITLE>
+                    <P>Delkontrakt (kompetanseområde) 5 - Prosjektledelse, arkitektur og forretningsrådgivning</P>
+                </TITLE>
+                <AWARDED_CONTRACT>
+                    <DATE_CONCLUSION_CONTRACT>2023-10-20</DATE_CONCLUSION_CONTRACT>
+                    <TENDERS>
+                        <NB_TENDERS_RECEIVED>15</NB_TENDERS_RECEIVED>
+                        <NB_TENDERS_RECEIVED_SME>6</NB_TENDERS_RECEIVED_SME>
+                        <NB_TENDERS_RECEIVED_OTHER_EU>15</NB_TENDERS_RECEIVED_OTHER_EU>
+                        <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+                        <NB_TENDERS_RECEIVED_EMEANS>15</NB_TENDERS_RECEIVED_EMEANS>
+                    </TENDERS>
+                    <CONTRACTORS>
+                        <NO_AWARDED_TO_GROUP/>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Capgemini Norge AS</OFFICIALNAME>
+                                <ADDRESS>Karenslyst allé 20</ADDRESS>
+                                <TOWN>OSLO</TOWN>
+                                <POSTAL_CODE>0278</POSTAL_CODE>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="103000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME/>
+                        </CONTRACTOR>
+                    </CONTRACTORS>
+                    <VALUES>
+                        <VAL_ESTIMATED_TOTAL CURRENCY="NOK">80000000.00</VAL_ESTIMATED_TOTAL>
+                        <VAL_TOTAL CURRENCY="NOK">80000000.00</VAL_TOTAL>
+                    </VALUES>
+                </AWARDED_CONTRACT>
+            </AWARD_CONTRACT>
+            <AWARD_CONTRACT ITEM="26">
+                <TITLE>
+                    <P>Delkontrakt (kompetanseområde) 5 - Prosjektledelse, arkitektur og forretningsrådgivning</P>
+                </TITLE>
+                <AWARDED_CONTRACT>
+                    <DATE_CONCLUSION_CONTRACT>2023-10-23</DATE_CONCLUSION_CONTRACT>
+                    <TENDERS>
+                        <NB_TENDERS_RECEIVED>15</NB_TENDERS_RECEIVED>
+                        <NB_TENDERS_RECEIVED_SME>6</NB_TENDERS_RECEIVED_SME>
+                        <NB_TENDERS_RECEIVED_OTHER_EU>15</NB_TENDERS_RECEIVED_OTHER_EU>
+                        <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+                        <NB_TENDERS_RECEIVED_EMEANS>15</NB_TENDERS_RECEIVED_EMEANS>
+                    </TENDERS>
+                    <CONTRACTORS>
+                        <NO_AWARDED_TO_GROUP/>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Gartner Norge AS</OFFICIALNAME>
+                                <ADDRESS>Karenslyst allé 57</ADDRESS>
+                                <TOWN>OSLO</TOWN>
+                                <POSTAL_CODE>0277</POSTAL_CODE>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="103000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME/>
+                        </CONTRACTOR>
+                    </CONTRACTORS>
+                    <VALUES>
+                        <VAL_ESTIMATED_TOTAL CURRENCY="NOK">80000000.00</VAL_ESTIMATED_TOTAL>
+                        <VAL_TOTAL CURRENCY="NOK">80000000.00</VAL_TOTAL>
+                    </VALUES>
+                </AWARDED_CONTRACT>
+            </AWARD_CONTRACT>
+            <AWARD_CONTRACT ITEM="27">
+                <TITLE>
+                    <P>Delkontrakt (kompetanseområde) 5 - Prosjektledelse, arkitektur og forretningsrådgivning</P>
+                </TITLE>
+                <AWARDED_CONTRACT>
+                    <DATE_CONCLUSION_CONTRACT>2023-10-26</DATE_CONCLUSION_CONTRACT>
+                    <TENDERS>
+                        <NB_TENDERS_RECEIVED>15</NB_TENDERS_RECEIVED>
+                        <NB_TENDERS_RECEIVED_SME>6</NB_TENDERS_RECEIVED_SME>
+                        <NB_TENDERS_RECEIVED_OTHER_EU>15</NB_TENDERS_RECEIVED_OTHER_EU>
+                        <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+                        <NB_TENDERS_RECEIVED_EMEANS>15</NB_TENDERS_RECEIVED_EMEANS>
+                    </TENDERS>
+                    <CONTRACTORS>
+                        <NO_AWARDED_TO_GROUP/>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>KPMG AS</OFFICIALNAME>
+                                <ADDRESS>Sørkedalsveien 6</ADDRESS>
+                                <TOWN>OSLO</TOWN>
+                                <POSTAL_CODE>0369</POSTAL_CODE>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="103000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME/>
+                        </CONTRACTOR>
+                    </CONTRACTORS>
+                    <VALUES>
+                        <VAL_ESTIMATED_TOTAL CURRENCY="NOK">80000000.00</VAL_ESTIMATED_TOTAL>
+                        <VAL_TOTAL CURRENCY="NOK">80000000.00</VAL_TOTAL>
+                    </VALUES>
+                </AWARDED_CONTRACT>
+            </AWARD_CONTRACT>
+            <AWARD_CONTRACT ITEM="28">
+                <TITLE>
+                    <P>Delkontrakt (kompetanseområde) 5 - Prosjektledelse, arkitektur og forretningsrådgivning</P>
+                </TITLE>
+                <AWARDED_CONTRACT>
+                    <DATE_CONCLUSION_CONTRACT>2023-10-24</DATE_CONCLUSION_CONTRACT>
+                    <TENDERS>
+                        <NB_TENDERS_RECEIVED>15</NB_TENDERS_RECEIVED>
+                        <NB_TENDERS_RECEIVED_SME>6</NB_TENDERS_RECEIVED_SME>
+                        <NB_TENDERS_RECEIVED_OTHER_EU>15</NB_TENDERS_RECEIVED_OTHER_EU>
+                        <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+                        <NB_TENDERS_RECEIVED_EMEANS>15</NB_TENDERS_RECEIVED_EMEANS>
+                    </TENDERS>
+                    <CONTRACTORS>
+                        <NO_AWARDED_TO_GROUP/>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Holte Consulting AS</OFFICIALNAME>
+                                <ADDRESS>Postboks 2610 Solli</ADDRESS>
+                                <TOWN>OSLO</TOWN>
+                                <POSTAL_CODE>0203</POSTAL_CODE>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="103000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <SME/>
+                        </CONTRACTOR>
+                    </CONTRACTORS>
+                    <VALUES>
+                        <VAL_ESTIMATED_TOTAL CURRENCY="NOK">80000000.00</VAL_ESTIMATED_TOTAL>
+                        <VAL_TOTAL CURRENCY="NOK">80000000.00</VAL_TOTAL>
+                    </VALUES>
+                </AWARDED_CONTRACT>
+            </AWARD_CONTRACT>
+            <AWARD_CONTRACT ITEM="29">
+                <TITLE>
+                    <P>Delkontrakt (kompetanseområde) 5 - Prosjektledelse, arkitektur og forretningsrådgivning</P>
+                </TITLE>
+                <AWARDED_CONTRACT>
+                    <DATE_CONCLUSION_CONTRACT>2023-10-23</DATE_CONCLUSION_CONTRACT>
+                    <TENDERS>
+                        <NB_TENDERS_RECEIVED>15</NB_TENDERS_RECEIVED>
+                        <NB_TENDERS_RECEIVED_SME>6</NB_TENDERS_RECEIVED_SME>
+                        <NB_TENDERS_RECEIVED_OTHER_EU>15</NB_TENDERS_RECEIVED_OTHER_EU>
+                        <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+                        <NB_TENDERS_RECEIVED_EMEANS>15</NB_TENDERS_RECEIVED_EMEANS>
+                    </TENDERS>
+                    <CONTRACTORS>
+                        <NO_AWARDED_TO_GROUP/>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>PricewaterhouseCoopers AS</OFFICIALNAME>
+                                <ADDRESS>Dronning Eufemias gate 71</ADDRESS>
+                                <TOWN>OSLO</TOWN>
+                                <POSTAL_CODE>0194</POSTAL_CODE>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="103000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME/>
+                        </CONTRACTOR>
+                    </CONTRACTORS>
+                    <VALUES>
+                        <VAL_ESTIMATED_TOTAL CURRENCY="NOK">80000000.00</VAL_ESTIMATED_TOTAL>
+                        <VAL_TOTAL CURRENCY="NOK">80000000.00</VAL_TOTAL>
+                    </VALUES>
+                </AWARDED_CONTRACT>
+            </AWARD_CONTRACT>
+            <AWARD_CONTRACT ITEM="30">
+                <TITLE>
+                    <P>Delkontrakt (kompetanseområde) 5 - Prosjektledelse, arkitektur og forretningsrådgivning</P>
+                </TITLE>
+                <AWARDED_CONTRACT>
+                    <DATE_CONCLUSION_CONTRACT>2023-10-20</DATE_CONCLUSION_CONTRACT>
+                    <TENDERS>
+                        <NB_TENDERS_RECEIVED>15</NB_TENDERS_RECEIVED>
+                        <NB_TENDERS_RECEIVED_SME>6</NB_TENDERS_RECEIVED_SME>
+                        <NB_TENDERS_RECEIVED_OTHER_EU>15</NB_TENDERS_RECEIVED_OTHER_EU>
+                        <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+                        <NB_TENDERS_RECEIVED_EMEANS>15</NB_TENDERS_RECEIVED_EMEANS>
+                    </TENDERS>
+                    <CONTRACTORS>
+                        <NO_AWARDED_TO_GROUP/>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Ework Group Norway AS</OFFICIALNAME>
+                                <ADDRESS>Akersgata 16</ADDRESS>
+                                <TOWN>OSLO</TOWN>
+                                <POSTAL_CODE>0158</POSTAL_CODE>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="103000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <SME/>
+                        </CONTRACTOR>
+                    </CONTRACTORS>
+                    <VALUES>
+                        <VAL_ESTIMATED_TOTAL CURRENCY="NOK">80000000.00</VAL_ESTIMATED_TOTAL>
+                        <VAL_TOTAL CURRENCY="NOK">80000000.00</VAL_TOTAL>
+                    </VALUES>
+                </AWARDED_CONTRACT>
+            </AWARD_CONTRACT>
+            <AWARD_CONTRACT ITEM="31">
+                <TITLE>
+                    <P>Delkontrakt (kompetanseområde) 5 - Prosjektledelse, arkitektur og forretningsrådgivning</P>
+                </TITLE>
+                <AWARDED_CONTRACT>
+                    <DATE_CONCLUSION_CONTRACT>2023-10-24</DATE_CONCLUSION_CONTRACT>
+                    <TENDERS>
+                        <NB_TENDERS_RECEIVED>15</NB_TENDERS_RECEIVED>
+                        <NB_TENDERS_RECEIVED_SME>6</NB_TENDERS_RECEIVED_SME>
+                        <NB_TENDERS_RECEIVED_OTHER_EU>15</NB_TENDERS_RECEIVED_OTHER_EU>
+                        <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+                        <NB_TENDERS_RECEIVED_EMEANS>15</NB_TENDERS_RECEIVED_EMEANS>
+                    </TENDERS>
+                    <CONTRACTORS>
+                        <NO_AWARDED_TO_GROUP/>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>The Boston Consulting Group Nordic AB</OFFICIALNAME>
+                                <ADDRESS>Henrik Ibsens gate 4</ADDRESS>
+                                <TOWN>Oslo</TOWN>
+                                <POSTAL_CODE>0256</POSTAL_CODE>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="103000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME/>
+                        </CONTRACTOR>
+                    </CONTRACTORS>
+                    <VALUES>
+                        <VAL_ESTIMATED_TOTAL CURRENCY="NOK">80000000.00</VAL_ESTIMATED_TOTAL>
+                        <VAL_TOTAL CURRENCY="NOK">80000000.00</VAL_TOTAL>
+                    </VALUES>
+                </AWARDED_CONTRACT>
+            </AWARD_CONTRACT>
+            <AWARD_CONTRACT ITEM="32">
+                <TITLE>
+                    <P>Delkontrakt (kompetanseområde) 5 - Prosjektledelse, arkitektur og forretningsrådgivning</P>
+                </TITLE>
+                <AWARDED_CONTRACT>
+                    <DATE_CONCLUSION_CONTRACT>2023-10-24</DATE_CONCLUSION_CONTRACT>
+                    <TENDERS>
+                        <NB_TENDERS_RECEIVED>15</NB_TENDERS_RECEIVED>
+                        <NB_TENDERS_RECEIVED_SME>6</NB_TENDERS_RECEIVED_SME>
+                        <NB_TENDERS_RECEIVED_OTHER_EU>15</NB_TENDERS_RECEIVED_OTHER_EU>
+                        <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+                        <NB_TENDERS_RECEIVED_EMEANS>15</NB_TENDERS_RECEIVED_EMEANS>
+                    </TENDERS>
+                    <CONTRACTORS>
+                        <NO_AWARDED_TO_GROUP/>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Promis AS</OFFICIALNAME>
+                                <ADDRESS>Rebel, Universitetsgata 2</ADDRESS>
+                                <TOWN>Oslo</TOWN>
+                                <POSTAL_CODE>0164</POSTAL_CODE>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="103000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <SME/>
+                        </CONTRACTOR>
+                    </CONTRACTORS>
+                    <VALUES>
+                        <VAL_ESTIMATED_TOTAL CURRENCY="NOK">80000000.00</VAL_ESTIMATED_TOTAL>
+                        <VAL_TOTAL CURRENCY="NOK">80000000.00</VAL_TOTAL>
+                    </VALUES>
+                </AWARDED_CONTRACT>
+            </AWARD_CONTRACT>
+            <AWARD_CONTRACT ITEM="33">
+                <TITLE>
+                    <P>Delkontrakt (kompetanseområde) 5 - Prosjektledelse, arkitektur og forretningsrådgivning</P>
+                </TITLE>
+                <AWARDED_CONTRACT>
+                    <DATE_CONCLUSION_CONTRACT>2023-10-19</DATE_CONCLUSION_CONTRACT>
+                    <TENDERS>
+                        <NB_TENDERS_RECEIVED>15</NB_TENDERS_RECEIVED>
+                        <NB_TENDERS_RECEIVED_SME>6</NB_TENDERS_RECEIVED_SME>
+                        <NB_TENDERS_RECEIVED_OTHER_EU>15</NB_TENDERS_RECEIVED_OTHER_EU>
+                        <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+                        <NB_TENDERS_RECEIVED_EMEANS>15</NB_TENDERS_RECEIVED_EMEANS>
+                    </TENDERS>
+                    <CONTRACTORS>
+                        <NO_AWARDED_TO_GROUP/>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Metier AS</OFFICIALNAME>
+                                <ADDRESS>Hovfaret 10</ADDRESS>
+                                <TOWN>OSLO</TOWN>
+                                <POSTAL_CODE>0275</POSTAL_CODE>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="103000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <SME/>
+                        </CONTRACTOR>
+                    </CONTRACTORS>
+                    <VALUES>
+                        <VAL_ESTIMATED_TOTAL CURRENCY="NOK">80000000.00</VAL_ESTIMATED_TOTAL>
+                        <VAL_TOTAL CURRENCY="NOK">80000000.00</VAL_TOTAL>
+                    </VALUES>
+                </AWARDED_CONTRACT>
+            </AWARD_CONTRACT>
+            <AWARD_CONTRACT ITEM="34">
+                <TITLE>
+                    <P>Delkontrakt (kompetanseområde) 6 - Strategi- og organisasjonsutvikling</P>
+                </TITLE>
+                <AWARDED_CONTRACT>
+                    <DATE_CONCLUSION_CONTRACT>2023-10-24</DATE_CONCLUSION_CONTRACT>
+                    <TENDERS>
+                        <NB_TENDERS_RECEIVED>11</NB_TENDERS_RECEIVED>
+                        <NB_TENDERS_RECEIVED_SME>3</NB_TENDERS_RECEIVED_SME>
+                        <NB_TENDERS_RECEIVED_OTHER_EU>11</NB_TENDERS_RECEIVED_OTHER_EU>
+                        <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+                        <NB_TENDERS_RECEIVED_EMEANS>11</NB_TENDERS_RECEIVED_EMEANS>
+                    </TENDERS>
+                    <CONTRACTORS>
+                        <NO_AWARDED_TO_GROUP/>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Sopra Steria AS</OFFICIALNAME>
+                                <ADDRESS>Biskop Gunnerus' gate 14 A</ADDRESS>
+                                <TOWN>OSLO</TOWN>
+                                <POSTAL_CODE>0185</POSTAL_CODE>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="103000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME/>
+                        </CONTRACTOR>
+                    </CONTRACTORS>
+                    <VALUES>
+                        <VAL_ESTIMATED_TOTAL CURRENCY="NOK">120000000.00</VAL_ESTIMATED_TOTAL>
+                        <VAL_TOTAL CURRENCY="NOK">120000000.00</VAL_TOTAL>
+                    </VALUES>
+                </AWARDED_CONTRACT>
+            </AWARD_CONTRACT>
+            <AWARD_CONTRACT ITEM="35">
+                <TITLE>
+                    <P>Delkontrakt (kompetanseområde) 6 - Strategi- og organisasjonsutvikling</P>
+                </TITLE>
+                <AWARDED_CONTRACT>
+                    <DATE_CONCLUSION_CONTRACT>2023-10-23</DATE_CONCLUSION_CONTRACT>
+                    <TENDERS>
+                        <NB_TENDERS_RECEIVED>11</NB_TENDERS_RECEIVED>
+                        <NB_TENDERS_RECEIVED_SME>3</NB_TENDERS_RECEIVED_SME>
+                        <NB_TENDERS_RECEIVED_OTHER_EU>11</NB_TENDERS_RECEIVED_OTHER_EU>
+                        <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+                        <NB_TENDERS_RECEIVED_EMEANS>11</NB_TENDERS_RECEIVED_EMEANS>
+                    </TENDERS>
+                    <CONTRACTORS>
+                        <NO_AWARDED_TO_GROUP/>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Deloitte AS</OFFICIALNAME>
+                                <ADDRESS>Dronning Eufemias gate 14</ADDRESS>
+                                <TOWN>OSLO</TOWN>
+                                <POSTAL_CODE>0103</POSTAL_CODE>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="103000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME/>
+                        </CONTRACTOR>
+                    </CONTRACTORS>
+                    <VALUES>
+                        <VAL_ESTIMATED_TOTAL CURRENCY="NOK">120000000.00</VAL_ESTIMATED_TOTAL>
+                        <VAL_TOTAL CURRENCY="NOK">120000000.00</VAL_TOTAL>
+                    </VALUES>
+                </AWARDED_CONTRACT>
+            </AWARD_CONTRACT>
+            <AWARD_CONTRACT ITEM="36">
+                <TITLE>
+                    <P>Delkontrakt (kompetanseområde) 6 - Strategi- og organisasjonsutvikling</P>
+                </TITLE>
+                <AWARDED_CONTRACT>
+                    <DATE_CONCLUSION_CONTRACT>2023-10-27</DATE_CONCLUSION_CONTRACT>
+                    <TENDERS>
+                        <NB_TENDERS_RECEIVED>11</NB_TENDERS_RECEIVED>
+                        <NB_TENDERS_RECEIVED_SME>3</NB_TENDERS_RECEIVED_SME>
+                        <NB_TENDERS_RECEIVED_OTHER_EU>11</NB_TENDERS_RECEIVED_OTHER_EU>
+                        <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+                        <NB_TENDERS_RECEIVED_EMEANS>11</NB_TENDERS_RECEIVED_EMEANS>
+                    </TENDERS>
+                    <CONTRACTORS>
+                        <NO_AWARDED_TO_GROUP/>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Ernst &amp; Young AS</OFFICIALNAME>
+                                <ADDRESS>Stortorvet 7</ADDRESS>
+                                <TOWN>OSLO</TOWN>
+                                <POSTAL_CODE>0155</POSTAL_CODE>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="103000"/>
+                                <URL>http://www.ey.com/</URL>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME/>
+                        </CONTRACTOR>
+                    </CONTRACTORS>
+                    <VALUES>
+                        <VAL_ESTIMATED_TOTAL CURRENCY="NOK">120000000.00</VAL_ESTIMATED_TOTAL>
+                        <VAL_TOTAL CURRENCY="NOK">120000000.00</VAL_TOTAL>
+                    </VALUES>
+                </AWARDED_CONTRACT>
+            </AWARD_CONTRACT>
+            <AWARD_CONTRACT ITEM="37">
+                <TITLE>
+                    <P>Delkontrakt (kompetanseområde) 6 - Strategi- og organisasjonsutvikling</P>
+                </TITLE>
+                <AWARDED_CONTRACT>
+                    <DATE_CONCLUSION_CONTRACT>2023-10-20</DATE_CONCLUSION_CONTRACT>
+                    <TENDERS>
+                        <NB_TENDERS_RECEIVED>11</NB_TENDERS_RECEIVED>
+                        <NB_TENDERS_RECEIVED_SME>3</NB_TENDERS_RECEIVED_SME>
+                        <NB_TENDERS_RECEIVED_OTHER_EU>11</NB_TENDERS_RECEIVED_OTHER_EU>
+                        <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+                        <NB_TENDERS_RECEIVED_EMEANS>11</NB_TENDERS_RECEIVED_EMEANS>
+                    </TENDERS>
+                    <CONTRACTORS>
+                        <NO_AWARDED_TO_GROUP/>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Capgemini Norge AS</OFFICIALNAME>
+                                <ADDRESS>Karenslyst allé 20</ADDRESS>
+                                <TOWN>OSLO</TOWN>
+                                <POSTAL_CODE>0278</POSTAL_CODE>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="103000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME/>
+                        </CONTRACTOR>
+                    </CONTRACTORS>
+                    <VALUES>
+                        <VAL_ESTIMATED_TOTAL CURRENCY="NOK">120000000.00</VAL_ESTIMATED_TOTAL>
+                        <VAL_TOTAL CURRENCY="NOK">120000000.00</VAL_TOTAL>
+                    </VALUES>
+                </AWARDED_CONTRACT>
+            </AWARD_CONTRACT>
+            <AWARD_CONTRACT ITEM="38">
+                <TITLE>
+                    <P>Delkontrakt (kompetanseområde) 6 - Strategi- og organisasjonsutvikling</P>
+                </TITLE>
+                <AWARDED_CONTRACT>
+                    <DATE_CONCLUSION_CONTRACT>2023-10-23</DATE_CONCLUSION_CONTRACT>
+                    <TENDERS>
+                        <NB_TENDERS_RECEIVED>11</NB_TENDERS_RECEIVED>
+                        <NB_TENDERS_RECEIVED_SME>3</NB_TENDERS_RECEIVED_SME>
+                        <NB_TENDERS_RECEIVED_OTHER_EU>11</NB_TENDERS_RECEIVED_OTHER_EU>
+                        <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+                        <NB_TENDERS_RECEIVED_EMEANS>11</NB_TENDERS_RECEIVED_EMEANS>
+                    </TENDERS>
+                    <CONTRACTORS>
+                        <NO_AWARDED_TO_GROUP/>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>PA Consulting Group AS</OFFICIALNAME>
+                                <ADDRESS>Verkstedveien 1</ADDRESS>
+                                <TOWN>OSLO</TOWN>
+                                <POSTAL_CODE>0212</POSTAL_CODE>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="103000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <SME/>
+                        </CONTRACTOR>
+                    </CONTRACTORS>
+                    <VALUES>
+                        <VAL_ESTIMATED_TOTAL CURRENCY="NOK">120000000.00</VAL_ESTIMATED_TOTAL>
+                        <VAL_TOTAL CURRENCY="NOK">120000000.00</VAL_TOTAL>
+                    </VALUES>
+                </AWARDED_CONTRACT>
+            </AWARD_CONTRACT>
+            <AWARD_CONTRACT ITEM="39">
+                <TITLE>
+                    <P>Delkontrakt (kompetanseområde) 6 - Strategi- og organisasjonsutvikling</P>
+                </TITLE>
+                <AWARDED_CONTRACT>
+                    <DATE_CONCLUSION_CONTRACT>2023-10-23</DATE_CONCLUSION_CONTRACT>
+                    <TENDERS>
+                        <NB_TENDERS_RECEIVED>11</NB_TENDERS_RECEIVED>
+                        <NB_TENDERS_RECEIVED_SME>3</NB_TENDERS_RECEIVED_SME>
+                        <NB_TENDERS_RECEIVED_OTHER_EU>11</NB_TENDERS_RECEIVED_OTHER_EU>
+                        <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+                        <NB_TENDERS_RECEIVED_EMEANS>11</NB_TENDERS_RECEIVED_EMEANS>
+                    </TENDERS>
+                    <CONTRACTORS>
+                        <NO_AWARDED_TO_GROUP/>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>PricewaterhouseCoopers AS</OFFICIALNAME>
+                                <ADDRESS>Dronning Eufemias gate 71</ADDRESS>
+                                <TOWN>OSLO</TOWN>
+                                <POSTAL_CODE>0194</POSTAL_CODE>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="103000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME/>
+                        </CONTRACTOR>
+                    </CONTRACTORS>
+                    <VALUES>
+                        <VAL_ESTIMATED_TOTAL CURRENCY="NOK">120000000.00</VAL_ESTIMATED_TOTAL>
+                        <VAL_TOTAL CURRENCY="NOK">120000000.00</VAL_TOTAL>
+                    </VALUES>
+                </AWARDED_CONTRACT>
+            </AWARD_CONTRACT>
+            <AWARD_CONTRACT ITEM="40">
+                <TITLE>
+                    <P>Delkontrakt (kompetanseområde) 6 - Strategi- og organisasjonsutvikling</P>
+                </TITLE>
+                <AWARDED_CONTRACT>
+                    <DATE_CONCLUSION_CONTRACT>2023-10-24</DATE_CONCLUSION_CONTRACT>
+                    <TENDERS>
+                        <NB_TENDERS_RECEIVED>11</NB_TENDERS_RECEIVED>
+                        <NB_TENDERS_RECEIVED_SME>3</NB_TENDERS_RECEIVED_SME>
+                        <NB_TENDERS_RECEIVED_OTHER_EU>11</NB_TENDERS_RECEIVED_OTHER_EU>
+                        <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+                        <NB_TENDERS_RECEIVED_EMEANS>11</NB_TENDERS_RECEIVED_EMEANS>
+                    </TENDERS>
+                    <CONTRACTORS>
+                        <NO_AWARDED_TO_GROUP/>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>The Boston Consulting Group Nordic AB</OFFICIALNAME>
+                                <ADDRESS>Henrik Ibsens gate 4</ADDRESS>
+                                <TOWN>Oslo</TOWN>
+                                <POSTAL_CODE>0256</POSTAL_CODE>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="103000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME/>
+                        </CONTRACTOR>
+                    </CONTRACTORS>
+                    <VALUES>
+                        <VAL_ESTIMATED_TOTAL CURRENCY="NOK">120000000.00</VAL_ESTIMATED_TOTAL>
+                        <VAL_TOTAL CURRENCY="NOK">120000000.00</VAL_TOTAL>
+                    </VALUES>
+                </AWARDED_CONTRACT>
+            </AWARD_CONTRACT>
+            <AWARD_CONTRACT ITEM="41">
+                <TITLE>
+                    <P>Delkontrakt (kompetanseområde) 7 - Sikkerhet</P>
+                </TITLE>
+                <AWARDED_CONTRACT>
+                    <DATE_CONCLUSION_CONTRACT>2023-10-24</DATE_CONCLUSION_CONTRACT>
+                    <TENDERS>
+                        <NB_TENDERS_RECEIVED>12</NB_TENDERS_RECEIVED>
+                        <NB_TENDERS_RECEIVED_SME>4</NB_TENDERS_RECEIVED_SME>
+                        <NB_TENDERS_RECEIVED_OTHER_EU>12</NB_TENDERS_RECEIVED_OTHER_EU>
+                        <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+                        <NB_TENDERS_RECEIVED_EMEANS>12</NB_TENDERS_RECEIVED_EMEANS>
+                    </TENDERS>
+                    <CONTRACTORS>
+                        <NO_AWARDED_TO_GROUP/>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Sopra Steria AS</OFFICIALNAME>
+                                <ADDRESS>Biskop Gunnerus' gate 14 A</ADDRESS>
+                                <TOWN>OSLO</TOWN>
+                                <POSTAL_CODE>0185</POSTAL_CODE>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="103000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME/>
+                        </CONTRACTOR>
+                    </CONTRACTORS>
+                    <VALUES>
+                        <VAL_ESTIMATED_TOTAL CURRENCY="NOK">48000000.00</VAL_ESTIMATED_TOTAL>
+                        <VAL_TOTAL CURRENCY="NOK">48000000.00</VAL_TOTAL>
+                    </VALUES>
+                </AWARDED_CONTRACT>
+            </AWARD_CONTRACT>
+            <AWARD_CONTRACT ITEM="42">
+                <TITLE>
+                    <P>Delkontrakt (kompetanseområde) 7 - Sikkerhet</P>
+                </TITLE>
+                <AWARDED_CONTRACT>
+                    <DATE_CONCLUSION_CONTRACT>2023-10-23</DATE_CONCLUSION_CONTRACT>
+                    <TENDERS>
+                        <NB_TENDERS_RECEIVED>12</NB_TENDERS_RECEIVED>
+                        <NB_TENDERS_RECEIVED_SME>4</NB_TENDERS_RECEIVED_SME>
+                        <NB_TENDERS_RECEIVED_OTHER_EU>12</NB_TENDERS_RECEIVED_OTHER_EU>
+                        <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+                        <NB_TENDERS_RECEIVED_EMEANS>12</NB_TENDERS_RECEIVED_EMEANS>
+                    </TENDERS>
+                    <CONTRACTORS>
+                        <NO_AWARDED_TO_GROUP/>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Tietoevry Connect Norway AS</OFFICIALNAME>
+                                <ADDRESS>Snarøyveien 30 A</ADDRESS>
+                                <TOWN>FORNEBU</TOWN>
+                                <POSTAL_CODE>1360</POSTAL_CODE>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="103000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <SME/>
+                        </CONTRACTOR>
+                    </CONTRACTORS>
+                    <VALUES>
+                        <VAL_ESTIMATED_TOTAL CURRENCY="NOK">48000000.00</VAL_ESTIMATED_TOTAL>
+                        <VAL_TOTAL CURRENCY="NOK">48000000.00</VAL_TOTAL>
+                    </VALUES>
+                </AWARDED_CONTRACT>
+            </AWARD_CONTRACT>
+            <AWARD_CONTRACT ITEM="43">
+                <TITLE>
+                    <P>Delkontrakt (kompetanseområde) 7 - Sikkerhet</P>
+                </TITLE>
+                <AWARDED_CONTRACT>
+                    <DATE_CONCLUSION_CONTRACT>2023-10-25</DATE_CONCLUSION_CONTRACT>
+                    <TENDERS>
+                        <NB_TENDERS_RECEIVED>12</NB_TENDERS_RECEIVED>
+                        <NB_TENDERS_RECEIVED_SME>4</NB_TENDERS_RECEIVED_SME>
+                        <NB_TENDERS_RECEIVED_OTHER_EU>12</NB_TENDERS_RECEIVED_OTHER_EU>
+                        <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+                        <NB_TENDERS_RECEIVED_EMEANS>12</NB_TENDERS_RECEIVED_EMEANS>
+                    </TENDERS>
+                    <CONTRACTORS>
+                        <NO_AWARDED_TO_GROUP/>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Mnemonic AS</OFFICIALNAME>
+                                <ADDRESS>Henrik Ibsens gate 100</ADDRESS>
+                                <TOWN>OSLO</TOWN>
+                                <POSTAL_CODE>0255</POSTAL_CODE>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="103000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME/>
+                        </CONTRACTOR>
+                    </CONTRACTORS>
+                    <VALUES>
+                        <VAL_ESTIMATED_TOTAL CURRENCY="NOK">48000000.00</VAL_ESTIMATED_TOTAL>
+                        <VAL_TOTAL CURRENCY="NOK">48000000.00</VAL_TOTAL>
+                    </VALUES>
+                </AWARDED_CONTRACT>
+            </AWARD_CONTRACT>
+            <AWARD_CONTRACT ITEM="44">
+                <TITLE>
+                    <P>Delkontrakt (kompetanseområde) 7 - Sikkerhet</P>
+                </TITLE>
+                <AWARDED_CONTRACT>
+                    <DATE_CONCLUSION_CONTRACT>2023-10-23</DATE_CONCLUSION_CONTRACT>
+                    <TENDERS>
+                        <NB_TENDERS_RECEIVED>12</NB_TENDERS_RECEIVED>
+                        <NB_TENDERS_RECEIVED_SME>3</NB_TENDERS_RECEIVED_SME>
+                        <NB_TENDERS_RECEIVED_OTHER_EU>12</NB_TENDERS_RECEIVED_OTHER_EU>
+                        <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+                        <NB_TENDERS_RECEIVED_EMEANS>12</NB_TENDERS_RECEIVED_EMEANS>
+                    </TENDERS>
+                    <CONTRACTORS>
+                        <NO_AWARDED_TO_GROUP/>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>PricewaterhouseCoopers AS</OFFICIALNAME>
+                                <ADDRESS>Dronning Eufemias gate 71</ADDRESS>
+                                <TOWN>OSLO</TOWN>
+                                <POSTAL_CODE>0194</POSTAL_CODE>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="103000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME/>
+                        </CONTRACTOR>
+                    </CONTRACTORS>
+                    <VALUES>
+                        <VAL_ESTIMATED_TOTAL CURRENCY="NOK">48000000.00</VAL_ESTIMATED_TOTAL>
+                        <VAL_TOTAL CURRENCY="NOK">48000000.00</VAL_TOTAL>
+                    </VALUES>
+                </AWARDED_CONTRACT>
+            </AWARD_CONTRACT>
+            <AWARD_CONTRACT ITEM="45">
+                <TITLE>
+                    <P>Delkontrakt (kompetanseområde) 7 - Sikkerhet</P>
+                </TITLE>
+                <AWARDED_CONTRACT>
+                    <DATE_CONCLUSION_CONTRACT>2023-10-24</DATE_CONCLUSION_CONTRACT>
+                    <TENDERS>
+                        <NB_TENDERS_RECEIVED>12</NB_TENDERS_RECEIVED>
+                        <NB_TENDERS_RECEIVED_SME>3</NB_TENDERS_RECEIVED_SME>
+                        <NB_TENDERS_RECEIVED_OTHER_EU>12</NB_TENDERS_RECEIVED_OTHER_EU>
+                        <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+                        <NB_TENDERS_RECEIVED_EMEANS>12</NB_TENDERS_RECEIVED_EMEANS>
+                    </TENDERS>
+                    <CONTRACTORS>
+                        <NO_AWARDED_TO_GROUP/>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>HRP AS</OFFICIALNAME>
+                                <ADDRESS>Dronning Eufemias gate 16</ADDRESS>
+                                <TOWN>OSLO</TOWN>
+                                <POSTAL_CODE>0191</POSTAL_CODE>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="103000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME/>
+                        </CONTRACTOR>
+                    </CONTRACTORS>
+                    <VALUES>
+                        <VAL_ESTIMATED_TOTAL CURRENCY="NOK">48000000.00</VAL_ESTIMATED_TOTAL>
+                        <VAL_TOTAL CURRENCY="NOK">48000000.00</VAL_TOTAL>
+                    </VALUES>
+                </AWARDED_CONTRACT>
+            </AWARD_CONTRACT>
+            <AWARD_CONTRACT ITEM="46">
+                <TITLE>
+                    <P>Delkontrakt (kompetanseområde) 7 - Sikkerhet</P>
+                </TITLE>
+                <AWARDED_CONTRACT>
+                    <DATE_CONCLUSION_CONTRACT>2023-10-23</DATE_CONCLUSION_CONTRACT>
+                    <TENDERS>
+                        <NB_TENDERS_RECEIVED>12</NB_TENDERS_RECEIVED>
+                        <NB_TENDERS_RECEIVED_SME>3</NB_TENDERS_RECEIVED_SME>
+                        <NB_TENDERS_RECEIVED_OTHER_EU>12</NB_TENDERS_RECEIVED_OTHER_EU>
+                        <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+                        <NB_TENDERS_RECEIVED_EMEANS>12</NB_TENDERS_RECEIVED_EMEANS>
+                    </TENDERS>
+                    <CONTRACTORS>
+                        <NO_AWARDED_TO_GROUP/>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Defendable AS</OFFICIALNAME>
+                                <ADDRESS>Munkedamsveien 45B</ADDRESS>
+                                <TOWN>OSLO</TOWN>
+                                <POSTAL_CODE>0250</POSTAL_CODE>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="103000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <SME/>
+                        </CONTRACTOR>
+                    </CONTRACTORS>
+                    <VALUES>
+                        <VAL_ESTIMATED_TOTAL CURRENCY="NOK">48000000.00</VAL_ESTIMATED_TOTAL>
+                        <VAL_TOTAL CURRENCY="NOK">48000000.00</VAL_TOTAL>
+                    </VALUES>
+                </AWARDED_CONTRACT>
+            </AWARD_CONTRACT>
+            <AWARD_CONTRACT ITEM="47">
+                <TITLE>
+                    <P>Delkontrakt (kompetanseområde) 8 - Juridiske tjenester</P>
+                </TITLE>
+                <AWARDED_CONTRACT>
+                    <DATE_CONCLUSION_CONTRACT>2023-10-24</DATE_CONCLUSION_CONTRACT>
+                    <TENDERS>
+                        <NB_TENDERS_RECEIVED>6</NB_TENDERS_RECEIVED>
+                        <NB_TENDERS_RECEIVED_SME>4</NB_TENDERS_RECEIVED_SME>
+                        <NB_TENDERS_RECEIVED_OTHER_EU>6</NB_TENDERS_RECEIVED_OTHER_EU>
+                        <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+                        <NB_TENDERS_RECEIVED_EMEANS>6</NB_TENDERS_RECEIVED_EMEANS>
+                    </TENDERS>
+                    <CONTRACTORS>
+                        <NO_AWARDED_TO_GROUP/>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Advokatfirmaet Wiersholm AS</OFFICIALNAME>
+                                <ADDRESS>Postboks 1400 Vika</ADDRESS>
+                                <TOWN>OSLO</TOWN>
+                                <POSTAL_CODE>0115</POSTAL_CODE>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="103000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME/>
+                        </CONTRACTOR>
+                    </CONTRACTORS>
+                    <VALUES>
+                        <VAL_ESTIMATED_TOTAL CURRENCY="NOK">80000000.00</VAL_ESTIMATED_TOTAL>
+                        <VAL_TOTAL CURRENCY="NOK">80000000.00</VAL_TOTAL>
+                    </VALUES>
+                </AWARDED_CONTRACT>
+            </AWARD_CONTRACT>
+            <AWARD_CONTRACT ITEM="48">
+                <TITLE>
+                    <P>Delkontrakt (kompetanseområde) 8 - Juridiske tjenester</P>
+                </TITLE>
+                <AWARDED_CONTRACT>
+                    <DATE_CONCLUSION_CONTRACT>2023-10-30</DATE_CONCLUSION_CONTRACT>
+                    <TENDERS>
+                        <NB_TENDERS_RECEIVED>6</NB_TENDERS_RECEIVED>
+                        <NB_TENDERS_RECEIVED_SME>4</NB_TENDERS_RECEIVED_SME>
+                        <NB_TENDERS_RECEIVED_OTHER_EU>6</NB_TENDERS_RECEIVED_OTHER_EU>
+                        <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+                        <NB_TENDERS_RECEIVED_EMEANS>6</NB_TENDERS_RECEIVED_EMEANS>
+                    </TENDERS>
+                    <CONTRACTORS>
+                        <NO_AWARDED_TO_GROUP/>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Deloitte Advokatfirma AS</OFFICIALNAME>
+                                <ADDRESS>Postboks 221 Sentrum</ADDRESS>
+                                <TOWN>OSLO</TOWN>
+                                <POSTAL_CODE>0103</POSTAL_CODE>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="103000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <SME/>
+                        </CONTRACTOR>
+                    </CONTRACTORS>
+                    <VALUES>
+                        <VAL_ESTIMATED_TOTAL CURRENCY="NOK">80000000.00</VAL_ESTIMATED_TOTAL>
+                        <VAL_TOTAL CURRENCY="NOK">80000000.00</VAL_TOTAL>
+                    </VALUES>
+                </AWARDED_CONTRACT>
+            </AWARD_CONTRACT>
+            <AWARD_CONTRACT ITEM="49">
+                <TITLE>
+                    <P>Delkontrakt (kompetanseområde) 8 - Juridiske tjenester</P>
+                </TITLE>
+                <AWARDED_CONTRACT>
+                    <DATE_CONCLUSION_CONTRACT>2023-10-23</DATE_CONCLUSION_CONTRACT>
+                    <TENDERS>
+                        <NB_TENDERS_RECEIVED>6</NB_TENDERS_RECEIVED>
+                        <NB_TENDERS_RECEIVED_SME>4</NB_TENDERS_RECEIVED_SME>
+                        <NB_TENDERS_RECEIVED_OTHER_EU>6</NB_TENDERS_RECEIVED_OTHER_EU>
+                        <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+                        <NB_TENDERS_RECEIVED_EMEANS>6</NB_TENDERS_RECEIVED_EMEANS>
+                    </TENDERS>
+                    <CONTRACTORS>
+                        <NO_AWARDED_TO_GROUP/>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>KPMG Law Advokatfirma AS</OFFICIALNAME>
+                                <ADDRESS>Sørkedalsveien 6</ADDRESS>
+                                <TOWN>Oslo</TOWN>
+                                <POSTAL_CODE>0369</POSTAL_CODE>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="103000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <SME/>
+                        </CONTRACTOR>
+                    </CONTRACTORS>
+                    <VALUES>
+                        <VAL_ESTIMATED_TOTAL CURRENCY="NOK">80000000.00</VAL_ESTIMATED_TOTAL>
+                        <VAL_TOTAL CURRENCY="NOK">80000000.00</VAL_TOTAL>
+                    </VALUES>
+                </AWARDED_CONTRACT>
+            </AWARD_CONTRACT>
+            <AWARD_CONTRACT ITEM="50">
+                <TITLE>
+                    <P>Delkontrakt (kompetanseområde) 8 - Juridiske tjenester</P>
+                </TITLE>
+                <AWARDED_CONTRACT>
+                    <DATE_CONCLUSION_CONTRACT>2023-10-24</DATE_CONCLUSION_CONTRACT>
+                    <TENDERS>
+                        <NB_TENDERS_RECEIVED>6</NB_TENDERS_RECEIVED>
+                        <NB_TENDERS_RECEIVED_SME>4</NB_TENDERS_RECEIVED_SME>
+                        <NB_TENDERS_RECEIVED_OTHER_EU>6</NB_TENDERS_RECEIVED_OTHER_EU>
+                        <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+                        <NB_TENDERS_RECEIVED_EMEANS>6</NB_TENDERS_RECEIVED_EMEANS>
+                    </TENDERS>
+                    <CONTRACTORS>
+                        <NO_AWARDED_TO_GROUP/>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Vaar Advokat AS</OFFICIALNAME>
+                                <ADDRESS>Stortingsgata 12</ADDRESS>
+                                <TOWN>OSLO</TOWN>
+                                <POSTAL_CODE>0161</POSTAL_CODE>
+                                <COUNTRY VALUE="NO"/>
+                                <LOCATION code="103000"/>
+                            </ADDRESS_CONTRACTOR>
+                            <SME/>
+                        </CONTRACTOR>
+                    </CONTRACTORS>
+                    <VALUES>
+                        <VAL_ESTIMATED_TOTAL CURRENCY="NOK">80000000.00</VAL_ESTIMATED_TOTAL>
+                        <VAL_TOTAL CURRENCY="NOK">80000000.00</VAL_TOTAL>
+                    </VALUES>
+                </AWARDED_CONTRACT>
+            </AWARD_CONTRACT>
+            <COMPLEMENTARY_INFO>
+                <ADDRESS_REVIEW_BODY>
+                    <OFFICIALNAME>Oslo Tingrett</OFFICIALNAME>
+                    <ADDRESS>Pb. 2106 Vika</ADDRESS>
+                    <TOWN>Oslo</TOWN>
+                    <POSTAL_CODE>0661</POSTAL_CODE>
+                    <COUNTRY VALUE="NO"/>
+                </ADDRESS_REVIEW_BODY>
+                <DATE_DISPATCH_NOTICE>2023-12-13</DATE_DISPATCH_NOTICE>
+            </COMPLEMENTARY_INFO>
+        </F03_2014>
+    </FORM_SECTION>
+    <DOFFIN_APPENDIX>
+        <REFERENCE_SECTION>
+            <REFERENCE_DOFFIN>2023-668270</REFERENCE_DOFFIN>
+        </REFERENCE_SECTION>
+        <PUBLISH_TO_TED/>
+    </DOFFIN_APPENDIX>
+</DOFFIN_ESENDERS>

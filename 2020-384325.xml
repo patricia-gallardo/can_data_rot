@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DOFFIN_ESENDERS VERSION="V3.0.2" xsi:noNamespaceSchemaLocation="DOFFIN_ESENDERS.xd"
+                 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <FORM_SECTION>
+        <F14_2014 LG="NB" CATEGORY="ORIGINAL" FORM="F14">
+            <LEGAL_BASIS VALUE="32014L0024"/>
+            <CONTRACTING_BODY>
+                <ADDRESS_CONTRACTING_BODY>
+                    <OFFICIALNAME>ARBEIDS- OG VELFERDSETATEN (NAV)</OFFICIALNAME>
+                    <NATIONALID>889640782</NATIONALID>
+                    <ADDRESS>Postboks 5, St Olavs plass</ADDRESS>
+                    <TOWN>OSLO</TOWN>
+                    <POSTAL_CODE>0130</POSTAL_CODE>
+                    <COUNTRY VALUE="NO"/>
+                    <CONTACT_POINT>Sølvi K. Tennstrand</CONTACT_POINT>
+                    <PHONE>+47 21071000</PHONE>
+                    <E_MAIL>solvi.kristiansen.tennstrand@nav.no</E_MAIL>
+                    <LOCATION code="000000"/>
+                    <URL_GENERAL>https://permalink.mercell.com/138057089.aspx</URL_GENERAL>
+                    <URL_BUYER>http://www.nav.no/</URL_BUYER>
+                </ADDRESS_CONTRACTING_BODY>
+            </CONTRACTING_BODY>
+            <OBJECT_CONTRACT>
+                <TITLE>
+                    <P>Rammeavtaler - Anskaffelse av partneravtaler tjenestekjøp (20/9888)</P>
+                </TITLE>
+                <REFERENCE_NUMBER>20/9888</REFERENCE_NUMBER>
+                <CPV_MAIN>
+                    <CPV_CODE CODE="72200000"/>
+                </CPV_MAIN>
+                <TYPE_CONTRACT CTYPE="SERVICES"/>
+                <SHORT_DESCR>
+                    <P>Formålet med anskaffelsen er å etablere parallelle partneravtaler (rammeavtaler) som skal bidra
+                        til å dekke kapasitet for produktutvikling og vedlikehold av løsninger.
+                    </P>
+                    <P>Vi vil etablere parallelle rammeavtaler med 3 - 4 leverandører, under forutsetning av at vi får
+                        et tilstrekkelig antall egnede tilbud.
+                    </P>
+                    <P>Klikk her https://permalink.mercell.com/138057089.aspx</P>
+                </SHORT_DESCR>
+            </OBJECT_CONTRACT>
+            <COMPLEMENTARY_INFO>
+                <DATE_DISPATCH_NOTICE>2020-09-29</DATE_DISPATCH_NOTICE>
+                <ORIGINAL_TED_ESENDER PUBLICATION="NO"/>
+                <ESENDER_LOGIN PUBLICATION="NO">REMOVED</ESENDER_LOGIN>
+                <NO_DOC_EXT PUBLICATION="NO">2020-315257</NO_DOC_EXT>
+                <NOTICE_NUMBER_OJ>2020/S 188-454995</NOTICE_NUMBER_OJ>
+                <DATE_DISPATCH_ORIGINAL PUBLICATION="NO">2020-09-23</DATE_DISPATCH_ORIGINAL>
+            </COMPLEMENTARY_INFO>
+            <CHANGES>
+                <MODIFICATION_ORIGINAL PUBLICATION="NO"/>
+                <CHANGE>
+                    <WHERE>
+                        <SECTION>IV.2.2</SECTION>
+                    </WHERE>
+                    <OLD_VALUE>
+                        <DATE>2020-10-29</DATE>
+                        <TIME>12:00</TIME>
+                    </OLD_VALUE>
+                    <NEW_VALUE>
+                        <DATE>2020-10-26</DATE>
+                        <TIME>12:00</TIME>
+                    </NEW_VALUE>
+                </CHANGE>
+            </CHANGES>
+        </F14_2014>
+    </FORM_SECTION>
+    <DOFFIN_APPENDIX>
+        <REFERENCE_SECTION>
+            <REFERENCE_DOFFIN>2020-315257</REFERENCE_DOFFIN>
+        </REFERENCE_SECTION>
+        <PUBLISH_TO_TED/>
+    </DOFFIN_APPENDIX>
+</DOFFIN_ESENDERS>
