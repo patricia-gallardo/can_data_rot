@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CONTRACT LG="NB" CATEGORY="ORIGINAL" FORM="2" VERSION="R2.0.7.D02">
+    <SENDER>
+        <LOGIN CLASS="B"/>
+        <USER/>
+        <NO_DOC_EXT>M212793</NO_DOC_EXT>
+    </SENDER>
+    <FD_CONTRACT CTYPE="SERVICES">
+        <CONTRACTING_AUTHORITY_INFORMATION>
+            <NAME_ADDRESSES_CONTACT_CONTRACT>
+                <CA_CE_CONCESSIONAIRE_PROFILE>
+                    <ORGANISATION>Arbeid og velferdsdirektoratet, NAV økonomistab, anskaffelser og forretningsjuridisk
+                        avdeling
+                    </ORGANISATION>
+                    <ADDRESS>Postboks 5, St Olavs plass,</ADDRESS>
+                    <TOWN>OSLO</TOWN>
+                    <POSTAL_CODE>0130</POSTAL_CODE>
+                    <COUNTRY VALUE="NO"/>
+                    <ATTENTION>Cecilie Trehjørningen</ATTENTION>
+                    <PHONE>21 07 00 00</PHONE>
+                    <FAX>21 07 10 10</FAX>
+                </CA_CE_CONCESSIONAIRE_PROFILE>
+                <INTERNET_ADDRESSES_CONTRACT>
+                    <URL_GENERAL>www.nav.no</URL_GENERAL>
+                    <URL_BUYER>http://www.doffin.no/search/Search_AuthProfile.aspx?ID=AA0005</URL_BUYER>
+                </INTERNET_ADDRESSES_CONTRACT>
+                <FURTHER_INFORMATION>
+                    <IDEM/>
+                </FURTHER_INFORMATION>
+                <SPECIFICATIONS_AND_ADDITIONAL_DOCUMENTS>
+                    <IDEM/>
+                </SPECIFICATIONS_AND_ADDITIONAL_DOCUMENTS>
+                <TENDERS_REQUESTS_APPLICATIONS_MUST_BE_SENT_TO>
+                    <IDEM/>
+                </TENDERS_REQUESTS_APPLICATIONS_MUST_BE_SENT_TO>
+            </NAME_ADDRESSES_CONTACT_CONTRACT>
+            <TYPE_AND_ACTIVITIES_AND_PURCHASING_ON_BEHALF>
+                <TYPE_AND_ACTIVITIES>
+                    <TYPE_OF_CONTRACTING_AUTHORITY VALUE="MINISTRY"/>
+                    <TYPE_OF_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+                </TYPE_AND_ACTIVITIES>
+            </TYPE_AND_ACTIVITIES_AND_PURCHASING_ON_BEHALF>
+        </CONTRACTING_AUTHORITY_INFORMATION>
+        <OBJECT_CONTRACT_INFORMATION>
+            <DESCRIPTION_CONTRACT_INFORMATION>
+                <TITLE_CONTRACT>Konsulenttjenester ifm etablering og innføring av IBM Rational System Architect
+                </TITLE_CONTRACT>
+                <TYPE_CONTRACT_LOCATION>
+                    <TYPE_CONTRACT VALUE="SERVICES"/>
+                    <SERVICE_CATEGORY VALUE="7"/>
+                </TYPE_CONTRACT_LOCATION>
+                <LOCATION_NUTS>
+                    <LOCATION>Oslo</LOCATION>
+                </LOCATION_NUTS>
+                <NOTICE_INVOLVES VALUE="PUBLIC_CONTRACT"/>
+                <SHORT_CONTRACT_DESCRIPTION>
+                    <P>Det er i løpet av våren 2010 gjennomført første del av et forprosjekt for Modernisering av IKT i
+                        NAV. I juni ble det overlevert en konseptutredning for moderniseringen til kvalitetssikring
+                        etter finansdepartementet retningslinjer (KS1). Høsten 2010 starter arbeidet med et
+                        styringsdokument og underlaget for kvalitetssikring av dette (KS2).
+                    </P>
+                    <P>Hovedprosjektet starter etter planen i 2011 og vil resultere i en omfattende fornyelse av IKT i
+                        NAV. Det betyr at eldre systemløsninger (eks Infotrygd) blir erstattet av nye løsninger som
+                        dekker NAV sine behov i årene som kommer.
+                    </P>
+                    <P>Denne forespørselen omfatter bistand på kundesiden i forbindelse med etablering og innføring av
+                        IBM Rational System Architect. Konsulenten skal bidra til etablering og innføring av System
+                        Architect i prosjektet og vil delta i modelleringsarbeidet. Det er behov for kun én konsulent.
+                        Det er ikke ønskelig at oppdraget løses av en gruppe konsulenter.
+                    </P>
+                    <P>De konsulenter og konsulentfirmaer som engasjeres i forprosjektet må være forberedt på at slikt
+                        oppdrag kan diskvalifisere i forhold til å senere levere tilbud på prosjekter i
+                        gjennomføringsfasen.
+                    </P>
+                    <P>
+                        <P/>
+                        <P/>
+                        <P>Merk: For å melde din interesse i denne kunngjøringen og motta tilleggsinformasjon vennligst
+                            besøk Doffin nettsiden http://www.doffin.no/Search/Search_Switch.aspx?ID=212793.
+                        </P>
+                    </P>
+                </SHORT_CONTRACT_DESCRIPTION>
+                <CPV>
+                    <CPV_MAIN>
+                        <CPV_CODE CODE="72000000"/>
+                    </CPV_MAIN>
+                </CPV>
+                <F02_DIVISION_INTO_LOTS>
+                    <DIV_INTO_LOT_NO/>
+                </F02_DIVISION_INTO_LOTS>
+            </DESCRIPTION_CONTRACT_INFORMATION>
+            <QUANTITY_SCOPE>
+                <NATURE_QUANTITY_SCOPE>
+                    <COSTS_RANGE_AND_CURRENCY CURRENCY="NOK">
+                        <RANGE_VALUE_COST>
+                            <LOW_VALUE>300000</LOW_VALUE>
+                            <HIGH_VALUE>495000</HIGH_VALUE>
+                        </RANGE_VALUE_COST>
+                    </COSTS_RANGE_AND_CURRENCY>
+                </NATURE_QUANTITY_SCOPE>
+                <OPTIONS>
+                    <OPTION_DESCRIPTION>
+                        <P>Opsjon på økning av omfang inntil kr 500 000 eks mva</P>
+                    </OPTION_DESCRIPTION>
+                </OPTIONS>
+            </QUANTITY_SCOPE>
+        </OBJECT_CONTRACT_INFORMATION>
+        <LEFTI_CONTRACT>
+            <CONTRACT_RELATING_CONDITIONS>
+                <NO_EXISTENCE_OTHER_PARTICULAR_CONDITIONS/>
+            </CONTRACT_RELATING_CONDITIONS>
+            <F02_CONDITIONS_FOR_PARTICIPATION>
+                <ECONOMIC_OPERATORS_PERSONAL_SITUATION>
+                    <P>
+                        (1) Krav til å fremlegge skatteattest for merverdiavgift (Nasjonale krav)
+                    </P>
+                    <P>
+                        (2) Krav til å fremlegge skatteattest for skatt (Nasjonale krav)
+                    </P>
+                    <P>
+                        (3) Krav til å fremlegge egenerklæring i samsvar med forskriftens vedlegg 2 om HMS (Nasjonale
+                        krav)
+                    </P>
+                </ECONOMIC_OPERATORS_PERSONAL_SITUATION>
+            </F02_CONDITIONS_FOR_PARTICIPATION>
+        </LEFTI_CONTRACT>
+        <PROCEDURE_DEFINITION_CONTRACT_NOTICE>
+            <TYPE_OF_PROCEDURE>
+                <TYPE_OF_PROCEDURE_DETAIL_FOR_CONTRACT_NOTICE>
+                    <PT_OPEN/>
+                </TYPE_OF_PROCEDURE_DETAIL_FOR_CONTRACT_NOTICE>
+                <MAXIMUM_NUMBER_INVITED/>
+            </TYPE_OF_PROCEDURE>
+            <AWARD_CRITERIA_CONTRACT_NOTICE_INFORMATION>
+                <AWARD_CRITERIA_DETAIL>
+                    <MOST_ECONOMICALLY_ADVANTAGEOUS_TENDER>
+                        <CRITERIA_STATED_IN_OTHER_DOCUMENT/>
+                    </MOST_ECONOMICALLY_ADVANTAGEOUS_TENDER>
+                </AWARD_CRITERIA_DETAIL>
+                <IS_ELECTRONIC_AUCTION_USABLE>
+                    <NO_USE_ELECTRONIC_AUCTION/>
+                </IS_ELECTRONIC_AUCTION_USABLE>
+            </AWARD_CRITERIA_CONTRACT_NOTICE_INFORMATION>
+            <ADMINISTRATIVE_INFORMATION_CONTRACT_NOTICE>
+                <CONDITIONS_OBTAINING_SPECIFICATIONS>
+                    <TIME_LIMIT>
+                        <DAY>03</DAY>
+                        <MONTH>09</MONTH>
+                        <YEAR>2010</YEAR>
+                    </TIME_LIMIT>
+                </CONDITIONS_OBTAINING_SPECIFICATIONS>
+                <RECEIPT_LIMIT_DATE>
+                    <DAY>06</DAY>
+                    <MONTH>09</MONTH>
+                    <YEAR>2010</YEAR>
+                    <TIME>12:00</TIME>
+                </RECEIPT_LIMIT_DATE>
+                <LANGUAGE>
+                    <LANGUAGE_EC VALUE="DA"/>
+                    <LANGUAGE_EC VALUE="SV"/>
+                    <LANGUAGE_OTHER>Norsk</LANGUAGE_OTHER>
+                </LANGUAGE>
+                <CONDITIONS_FOR_OPENING_TENDERS>
+                    <DATE_TIME>
+                        <DAY>06</DAY>
+                        <MONTH>09</MONTH>
+                        <YEAR>2010</YEAR>
+                        <TIME>13:00</TIME>
+                    </DATE_TIME>
+                    <PLACE_OPENING>Sannergt 2, Oslo</PLACE_OPENING>
+                </CONDITIONS_FOR_OPENING_TENDERS>
+            </ADMINISTRATIVE_INFORMATION_CONTRACT_NOTICE>
+        </PROCEDURE_DEFINITION_CONTRACT_NOTICE>
+        <COMPLEMENTARY_INFORMATION_CONTRACT_NOTICE>
+            <ADDITIONAL_INFORMATION>
+                <P>
+                    (NT Ref:212793)
+                </P>
+            </ADDITIONAL_INFORMATION>
+            <NOTICE_DISPATCH_DATE>
+                <DAY>25</DAY>
+                <MONTH>08</MONTH>
+                <YEAR>2010</YEAR>
+            </NOTICE_DISPATCH_DATE>
+        </COMPLEMENTARY_INFORMATION_CONTRACT_NOTICE>
+    </FD_CONTRACT>
+</CONTRACT>

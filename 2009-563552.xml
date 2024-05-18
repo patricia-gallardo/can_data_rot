@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CONTRACT LG="NB" CATEGORY="ORIGINAL" FORM="2" VERSION="R2.0.6">
+    <SENDER>
+        <LOGIN CLASS="B"/>
+        <USER/>
+        <NO_DOC_EXT>M192305</NO_DOC_EXT>
+    </SENDER>
+    <FD_CONTRACT CTYPE="SERVICES">
+        <CONTRACTING_AUTHORITY_INFORMATION>
+            <NAME_ADDRESSES_CONTACT_CONTRACT>
+                <CA_CE_CONCESSIONAIRE_PROFILE>
+                    <ORGANISATION>NAV Drift og utvikling</ORGANISATION>
+                    <ADDRESS>Sannergata 2, Postboks 5200 Nydalen</ADDRESS>
+                    <TOWN>OSLO</TOWN>
+                    <POSTAL_CODE>0426</POSTAL_CODE>
+                    <COUNTRY VALUE="NO"/>
+                    <CONTACT_POINT>Anskaffelse og økonomi</CONTACT_POINT>
+                    <ATTENTION>Gunnar Helge Wiik</ATTENTION>
+                    <PHONE>21 07 10 00</PHONE>
+                    <E_MAIL>gunnar.helge.wiik@nav.no</E_MAIL>
+                    <FAX>21 07 10 10</FAX>
+                </CA_CE_CONCESSIONAIRE_PROFILE>
+                <INTERNET_ADDRESSES_CONTRACT>
+                    <URL_GENERAL>www.nav.no</URL_GENERAL>
+                    <URL_BUYER>http://www.doffin.no/search/Search_AuthProfile.aspx?ID=AA0005</URL_BUYER>
+                </INTERNET_ADDRESSES_CONTRACT>
+                <FURTHER_INFORMATION>
+                    <IDEM/>
+                </FURTHER_INFORMATION>
+                <SPECIFICATIONS_AND_ADDITIONAL_DOCUMENTS>
+                    <IDEM/>
+                </SPECIFICATIONS_AND_ADDITIONAL_DOCUMENTS>
+                <TENDERS_REQUESTS_APPLICATIONS_MUST_BE_SENT_TO>
+                    <IDEM/>
+                </TENDERS_REQUESTS_APPLICATIONS_MUST_BE_SENT_TO>
+            </NAME_ADDRESSES_CONTACT_CONTRACT>
+            <TYPE_AND_ACTIVITIES_AND_PURCHASING_ON_BEHALF>
+                <TYPE_AND_ACTIVITIES>
+                    <TYPE_OF_CONTRACTING_AUTHORITY VALUE="NATIONAL_AGENCY"/>
+                    <TYPE_OF_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+                </TYPE_AND_ACTIVITIES>
+            </TYPE_AND_ACTIVITIES_AND_PURCHASING_ON_BEHALF>
+        </CONTRACTING_AUTHORITY_INFORMATION>
+        <OBJECT_CONTRACT_INFORMATION>
+            <DESCRIPTION_CONTRACT_INFORMATION>
+                <TITLE_CONTRACT>Anskaffelse av vedlikeholds- og videreutviklingsavtale for Økonomisystemer V2
+                </TITLE_CONTRACT>
+                <TYPE_CONTRACT_LOCATION>
+                    <TYPE_CONTRACT VALUE="SERVICES"/>
+                    <SERVICE_CATEGORY VALUE="7"/>
+                </TYPE_CONTRACT_LOCATION>
+                <LOCATION_NUTS>
+                    <LOCATION>Oslo</LOCATION>
+                </LOCATION_NUTS>
+                <NOTICE_INVOLVES VALUE="ESTABLISHMENT_FRAMEWORK_AGREEMENT"/>
+                <F02_FRAMEWORK>
+                    <SINGLE_OPERATOR/>
+                    <DURATION_FRAMEWORK_YEAR>4</DURATION_FRAMEWORK_YEAR>
+                    <JUSTIFICATION>
+                        <P>Hvis relevant, begrunnelse for bruk av rammeavtale som varer lengre enn fire år:</P>
+                        <P>For en ny forvaltningsleverandør er det en betydelig investering å bygge nødvendig
+                            funksjonell og teknsik kompetanse som er spesialisert for løsningen som skal forvaltes.
+                            Omfanget vil normalt være på flere årsverk og strekke seg over en kalenderperiode på opp til
+                            2 år. I tillegg må en ny forvaltningsleverandør etablere rutiner og prosesser i henhold til
+                            kontraktskravene, og kundens bruk av rammeverk og verktøy må forstås og forankres. Hvis
+                            disse kostnadene ikke kan fordeles på en tilstrekkelig lang kontraktsperiode, vil det bli
+                            vanskelig for andre enn den etablerte leverandøren å vinne en forvaltningskontrakt.
+                        </P>
+                        <P>For å sikre tilgang på kompetanse for å få inn en ny forvaltningsleverandør, sikrer NAV
+                            tilgang til kompetanse for bistand til den nye forvaltningsleverandøren i en periode på over
+                            2 år. Slike overgangsavtaler er også med på å sikre en reell konkuranse for
+                            forvaltningskontrakten.
+                        </P>
+                        <P>Det er altså svært omfattende kontrakt, og leverandøren må gjøre betydelige investeringer,
+                            som kan sies å ha en nedskrivningstid over hele kontraktsperioden på 4+1+1 år, for å kunne
+                            utføre kontraktene. For å sikre konkurransen velges kontraktsperiode på 4+1+1 år
+                        </P>
+                    </JUSTIFICATION>
+                    <TOTAL_ESTIMATED>
+                        <COSTS_RANGE_AND_CURRENCY CURRENCY="NOK">
+                            <RANGE_VALUE_COST>
+                                <LOW_VALUE>150000000</LOW_VALUE>
+                                <HIGH_VALUE>210000000</HIGH_VALUE>
+                            </RANGE_VALUE_COST>
+                        </COSTS_RANGE_AND_CURRENCY>
+                    </TOTAL_ESTIMATED>
+                </F02_FRAMEWORK>
+                <SHORT_CONTRACT_DESCRIPTION>
+                    <P>Målet med anskaffelsen er å inngå vedlikeholdsavtale og rammeavtale for videreutvikling med en
+                        leverandør på tjenester knyttet til Økonomisystemer.
+                    </P>
+                    <P>NAV har planlagt å stille krav i konkurransegrunnlaget til arbeidssted. NAV mener det er relevant
+                        å gi føringer på dette området allerede i forbindelse med kvalifikasjonsgrunnlaget.
+                        Utgangspunktet for disse føringene er å ha et tett samarbeid mellom kunde og leverandør.
+                    </P>
+                    <P>- Overfor kunde skal det brukes norsk språk. Dette gjelder både rapporter, møter, dokumentasjon,
+                        brukerstøtte og tilleggstjenester som skal leveres til Kunden.
+                    </P>
+                    <P>- Systemdokumentasjon kan etter nærmere avtale utarbeides på engelsk.</P>
+                    <P>- Vedlikeholdstjenestene skal i utgangspunktet gjennomføres i Kundens lokaler</P>
+                    <P>- Videreutvikling skal i utgangspunktet utføres i Kundens lokaler om ikke annet er avtalt.</P>
+                    <P>Den årlige verdien av avtalen vil variere, men omfanget antas normalt å ligge innenfor 25 til 35
+                        mill. kr. pr. år.
+                    </P>
+                    <P>Avtalen skal ha en varighet på 4 år fra signering. Oppdragsgiver (Kunden) har opsjon på
+                        forlengelse av avtalen i ytterligere 1 + 1 år.
+                    </P>
+                    <P>
+                        <P/>
+                        <P/>
+                        <P>Merk: For å melde din interesse i denne kunngjøringen og motta tilleggsinformasjon vennligst
+                            besøk Doffin nettsiden http://www.doffin.no/Search/Search_Switch.aspx?ID=192305.
+                        </P>
+                    </P>
+                </SHORT_CONTRACT_DESCRIPTION>
+                <CPV>
+                    <CPV_MAIN>
+                        <CPV_CODE CODE="72230000"/>
+                    </CPV_MAIN>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72267100"/>
+                    </CPV_ADDITIONAL>
+                </CPV>
+                <CONTRACT_COVERED_GPA VALUE="YES"/>
+                <F02_DIVISION_INTO_LOTS>
+                    <DIV_INTO_LOT_NO/>
+                </F02_DIVISION_INTO_LOTS>
+            </DESCRIPTION_CONTRACT_INFORMATION>
+            <QUANTITY_SCOPE>
+                <NATURE_QUANTITY_SCOPE>
+                    <TOTAL_QUANTITY_OR_SCOPE>
+                        <P>Den årlige verdien av avtalen vil variere, men omfanget antas normalt å ligge innenfor 25 til
+                            35 mill. kr. pr. år
+                        </P>
+                    </TOTAL_QUANTITY_OR_SCOPE>
+                    <COSTS_RANGE_AND_CURRENCY CURRENCY="NOK">
+                        <RANGE_VALUE_COST>
+                            <LOW_VALUE>150000000</LOW_VALUE>
+                            <HIGH_VALUE>210000000</HIGH_VALUE>
+                        </RANGE_VALUE_COST>
+                    </COSTS_RANGE_AND_CURRENCY>
+                </NATURE_QUANTITY_SCOPE>
+                <OPTIONS>
+                    <OPTION_DESCRIPTION>
+                        <P>Avtalen skal ha en varighet på 4 år fra signering. Oppdragsgiver (Kunden) har opsjon på
+                            forlengelse av avtalen i ytterligere 1 + 1 år.
+                        </P>
+                    </OPTION_DESCRIPTION>
+                    <NUMBER_POSSIBLE_RENEWALS>2</NUMBER_POSSIBLE_RENEWALS>
+                </OPTIONS>
+            </QUANTITY_SCOPE>
+        </OBJECT_CONTRACT_INFORMATION>
+        <LEFTI_CONTRACT>
+            <CONTRACT_RELATING_CONDITIONS>
+                <NO_EXISTENCE_OTHER_PARTICULAR_CONDITIONS/>
+            </CONTRACT_RELATING_CONDITIONS>
+            <F02_CONDITIONS_FOR_PARTICIPATION>
+                <ECONOMIC_OPERATORS_PERSONAL_SITUATION>
+                    <P>
+                        (1) Krav til å fremlegge skatteattest for merverdiavgift (Nasjonale krav)
+                    </P>
+                    <P>
+                        (2) Krav til å fremlegge skatteattest for skatt (Nasjonale krav)
+                    </P>
+                    <P>
+                        (3) Krav til å fremlegge egenerklæring i samsvar med forskriftens vedlegg 2 om HMS (Nasjonale
+                        krav)
+                    </P>
+                    <P>
+                        (4) Annet (vennligst presiser dokumentasjonskrav under):
+                    </P>
+                    <P>Attest for registrering i foretaksregister som foreskrevet i lovgivningen i den stat der
+                        leverandøren er registrert, for eksempel firmaattest fra Brønnøysundregisteret.
+                    </P>
+                </ECONOMIC_OPERATORS_PERSONAL_SITUATION>
+                <F02_ECONOMIC_FINANCIAL_CAPACITY>
+                    <EAF_CAPACITY_INFORMATION>
+                        <P>
+                            (1) Erklæring om foretakets omsetning de siste årene med relevans til denne kontrakten
+                        </P>
+                        <P>
+                            (2) Annet (vennligst presiser dokumentasjonskrav under):
+                        </P>
+                        <P>• Foretakets siste årsberetning til Brønnøysundregisteret med revisorberetning, og nyere
+                            opplysninger som har relevans til foretakets regnskapstall
+                        </P>
+                        <P>• Foretakets siste årsregnskap med noter</P>
+                    </EAF_CAPACITY_INFORMATION>
+                    <EAF_CAPACITY_MIN_LEVEL>
+                        <P>Det kreves at leverandør har god økonomisk soliditet</P>
+                    </EAF_CAPACITY_MIN_LEVEL>
+                </F02_ECONOMIC_FINANCIAL_CAPACITY>
+                <TECHNICAL_CAPACITY_LEFTI>
+                    <T_CAPACITY_INFORMATION>
+                        <P>
+                            (1) Annet (vennligst presiser dokumentasjonskrav under):
+                        </P>
+                        <P>• Erfaring</P>
+                        <P>- Beskrivelse av leverandørens 3 viktigste relevante leveranser de siste 3 årene, inkludert
+                            deres verdi, rolle/ansvarsområde, teknologi, tidspunkt, virksomhetsområde/virksomhetsprosess
+                            og mottaker. Vi ber om at leverandøren inkluderer en eller flere referanser som inkluderer
+                            bruk av smidig metodikk. Navn og kontaktinformasjon til kontaktperson hos referansekunden
+                            skal være inkludert slik at NAV kan ta kontakt ved behov.
+                        </P>
+                        <P>• Gjennomføringsevne</P>
+                        <P>- Beskrivelse av leverandørens tekniske kapasitet og faglige kvalifikasjoner. Vedrørende
+                            kapasitet ber vi om en beskrivelse av relevante enheter hos leverandøren. Vedrørende
+                            kvalifikasjoner ber vi om en kortfattet oversikt over generell relevant kompetanse hos
+                            leverandøren. Det skal ikke angis hvilke personer som vil tilbys og det skal ikke leveres
+                            inn CV’er.
+                        </P>
+                        <P>- Bruk av underleverandører jf. kvalifikasjonsgrunnlagets pkt 3.5.</P>
+                        <P>• Metoder for kvalitetssikring</P>
+                        <P>- En beskrivelse av metoder og prosesser som er relevante for å sikre kvaliteten. Emnene i
+                            kvalifikasjonsgrunnlagets punkt 2.2.3.2, 2.3.3.2, 2.4.3.2, 2.5.3.2 og 2.6 bør være dekket av
+                            beskrivelsen.
+                        </P>
+                        <P>- Redegjørelse vedrørende foretakets kvalitetssikringssystem/- styringssystem, samt eventuelt
+                            attester utstedt av uavhengige organer.
+                        </P>
+                    </T_CAPACITY_INFORMATION>
+                    <T_CAPACITY_MIN_LEVEL>
+                        <P>• Det kreves at leverandøren har relevant erfaring fra lignende oppdrag</P>
+                        <P>• Det kreves at leverandøren har god gjennomføringsevne</P>
+                        <P>• Det kreves velprøvde og egnede metoder for kvalitetssikring</P>
+                    </T_CAPACITY_MIN_LEVEL>
+                </TECHNICAL_CAPACITY_LEFTI>
+            </F02_CONDITIONS_FOR_PARTICIPATION>
+        </LEFTI_CONTRACT>
+        <PROCEDURE_DEFINITION_CONTRACT_NOTICE>
+            <TYPE_OF_PROCEDURE>
+                <TYPE_OF_PROCEDURE_DETAIL_FOR_CONTRACT_NOTICE>
+                    <PT_NEGOTIATED_CHOICE>
+                        <IS_CANDIDATE_SELECTED VALUE="NO"/>
+                    </PT_NEGOTIATED_CHOICE>
+                </TYPE_OF_PROCEDURE_DETAIL_FOR_CONTRACT_NOTICE>
+                <MAXIMUM_NUMBER_INVITED>
+                    <OPE_MINIMUM_NUMBER>3</OPE_MINIMUM_NUMBER>
+                    <OPE_MAXIMUM_NUMBER>5</OPE_MAXIMUM_NUMBER>
+                    <OPE_OBJECTIVE_CRITERIA>
+                        <P>Utvelgelsen gjøres blant de leverandørene som tilfredsstiller kravene for deltakelse i
+                            konkurransen. Utvelgelse vil bli basert på grad av oppfyllelse av nedennevnte
+                            kvalifikasjonskrav, jf kvalifikasjonsgrunnlag punkt 3.4
+                        </P>
+                        <P>Følgende vekttall gjøres gjeldende ved vurderingen:</P>
+                        <P>Kvalifikasjonskrav Vekt</P>
+                        <P>Erfaring 35 %</P>
+                        <P>Gjennomføringsevne (Oppdragsgiver vil kun evaluere kapasitet og ikke
+                            kompetanse/kvalifikasjoner i forhold til utvelgelse av leverandører) 35 %
+                        </P>
+                        <P>Metoder for kvalitetssikring 30 %</P>
+                        <P>Vurderingen av leverandørene vil foregå på følgende måte: Leverandørene gis en karakter for
+                            hvert kvalifikasjonskrav på en poengskala fra 0 til 10 der 10 er best. Hver av disse
+                            karakterene blir multiplisert med gjeldende vekttall.
+                        </P>
+                    </OPE_OBJECTIVE_CRITERIA>
+                </MAXIMUM_NUMBER_INVITED>
+                <REDUCTION_OF_THE_NUMBER VALUE="YES"/>
+            </TYPE_OF_PROCEDURE>
+            <AWARD_CRITERIA_CONTRACT_NOTICE_INFORMATION>
+                <AWARD_CRITERIA_DETAIL>
+                    <MOST_ECONOMICALLY_ADVANTAGEOUS_TENDER>
+                        <CRITERIA_STATED_IN_OTHER_DOCUMENT/>
+                    </MOST_ECONOMICALLY_ADVANTAGEOUS_TENDER>
+                </AWARD_CRITERIA_DETAIL>
+                <IS_ELECTRONIC_AUCTION_USABLE>
+                    <NO_USE_ELECTRONIC_AUCTION/>
+                </IS_ELECTRONIC_AUCTION_USABLE>
+            </AWARD_CRITERIA_CONTRACT_NOTICE_INFORMATION>
+            <ADMINISTRATIVE_INFORMATION_CONTRACT_NOTICE>
+                <PREVIOUS_PUBLICATION_INFORMATION_NOTICE_F2>
+                    <PREVIOUS_PUBLICATION_EXISTS_F2>
+                        <PREVIOUS_PUBLICATION_NOTICE_F2>
+                            <PRIOR_INFORMATION_NOTICE_F2 CHOICE="PRIOR_INFORMATION_NOTICE"/>
+                            <NOTICE_NUMBER_OJ>2009/S112-161942</NOTICE_NUMBER_OJ>
+                            <DATE_OJ>
+                                <DAY>11</DAY>
+                                <MONTH>06</MONTH>
+                                <YEAR>2009</YEAR>
+                            </DATE_OJ>
+                        </PREVIOUS_PUBLICATION_NOTICE_F2>
+                    </PREVIOUS_PUBLICATION_EXISTS_F2>
+                </PREVIOUS_PUBLICATION_INFORMATION_NOTICE_F2>
+                <CONDITIONS_OBTAINING_SPECIFICATIONS>
+                    <TIME_LIMIT>
+                        <DAY>14</DAY>
+                        <MONTH>01</MONTH>
+                        <YEAR>2010</YEAR>
+                    </TIME_LIMIT>
+                </CONDITIONS_OBTAINING_SPECIFICATIONS>
+                <RECEIPT_LIMIT_DATE>
+                    <DAY>15</DAY>
+                    <MONTH>01</MONTH>
+                    <YEAR>2010</YEAR>
+                    <TIME>12:00</TIME>
+                </RECEIPT_LIMIT_DATE>
+                <DISPATCH_INVITATIONS_DATE>
+                    <DAY>05</DAY>
+                    <MONTH>05</MONTH>
+                    <YEAR>2010</YEAR>
+                </DISPATCH_INVITATIONS_DATE>
+                <LANGUAGE>
+                    <LANGUAGE_OTHER>Norsk</LANGUAGE_OTHER>
+                </LANGUAGE>
+            </ADMINISTRATIVE_INFORMATION_CONTRACT_NOTICE>
+        </PROCEDURE_DEFINITION_CONTRACT_NOTICE>
+        <COMPLEMENTARY_INFORMATION_CONTRACT_NOTICE>
+            <ADDITIONAL_INFORMATION>
+                <P>(NT Ref:192305)</P>
+            </ADDITIONAL_INFORMATION>
+            <NOTICE_DISPATCH_DATE>
+                <DAY>26</DAY>
+                <MONTH>11</MONTH>
+                <YEAR>2009</YEAR>
+            </NOTICE_DISPATCH_DATE>
+        </COMPLEMENTARY_INFORMATION_CONTRACT_NOTICE>
+    </FD_CONTRACT>
+</CONTRACT>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DOFFIN_ESENDERS xsi:noNamespaceSchemaLocation="DOFFIN_ESENDERS.xd" VERSION="V2.0.0"
+                 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <FORM_SECTION>
+        <ADDITIONAL_INFORMATION_CORRIGENDUM LG="NB" CATEGORY="ORIGINAL" FORM="14" VERSION="R2.0.8.S02">
+            <FD_ADDITIONAL_INFORMATION_CORRIGENDUM>
+                <AUTH_ENTITY_ICAR>
+                    <NAME_ADDRESSES_CONTACT_ICAR>
+                        <CA_CE_CONCESSIONAIRE_PROFILE>
+                            <ORGANISATION>
+                                <OFFICIALNAME>Arbeids- og velferdsdirektoratet, Økonomiavdelingen,
+                                    Anskaffelsesseksjonen
+                                </OFFICIALNAME>
+                                <NATIONALID>889640782</NATIONALID>
+                            </ORGANISATION>
+                            <ADDRESS>Postboks 5, St Olavs plass</ADDRESS>
+                            <TOWN>OSLO</TOWN>
+                            <POSTAL_CODE>0130</POSTAL_CODE>
+                            <COUNTRY VALUE="NO"/>
+                            <ATTENTION>Robert Huse</ATTENTION>
+                            <PHONE>+47 21071000</PHONE>
+                            <E_MAILS>
+                                <E_MAIL>nav.anskaffelser.si@nav.no</E_MAIL>
+                            </E_MAILS>
+                            <FAX>+47 21071010</FAX>
+                        </CA_CE_CONCESSIONAIRE_PROFILE>
+                        <INTERNET_ADDRESSES_ICAR>
+                            <URL_BUYER>https://kgv.doffin.no/ctm/Supplier/CompanyInformation/Index/1002</URL_BUYER>
+                        </INTERNET_ADDRESSES_ICAR>
+                    </NAME_ADDRESSES_CONTACT_ICAR>
+                    <TYPE_OF_PURCHASING_BODY VALUE="DIRECTIVE_2004_18"/>
+                </AUTH_ENTITY_ICAR>
+                <OBJECT_ICAR>
+                    <DESCRIPTION_ICAR>
+                        <TITLE_CONTRACT>
+                            <P>Rammeavtale og vedlikehold for sentral infrastruktur i NAV</P>
+                        </TITLE_CONTRACT>
+                        <SHORT_DESCRIPTION_CONTRACT>
+                            <P>Anskaffelsen skal gi NAV tilgang på maskinvare, programvare og tjenester innenfor sentral
+                                infrastruktur. For å oppnå dette ønsker NAV å knytte til seg en leverandør som kan
+                                ivareta integratorrollen. Med integrator mener vi en leverandør som sikrer kunden en
+                                enhetlig leveranse innenfor spesifiserte produktområder. Leverandøren må ha bred
+                                kompetanse og et bredt produktspekter, og må evne å sette sammen gode løsninger basert
+                                på kundens behov, herunder koordinering, administrasjon og samhandling med kunde og
+                                underleverandører.
+                            </P>
+                            <P>Avtalen skal ha en varighet på 2 år fra signering. Oppdragsgiver (Kunden) har opsjon på
+                                forlengelse av avtalen i ytterligere 1+1 år.
+                            </P>
+                        </SHORT_DESCRIPTION_CONTRACT>
+                        <CPV>
+                            <CPV_MAIN>
+                                <CPV_CODE CODE="50312610"/>
+                            </CPV_MAIN>
+                            <CPV_ADDITIONAL>
+                                <CPV_CODE CODE="48213000"/>
+                            </CPV_ADDITIONAL>
+                            <CPV_ADDITIONAL>
+                                <CPV_CODE CODE="72220000"/>
+                            </CPV_ADDITIONAL>
+                            <CPV_ADDITIONAL>
+                                <CPV_CODE CODE="72266000"/>
+                            </CPV_ADDITIONAL>
+                            <CPV_ADDITIONAL>
+                                <CPV_CODE CODE="72317000"/>
+                            </CPV_ADDITIONAL>
+                        </CPV>
+                    </DESCRIPTION_ICAR>
+                </OBJECT_ICAR>
+                <PROCEDURES_ICAR>
+                    <ADMINISTRATIVE_INFORMATION>
+                        <FILE_REFERENCE_NUMBER>
+                            <P>15/5776</P>
+                        </FILE_REFERENCE_NUMBER>
+                        <SIMAP_ESENDER_NOTICE_REFERENCE>
+                            <SIMAP_ESENDER VALUE="SIMAP"/>
+                            <LOGIN CLASS="B">
+                                <ESENDER_LOGIN>REMOVED</ESENDER_LOGIN>
+                            </LOGIN>
+                            <NO_DOC_EXT>2016-665571</NO_DOC_EXT>
+                        </SIMAP_ESENDER_NOTICE_REFERENCE>
+                        <NOTICE_PUBLICATION>
+                            <NOTICE_NUMBER_OJ>2016/S 014-020995</NOTICE_NUMBER_OJ>
+                        </NOTICE_PUBLICATION>
+                        <ORIGINAL_DISPATCH_DATE>
+                            <DAY>19</DAY>
+                            <MONTH>01</MONTH>
+                            <YEAR>2016</YEAR>
+                        </ORIGINAL_DISPATCH_DATE>
+                    </ADMINISTRATIVE_INFORMATION>
+                </PROCEDURES_ICAR>
+                <COMPLEMENTARY_ICAR>
+                    <NOTICE_INVOLVES_ICAR>
+                        <INCOMPLETE_PROCEDURE>
+                            <INCOMPLETE_AWARDING_PROCEDURE>
+                                <INCOMPLETE_REASON VALUE="PROCEDURE_DISCONTINUED"/>
+                                <INCOMPLETE_INFO VALUE="CONTRACT_RE_PUBLICATION"/>
+                            </INCOMPLETE_AWARDING_PROCEDURE>
+                        </INCOMPLETE_PROCEDURE>
+                    </NOTICE_INVOLVES_ICAR>
+                    <OTHER_ADDITIONAL_INFO>
+                        <P>Konkurransen avlyses grunnet en feil i kvalifikasjonsgrunnlaget. Utlysning vil bli
+                            gjennomført på nytt.
+                        </P>
+                    </OTHER_ADDITIONAL_INFO>
+                    <NOTICE_DISPATCH_DATE>
+                        <DAY>25</DAY>
+                        <MONTH>1</MONTH>
+                        <YEAR>2016</YEAR>
+                    </NOTICE_DISPATCH_DATE>
+                </COMPLEMENTARY_ICAR>
+            </FD_ADDITIONAL_INFORMATION_CORRIGENDUM>
+        </ADDITIONAL_INFORMATION_CORRIGENDUM>
+    </FORM_SECTION>
+    <DOFFIN_APPENDIX>
+        <AUTHORITY_ORGANISATION_NR>889 640 782</AUTHORITY_ORGANISATION_NR>
+        <DOFFIN_FORM_TYPE>
+            <NATIONAL>
+                <REFERENCE_SECTION>
+                    <REFERENCE_DOFFIN TYPE="CONTRACT_NOTICE" DATE="2016-01-19">2016-665571</REFERENCE_DOFFIN>
+                    <REFERENCE_DOFFIN TYPE="PRIOR_INFORMATION_NOTICE" DATE="2015-11-26">2015-156895</REFERENCE_DOFFIN>
+                </REFERENCE_SECTION>
+                <PUBLISH_TO_TED/>
+            </NATIONAL>
+        </DOFFIN_FORM_TYPE>
+    </DOFFIN_APPENDIX>
+</DOFFIN_ESENDERS>
