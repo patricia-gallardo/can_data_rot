@@ -58,7 +58,7 @@
     root.y0 = 0;
 
     console.log("Init slide")
-    // collapse(root)
+    collapse(root)
     update(root);
 
     function hideChildren(d) {
@@ -94,18 +94,20 @@
         console.log("Add : " + childName)
         let node = getHiddenNode(childName, root)[0]
         console.log("Show : " + node)
-        if (node.parent)
+        if (node.parent) {
             showChildren(node.parent)
-        update(root);
+            update(node.parent);
+        }
     }
 
     function removeItem(childName) {
         console.log("Remove : " + childName)
         let node = getVisibleNode(childName, root)[0]
         console.log("Hide : " + node)
-        if (node.parent)
+        if (node.parent) {
             hideChildren(node.parent)
-        update(root);
+            update(node.parent);
+        }
     }
 
     // Collapse the node and all it's children
@@ -273,28 +275,28 @@
 
     var _transitions = [
         {
-            transitionForward: () => showFirst(),
-            transitionBackward: () => removeItem('A'),
-            index: 0
-        },
-        {
             transitionForward: () => addItem('B'),
             transitionBackward: () => removeItem('B'),
-            index: 1
+            index: 0
         },
         {
             transitionForward: () => addItem('C'),
             transitionBackward: () => removeItem('C'),
-            index: 2
+            index: 1
         },
         {
             transitionForward: () => addItem('D'),
             transitionBackward: () => removeItem('D'),
-            index: 3
+            index: 2
         },
         {
             transitionForward: () => addItem('E'),
             transitionBackward: () => removeItem('E'),
+            index: 3
+        },
+        { // This is a hack because I don't understand the cross slide transitions (I suck at JS)
+            transitionForward: () => {},
+            transitionBackward: () => {},
             index: 4
         },
     ]
