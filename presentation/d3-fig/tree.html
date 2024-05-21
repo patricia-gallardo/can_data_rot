@@ -7,12 +7,22 @@
 
     var treeData =
         {
-            "name": "Top Level",
+            "name": "A",
             "children": [
                 {
-                    "name": "Level 2: A",
+                    "name": "B",
                     "children": [
-                        {"name": "Son of A"}
+                        {
+                            "name": "C",
+                            "children": [
+                                {
+                                    "name": "D",
+                                    "children": [
+                                        {"name": "E"}
+                                    ]
+                                }
+                            ]
+                        }
                     ]
                 }
             ]
@@ -47,10 +57,56 @@
     root.x0 = height / 2;
     root.y0 = 0;
 
-    // Collapse after the second level
-    root.children.forEach(collapse);
-
+    console.log("Init slide")
+    // collapse(root)
     update(root);
+
+    function hideChildren(d) {
+        // d._children = d.children;
+        // d.children = null;
+        collapse(d)
+    }
+
+    function showChildren(d) {
+        d.children = d._children;
+        d._children = null;
+    }
+
+    function getHiddenNode(childName, node) {
+        if (node.data.name === childName)
+            return [node]
+        if (node._children)
+            return node._children.flatMap((child) => getHiddenNode(childName, child))
+        if (node.children)
+            return node.children.flatMap((child) => getHiddenNode(childName, child))
+        return []
+    }
+
+    function getVisibleNode(childName, node) {
+        if (node.data.name === childName)
+            return [node]
+        if (node.children)
+            return node.children.flatMap((child) => getVisibleNode(childName, child))
+        return []
+    }
+
+    function addItem(childName) {
+        console.log("Add : " + childName)
+        let node = getHiddenNode(childName, root)[0]
+        console.log("Show : " + node)
+        if (node.parent)
+            showChildren(node.parent)
+        update(root);
+    }
+
+    function removeItem(childName) {
+        console.log("Remove : " + childName)
+        let node = getVisibleNode(childName, root)[0]
+        console.log("Hide : " + node)
+        if (node.parent)
+            hideChildren(node.parent)
+        update(root);
+    }
 
     // Collapse the node and all it's children
     function collapse(d) {
@@ -199,16 +255,6 @@
             return path
         }
 
-        function hideChildren(d) {
-            d._children = d.children;
-            d.children = null;
-        }
-
-        function showChildren(d) {
-            d.children = d._children;
-            d._children = null;
-        }
-
 // Toggle children on click.
         function click(d) {
             if (d.children) {
@@ -220,16 +266,36 @@
         }
     }
 
+    function showFirst() {
+        collapse(root);
+        addItem('A');
+    }
+
     var _transitions = [
         {
-            transitionForward: () => addItem('B', 'A', treeData),
-            transitionBackward: () => removeItem('B', treeData),
+            transitionForward: () => showFirst(),
+            transitionBackward: () => removeItem('A'),
             index: 0
         },
         {
-            transitionForward: () => addItem('C', 'B', treeData),
-            transitionBackward: () => removeItem('C', treeData),
+            transitionForward: () => addItem('B'),
+            transitionBackward: () => removeItem('B'),
             index: 1
+        },
+        {
+            transitionForward: () => addItem('C'),
+            transitionBackward: () => removeItem('C'),
+            index: 2
+        },
+        {
+            transitionForward: () => addItem('D'),
+            transitionBackward: () => removeItem('D'),
+            index: 3
+        },
+        {
+            transitionForward: () => addItem('E'),
+            transitionBackward: () => removeItem('E'),
+            index: 4
         },
     ]
 </script>
