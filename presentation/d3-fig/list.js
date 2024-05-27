@@ -121,6 +121,13 @@ function expand(d) {
     }
 }
 
+function showChildren(d) {
+    if (d._children) {
+        d.children = d._children;
+        d._children = null;
+    }
+}
+
   function findNode(name, nodes) {
     var current = nodes.shift();
     let nodeName = current.data.name;
@@ -134,11 +141,6 @@ function expand(d) {
       nodes = nodes.concat(current._children);
     }
     return findNode(name, nodes)
-  }
-
-function showChildren(d) {
-    d.children = d._children;
-    d._children = null;
 }
 
 function showAll(itemName, listContext) {
