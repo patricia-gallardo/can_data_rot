@@ -8,7 +8,7 @@
 
 		<link rel="stylesheet" href="dist/reset.css">
     <link rel="stylesheet" href="dist/reveal.css">
-    <link rel="stylesheet" href="dist/theme/black.css">
+    <link rel="stylesheet" href="dist/theme/beige.css">
     <link rel="stylesheet" href="css/zenburn.css" />
     <link rel="stylesheet" href="css/custom-gc.css" />
 
@@ -51,6 +51,11 @@
 <section class="fig-container" data-preload
          data-file="d3-fig/graph2.html" style="overflow: visible">
     <h3>GRAPH TEST 2</h3>
+</section>
+
+<section class="fig-container" data-preload
+         data-file="d3-fig/graph3.html" style="overflow: visible">
+    <h3>GRAPH TEST 3</h3>
 </section>
 
 <!--<section class="fig-container"-->
@@ -179,9 +184,9 @@
       <div class="col-100">
         <p>Full website. <br>Note: it's scrollable!</p>
         <div class="fig-container" style="height: 400px;"
-         data-file="https://gcalmettes.github.io/bootstrap-tools/" 
+         data-file="https://gcalmettes.github.io/bootstrap-tools/"
          data-scrollable="yes">
-        </div>  
+        </div>
       </div>
   </div>
 </section>
@@ -234,10 +239,10 @@ Reveal.initialize({
 
          // If a special onSlideChanged transition has been set (if for example the visualization
          // has been preloaded using the data-preload attribute, and you want a specific transition
-         // to happen only when you arrive on the slide), you can choose the delay with which such 
+         // to happen only when you arrive on the slide), you can choose the delay with which such
          // a transition will occur (note that in the case of no data-preload, if no delay is set then
-         // the transition might not occur since the iframe might not be fully loaded yet when the 
-         // function is triggered). // default 0. 
+         // the transition might not occur since the iframe might not be fully loaded yet when the
+         // function is triggered). // default 0.
          onSlideChangedDelay: 400,
 
          // This will prefix the path attributes of the source html paths with the given path.
@@ -248,7 +253,7 @@ Reveal.initialize({
          // at the stipulated url with mapPath
          tryFallbackURL: false, //default false
 
-         // Checking for file existance has been reported to fail in rare 
+         // Checking for file existance has been reported to fail in rare
          // cases though files did exist. This option is to disable the file checking.
          //see: https://github.com/gcalmettes/reveal.js-d3/issues/10
          disableCheckFile: false, //default false,
