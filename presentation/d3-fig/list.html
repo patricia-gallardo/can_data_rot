@@ -31,11 +31,9 @@
     let treeData = makeTree(items);
 
     // Set the dimensions and margins of the diagram
-    var margin = {top: 20, right: 90, bottom: 30, left: 90}
-    // width = 960 - margin.left - margin.right,
-    // height = 500 - margin.top - margin.bottom;
-    const width = window.innerWidth;
-    const height = Math.min(500, window.innerHeight);
+    const margin = {top: 20, right: 90, bottom: 30, left: 90};
+    const width = window.innerWidth - margin.left - margin.right;
+    const height = Math.min(500, window.innerHeight - margin.top - margin.bottom);
 
     console.log("width  : " + width)
     console.log("height : " + height)
@@ -43,22 +41,21 @@
     // append the svg object to the body of the page
     // appends a 'group' element to 'svg'
     // moves the 'group' element to the top left margin
-    var svg = d3.select("body").append("svg")
+    const svg = d3.select("body").append("svg")
         .attr("width", width + margin.right + margin.left)
         .attr("height", height + margin.top + margin.bottom)
         .append("g")
         .attr("transform", "translate("
             + margin.left + "," + margin.top + ")");
 
-    var i = 0,
-        duration = 750,
-        root;
+    let idSequence = 0;
+    const duration = 750
 
     // declares a tree layout and assigns the size
-    var treemap = d3.tree().size([height, width]);
+    const treemap = d3.tree().size([height, width]);
 
     // Assigns parent, children, height, depth
-    root = d3.hierarchy(treeData, function (d) {
+    let root = d3.hierarchy(treeData, function (d) {
         return d.children;
     });
     root.x0 = height / 2;
@@ -203,11 +200,11 @@
     function update(source) {
 
         // Assigns the x and y position for the nodes
-        var treeData = treemap(root);
+        const treeData = treemap(root);
 
         // Compute the new tree layout.
-        var nodes = treeData.descendants(),
-            links = treeData.descendants().slice(1);
+        const nodes = treeData.descendants()
+        const links = treeData.descendants().slice(1);
 
         // Normalize for fixed-depth.
         nodes.forEach(function (d) {
@@ -217,13 +214,13 @@
         // ****************** Nodes section ***************************
 
         // Update the nodes...
-        var node = svg.selectAll('g.node')
+        const node = svg.selectAll('g.node')
             .data(nodes, function (d) {
-                return d.id || (d.id = ++i);
+                return d.id || (d.id = ++idSequence);
             });
 
         // Enter any new modes at the parent's previous position.
-        var nodeEnter = node.enter().append('g')
+        const nodeEnter = node.enter().append('g')
             .attr('class', 'node')
             .attr("transform", function (d) {
                 return "translate(" + source.y0 + "," + source.x0 + ")";
@@ -248,7 +245,7 @@
             });
 
         // UPDATE
-        var nodeUpdate = nodeEnter.merge(node);
+        const nodeUpdate = nodeEnter.merge(node);
 
         // Transition to the proper position for the node
         nodeUpdate.transition()
@@ -267,7 +264,7 @@
 
 
         // Remove any exiting nodes
-        var nodeExit = node.exit().transition()
+        const nodeExit = node.exit().transition()
             .duration(duration)
             .attr("transform", function (d) {
                 return "translate(" + source.y + "," + source.x + ")";
@@ -285,21 +282,21 @@
         // ****************** links section ***************************
 
         // Update the links...
-        var link = svg.selectAll('path.link')
+        const link = svg.selectAll('path.link')
             .data(links, function (d) {
                 return d.id;
             });
 
         // Enter any new links at the parent's previous position.
-        var linkEnter = link.enter().insert('path', "g")
+        const linkEnter = link.enter().insert('path', "g")
             .attr("class", "link")
             .attr('d', function (d) {
-                var o = {x: source.x0, y: source.y0}
+                const o = {x: source.x0, y: source.y0};
                 return diagonal(o, o)
             });
 
         // UPDATE
-        var linkUpdate = linkEnter.merge(link);
+        const linkUpdate = linkEnter.merge(link);
 
         // Transition back to the parent element position
         linkUpdate.transition()
@@ -309,10 +306,10 @@
             });
 
         // Remove any exiting links
-        var linkExit = link.exit().transition()
+        link.exit().transition()
             .duration(duration)
             .attr('d', function (d) {
-                var o = {x: source.x, y: source.y}
+                const o = {x: source.x, y: source.y};
                 return diagonal(o, o)
             })
             .remove();
@@ -345,18 +342,17 @@
         }
     }
 
-    function showFirst() {
-        collapse(root);
-        addItem('A');
-    }
+    // function showFirst() {
+    //     collapse(root);
+    //     addItem('A');
+    // }
 
     function makeTransition(current, index) {
-        let transition = {
+        return {
             transitionForward: () => addItem(current),
             transitionBackward: () => removeItem(current),
             index: index
         }
-        return transition
     }
 
     let trans = makeTransition(items[0], 0)
