@@ -9,7 +9,7 @@ function makeListContext(items) {
     let hierarchy = makeHierarchy(tree, height);
     const svg = makeSvg(width, height, margin);
 
-    return {
+    let context = {
         items: items,
         treeData: tree,
         root: hierarchy,
@@ -19,6 +19,31 @@ function makeListContext(items) {
         height: height,
         idSequence: 0
     };
+    hideSubtree(hierarchy, context)
+    return context;
+}
+
+function makeTreeContext(tree) {
+    // Set the dimensions and margins of the diagram
+    const margin = {top: 20, right: 90, bottom: 30, left: 90};
+    const width = window.innerWidth - margin.left - margin.right;
+    const height = Math.min(500, window.innerHeight - margin.top - margin.bottom);
+
+    let hierarchy = makeHierarchy(tree, height);
+    const svg = makeSvg(width, height, margin);
+
+    let context = {
+        items: items,
+        treeData: tree,
+        root: hierarchy,
+        svg: svg,
+        margin: margin,
+        width: width,
+        height: height,
+        idSequence: 0
+    };
+    hideSubtree(hierarchy, context)
+    return context;
 }
 
 function makeTree(strings) {
@@ -96,25 +121,20 @@ function expand(d) {
     }
 }
 
-function searchFromNode(childName, current) {
+  function findNode(name, nodes) {
+    var current = nodes.shift();
     let nodeName = current.data.name;
-    let foundNode = null
-    if (nodeName === childName) {
-        console.log("[searchFromNode] Found : " + childName)
-        foundNode = current
-    } else if (current.children) {
-        console.log("[searchFromNode] Search children : " + nodeName)
-        current.children.forEach(function (child) {
-            let node = searchFromNode(childName, child)
-            if (node) {
-                console.log("[searchFromNode] Forward node from : " + nodeName)
-                foundNode = node
-            }
-        })
+    if (nodeName === name) {
+      return current;
     }
-    console.log("[searchFromNode] Not found : " + nodeName)
-    return foundNode
-}
+    if (current.children) {
+      nodes = nodes.concat(current.children);
+    }
+    if (current._children) {
+      nodes = nodes.concat(current._children);
+    }
+    return findNode(name, nodes)
+  }
 
 function showChildren(d) {
     d.children = d._children;
@@ -124,28 +144,28 @@ function showChildren(d) {
 function showAll(itemName, listContext) {
     console.log("Show all " + itemName)
     expand(listContext.root)
-    let node = searchFromNode(itemName, listContext.root)
+    let node = findNode(itemName, [listContext.root])
     console.log("Show all " + JSON.stringify(node.data.name))
     update(node.parent, listContext);
 }
 
-function getHiddenNode(childName, node) {
-    if (node.data.name === childName)
-        return [node]
-    if (node._children)
-        return node._children.flatMap((child) => getHiddenNode(childName, child))
-    if (node.children)
-        return node.children.flatMap((child) => getHiddenNode(childName, child))
-    return []
-}
+// function getHiddenNode(childName, node) {
+//     if (node.data.name === childName)
+//         return [node]
+//     if (node._children)
+//         return node._children.flatMap((child) => getHiddenNode(childName, child))
+//     if (node.children)
+//         return node.children.flatMap((child) => getHiddenNode(childName, child))
+//     return []
+// }
 
-function getVisibleNode(childName, node) {
-    if (node.data.name === childName)
-        return [node]
-    if (node.children)
-        return node.children.flatMap((child) => getVisibleNode(childName, child))
-    return []
-}
+// function getVisibleNode(childName, node) {
+//     if (node.data.name === childName)
+//         return [node]
+//     if (node.children)
+//         return node.children.flatMap((child) => getVisibleNode(childName, child))
+//     return []
+// }
 
 function makeTransitions(listContext) {
     function makeTransition(current, index) {
@@ -186,7 +206,7 @@ function hideSubtree(subtree, listContext) {
 
 function addItem(childName, listContext) {
     console.log("Add : " + childName)
-    let node = getHiddenNode(childName, listContext.root)[0]
+    let node = findNode(childName, [listContext.root])
     console.log("Show : " + node)
     if (node && node.parent) {
         showChildren(node.parent)
@@ -196,7 +216,7 @@ function addItem(childName, listContext) {
 
 function removeItem(childName, listContext) {
     console.log("Remove : " + childName)
-    let node = getVisibleNode(childName, listContext.root)[0]
+    let node = findNode(childName, [listContext.root])
     console.log("Hide : " + node)
     if (node && node.parent) {
         hideSubtree(node.parent, listContext)
