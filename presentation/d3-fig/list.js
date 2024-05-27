@@ -34,12 +34,12 @@ function makeTree(strings) {
 
 // Assigns parent, children, height, depth
 function makeHierarchy(data) {
-    let root = d3.hierarchy(data, function (d) {
+    let hierarchy = d3.hierarchy(data, function (d) {
         return d.children;
     });
-    root.x0 = height / 2;
-    root.y0 = 0;
-    return root;
+    hierarchy.x0 = height / 2;
+    hierarchy.y0 = 0;
+    return hierarchy;
 }
 
 // Collapse the node and all it's children
@@ -86,12 +86,12 @@ function showChildren(d) {
     d._children = null;
 }
 
-function showAll(itemName, subtree) {
+function showAll(itemName, rootNode) {
     console.log("Show all " + itemName)
-    expand(subtree)
-    let node = searchFromNode(itemName, subtree)
+    expand(rootNode)
+    let node = searchFromNode(itemName, rootNode)
     console.log("Show all " + JSON.stringify(node.data.name))
-    update(node.parent);
+    update(node.parent, rootNode);
 }
 
 function getHiddenNode(childName, node) {
@@ -112,11 +112,11 @@ function getVisibleNode(childName, node) {
     return []
 }
 
-function makeTransitions(strings) {
+function makeTransitions(strings, rootNode) {
     function makeTransition(current, index) {
         return {
-            transitionForward: () => addItem(current),
-            transitionBackward: () => removeItem(current),
+            transitionForward: () => addItem(current, rootNode),
+            transitionBackward: () => removeItem(current, rootNode),
             index: index
         }
     }
@@ -127,8 +127,8 @@ function makeTransitions(strings) {
         if (index !== 0) {
             if (index === strings.length - 1) {
                 let transition = {
-                    transitionForward: () => showAll(element, root),
-                    transitionBackward: () => removeItem(element),
+                    transitionForward: () => showAll(element, rootNode),
+                    transitionBackward: () => removeItem(element, rootNode),
                     index: index - 1
                 }
                 _transitions2.push(transition)
@@ -146,32 +146,32 @@ function makeTransitions(strings) {
 
 function hideSubtree(subtree) {
     collapse(subtree)
-    update(subtree);
+    update(subtree, root);
 }
 
-function addItem(childName) {
+function addItem(childName, rootNode) {
     console.log("Add : " + childName)
-    let node = getHiddenNode(childName, root)[0]
+    let node = getHiddenNode(childName, rootNode)[0]
     console.log("Show : " + node)
     if (node && node.parent) {
         showChildren(node.parent)
-        update(node.parent);
+        update(node.parent, rootNode);
     }
 }
 
-function removeItem(childName) {
+function removeItem(childName, rootNode) {
     console.log("Remove : " + childName)
-    let node = getVisibleNode(childName, root)[0]
+    let node = getVisibleNode(childName, rootNode)[0]
     console.log("Hide : " + node)
     if (node && node.parent) {
         hideSubtree(node.parent)
     }
 }
 
-function update(source) {
+function update(source, rootNode = root) {
 
     // Assigns the x and y position for the nodes
-    const treeData = treemap(root);
+    const treeData = treemap(rootNode);
 
     // Compute the new tree layout.
     const nodes = treeData.descendants()
@@ -308,7 +308,7 @@ function update(source) {
             hideSubtree(d);
         } else {
             showChildren(d);
-            update(d);
+            update(d, root);
         }
     }
 }
