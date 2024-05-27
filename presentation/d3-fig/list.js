@@ -168,7 +168,7 @@ function removeItem(childName, rootNode) {
     }
 }
 
-function update(source, rootNode = root) {
+function update(source, rootNode) {
 
     // Assigns the x and y position for the nodes
     const treeData = treemap(rootNode);
