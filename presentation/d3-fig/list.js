@@ -1,18 +1,18 @@
 function makeListContext(items) {
-    let treeData = makeTree(items);
+    let tree = makeTree(items);
 
     // Set the dimensions and margins of the diagram
     const margin = {top: 20, right: 90, bottom: 30, left: 90};
     const width = window.innerWidth - margin.left - margin.right;
     const height = Math.min(500, window.innerHeight - margin.top - margin.bottom);
 
-    let root = makeHierarchy(treeData, height);
+    let hierarchy = makeHierarchy(tree, height);
     const svg = makeSvg(width, height, margin);
 
     return {
         items: items,
-        treeData: treeData,
-        root: root,
+        treeData: tree,
+        root: hierarchy,
         svg: svg,
         margin: margin,
         width: width,
@@ -65,12 +65,34 @@ function makeHierarchy(data, height) {
     return hierarchy;
 }
 
+function makeSvg(width, height, margin) {
+    // append the svg object to the body of the page
+    // appends a 'group' element to 'svg'
+    // moves the 'group' element to the top left margin
+    return d3.select("body").append("svg")
+        .attr("width", width + margin.right + margin.left)
+        .attr("height", height + margin.top + margin.bottom)
+        .append("g")
+        .attr("transform", "translate("
+            + margin.left + "," + margin.top + ")")
+}
+
 // Collapse the node and all it's children
 function collapse(d) {
     if (d.children) {
         d._children = d.children
         d._children.forEach(collapse)
         d.children = null
+    }
+}
+
+function expand(d) {
+    if (d._children) {
+        d.children = d._children
+        d.children.forEach(expand)
+        d._children = null
+    } else if (d.children) {
+        d.children.forEach(expand)
     }
 }
 
@@ -92,16 +114,6 @@ function searchFromNode(childName, current) {
     }
     console.log("[searchFromNode] Not found : " + nodeName)
     return foundNode
-}
-
-function expand(d) {
-    if (d._children) {
-        d.children = d._children
-        d.children.forEach(expand)
-        d._children = null
-    } else if (d.children) {
-        d.children.forEach(expand)
-    }
 }
 
 function showChildren(d) {
@@ -341,16 +353,4 @@ function update(source, listContext) {
             update(d, listContext);
         }
     }
-}
-
-function makeSvg(width, height, margin) {
-    // append the svg object to the body of the page
-    // appends a 'group' element to 'svg'
-    // moves the 'group' element to the top left margin
-    return d3.select("body").append("svg")
-        .attr("width", width + margin.right + margin.left)
-        .attr("height", height + margin.top + margin.bottom)
-        .append("g")
-        .attr("transform", "translate("
-            + margin.left + "," + margin.top + ")")
 }
