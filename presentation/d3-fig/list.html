@@ -28,29 +28,8 @@
     console.log("Init slide")
 
     let items = ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J"]
-    let treeData = makeTree(items);
+    const listContext = makeListContext(items);
 
-    // Set the dimensions and margins of the diagram
-    const margin = {top: 20, right: 90, bottom: 30, left: 90};
-    const width = window.innerWidth - margin.left - margin.right;
-    const height = Math.min(500, window.innerHeight - margin.top - margin.bottom);
-
-    let root = makeHierarchy(treeData, height);
-    const svg = makeSvg(width, height, margin);
-    // declares a tree layout and assigns the size
-    const treemap = d3.tree().size([height, width]);
-
-    const listContext = {
-        items: items,
-        treeData: treeData,
-        root: root,
-        svg: svg,
-        treemap: treemap,
-        margin: margin,
-        width: width,
-        height: height
-    }
-
-    hideSubtree(listContext.root, listContext.root)
+    hideSubtree(listContext.root, listContext)
     var _transitions = makeTransitions(listContext)
 </script>

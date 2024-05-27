@@ -1,3 +1,26 @@
+function makeListContext(items) {
+    let treeData = makeTree(items);
+
+    // Set the dimensions and margins of the diagram
+    const margin = {top: 20, right: 90, bottom: 30, left: 90};
+    const width = window.innerWidth - margin.left - margin.right;
+    const height = Math.min(500, window.innerHeight - margin.top - margin.bottom);
+
+    let root = makeHierarchy(treeData, height);
+    const svg = makeSvg(width, height, margin);
+
+    return {
+        items: items,
+        treeData: treeData,
+        root: root,
+        svg: svg,
+        margin: margin,
+        width: width,
+        height: height,
+        idSequence: 0
+    };
+}
+
 function makeTree(strings) {
 
     function makeNode(item) {
@@ -86,12 +109,12 @@ function showChildren(d) {
     d._children = null;
 }
 
-function showAll(itemName, rootNode) {
+function showAll(itemName, listContext) {
     console.log("Show all " + itemName)
-    expand(rootNode)
-    let node = searchFromNode(itemName, rootNode)
+    expand(listContext.root)
+    let node = searchFromNode(itemName, listContext.root)
     console.log("Show all " + JSON.stringify(node.data.name))
-    update(node.parent, rootNode);
+    update(node.parent, listContext);
 }
 
 function getHiddenNode(childName, node) {
@@ -113,69 +136,70 @@ function getVisibleNode(childName, node) {
 }
 
 function makeTransitions(listContext) {
-    const rootNode = listContext.root
-
     function makeTransition(current, index) {
         return {
-            transitionForward: () => addItem(current, rootNode),
-            transitionBackward: () => removeItem(current, rootNode),
+            transitionForward: () => addItem(current, listContext),
+            transitionBackward: () => removeItem(current, listContext),
             index: index
         }
     }
 
-    let _transitions2 = []
+    let _transitions = []
 
     listContext.items.forEach(function (element, index) {
         if (index !== 0) {
             if (index === listContext.items.length - 1) {
                 let transition = {
-                    transitionForward: () => showAll(element, rootNode),
-                    transitionBackward: () => removeItem(element, rootNode),
+                    transitionForward: () => showAll(element, listContext),
+                    transitionBackward: () => removeItem(element, listContext),
                     index: index - 1
                 }
-                _transitions2.push(transition)
+                _transitions.push(transition)
             } else {
                 let transition = makeTransition(element, index - 1)
-                _transitions2.push(transition)
+                _transitions.push(transition)
             }
         }
     })
 
-    console.log(_transitions2)
-    console.log(JSON.stringify(_transitions2))
-    return _transitions2;
+    console.log(_transitions)
+    console.log(JSON.stringify(_transitions))
+    return _transitions;
 }
 
-function hideSubtree(subtree, rootNode) {
+function hideSubtree(subtree, listContext) {
     collapse(subtree)
-    update(subtree, rootNode);
+    update(subtree, listContext);
 }
 
-function addItem(childName, rootNode) {
+function addItem(childName, listContext) {
     console.log("Add : " + childName)
-    let node = getHiddenNode(childName, rootNode)[0]
+    let node = getHiddenNode(childName, listContext.root)[0]
     console.log("Show : " + node)
     if (node && node.parent) {
         showChildren(node.parent)
-        update(node.parent, rootNode);
+        update(node.parent, listContext);
     }
 }
 
-function removeItem(childName, rootNode) {
+function removeItem(childName, listContext) {
     console.log("Remove : " + childName)
-    let node = getVisibleNode(childName, rootNode)[0]
+    let node = getVisibleNode(childName, listContext.root)[0]
     console.log("Hide : " + node)
     if (node && node.parent) {
-        hideSubtree(node.parent, rootNode)
+        hideSubtree(node.parent, listContext)
     }
 }
 
-let idSequence = 0;
-
-function update(source, rootNode) {
+function update(source, listContext) {
 
     // Assigns the x and y position for the nodes
-    const treeData = treemap(rootNode);
+    let root = listContext.root;
+    console.log("root : " + root)
+    // declares a tree layout and assigns the size
+    const treemap = d3.tree().size([listContext.height, listContext.width]);
+
+    const treeData = treemap(root);
 
     // Compute the new tree layout.
     const nodes = treeData.descendants()
@@ -191,9 +215,9 @@ function update(source, rootNode) {
     // ****************** Nodes section ***************************
 
     // Update the nodes...
-    const node = svg.selectAll('g.node')
+    const node = listContext.svg.selectAll('g.node')
         .data(nodes, function (d) {
-            return d.id || (d.id = ++idSequence);
+            return d.id || (d.id = ++listContext.idSequence);
         });
 
     // Enter any new modes at the parent's previous position.
@@ -259,7 +283,7 @@ function update(source, rootNode) {
     // ****************** links section ***************************
 
     // Update the links...
-    const link = svg.selectAll('path.link')
+    const link = listContext.svg.selectAll('path.link')
         .data(links, function (d) {
             return d.id;
         });
@@ -311,10 +335,10 @@ function update(source, rootNode) {
 // Toggle children on click.
     function click(d) {
         if (d.children) {
-            hideSubtree(d, root);
+            hideSubtree(d, listContext);
         } else {
             showChildren(d);
-            update(d, root);
+            update(d, listContext);
         }
     }
 }
@@ -323,11 +347,10 @@ function makeSvg(width, height, margin) {
     // append the svg object to the body of the page
     // appends a 'group' element to 'svg'
     // moves the 'group' element to the top left margin
-    const svg = d3.select("body").append("svg")
+    return d3.select("body").append("svg")
         .attr("width", width + margin.right + margin.left)
         .attr("height", height + margin.top + margin.bottom)
         .append("g")
         .attr("transform", "translate("
-            + margin.left + "," + margin.top + ")");
-    return svg
+            + margin.left + "," + margin.top + ")")
 }
