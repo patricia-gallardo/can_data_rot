@@ -128,17 +128,17 @@ function showChildren(d) {
     }
 }
 
-  function findNode(name, nodes) {
+function findNode(name, nodes) {
     var current = nodes.shift();
     let nodeName = current.data.name;
     if (nodeName === name) {
-      return current;
+        return current;
     }
     if (current.children) {
-      nodes = nodes.concat(current.children);
+        nodes = nodes.concat(current.children);
     }
     if (current._children) {
-      nodes = nodes.concat(current._children);
+        nodes = nodes.concat(current._children);
     }
     return findNode(name, nodes)
 }
