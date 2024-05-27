@@ -151,24 +151,6 @@ function showAll(itemName, listContext) {
     update(node.parent, listContext);
 }
 
-// function getHiddenNode(childName, node) {
-//     if (node.data.name === childName)
-//         return [node]
-//     if (node._children)
-//         return node._children.flatMap((child) => getHiddenNode(childName, child))
-//     if (node.children)
-//         return node.children.flatMap((child) => getHiddenNode(childName, child))
-//     return []
-// }
-
-// function getVisibleNode(childName, node) {
-//     if (node.data.name === childName)
-//         return [node]
-//     if (node.children)
-//         return node.children.flatMap((child) => getVisibleNode(childName, child))
-//     return []
-// }
-
 function makeTransitions(listContext) {
     function makeTransition(current, index) {
         return {
