@@ -25,10 +25,9 @@
 <script src="https://d3js.org/d3.v5.min.js"></script>
 <script src="list.js"></script>
 <script>
+    console.log("Init slide")
+
     let items = ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J"]
-
-    console.log(items)
-
     let treeData = makeTree(items);
 
     // Set the dimensions and margins of the diagram
@@ -36,27 +35,22 @@
     const width = window.innerWidth - margin.left - margin.right;
     const height = Math.min(500, window.innerHeight - margin.top - margin.bottom);
 
-    console.log("width  : " + width)
-    console.log("height : " + height)
-
-    // append the svg object to the body of the page
-    // appends a 'group' element to 'svg'
-    // moves the 'group' element to the top left margin
-    const svg = d3.select("body").append("svg")
-        .attr("width", width + margin.right + margin.left)
-        .attr("height", height + margin.top + margin.bottom)
-        .append("g")
-        .attr("transform", "translate("
-            + margin.left + "," + margin.top + ")");
-
+    let root = makeHierarchy(treeData, height);
+    const svg = makeSvg(width, height, margin);
     // declares a tree layout and assigns the size
     const treemap = d3.tree().size([height, width]);
 
-    let idSequence = 0;
-    const duration = 750
+    const listContext = {
+        items: items,
+        treeData: treeData,
+        root: root,
+        svg: svg,
+        treemap: treemap,
+        margin: margin,
+        width: width,
+        height: height
+    }
 
-    console.log("Init slide")
-    let root = makeHierarchy(treeData);
-    hideSubtree(root, root)
-    var _transitions = makeTransitions(items, root)
+    hideSubtree(listContext.root, listContext.root)
+    var _transitions = makeTransitions(listContext)
 </script>

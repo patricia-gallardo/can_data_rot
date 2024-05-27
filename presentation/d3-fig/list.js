@@ -33,7 +33,7 @@ function makeTree(strings) {
 }
 
 // Assigns parent, children, height, depth
-function makeHierarchy(data) {
+function makeHierarchy(data, height) {
     let hierarchy = d3.hierarchy(data, function (d) {
         return d.children;
     });
@@ -112,7 +112,9 @@ function getVisibleNode(childName, node) {
     return []
 }
 
-function makeTransitions(strings, rootNode) {
+function makeTransitions(listContext) {
+    const rootNode = listContext.root
+
     function makeTransition(current, index) {
         return {
             transitionForward: () => addItem(current, rootNode),
@@ -123,9 +125,9 @@ function makeTransitions(strings, rootNode) {
 
     let _transitions2 = []
 
-    strings.forEach(function (element, index) {
+    listContext.items.forEach(function (element, index) {
         if (index !== 0) {
-            if (index === strings.length - 1) {
+            if (index === listContext.items.length - 1) {
                 let transition = {
                     transitionForward: () => showAll(element, rootNode),
                     transitionBackward: () => removeItem(element, rootNode),
@@ -168,6 +170,8 @@ function removeItem(childName, rootNode) {
     }
 }
 
+let idSequence = 0;
+
 function update(source, rootNode) {
 
     // Assigns the x and y position for the nodes
@@ -181,6 +185,8 @@ function update(source, rootNode) {
     nodes.forEach(function (d) {
         d.y = d.depth * 180
     });
+
+    const duration = 750
 
     // ****************** Nodes section ***************************
 
@@ -311,4 +317,17 @@ function update(source, rootNode) {
             update(d, root);
         }
     }
+}
+
+function makeSvg(width, height, margin) {
+    // append the svg object to the body of the page
+    // appends a 'group' element to 'svg'
+    // moves the 'group' element to the top left margin
+    const svg = d3.select("body").append("svg")
+        .attr("width", width + margin.right + margin.left)
+        .attr("height", height + margin.top + margin.bottom)
+        .append("g")
+        .attr("transform", "translate("
+            + margin.left + "," + margin.top + ")");
+    return svg
 }
