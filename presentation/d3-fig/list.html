@@ -1,22 +1,22 @@
 <!DOCTYPE html>
 <style>
 
-.node circle {
-  fill: #fff;
-  stroke: steelblue;
-  stroke-width: 3px;
-}
+    .node circle {
+        fill: #fff;
+        stroke: steelblue;
+        stroke-width: 3px;
+    }
 
-.node text {
-    fill: white;
-    font: 12px sans-serif;
-}
+    .node text {
+        fill: white;
+        font: 12px sans-serif;
+    }
 
-.link {
-    fill: none;
-    stroke: white;
-    stroke-width: 2px;
-}
+    .link {
+        fill: none;
+        stroke: white;
+        stroke-width: 2px;
+    }
 
 </style>
 <body>
@@ -24,16 +24,21 @@
 <!-- https://gist.github.com/d3noob/1a96af738c89b88723eb63456beb6510/f2a2a09df5233e4dffea48d9598472da91a5eb1a -->
 <script src="https://d3js.org/d3.v5.min.js"></script>
 <script>
-    let items = ["A", "B", "C", "D", "E", "F", "G"]
+    let items = ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J"]
 
     console.log(items)
 
     let treeData = makeTree(items);
 
     // Set the dimensions and margins of the diagram
-    var margin = {top: 20, right: 90, bottom: 30, left: 90},
-        width = 960 - margin.left - margin.right,
-        height = 500 - margin.top - margin.bottom;
+    var margin = {top: 20, right: 90, bottom: 30, left: 90}
+    // width = 960 - margin.left - margin.right,
+    // height = 500 - margin.top - margin.bottom;
+    const width = window.innerWidth;
+    const height = Math.min(500, window.innerHeight);
+
+    console.log("width  : " + width)
+    console.log("height : " + height)
 
     // append the svg object to the body of the page
     // appends a 'group' element to 'svg'
@@ -60,10 +65,12 @@
     root.y0 = 0;
 
     console.log("Init slide")
-    collapse(root)
-    update(root);
+    hideAll()
 
-
+    function hideAll() {
+        collapse(root)
+        update(root);
+    }
 
     function makeTree(strings) {
         const nodeType = {
@@ -100,14 +107,50 @@
     }
 
     function hideChildren(d) {
-        // d._children = d.children;
-        // d.children = null;
         collapse(d)
     }
 
     function showChildren(d) {
         d.children = d._children;
         d._children = null;
+    }
+
+    function expand(d) {
+        if (d._children) {
+            d.children = d._children
+            d.children.forEach(expand)
+            d._children = null
+        } else if (d.children) {
+            d.children.forEach(expand)
+        }
+    }
+
+    function searchFromNode(childName, current) {
+        let nodeName = current.data.name;
+        let foundNode = null
+        if (nodeName === childName) {
+            console.log("[searchFromNode] Found : " + childName)
+            foundNode = current
+        } else if (current.children) {
+            console.log("[searchFromNode] Search children : " + nodeName)
+            current.children.forEach(function (child) {
+                let node = searchFromNode(childName, child)
+                if (node) {
+                    console.log("[searchFromNode] Forward node from : " + nodeName)
+                    foundNode = node
+                }
+            })
+        }
+        console.log("[searchFromNode] Not found : " + nodeName)
+        return foundNode
+    }
+
+    function showAll(itemName) {
+        console.log("Show all " + itemName)
+        expand(root)
+        let node = searchFromNode(itemName, root)
+        console.log("Show all " + JSON.stringify(node.data.name))
+        update(node.parent);
     }
 
     function getHiddenNode(childName, node) {
@@ -132,7 +175,7 @@
         console.log("Add : " + childName)
         let node = getHiddenNode(childName, root)[0]
         console.log("Show : " + node)
-        if (node.parent) {
+        if (node && node.parent) {
             showChildren(node.parent)
             update(node.parent);
         }
@@ -142,7 +185,7 @@
         console.log("Remove : " + childName)
         let node = getVisibleNode(childName, root)[0]
         console.log("Hide : " + node)
-        if (node.parent) {
+        if (node && node.parent) {
             hideChildren(node.parent)
             update(node.parent);
         }
@@ -308,12 +351,12 @@
     }
 
     function makeTransition(current, index) {
-        let transitionType = {
+        let transition = {
             transitionForward: () => addItem(current),
             transitionBackward: () => removeItem(current),
             index: index
         }
-        return transitionType
+        return transition
     }
 
     let trans = makeTransition(items[0], 0)
@@ -322,13 +365,24 @@
 
     let _transitions2 = []
 
-    items.forEach(function(element,index){
+    items.forEach(function (element, index) {
         if (index !== 0) {
-            let transition = makeTransition(element, index)
-            _transitions2.push(transition)
+            if (index === items.length - 1) {
+                let transition = {
+                    transitionForward: () => showAll(element),
+                    transitionBackward: () => removeItem(element),
+                    index: index - 1
+                }
+                _transitions2.push(transition)
+            } else {
+                let transition = makeTransition(element, index - 1)
+                _transitions2.push(transition)
+            }
         }
     })
 
     console.log(_transitions2)
+    console.log(JSON.stringify(_transitions2))
+
     var _transitions = _transitions2
 </script>
