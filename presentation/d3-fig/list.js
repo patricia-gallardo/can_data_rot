@@ -144,9 +144,9 @@ function makeTransitions(strings, rootNode) {
     return _transitions2;
 }
 
-function hideSubtree(subtree) {
+function hideSubtree(subtree, rootNode) {
     collapse(subtree)
-    update(subtree, root);
+    update(subtree, rootNode);
 }
 
 function addItem(childName, rootNode) {
@@ -164,7 +164,7 @@ function removeItem(childName, rootNode) {
     let node = getVisibleNode(childName, rootNode)[0]
     console.log("Hide : " + node)
     if (node && node.parent) {
-        hideSubtree(node.parent)
+        hideSubtree(node.parent, rootNode)
     }
 }
 
@@ -305,7 +305,7 @@ function update(source, rootNode = root) {
 // Toggle children on click.
     function click(d) {
         if (d.children) {
-            hideSubtree(d);
+            hideSubtree(d, root);
         } else {
             showChildren(d);
             update(d, root);
