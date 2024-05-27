@@ -121,10 +121,11 @@ function expand(d) {
     }
 }
 
-function showChildren(d) {
+function showChildren(d, listContext) {
     if (d._children) {
         d.children = d._children;
         d._children = null;
+        update(d, listContext);
     }
 }
 
@@ -193,8 +194,7 @@ function addItem(childName, listContext) {
     let node = findNode(childName, [listContext.root])
     console.log("Show : " + node)
     if (node && node.parent) {
-        showChildren(node.parent)
-        update(node.parent, listContext);
+        showChildren(node.parent, listContext)
     }
 }
 
@@ -353,8 +353,7 @@ function update(source, listContext) {
         if (d.children) {
             hideSubtree(d, listContext);
         } else {
-            showChildren(d);
-            update(d, listContext);
+            showChildren(d, listContext);
         }
     }
 }
