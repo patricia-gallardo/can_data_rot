@@ -23,6 +23,10 @@
     var _transitions = [
         {
             transitionForward: () => context.simulation.alpha(1).restart(),
+            index: "onSlideChange"
+        },
+        {
+            transitionForward: () => context.simulation.alpha(1).restart(),
             transitionBackward: () => context.simulation.alpha(1).restart(),
             index: 0
         },
