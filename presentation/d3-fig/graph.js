@@ -20,7 +20,7 @@ function makeGraphContext(_graph) {
     let forceProperties = {
         center: {
             x: 0.5,
-            y: 0.6
+            y: 0.5
         },
         charge: {
             enabled: true,
