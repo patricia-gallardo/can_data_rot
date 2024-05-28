@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<body>
+<!-- load the d3.js library -->
+<!-- https://gist.github.com/d3noob/1a96af738c89b88723eb63456beb6510/f2a2a09df5233e4dffea48d9598472da91a5eb1a -->
+<script src="https://d3js.org/d3.v6.min.js"></script>
+<script src="list.js"></script>
+<script>
+    console.log("Init tree slide")
+
+    let items =
+        {
+            "name": "Root",
+            "children": [
+                {
+                    "name": "R",
+                    "children": [
+                        {
+                            "name": "RR",
+                            "children": [
+                                {"name": "RRR"},
+                                {"name": "RRL"}
+                            ]
+                        },
+                        {
+                            "name": "RL",
+                            "children": [
+                                {"name": "RLR"},
+                                {"name": "RLL"}
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "L",
+                    "children": [
+                        {
+                            "name": "LR",
+                            "children": [
+                                {"name": "LRR"},
+                                {"name": "LRL"}
+                            ]
+                        },
+                        {
+                            "name": "LL",
+                            "children": [
+                                {"name": "LLR"},
+                                {"name": "LLL"}
+                            ]
+                        }
+                    ]
+                }
+            ]
+        };
+
+
+    const listContext = makeTreeContext(items);
+
+    var _transitions = [
+        {
+            transitionForward: () => addItem('R', listContext),
+            transitionBackward: () => removeItem('R', listContext),
+            index: 0
+        },
+        {
+            transitionForward: () => addItem('RR', listContext),
+            transitionBackward: () => removeItem('RR', listContext),
+            index: 1
+        },
+        {
+            transitionForward: () => addItem('LR', listContext),
+            transitionBackward: () => removeItem('LR', listContext),
+            index: 2
+        },
+        {
+            transitionForward: () => addItem('RRR', listContext),
+            transitionBackward: () => removeItem('RRR', listContext),
+            index: 3
+        },
+        {
+            transitionForward: () => addItem('RLR', listContext),
+            transitionBackward: () => removeItem('RLR', listContext),
+            index: 4
+        },
+        {
+            transitionForward: () => addItem('LRR', listContext),
+            transitionBackward: () => removeItem('LRR', listContext),
+            index: 5
+        },
+        {
+            transitionForward: () => addItem('LLR', listContext),
+            transitionBackward: () => removeItem('LLR', listContext),
+            index: 6
+        },
+        {
+            transitionForward: () => showAll('LLL', listContext),
+            transitionBackward: () => removeItem('LLL', listContext),
+            index: 7
+        },
+    ]
+</script>
