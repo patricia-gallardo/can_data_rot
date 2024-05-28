@@ -24,9 +24,9 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
   --r-heading-color: "gray";
   --r-heading-line-height: 1.2;
   --r-heading-letter-spacing: normal;
-  --r-heading-text-transform: uppercase;
+  /*--r-heading-text-transform: uppercase;*/
   --r-heading-text-shadow: none;
-  --r-heading-font-weight: 200;
+  --r-heading-font-weight: 100;
   --r-heading1-text-shadow: none;
   --r-heading1-size: 2.5em;
   --r-heading2-size: 1.6em;
