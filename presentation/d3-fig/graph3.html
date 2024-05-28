@@ -244,9 +244,6 @@
     const width = window.innerWidth - margin.left - margin.right;
     const height = Math.min(850, window.innerHeight - margin.top - margin.bottom);
 
-    // var svg = d3.select("svg"),
-    //     width = +svg.node().getBoundingClientRect().width,
-    //     height = +svg.node().getBoundingClientRect().height;
     const svg = d3.select("body")
         .append("svg")
         .attr("width", width + margin.left + margin.right)
@@ -261,7 +258,6 @@
     var graph;
 
     // load the data
-    // d3.json("./data_network.json", function (error, _graph) {
     d3.json("./miserables.json").then(function (_graph) {
         console.log("Read file 3")
         // if (error) throw error;
