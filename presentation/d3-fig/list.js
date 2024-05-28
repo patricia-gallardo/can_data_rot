@@ -4,7 +4,7 @@ function makeListContext(items) {
     // Set the dimensions and margins of the diagram
     const margin = {top: 20, right: 90, bottom: 30, left: 90};
     const width = window.innerWidth - margin.left - margin.right;
-    const height = Math.min(500, window.innerHeight - margin.top - margin.bottom);
+    const height = Math.min(850, window.innerHeight - margin.top - margin.bottom);
 
     let hierarchy = makeHierarchy(tree, height);
     const svg = makeSvg(width, height, margin);
@@ -27,7 +27,7 @@ function makeTreeContext(tree) {
     // Set the dimensions and margins of the diagram
     const margin = {top: 20, right: 90, bottom: 30, left: 90};
     const width = window.innerWidth - margin.left - margin.right;
-    const height = Math.min(500, window.innerHeight - margin.top - margin.bottom);
+    const height = Math.min(850, window.innerHeight - margin.top - margin.bottom);
 
     let hierarchy = makeHierarchy(tree, height);
     const svg = makeSvg(width, height, margin);
