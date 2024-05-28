@@ -30,7 +30,8 @@
     // Set the dimensions and margins of the diagram
     const margin = {top: 20, right: 90, bottom: 30, left: 90};
     const width = window.innerWidth - margin.left - margin.right;
-    const height = Math.min(500, window.innerHeight - margin.top - margin.bottom);
+    // const height = window.innerHeight - margin.top - margin.bottom;
+    const height = Math.min(850, window.innerHeight - margin.top - margin.bottom);
 
     // append the svg object to the body of the page
     const svg = d3.select("body")
@@ -78,12 +79,55 @@
             .on("drag", dragged)
             .on("end", dragended));
 
+        // values for all forces
+        forceProperties = {
+            center: {
+                x: 0.5,
+                y: 0.5
+            },
+            charge: {
+                enabled: true,
+                strength: -100,
+                distanceMin: 1,
+                distanceMax: 2000
+            },
+            collide: {
+                enabled: true,
+                strength: .7,
+                iterations: 1,
+                radius: 5
+            },
+            forceX: {
+                enabled: false,
+                strength: .1,
+                x: .5
+            },
+            forceY: {
+                enabled: false,
+                strength: .1,
+                y: .5
+            },
+            link: {
+                enabled: true,
+                distance: 30,
+                iterations: 1
+            }
+        }
+
         // Create a simulation with several forces.
         const simulation = d3.forceSimulation(nodes)
             .force("link", d3.forceLink(links).id(d => d.id))
             .force("charge", d3.forceManyBody())
-            .force("center", d3.forceCenter(width / 2, height / 2))
+            .force("center", d3.forceCenter())
             .on("tick", ticked);
+
+        simulation.force("center")
+            .x(width * forceProperties.center.x)
+            .y(height * forceProperties.center.y);
+        simulation.force("charge")
+            .strength(forceProperties.charge.strength * forceProperties.charge.enabled)
+            .distanceMin(forceProperties.charge.distanceMin)
+            .distanceMax(forceProperties.charge.distanceMax);
 
         // Set the position attributes of links and nodes each time the simulation ticks.
         function ticked() {

@@ -242,7 +242,7 @@
     // Set the dimensions and margins of the diagram
     const margin = {top: 20, right: 90, bottom: 30, left: 90};
     const width = window.innerWidth - margin.left - margin.right;
-    const height = Math.min(500, window.innerHeight - margin.top - margin.bottom);
+    const height = Math.min(850, window.innerHeight - margin.top - margin.bottom);
 
     // var svg = d3.select("svg"),
     //     width = +svg.node().getBoundingClientRect().width,
@@ -262,7 +262,7 @@
 
     // load the data
     // d3.json("./data_network.json", function (error, _graph) {
-    d3.json("./data_network.json").then(function (_graph) {
+    d3.json("./miserables.json").then(function (_graph) {
         console.log("Read file 3")
         // if (error) throw error;
         graph = _graph;
@@ -286,8 +286,8 @@
     // values for all forces
     forceProperties = {
         center: {
-            x: 0.5,
-            y: 0.5
+            x: 0.3,
+            y: 0.6
         },
         charge: {
             enabled: true,
