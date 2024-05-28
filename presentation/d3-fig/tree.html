@@ -33,8 +33,20 @@
                 {
                     "name": "L",
                     "children": [
-                        {"name": "LR"},
-                        {"name": "LL"}
+                        {
+                            "name": "LR",
+                            "children": [
+                                {"name": "LRR"},
+                                {"name": "LRL"}
+                            ]
+                        },
+                        {
+                            "name": "LL",
+                            "children": [
+                                {"name": "LLR"},
+                                {"name": "LLL"}
+                            ]
+                        }
                     ]
                 }
             ]
@@ -65,9 +77,24 @@
             index: 3
         },
         {
-            transitionForward: () => showAll('LL', listContext),
-            transitionBackward: () => removeItem('LL', listContext),
+            transitionForward: () => addItem('LR', listContext),
+            transitionBackward: () => removeItem('LR', listContext),
             index: 4
-        }
+        },
+        {
+            transitionForward: () => addItem('LRR', listContext),
+            transitionBackward: () => removeItem('LRR', listContext),
+            index: 5
+        },
+        {
+            transitionForward: () => addItem('LLR', listContext),
+            transitionBackward: () => removeItem('LLR', listContext),
+            index: 6
+        },
+        {
+            transitionForward: () => showAll('LLL', listContext),
+            transitionBackward: () => removeItem('LLL', listContext),
+            index: 7
+        },
     ]
 </script>
