@@ -262,9 +262,12 @@ function update(source, listContext) {
 
     // Add labels for the nodes
     nodeEnter.append('text')
-        .attr("dy", -20)
+        .attr("dy", -25)
         .attr("text-anchor", 'middle')
         .attr("fill", "#24425C")
+        .style('font-size', '30px')
+        .style('font-family', '"Fira Sans", sans-serif')
+        .style('font-weight', '400')
         .attr("alignment-baseline", 'middle')
         .text(function (d) {
             return d.data.name;
