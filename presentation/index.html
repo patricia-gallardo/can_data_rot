@@ -15,55 +15,39 @@
 <body>
 <div class="reveal">
 <div class="slides">
+
     <section>
-        <h1>Can Data Rot?</h1>
-        <h3 class="fragment">Patricia Aas</h3>
-        <h4 class="fragment">NAV 2023</h4>
+        <div class="col-100 fig-container no-margin-top" data-file="d3-fig/eclipses.html"></div>
+    </section>
+
+    <section>
+        <header>
+            <h1 class="fragment">Can Data Rot?</h1>
+            <h2 class="fragment">Forgetting History</h2>
+            <h3 class="fragment">Patricia Aas</h3>
+            <h3 class="fragment">NAV 2024</h3>
+        </header>
     </section>
 
 <section>
-    <h3>Embed interactive D3 visualizations</h3>
-    <div class="row no-margin-top">
-        <div class="col-50">
-            <p>Embed D3 visualizations into slides, and keep the original interactivity.</p>
-            <p>(click on the globe and drag it to explore the different paths!)</p>
-            <p><span class="u">Visualization:</span><br><a href='https://bl.ocks.org/Fil/63366253a5d2f00640c15b096c29a38c' target='_blank'>Eclipses path</a> by Philippe Riviere and friends</p>
-            <p class="small">(Press right arrow or space bar to navigate to next slide)</p>
-        </div>
-        <div class="col-50 fig-container no-margin-top" data-file="d3-fig/eclipses.html">
-    </div>
-  </div>
+    <h2>LIST TEST</h2>
+    <div class="fig-container no-margin-top" data-file="d3-fig/list.html" data-preload style="overflow: visible"></div>
 </section>
 
-<section class="fig-container" data-preload
-         data-file="d3-fig/list.html" style="overflow: visible">
-    <h3>LIST TEST</h3>
+<section>
+    <h2>TREE TEST 1.3</h2>
+    <div class="fig-container no-margin-top" data-file="d3-fig/tree.html" data-preload style="overflow: visible"></div>
 </section>
 
-<section class="fig-container" data-preload
-         data-file="d3-fig/tree.html" style="overflow: visible">
-    <h3>TREE TEST 1</h3>
+<section>
+    <h2>GRAPH TEST 2</h2>
+    <div class="fig-container no-margin-top" data-file="d3-fig/graph2.html" data-preload style="overflow: visible"></div>
 </section>
 
-<!--<section class="fig-container" data-preload-->
-<!--         data-file="d3-fig/graph.html" style="overflow: visible">-->
-<!--    <h3>GRAPH TEST 1</h3>-->
-<!--</section>-->
-
-<section class="fig-container" data-preload
-         data-file="d3-fig/graph2.html" style="overflow: visible">
-    <h3>GRAPH TEST 2</h3>
+<section>
+    <h2>GRAPH TEST 3</h2>
+    <div class="fig-container no-margin-top" data-file="d3-fig/graph3.html" data-preload style="overflow: visible"></div>
 </section>
-
-<section class="fig-container" data-preload
-         data-file="d3-fig/graph3.html" style="overflow: visible">
-    <h3>GRAPH TEST 3</h3>
-</section>
-
-<!--<section class="fig-container"-->
-<!--         data-file="d3-fig/tree2.html" style="overflow: visible">-->
-<!--    <h3>TREE TEST 2</h3>-->
-<!--</section>-->
 
 <section class="fig-container"
          data-file="d3-fig/collision-detection.html" style="overflow: visible">
@@ -235,7 +219,7 @@ Reveal.initialize({
     controls: false,
     progress: true,
     history: true,
-    center: false,
+    // center: false,
     // disableLayout: false, // Unsure about this....
     transition: 'fade',
     viewDistance: 3, // to lazy load iframes
