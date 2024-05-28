@@ -211,6 +211,9 @@ function removeItem(childName, listContext) {
 
 function update(source, listContext) {
 
+    // Specify the color scale.
+    const color = d3.scaleOrdinal(d3.schemeCategory10);
+
     // Assigns the x and y position for the nodes
     let root = listContext.root;
     console.log("root : " + root)
@@ -294,7 +297,7 @@ function update(source, listContext) {
 
     // On exit reduce the opacity of text labels
     nodeExit.select('text')
-        .style('fill-opacity', 1e-6);
+        .attr('fill-opacity', 1e-6);
 
     // ****************** links section ***************************
 
@@ -308,8 +311,8 @@ function update(source, listContext) {
     const linkEnter = link.enter().insert('path', "g")
         .attr("class", "link")
         .attr("fill", "none")
-        .style("stroke", "#24425C")
-        .style("stroke-width", "2px")
+        .attr("stroke", "#24425C")
+        .attr("stroke-width", "2px")
         .attr('d', function (d) {
             const o = {x: source.x0, y: source.y0};
             return diagonal(o, o)
