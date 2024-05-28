@@ -3,239 +3,17 @@
 <!-- load the d3.js library -->
 <!-- https://observablehq.com/@d3/force-directed-graph/2 -->
 <script src="https://d3js.org/d3.v6.min.js"></script>
-<!--<script src="list.js"></script>-->
+<script src="graph.js"></script>
 <script>
-    console.log("Init graph2 slide")
+    console.log("Init graph miserables.json")
     let graphfile = "./miserables.json";
 
-    // Set the dimensions and margins of the diagram
-    const margin = {top: 0, right: 90, bottom: 20, left: 90};
-    const width = window.innerWidth - margin.left - margin.right;
-    const height = Math.min(850, window.innerHeight - margin.top - margin.bottom);
+    let context = null
 
-    // append the svg object to the body of the page
-    const svg = d3.select("body")
-        .append("svg")
-        .attr("width", width + margin.left + margin.right)
-        .attr("height", height + margin.top + margin.bottom)
-        .append("g")
-        .attr("transform",
-            `translate(${margin.left}, ${margin.top})`);
-
-    // svg objects
-    var link, node;
-    // the data - an object with nodes and links
-    var graph;
-
-    // load the data
     d3.json(graphfile).then(function (_graph) {
-        console.log("Read file 3")
-        // if (error) throw error;
-        graph = _graph;
-        // The force simulation mutates links and nodes, so create a copy
-        // so that re-evaluating this cell produces the same result.
-        const links = _graph.links.map(d => ({...d}));
-        const nodes = _graph.nodes.map(d => ({...d}));
-        graph.links = links
-        graph.nodes = nodes
-        initializeDisplay();
-        initializeSimulation();
-    });
-
-
-    //////////// FORCE SIMULATION ////////////
-
-    // force simulator
-    var simulation = d3.forceSimulation();
-
-    // set up the simulation and event to update locations after each tick
-    function initializeSimulation() {
-        simulation.nodes(graph.nodes);
-        initializeForces();
-        simulation.on("tick", ticked);
-    }
-
-    // values for all forces
-    forceProperties = {
-        center: {
-            x: 0.5,
-            y: 0.6
-        },
-        charge: {
-            enabled: true,
-            strength: -100,
-            distanceMin: 1,
-            distanceMax: 2000
-        },
-        collide: {
-            enabled: true,
-            strength: .7,
-            iterations: 1,
-            radius: 5
-        },
-        forceX: {
-            enabled: false,
-            strength: .1,
-            x: .5
-        },
-        forceY: {
-            enabled: false,
-            strength: .1,
-            y: .5
-        },
-        link: {
-            enabled: true,
-            distance: 30,
-            iterations: 1
-        }
-    }
-
-    // add forces to the simulation
-    function initializeForces() {
-        // add forces and associate each with a name
-        simulation
-            .force("link", d3.forceLink())
-            .force("charge", d3.forceManyBody())
-            .force("collide", d3.forceCollide())
-            .force("center", d3.forceCenter())
-            .force("forceX", d3.forceX())
-            .force("forceY", d3.forceY());
-        // apply properties to each of the forces
-        updateForces();
-    }
-
-    // apply new force properties
-    function updateForces() {
-        // get each force by name and update the properties
-        simulation.force("center")
-            .x(width * forceProperties.center.x)
-            .y(height * forceProperties.center.y);
-        simulation.force("charge")
-            .strength(forceProperties.charge.strength * forceProperties.charge.enabled)
-            .distanceMin(forceProperties.charge.distanceMin)
-            .distanceMax(forceProperties.charge.distanceMax);
-        simulation.force("collide")
-            .strength(forceProperties.collide.strength * forceProperties.collide.enabled)
-            .radius(forceProperties.collide.radius)
-            .iterations(forceProperties.collide.iterations);
-        simulation.force("forceX")
-            .strength(forceProperties.forceX.strength * forceProperties.forceX.enabled)
-            .x(width * forceProperties.forceX.x);
-        simulation.force("forceY")
-            .strength(forceProperties.forceY.strength * forceProperties.forceY.enabled)
-            .y(height * forceProperties.forceY.y);
-        simulation.force("link")
-            .id(function (d) {
-                return d.id;
-            })
-            .distance(forceProperties.link.distance)
-            .iterations(forceProperties.link.iterations)
-            .links(forceProperties.link.enabled ? graph.links : []);
-
-        // updates ignored until this is run
-        // restarts the simulation (important if simulation has already slowed down)
-        simulation.alpha(1).restart();
-    }
-
-
-    //////////// DISPLAY ////////////
-
-    // generate the svg objects and force simulation
-    function initializeDisplay() {
-
-        // Specify the color scale.
-        const color = d3.scaleOrdinal(d3.schemeCategory10);
-
-        // Add a line for each link, and a circle for each node.
-        link = svg.append("g")
-            .attr("stroke", "#999")
-            .attr("stroke-opacity", 0.6)
-            .selectAll()
-            .data(graph.links)
-            .join("line")
-            .attr("stroke-width", d => Math.sqrt(d.value));
-
-        node = svg.append("g")
-            .attr("stroke", "#fff")
-            .attr("stroke-width", 1.5)
-            .selectAll()
-            .data(graph.nodes)
-            .join("circle")
-            .attr("r", 5)
-            .attr("fill", d => color(d.group));
-
-        node.append("title")
-            .text(d => d.id);
-
-        // Add a drag behavior.
-        node.call(d3.drag()
-            .on("start", dragstarted)
-            .on("drag", dragged)
-            .on("end", dragended));
-
-        // visualize the graph
-        updateDisplay();
-    }
-
-    // update the display based on the forces (but not positions)
-    function updateDisplay() {
-        node
-            .attr("r", forceProperties.collide.radius)
-        // .attr("stroke", forceProperties.charge.strength > 0 ? "blue" : "red")
-        // .attr("stroke-width", forceProperties.charge.enabled == false ? 0 : Math.abs(forceProperties.charge.strength) / 15);
-
-        link
-            .attr("stroke-width", forceProperties.link.enabled ? 1 : .5)
-            .attr("opacity", forceProperties.link.enabled ? 1 : 0);
-    }
-
-    // Set the position attributes of links and nodes each time the simulation ticks.
-    function ticked() {
-        console.log("Tick2")
-        link
-            .attr("x1", d => d.source.x)
-            .attr("y1", d => d.source.y)
-            .attr("x2", d => d.target.x)
-            .attr("y2", d => d.target.y);
-
-        node
-            .attr("cx", d => d.x)
-            .attr("cy", d => d.y);
-    }
-
-    // Reheat the simulation when drag starts, and fix the subject position.
-    function dragstarted(event) {
-        if (!event.active) simulation.alphaTarget(0.3).restart();
-        event.subject.fx = event.subject.x;
-        event.subject.fy = event.subject.y;
-    }
-
-    // Update the subject (dragged node) position during drag.
-    function dragged(event) {
-        event.subject.fx = event.x;
-        event.subject.fy = event.y;
-    }
-
-    // Restore the target alpha so the simulation cools after dragging ends.
-    // Unfix the subject position now that it’s no longer being dragged.
-    function dragended(event) {
-        if (!event.active) simulation.alphaTarget(0);
-        event.subject.fx = null;
-        event.subject.fy = null;
-    }
-
-    // update size-related forces
-    d3.select(window).on("resize", function () {
-        // width = +svg.node().getBoundingClientRect().width;
-        // height = +svg.node().getBoundingClientRect().height;
-        updateForces();
-    });
-
-    // convenience function to update everything (run after UI input)
-    function updateAll() {
-        updateForces();
-        updateDisplay();
-    }
+        console.log("Read file 3");
+        context = makeGraphContext(_graph);
+    })
 
     // When this cell is re-run, stop the previous simulation. (This doesn’t
     // really matter since the target alpha is zero and the simulation will
@@ -244,8 +22,8 @@
 
     var _transitions = [
         {
-            transitionForward: () => simulation.alpha(1).restart(),
-            transitionBackward: () => simulation.alpha(1).restart(),
+            transitionForward: () => context.simulation.alpha(1).restart(),
+            transitionBackward: () => context.simulation.alpha(1).restart(),
             index: 0
         },
         // {
