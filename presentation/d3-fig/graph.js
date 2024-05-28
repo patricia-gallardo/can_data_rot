@@ -1,6 +1,6 @@
 function makeGraphContext(_graph) {
     // Set the dimensions and margins of the diagram
-    const margin = {top: 0, right: 90, bottom: 20, left: 90};
+    const margin = {top: 0, right: 90, bottom: 30, left: 90};
     const width = window.innerWidth - margin.left - margin.right;
     const height = Math.min(850, window.innerHeight - margin.top - margin.bottom);
 
