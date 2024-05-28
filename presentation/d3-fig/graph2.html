@@ -6,6 +6,7 @@
 <!--<script src="list.js"></script>-->
 <script>
     console.log("Init graph2 slide")
+    let graphfile = "./miserables.json";
 
     // Set the dimensions and margins of the diagram
     const margin = {top: 20, right: 90, bottom: 30, left: 90};
@@ -27,7 +28,7 @@
     var graph;
 
     // load the data
-    d3.json("./miserables.json").then(function (_graph) {
+    d3.json(graphfile).then(function (_graph) {
         console.log("Read file 3")
         // if (error) throw error;
         graph = _graph;
