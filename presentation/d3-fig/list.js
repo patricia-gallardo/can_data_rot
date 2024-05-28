@@ -250,14 +250,14 @@ function update(source, listContext) {
     nodeEnter.append('circle')
         .attr('class', 'node')
         .attr('r', 1e-6)
-        .style("fill", function (d) {
-            return d._children ? "lightsteelblue" : "#fff";
-        });
+        .attr("stroke", "#24425C")
+        .attr("stroke-width", "2px")
 
     // Add labels for the nodes
     nodeEnter.append('text')
         .attr("dy", -20)
         .attr("text-anchor", 'middle')
+        .attr("fill", "#24425C")
         .attr("alignment-baseline", 'middle')
         .text(function (d) {
             return d.data.name;
@@ -276,9 +276,7 @@ function update(source, listContext) {
     // Update the node attributes and style
     nodeUpdate.select('circle.node')
         .attr('r', 10)
-        .style("fill", function (d) {
-            return d._children ? "lightsteelblue" : "#fff";
-        })
+        .attr("fill", d => d._children ? "#24425C" : "#fff")
         .attr('cursor', 'pointer');
 
 
@@ -309,6 +307,9 @@ function update(source, listContext) {
     // Enter any new links at the parent's previous position.
     const linkEnter = link.enter().insert('path', "g")
         .attr("class", "link")
+        .attr("fill", "none")
+        .style("stroke", "#24425C")
+        .style("stroke-width", "2px")
         .attr('d', function (d) {
             const o = {x: source.x0, y: source.y0};
             return diagonal(o, o)
