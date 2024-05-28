@@ -32,7 +32,7 @@ function makeGraphContext(_graph) {
             enabled: true,
             strength: .7,
             iterations: 1,
-            radius: 5
+            radius: 10
         },
         forceX: {
             enabled: false,
