@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<body>
+<!-- load the d3.js library -->
+<!-- https://gist.github.com/d3noob/1a96af738c89b88723eb63456beb6510/f2a2a09df5233e4dffea48d9598472da91a5eb1a -->
+<script src="https://d3js.org/d3.v6.min.js"></script>
+<script src="../list.js"></script>
+<script>
+    console.log("Init list slide")
+
+    let items = ["2004-632638", "2006-814012", "2011-240721", "2015-340383", "2019-391203", "2020-315257", "2023-668270", "2024-100693"]
+    const color = d3.scaleOrdinal(items, d3.schemeCategory10);
+
+    const listContext = makeListContext(items, color);
+
+    var _transitions = makeTransitions(listContext)
+</script>
