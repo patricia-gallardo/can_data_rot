@@ -75,34 +75,41 @@
             </div>
         </section>
 
-        <!-- Code -->
-        <section data-markdown>
-            <script type="text/template">
-                ```php [1|3-5]
-                public function foo()
-                {
-                    $foo = array(
-                        'bar' => 'bar'
-                    )
-                }
-                ```
-            </script>
-        </section>
+        <section data-auto-animate style="display: flex; flex-direction: column; justify-content: center;">
+            <h2 data-id="code-title">With Animations</h2>
+            <pre data-id="code-animation">
+                <code class="hljs javascript" data-trim data-line-numbers="|4,8-11|17|22-24">
+                    <script type="text/template">
+                        import React, { useState } from 'react';
 
-        <!-- add optional line count offset, in this case 287 -->
-        <section data-markdown>
-            <script type="text/template">
-                ```c [287: 2|4,6]
-                /* All of the options in this arg are valid, so handle them. */
-                p = arg + 1;
-                do {
-                    if (*p == 'n')
-                        nflag = 0;
-                    if (*p == 'e')
-                        eflag = '\\';
-                } while (*++p);
-                ```
-            </script>
+                        function Example() {
+                          const [count, setCount] = useState(0);
+
+                          return (
+                            <div>
+                              <p>You clicked {count} times</p>
+                              <button onClick={() => setCount(count + 1)}>
+                                Click me
+                              </button>
+                            </div>
+                          );
+                        }
+
+                        function SecondExample() {
+                          const [count, setCount] = useState(0);
+
+                          return (
+                            <div>
+                              <p>You clicked {count} times</p>
+                              <button onClick={() => setCount(count + 1)}>
+                                Click me
+                              </button>
+                            </div>
+                          );
+                        }
+                    </script>
+                </code>
+            </pre>
         </section>
 
         <section style="display: flex; flex-direction: column; justify-content: center;">
@@ -187,14 +194,13 @@
 
 <script src="dist/reveal.js"></script>
 <script src="plugin/reveald3/reveald3.js"></script>
-<script src="plugin/markdown/markdown.js"></script>
 <script src="plugin/highlight/highlight.js"></script>
 <script>
 
     // Full list of configuration options available at:
     // https://github.com/hakimel/reveal.js#configuration
     Reveal.initialize({
-        plugins: [Reveald3, RevealMarkdown, RevealHighlight],
+        plugins: [Reveald3, RevealHighlight],
         controls: false,
         progress: true,
         history: true,
