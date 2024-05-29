@@ -168,14 +168,6 @@ function showAll(itemName, listContext) {
 }
 
 function makeBFTransitions(listContext) {
-    function makeTransition(current, index) {
-        return {
-            transitionForward: () => addItem(current, listContext),
-            transitionBackward: () => removeItem(current, listContext),
-            index: index
-        }
-    }
-
     function nodes(todoList) {
         let doneList = []
         while (todoList.length > 0) {
@@ -210,28 +202,14 @@ function makeBFTransitions(listContext) {
     let idList = compactList.map((item) => item.data.name)
     console.log(idList)
 
-    let _transitions = []
-
-    idList.forEach(function (element, index) {
-        if (index !== 0) {
-            if (index === listContext.items.length - 1) {
-                let transition = {
-                    transitionForward: () => showAll(element, listContext),
-                    transitionBackward: () => removeItem(element, listContext),
-                    index: index - 1
-                }
-                _transitions.push(transition)
-            } else {
-                let transition = makeTransition(element, index - 1)
-                _transitions.push(transition)
-            }
-        }
-    })
-
-    return _transitions;
+    return transitionsFromList(idList, listContext);
 }
 
 function makeTransitions(listContext) {
+    return transitionsFromList(listContext.items, listContext);
+}
+
+function transitionsFromList(list, listContext) {
     function makeTransition(current, index) {
         return {
             transitionForward: () => addItem(current, listContext),
@@ -242,9 +220,9 @@ function makeTransitions(listContext) {
 
     let _transitions = []
 
-    listContext.items.forEach(function (element, index) {
+    list.forEach(function (element, index) {
         if (index !== 0) {
-            if (index === listContext.items.length - 1) {
+            if (index === list.length - 1) {
                 let transition = {
                     transitionForward: () => showAll(element, listContext),
                     transitionBackward: () => removeItem(element, listContext),
@@ -257,9 +235,6 @@ function makeTransitions(listContext) {
             }
         }
     })
-
-    console.log(_transitions)
-    console.log(JSON.stringify(_transitions))
     return _transitions;
 }
 
