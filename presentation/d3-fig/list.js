@@ -11,6 +11,9 @@ function makeListContext(items) {
     let hierarchy = makeHierarchy(tree, height);
     const svg = makeSvg(width, height, margin);
 
+    // Right to left? https://klimenko.dk/blog/2021/right-to-left-d3-tree/
+    // https://observablehq.com/@romaklimenko/right-to-left-tidy-tree
+
     let context = {
         items: items,
         treeData: tree,
