@@ -190,7 +190,7 @@ function makeBFTransitions(listContext) {
         return doneList
     }
 
-    let nodesList = nodes([listContext.root], [])
+    let nodesList = nodes([listContext.root])
     let idList = nodesList.map((item) => item.data.name)
     console.log(idList)
 
