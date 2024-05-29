@@ -8,7 +8,30 @@
     console.log("Init list slide")
 
     let items = ["2004-632638", "2006-814012", "2011-240721", "2015-340383", "2019-391203", "2020-315257", "2023-668270", "2024-100693"]
-    const color = d3.scaleOrdinal(items, d3.schemeCategory10);
+    const color = d3.scaleOrdinal()
+					.domain(items)
+					.range([
+						'#d62728',
+						'#d62728',
+						'#ff7f0e', // '#ffc107',
+						'#ff7f0e', // '#ffc107',
+						'#4caf50', // has bad change
+						'#4caf50', // has bad change
+						'#1f77b4',
+						'#1f77b4',
+					]);
+
+    // schemeCategory10:
+    // 1f77b4
+    // ff7f0e
+    // 2ca02c
+    // d62728
+    // 9467bd
+    // 8c564b
+    // e377c2
+    // 7f7f7f
+    // bcbd22
+    // 17becf
 
     const listContext = makeListContext(items, color);
 

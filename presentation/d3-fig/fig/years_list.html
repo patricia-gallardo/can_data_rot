@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<body>
+<!-- load the d3.js library -->
+<!-- https://gist.github.com/d3noob/1a96af738c89b88723eb63456beb6510/f2a2a09df5233e4dffea48d9598472da91a5eb1a -->
+<script src="https://d3js.org/d3.v6.min.js"></script>
+<script src="../list.js"></script>
+<script>
+    console.log("Init list slide")
+
+    let items = ["2003", "2004", "2005", "2006", "2007", "2008", "2009", "2010", "2011", "2012", "2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021", "2022", "2023", "2024"]
+    const color = d3.scaleOrdinal()
+					.domain(items)
+					.range([
+						'#d62728', // 2003
+						'#d62728', // 2004
+						'#d62728', // 2005
+						'#d62728', // 2006
+						'#d62728', // 2007
+						'#d62728', // 2008
+						'#d62728', // 2009
+						'#d62728', // 2010
+						'#ff7f0e', // 2011
+						'#ff7f0e', // 2012
+						'#ff7f0e', // 2013
+						'#ff7f0e', // 2014
+						'#ff7f0e', // 2015
+						'#ff7f0e', // 2016
+						'#1f77b4', // 2017
+						'#1f77b4', // 2018
+						'#1f77b4', // 2019
+						'#1f77b4', // 2020
+						'#1f77b4', // 2021
+						'#1f77b4', // 2022
+						'#1f77b4', // 2023
+						'#1f77b4', // 2024
+					]);
+
+    // schemeCategory10:
+    // 1f77b4
+    // ff7f0e
+    // 2ca02c
+    // d62728
+    // 9467bd
+    // 8c564b
+    // e377c2
+    // 7f7f7f
+    // bcbd22
+    // 17becf
+
+    const listContext = makeListContext(items, color);
+
+    // var _transitions = makeTransitions(listContext)
+
+    var _transitions = [
+        {
+            transitionForward: () => showAll("2024", listContext),
+            // transitionBackward: () => showAll("2024", listContext),
+            index: "onSlideChange"
+        },
+        {
+            transitionForward: () => showAll("2024", listContext),
+            transitionBackward: () => showAll("2024", listContext),
+            index: 0
+        },
+        // {
+        //     transitionForward: () => context.simulation.alpha(1).restart(),
+        //     transitionBackward: () => context.simulation.alpha(1).restart(),
+        //     index: 1
+        // },
+        // {
+        //     transitionForward: () => context.simulation.alpha(1).restart(),
+        //     transitionBackward: () => context.simulation.alpha(1).restart(),
+        //     index: 2
+        // }
+    ]
+</script>
