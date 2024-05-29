@@ -268,10 +268,19 @@ function update(source, listContext) {
         .attr("stroke", "#24425C")
         .attr("stroke-width", "2px")
 
+    function isParentNode(d) {
+        return d.children || d._children;
+    }
+
+    function hasParent(d) {
+        return d.parent;
+    }
+
     // Add labels for the nodes
     nodeEnter.append('text')
-        .attr("dy", -25)
-        .attr("text-anchor", 'middle')
+        .attr("x", (d) => (hasParent(d) ?  (isParentNode(d) ? -10 : 16) : -20 ) )
+        .attr("dy", (d) => (hasParent(d) ?  (isParentNode(d) ? -25 : 0) : 0) )
+        .attr("text-anchor", (d) => (hasParent(d) ? "start" : "end"))
         .attr("fill", "#24425C")
         .style('font-size', '30px')
         .style('font-family', '"Fira Sans", sans-serif')
