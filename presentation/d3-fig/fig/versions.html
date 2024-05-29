@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<body>
+<!-- load the d3.js library -->
+<!-- https://gist.github.com/d3noob/1a96af738c89b88723eb63456beb6510/f2a2a09df5233e4dffea48d9598472da91a5eb1a -->
+<script src="https://d3js.org/d3.v6.min.js"></script>
+<script src="../list.js"></script>
+<script>
+    console.log("Init versions slide")
+
+    let items =
+        {
+            "name": "Versions",
+            "children": [
+                {
+                    "name": "eForms",
+                },
+                {
+                    "name": "R2.0.9",
+                    "children": [
+                        {
+                            "name": "R2.0.9.SXX",
+                            "children": [
+                                {
+                                    "name": "V3.0.4",
+                                },
+                                {
+                                    "name": "V3.0.3",
+                                },
+                                {
+                                    "name": "V3.0.2",
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "R2.0.8",
+                    "children": [
+                        {
+                            "name": "R2.0.8.S02",
+                            "children": [
+                                {"name": "V2.0.0"},
+                                {"name": "Vanilla"},
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "R2.0.7",
+                    "children": [
+                        {"name": "R2.0.7.D02"},
+                    ]
+                },
+                {
+                    "name": "R2.0.6",
+                },
+                {
+                    "name": "R2.0.5",
+                },
+                {
+                    "name": "R1.0.0?",
+                },
+                {
+                    "name": "DTD.1.4",
+                },
+                {
+                    "name": "DTD.1.0?",
+                },
+            ]
+        };
+
+    const listContext = makeTreeContext(items);
+
+    var _transitions = [
+        {
+            transitionForward: () => showAll('DTD.1.0?', listContext),
+            index: "onSlideChange"
+        },
+        {
+            transitionForward: () => showAll('DTD.1.0?', listContext),
+            transitionBackward: () => showAll('DTD.1.0?', listContext),
+            index: 0
+        },
+    ]
+</script>
