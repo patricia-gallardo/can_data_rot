@@ -167,6 +167,44 @@ function showAll(itemName, listContext) {
     update(node.parent, listContext);
 }
 
+function makeDFTransitions(listContext) {
+    function nodes(todoList) {
+        let doneList = []
+        while (todoList.length > 0) {
+            const current = todoList.shift();
+            if (current.children) {
+                todoList = current.children.concat(todoList);
+            } else if (current._children) {
+                todoList = current._children.concat(todoList);
+            }
+            doneList.push(current)
+        }
+        return doneList
+    }
+
+    function compact(todoList) {
+        let doneList = []
+        let doneParents = []
+        while (todoList.length > 0) {
+            const current = todoList.shift();
+            if (current.parent === null) {
+                doneList.push(current)
+            } else if (!doneParents.includes(current.parent)) {
+                doneList.push(current)
+                doneParents.push(current.parent)
+            }
+        }
+        return doneList
+    }
+
+    let nodesList = nodes([listContext.root])
+    let compactList = compact(nodesList)
+    let idList = compactList.map((item) => item.data.name)
+    console.log(idList)
+
+    return transitionsFromList(idList, listContext);
+}
+
 function makeBFTransitions(listContext) {
     function nodes(todoList) {
         let doneList = []
