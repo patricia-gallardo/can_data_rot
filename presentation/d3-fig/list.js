@@ -396,10 +396,16 @@ function update(source, listContext) {
             return "translate(" + d.y + "," + d.x + ")";
         });
 
-    // Update the node attributes and style
+    function fillColor(d) {
+        if (d.data.color)
+            return d.data.color
+        return listContext.color ? listContext.color(d.data.name) : (d._children ? "#24425C" : "#fff");
+    }
+
+// Update the node attributes and style
     nodeUpdate.select('circle.node')
         .attr('r', 10)
-        .attr("fill", d => listContext.color ? listContext.color(d.data.name) : (d._children ? "#24425C" : "#fff"))
+        .attr("fill", d => fillColor(d))
         .attr('cursor', 'pointer');
 
 
