@@ -190,8 +190,24 @@ function makeBFTransitions(listContext) {
         return doneList
     }
 
+    function compact(todoList) {
+        let doneList = []
+        let currentParent = null
+        while (todoList.length > 0) {
+            const current = todoList.shift();
+            if (current.parent === null) {
+                doneList.push(current)
+            } else if (currentParent !== current.parent) {
+                doneList.push(current)
+                currentParent = current.parent
+            }
+        }
+        return doneList
+    }
+
     let nodesList = nodes([listContext.root])
-    let idList = nodesList.map((item) => item.data.name)
+    let compactList = compact(nodesList)
+    let idList = compactList.map((item) => item.data.name)
     console.log(idList)
 
     let _transitions = []
