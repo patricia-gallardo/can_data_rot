@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DOFFIN_ESENDERS xsi:noNamespaceSchemaLocation="DOFFIN_ESENDERS.xd" VERSION="V3.0.1"
+                 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <FORM_SECTION>
+        <NOTICE_UUID>15e3740f-ff97-45f1-a33b-4fa3391a9441</NOTICE_UUID>
+        <F03_2014 FORM="F03" CATEGORY="ORIGINAL" LG="NB">
+            <CONTRACTING_BODY>
+                <ADDRESS_CONTRACTING_BODY>
+                    <OFFICIALNAME>Arbeids- og velferdsdirektoratet, Økonomi- og styringsavdelingen,
+                        Anskaffelsesseksjonen
+                    </OFFICIALNAME>
+                    <NATIONALID>889 640 782</NATIONALID>
+                    <ADDRESS>Postboks 5, St Olavs plass</ADDRESS>
+                    <TOWN>OSLO</TOWN>
+                    <POSTAL_CODE>0130</POSTAL_CODE>
+                    <COUNTRY VALUE="NO"/>
+                    <CONTACT_POINT>Gunnar Helge Wiik</CONTACT_POINT>
+                    <PHONE>+47 21071944</PHONE>
+                    <E_MAIL>gunnar.helge.wiik@nav.no</E_MAIL>
+                    <LOCATION code="010300"/>
+                    <URL_GENERAL>www.nav.no</URL_GENERAL>
+                    <URL_BUYER>https://kgv.doffin.no/ctm/Company/CompanyInformation/Index/1002</URL_BUYER>
+                </ADDRESS_CONTRACTING_BODY>
+                <CA_TYPE VALUE="MINISTRY"/>
+                <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+            </CONTRACTING_BODY>
+            <OBJECT_CONTRACT>
+                <TITLE>
+                    <P>Anskaffelse – Rammeavtale for selvbetjening, veiledning og oppfølging</P>
+                </TITLE>
+                <REFERENCE_NUMBER>17-2726</REFERENCE_NUMBER>
+                <CPV_MAIN>
+                    <CPV_CODE CODE="72200000"/>
+                </CPV_MAIN>
+                <TYPE_CONTRACT CTYPE="SERVICES"/>
+                <SHORT_DESCR>
+                    <P>Formålet med anskaffelsen er å etablere kontrakt for leveranser av tjenester for utvikling og
+                        vedlikehold av systemløsninger innenfor selvbetjening, veiledning og oppfølging med to
+                        leverandører. Oppdragsgiver har et stort antall løsninger innenfor selvbetjening, oppfølging og
+                        veiledning. Antall brukere av selvbetjeningsløsninger og antall interne brukere er oppgitt i
+                        vedlagte dokumenter. Arbeidet vil i hovedsak omfatte arkitektur, løsningsutforming / design,
+                        utvikling, test, feilretting, forebyggende vedlikehold samt teknisk støtte.
+                    </P>
+                    <P>Oppdragsgiver vil gjennomføre utvikling og vedlikehold basert på interne ressurser med
+                        ressursforsterkning samt dekning av svingninger i kapasitetsbehov fra leverandørene. Det vil
+                        også være aktuelt at leverandørene tar ansvaret for gjennomføring av utviklingsoppdrag.
+                    </P>
+                    <P>Oppdragsgiver vil legge vekt på bruk av en iterativ og smidig gjennomføringsmodell.</P>
+                    <P>Tildelingskriterier: Kostnad 35% Kvalitet: 65% (oversikt viser innbyrdes vekting av
+                        kvalitetskriteriene)
+                    </P>
+                </SHORT_DESCR>
+                <VAL_TOTAL CURRENCY="NOK">283001320.00</VAL_TOTAL>
+                <NO_LOT_DIVISION/>
+                <OBJECT_DESCR ITEM="1">
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72210000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72230000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72240000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72250000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72600000"/>
+                    </CPV_ADDITIONAL>
+                    <LOCATION code="010300"/>
+                    <MAIN_SITE>
+                        <P>Oslo</P>
+                    </MAIN_SITE>
+                    <SHORT_DESCR>
+                        <P>Formålet med anskaffelsen er å etablere parallelle rammeavtaler for leveranser av tjenester
+                            for utvikling og forvaltning av systemløsninger innenfor selvbetjening, veiledning og
+                            oppfølging med to leverandører. Nærmere beskrivelser av omfang fremgår av
+                            konkurransegrunnlaget.
+                        </P>
+                    </SHORT_DESCR>
+                    <AC_QUALITY>
+                        <AC_CRITERION>Kvalitet i forhold til kompetanse for ressurser jf. pkt. 2.9.1. underpkt. 2.1
+                        </AC_CRITERION>
+                        <AC_WEIGHTING>40%</AC_WEIGHTING>
+                    </AC_QUALITY>
+                    <AC_QUALITY>
+                        <AC_CRITERION>Kvalitet i forhold til kompetanse for ressurser jf. pkt. 2.9.1. underpkt. 2.2
+                        </AC_CRITERION>
+                        <AC_WEIGHTING>30%</AC_WEIGHTING>
+                    </AC_QUALITY>
+                    <AC_QUALITY>
+                        <AC_CRITERION>Kvalitet på tjenestene</AC_CRITERION>
+                        <AC_WEIGHTING>25%</AC_WEIGHTING>
+                    </AC_QUALITY>
+                    <AC_QUALITY>
+                        <AC_CRITERION>Leverandørens kravoppfyllelse i hht kravene stilt i Tjenestekontrakten Del III
+                        </AC_CRITERION>
+                        <AC_WEIGHTING>5%</AC_WEIGHTING>
+                    </AC_QUALITY>
+                    <AC_PRICE>
+                        <AC_WEIGHTING>35%</AC_WEIGHTING>
+                    </AC_PRICE>
+                    <OPTIONS/>
+                    <OPTIONS_DESCR>
+                        <P>Konkurransegrunnlaget Del I Betingelser for konkurransen beskriver i Punkt 6.1 et avrop med
+                            et omfang på 5 FTE med opsjon for Oppdragsgiver for økning av omfanget med ytterligere 2
+                            FTE. Vi viser til vedlagte konkurransegrunnlag for ytterligere informasjon.
+                        </P>
+                    </OPTIONS_DESCR>
+                    <NO_EU_PROGR_RELATED/>
+                </OBJECT_DESCR>
+            </OBJECT_CONTRACT>
+            <PROCEDURE>
+                <PT_COMPETITIVE_NEGOTIATION/>
+                <FRAMEWORK/>
+                <CONTRACT_COVERED_GPA/>
+                <NOTICE_NUMBER_OJ>2017/S 086-168983</NOTICE_NUMBER_OJ>
+            </PROCEDURE>
+            <AWARD_CONTRACT ITEM="1">
+                <CONTRACT_NO>1</CONTRACT_NO>
+                <TITLE>
+                    <P>Tjenestekontrakt for selvbetjening, veiledning og oppfølging</P>
+                </TITLE>
+                <AWARDED_CONTRACT>
+                    <DATE_CONCLUSION_CONTRACT>2017-10-31</DATE_CONCLUSION_CONTRACT>
+                    <NB_TENDERS_RECEIVED>4</NB_TENDERS_RECEIVED>
+                    <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+                    <NB_TENDERS_RECEIVED_EMEANS>0</NB_TENDERS_RECEIVED_EMEANS>
+                    <NO_AWARDED_TO_GROUP/>
+                    <CONTRACTOR>
+                        <ADDRESS_CONTRACTOR>
+                            <OFFICIALNAME>Bekk Consulting AS</OFFICIALNAME>
+                            <TOWN>Oslo</TOWN>
+                            <COUNTRY VALUE="NO"/>
+                            <LOCATION code="000000"/>
+                        </ADDRESS_CONTRACTOR>
+                        <NO_SME/>
+                    </CONTRACTOR>
+                    <VAL_TOTAL CURRENCY="NOK">141470800.00</VAL_TOTAL>
+                </AWARDED_CONTRACT>
+            </AWARD_CONTRACT>
+            <AWARD_CONTRACT ITEM="2">
+                <CONTRACT_NO>17/2094</CONTRACT_NO>
+                <TITLE>
+                    <P>Tjenestekontrakt for selvbetjening, veiledning og oppfølging</P>
+                </TITLE>
+                <AWARDED_CONTRACT>
+                    <DATE_CONCLUSION_CONTRACT>2017-10-31</DATE_CONCLUSION_CONTRACT>
+                    <NB_TENDERS_RECEIVED>4</NB_TENDERS_RECEIVED>
+                    <NO_AWARDED_TO_GROUP/>
+                    <CONTRACTOR>
+                        <ADDRESS_CONTRACTOR>
+                            <OFFICIALNAME>Sopra Steria AS</OFFICIALNAME>
+                            <TOWN>Oslo</TOWN>
+                            <COUNTRY VALUE="NO"/>
+                            <LOCATION code="000000"/>
+                        </ADDRESS_CONTRACTOR>
+                        <NO_SME/>
+                    </CONTRACTOR>
+                    <VAL_TOTAL CURRENCY="NOK">141530520.00</VAL_TOTAL>
+                </AWARDED_CONTRACT>
+            </AWARD_CONTRACT>
+            <COMPLEMENTARY_INFO>
+                <ADDRESS_REVIEW_BODY>
+                    <OFFICIALNAME>Arbeids- og velferdsdirektoratet</OFFICIALNAME>
+                    <TOWN>Oslo</TOWN>
+                    <COUNTRY VALUE="NO"/>
+                </ADDRESS_REVIEW_BODY>
+                <DATE_DISPATCH_NOTICE>2017-11-24</DATE_DISPATCH_NOTICE>
+            </COMPLEMENTARY_INFO>
+        </F03_2014>
+    </FORM_SECTION>
+    <DOFFIN_APPENDIX>
+        <REFERENCE_SECTION>
+            <REFERENCE_DOFFIN>2017-543695</REFERENCE_DOFFIN>
+        </REFERENCE_SECTION>
+        <PUBLISH_TO_TED/>
+    </DOFFIN_APPENDIX>
+</DOFFIN_ESENDERS>
