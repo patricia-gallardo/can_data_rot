@@ -8,7 +8,9 @@
     console.log("Init list slide")
 
     let items = ["A", "B", "C", "D"]
-    const listContext = makeListContext(items);
+    const color = d3.scaleOrdinal(items, d3.schemeCategory10)
+
+    const listContext = makeListContext(items, color);
 
     var _transitions = makeTransitions(listContext)
 </script>

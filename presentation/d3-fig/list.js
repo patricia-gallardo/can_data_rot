@@ -1,4 +1,4 @@
-function makeListContext(items) {
+function makeListContext(items, color) {
     let tree = makeTree(items);
 
     // Set the dimensions and margins of the diagram
@@ -23,13 +23,14 @@ function makeListContext(items) {
         width: width,
         height: height,
         linkLength: width / (items.length - 1),
-        idSequence: 0
+        idSequence: 0,
+        color: color
     };
     hideSubtree(hierarchy, context)
     return context;
 }
 
-function makeTreeContext(tree) {
+function makeTreeContext(tree, color) {
     // Set the dimensions and margins of the diagram
     const margin = {top: 0, right: 90, bottom: 30, left: 90};
     const width = window.innerWidth - margin.left - margin.right;
@@ -49,7 +50,8 @@ function makeTreeContext(tree) {
         width: width,
         height: height,
         linkLength: 180,
-        idSequence: 0
+        idSequence: 0,
+        color: color
     };
     hideSubtree(hierarchy, context)
     return context;
@@ -292,7 +294,7 @@ function update(source, listContext) {
     // Update the node attributes and style
     nodeUpdate.select('circle.node')
         .attr('r', 10)
-        .attr("fill", d => d._children ? "#24425C" : "#fff")
+        .attr("fill", d => listContext.color ? listContext.color(d.data.name) : (d._children ? "#24425C" : "#fff"))
         .attr('cursor', 'pointer');
 
 

@@ -52,8 +52,9 @@
             ]
         };
 
+    const color = d3.scaleOrdinal(["Root", "R", "RR", "RRR", "RRL", "RL", "RLR", "RLL", "L", "LR", "LRR", "LRL", "LL", "LLR", "LLL"], d3.schemeCategory10)
 
-    const listContext = makeTreeContext(items);
+    const listContext = makeTreeContext(items, color);
 
     var _transitions = [
         {
