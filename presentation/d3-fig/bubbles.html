@@ -117,15 +117,15 @@
             transitionBackward: () => context.simulation.alpha(1).restart(),
             index: 0
         },
-        // {
-        //     transitionForward: () => addItem('RR', listContext),
-        //     transitionBackward: () => removeItem('RR', listContext),
-        //     index: 1
-        // },
-        // {
-        //     transitionForward: () => showAll('LL', listContext),
-        //     transitionBackward: () => removeItem('LL', listContext),
-        //     index: 2
-        // }
+        {
+            transitionForward: () => context.simulation.alpha(1).restart(),
+            transitionBackward: () => context.simulation.alpha(1).restart(),
+            index: 1
+        },
+        {
+            transitionForward: () => context.simulation.alpha(1).restart(),
+            transitionBackward: () => context.simulation.alpha(1).restart(),
+            index: 2
+        }
     ]
 </script>

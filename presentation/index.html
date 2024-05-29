@@ -16,12 +16,15 @@
 <div class="reveal">
     <div class="slides">
 
+        <section data-background-transition="fade-in fade-out" data-background="images/modern-3226522_1920.jpg">
+        </section>
+
         <section>
             <div class="col-100 fig-container no-margin-top" data-file="d3-fig/eclipses.html"></div>
         </section>
 
         <section>
-            <header>
+            <header style="text-align: left;">
                 <h1 class="fragment">Can Data Rot?</h1>
                 <h2 class="fragment">Forgetting History</h2>
                 <h3 class="fragment">Patricia Aas</h3>
@@ -29,136 +32,128 @@
             </header>
         </section>
 
-        <section>
+        <section style="display: flex; flex-direction: row; flex-wrap: nowrap; justify-content: flex-start">
+            <img src="images/modern-3226522_1920.jpg" alt=""
+                 style="width: 700px; height: 900px; object-fit: cover; filter: drop-shadow(0 0 0.55rem black);"/>
+            <div style="padding-left: 40px; text-align: left; display: flex; flex-direction: column; justify-content: center;">
+                <h2 class="fragment">Background</h2>
+                <p class="fragment">Last year the consultancy market dried up</p>
+                <p class="fragment">TurtleSec is a small consultancy</p>
+                <p class="fragment">To try to understand and navigate the market</p>
+                <p class="fragment">I wrote some terrible JavaScript and Python</p>
+                <p class="fragment">Then a few of us were between assignments</p>
+                <p class="fragment">So we decided to make a better version of my terrible scripts</p>
+                <p class="fragment">This time in Kotlin and React on Kubernetes</p>
+            </div>
+        </section>
+
+        <section style="display: flex; flex-direction: row; justify-content: center;">
+            <div style="text-align: left">
+                <h2>Meta</h2>
+                <p class="fragment">Since we're going to talk about data</p>
+                <p class="fragment">Some data visualization seems in order</p>
+                <p class="fragment">The slides are in Reveal.js</p>
+                <p class="fragment">The visualization are in d3.js</p>
+            </div>
+            <div class="fig-container no-margin-top" data-file="d3-fig/bubbles.html" data-preload
+                 style="overflow: visible"></div>
+        </section>
+
+        <section style="display: flex; flex-direction: row; flex-wrap: nowrap; justify-content: flex-start">
+            <img src="images/modern-3226522_1920.jpg" alt=""
+                 style="width: 700px; height: 900px; object-fit: cover; filter: drop-shadow(0 0 0.55rem black);"/>
+            <div style="padding-left: 40px; text-align: left; display: flex; flex-direction: column; justify-content: center;">
+                <h2 class="fragment">Doffin</h2>
+                <p class="fragment">1</p>
+                <p class="fragment">2</p>
+                <p class="fragment">3</p>
+                <p class="fragment">4</p>
+                <p class="fragment">5</p>
+                <p class="fragment">6</p>
+                <p class="fragment">7</p>
+                <p class="fragment">8</p>
+            </div>
+        </section>
+
+        <!-- Code -->
+        <section data-markdown>
+            <script type="text/template">
+                ```php [1|3-5]
+                public function foo()
+                {
+                    $foo = array(
+                        'bar' => 'bar'
+                    )
+                }
+                ```
+            </script>
+        </section>
+
+        <!-- add optional line count offset, in this case 287 -->
+        <section data-markdown>
+            <script type="text/template">
+                ```c [287: 2|4,6]
+                /* All of the options in this arg are valid, so handle them. */
+                p = arg + 1;
+                do {
+                    if (*p == 'n')
+                        nflag = 0;
+                    if (*p == 'e')
+                        eflag = '\\';
+                } while (*++p);
+                ```
+            </script>
+        </section>
+
+        <section style="display: flex; flex-direction: column; justify-content: center;">
             <h2>LIST TEST</h2>
             <div class="fig-container no-margin-top" data-file="d3-fig/list.html" data-preload
                  style="overflow: visible"></div>
         </section>
 
-        <section>
+        <section style="display: flex; flex-direction: column; justify-content: center;">
             <h2>TREE TEST DFS</h2>
             <div class="fig-container no-margin-top" data-file="d3-fig/tree.html" data-preload
                  style="overflow: visible"></div>
         </section>
 
-        <section>
+        <section style="display: flex; flex-direction: column; justify-content: center;">
             <h2>TREE TEST BFS</h2>
             <div class="fig-container no-margin-top" data-file="d3-fig/tree_breadth_first.html" data-preload
                  style="overflow: visible"></div>
         </section>
 
-        <section>
+        <section style="display: flex; flex-direction: row; justify-content: center;">
             <h2>GRAPH TEST miserables</h2>
             <div class="fig-container no-margin-top" data-file="d3-fig/graph_miserables.html" data-preload
                  style="overflow: visible"></div>
         </section>
 
-        <section>
+        <section style="display: flex; flex-direction: row; justify-content: center;">
             <h2>GRAPH TEST data_network</h2>
             <div class="fig-container no-margin-top" data-file="d3-fig/graph_data_network.html" data-preload
                  style="overflow: visible"></div>
         </section>
 
-        <section>
+        <section style="display: flex; flex-direction: column; justify-content: center;">
             <h2>GRAPH TEST 3</h2>
             <div class="fig-container no-margin-top" data-file="d3-fig/graph3.html" data-preload
                  style="overflow: visible"></div>
         </section>
 
-        <section>
-            <h2>GRAPH TEST 3</h2>
-            <div class="fig-container no-margin-top" data-file="d3-fig/graph3.html" data-preload
-                 style="overflow: visible"></div>
-        </section>
-
-        <section>
+        <section style="display: flex; flex-direction: row; justify-content: center;">
             <h2>BUBBLES</h2>
             <div class="fig-container no-margin-top" data-file="d3-fig/bubbles.html" data-preload
                  style="overflow: visible"></div>
         </section>
 
-        <section>
+        <section style="display: flex; flex-direction: row; justify-content: center;">
             <h2>BUBBLES OLD</h2>
             <div class="fig-container no-margin-top" data-file="d3-fig/collision-detection.html" data-preload
                  style="overflow: visible"></div>
         </section>
 
-<!--        <section class="fig-container"-->
-<!--                 data-file="d3-fig/collision-detection.html" data-no-background>-->
-<!--            <h3>Embed interactive D3 visualizations</h3>-->
-<!--            <div class='fancy-border' style="position: absolute; width:80%; left: 100px; top: 250px; color: #FF5733">-->
-<!--                Add the "data-no-background" attribute to limit the background to the slide area-->
-<!--            </div>-->
-<!--            <p style="position: absolute; left: 100px; top: 550px">-->
-<!--                (press right/left arrows to trigger visualization transitions)-->
-<!--            </p>-->
-<!--            <p style="position: absolute; left: 100px; top: 600px">-->
-<!--                Visualization adapted from <a href='https://bl.ocks.org/mbostock/3231298' target='_blank'>Collision-->
-<!--                detection</a> by Mike Bostock</p>-->
-<!--        </section>-->
-
-<!--        <section>-->
-<!--            <h3>Multi-visualizations are supported</h3>-->
-<!--            <div class="row no-margin-top">-->
-<!--                <div class="col-50 no-margin-top">-->
-<!--                    <p class="no-margin-top small">-->
-<!--                        <a href='https://bl.ocks.org/olearym/ec27b9ac1bf0da42ed8a0d533181693b' target='_blank'>Gooey-->
-<!--                            effect - Hexagon</a> by Nadieh Bremer</p>-->
-<!--                    <div class="fig-container no-margin-top" data-file="d3-fig/gooey.html"></div>-->
-<!--                </div>-->
-<!--                <div class="col-50 no-margin-top">-->
-<!--                    <p class="no-margin-top small">-->
-<!--                        <a href='https://bl.ocks.org/olearym/ec27b9ac1bf0da42ed8a0d533181693b' target='_blank'>Modular-->
-<!--                            Multiplication Circle</a> by Megan O'Leary</p>-->
-<!--                    <div class="fig-container no-margin-top" data-file="d3-fig/modular-multiplication.html"></div>-->
-<!--                </div>-->
-<!--            </div>-->
-<!--        </section>-->
-
-<!--        <section>-->
-<!--            <h3>Compatible with Reveal.js's lazy loading</h3>-->
-<!--            <div class="row no-margin-top">-->
-<!--                <div class="col-50 no-margin-top">-->
-<!--                    <p class="no-margin-top small"> Not preloaded </p>-->
-<!--                    <div class="fig-container no-margin-top" data-file="d3-fig/gooey.html"></div>-->
-<!--                </div>-->
-<!--                <div class="col-50 no-margin-top">-->
-<!--                    <p class="no-margin-top small"> Preloaded </p>-->
-<!--                    <div class="fig-container no-margin-top" data-file="d3-fig/gooey.html" data-preload></div>-->
-<!--                </div>-->
-<!--            </div>-->
-<!--        </section>-->
-
-<!--        <section>-->
-<!--            <h3>Independent transitions</h3>-->
-<!--            <div class="row no-margin-top">-->
-<!--                <div class="col-50 no-margin-top">-->
-<!--                    <p class="no-margin-top small">-->
-<!--                        <a href='https://bl.ocks.org/mbostock/4165404' target='_blank'>Rainbow worm</a> by Mike Bostock-->
-<!--                        <br>-->
-<!--                        <span class="big">(transition on <span class="warning">1</span> and <span-->
-<!--                                class="warning">3</span> and automatic transition on slide change)</span>-->
-<!--                    </p>-->
-<!--                    <div class="fig-container no-margin-top" data-preload data-file="d3-fig/rainbow.html"></div>-->
-<!--                </div>-->
-<!--                <div class="col-50 no-margin-top">-->
-<!--                    <p class="no-margin-top small">-->
-<!--                        Simple bar graph <br>-->
-<!--                        <span class="big">(transition on <span class="warning">2</span> and <span-->
-<!--                                class="warning">3</span>)</span></p>-->
-<!--                    <div class="fig-container no-margin-top" data-file="d3-fig/bar-chart.html"></div>-->
-<!--                </div>-->
-<!--                <div class="no-margin-top" style="position: absolute; top: 550px">-->
-<!--                    <p>-->
-<!--                        Stage transitions independently for each visualization using Reveal.js 'data-fragment-index'-->
-<!--                        (press-->
-<!--                        right arrow or space)-->
-<!--                    </p>-->
-<!--                </div>-->
-<!--            </div>-->
-<!--        </section>-->
-
-        <section>
+        <section style="display: flex; flex-direction: row; justify-content: center;">
             <h3>Interaction with other elements</h3>
 
             <div class="row no-margin-top">
@@ -174,68 +169,8 @@
             </div>
         </section>
 
-<!--        <section>-->
-<!--            <h3>Works with other libraries too</h3>-->
-<!--            <p class="no-margin-top">Those are embedded <a href='https://emeeks.github.io/semiotic/#/' target='_blank'>semiotic</a>-->
-<!--                figures!</p>-->
-<!--            <p class="small" style="position: absolute; top: 550px">(press right arrow to trigger an animation on the-->
-<!--                bar)</p>-->
-<!--            <div class="row no-margin-top">-->
-<!--                <div class="col-45">-->
-<!--                    <p class="small no-margin-top">(<a-->
-<!--                            href='https://emeeks.github.io/semiotic/#/semiotic/creatingbarchart' target='_blank'>Simple-->
-<!--                        bar chart example</a>)</p>-->
-<!--                    <div class="fig-container" data-file="d3-fig/semiotic-animated-bar.html" data-preload></div>-->
-<!--                </div>-->
-<!--                <div class="col-55 no-margin-top">-->
-<!--                    <p class="small no-margin-top">(<a href='https://emeeks.github.io/semiotic/#/semiotic/chord'-->
-<!--                                                       target='_blank'>Chord diagram example</a>)</p>-->
-<!--                    <div class="fig-container" data-file="d3-fig/semiotic-chord.html" data-preload></div>-->
-<!--                </div>-->
-<!--            </div>-->
-<!--        </section>-->
-
-<!--        <section>-->
-<!--            <h3>Works with other libraries too (2)</h3>-->
-<!--            <p class="no-margin-top">This is an embedded <a href='https://vega.github.io/vega-lite/' target='_blank'>vega-lite</a>-->
-<!--                figure! (with tooltip enabled)</p>-->
-<!--            <div class="fig-container" data-file="d3-fig/vega-lite-scatter.html" data-preload></div>-->
-<!--        </section>-->
-
-        <!-- Include a beautiful website directly in your presentation -->
-<!--        <section>-->
-<!--            <h3>Insert website pages</h3>-->
-<!--            <div class="row" style="margin-top: 0">-->
-<!--                <div class="col-100">-->
-<!--                    <p>Full website. <br>Note: it's scrollable!</p>-->
-<!--                    <div class="fig-container" style="height: 400px;"-->
-<!--                         data-file="https://gcalmettes.github.io/bootstrap-tools/"-->
-<!--                         data-scrollable="yes">-->
-<!--                    </div>-->
-<!--                </div>-->
-<!--            </div>-->
-<!--        </section>-->
-
-        <!-- Include a beautiful website directly in your presentation -->
-<!--        <section class="fig-container"-->
-<!--                 data-file="https://gcalmettes.github.io/bootstrap-tools/">-->
-<!--            <div style="width: 50%; margin-left: 45% !important; background-color: #777777; font-size: 0.75em; border-radius: 20px;">-->
-<!--                Embed websites in the background too-->
-<!--            </div>-->
-<!--        </section>-->
-
-        <!-- same than above but no scrolling -->
-<!--        <section class="fig-container"-->
-<!--                 data-file="https://gcalmettes.github.io/bootstrap-tools/"-->
-<!--                 data-style="scrolling:no"-->
-<!--                 data-scroll="no">-->
-<!--            <div style="width: 50%; margin-left: 45% !important; background-color: #6833FF; font-size: 0.75em; border-radius: 20px;">-->
-<!--                Scrolling deactivated via the data-scroll="no" option-->
-<!--            </div>-->
-<!--        </section>-->
-
         <section>
-            <header>
+            <header style="text-align: left;">
                 <h1 class="fragment">Can Data Rot?</h1>
                 <h2 class="fragment">Forgetting History</h2>
                 <h3 class="fragment">Patricia Aas</h3>
@@ -252,12 +187,14 @@
 
 <script src="dist/reveal.js"></script>
 <script src="plugin/reveald3/reveald3.js"></script>
+<script src="plugin/markdown/markdown.js"></script>
+<script src="plugin/highlight/highlight.js"></script>
 <script>
 
     // Full list of configuration options available at:
     // https://github.com/hakimel/reveal.js#configuration
     Reveal.initialize({
-        plugins: [Reveald3],
+        plugins: [Reveald3, RevealMarkdown, RevealHighlight],
         controls: false,
         progress: true,
         history: true,
@@ -279,6 +216,8 @@
         // Bounds for smallest/largest possible scale to apply to content
         minScale: 0.2,
         maxScale: 2.0,
+
+        display: 'flex',
 
         // // optional configurations for reveald3
         reveald3: {
