@@ -263,10 +263,6 @@ function removeItem(childName, listContext) {
 
 function update(source, listContext) {
 
-    // Specify the color scale.
-    // const color = d3.scaleOrdinal(d3.schemeCategory10);
-    // const color = d3.scaleOrdinal(["1", "2", "3", "4", "5", "6", "7", "8", "9", "10"], d3.schemeCategory10);
-
     // Assigns the x and y position for the nodes
     let root = listContext.root;
     console.log("root : " + root)
