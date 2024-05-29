@@ -30,9 +30,9 @@ function makeListContext(items, color) {
     return context;
 }
 
-function makeTreeContext(tree, color, linkLength) {
+function makeTreeContext(tree, color, linkLength, margins) {
     // Set the dimensions and margins of the diagram
-    const margin = {top: 0, right: 90, bottom: 30, left: 90};
+    const margin = margins ? margins : {top: 0, right: 90, bottom: 30, left: 90};
     const width = window.innerWidth - margin.left - margin.right;
     const height = Math.min(860, window.innerHeight - margin.top - margin.bottom);
 

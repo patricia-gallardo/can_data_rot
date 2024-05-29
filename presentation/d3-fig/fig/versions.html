@@ -102,8 +102,9 @@
             ]
         };
 
+    const margin = {top: 90, right: 90, bottom: 90, left: 90};
     const color = d3.scaleOrdinal(d3.schemeCategory10)
-    const listContext = makeTreeContext(items, color, 300);
+    const listContext = makeTreeContext(items, color, 300, margin);
 
     var _transitions = [
         {
