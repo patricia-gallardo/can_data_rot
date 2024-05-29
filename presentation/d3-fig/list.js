@@ -30,7 +30,7 @@ function makeListContext(items, color) {
     return context;
 }
 
-function makeTreeContext(tree, color) {
+function makeTreeContext(tree, color, linkLength) {
     // Set the dimensions and margins of the diagram
     const margin = {top: 0, right: 90, bottom: 30, left: 90};
     const width = window.innerWidth - margin.left - margin.right;
@@ -49,7 +49,7 @@ function makeTreeContext(tree, color) {
         margin: margin,
         width: width,
         height: height,
-        linkLength: 180,
+        linkLength: linkLength ? linkLength : 180,
         idSequence: 0,
         color: color
     };
