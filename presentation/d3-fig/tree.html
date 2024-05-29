@@ -54,47 +54,5 @@
 
 
     const listContext = makeTreeContext(items);
-
-    var _transitions = [
-        {
-            transitionForward: () => addItem('R', listContext),
-            transitionBackward: () => removeItem('R', listContext),
-            index: 0
-        },
-        {
-            transitionForward: () => addItem('RR', listContext),
-            transitionBackward: () => removeItem('RR', listContext),
-            index: 1
-        },
-        {
-            transitionForward: () => addItem('RRR', listContext),
-            transitionBackward: () => removeItem('RRR', listContext),
-            index: 2
-        },
-        {
-            transitionForward: () => addItem('RLR', listContext),
-            transitionBackward: () => removeItem('RLR', listContext),
-            index: 3
-        },
-        {
-            transitionForward: () => addItem('LR', listContext),
-            transitionBackward: () => removeItem('LR', listContext),
-            index: 4
-        },
-        {
-            transitionForward: () => addItem('LRR', listContext),
-            transitionBackward: () => removeItem('LRR', listContext),
-            index: 5
-        },
-        {
-            transitionForward: () => addItem('LLR', listContext),
-            transitionBackward: () => removeItem('LLR', listContext),
-            index: 6
-        },
-        {
-            transitionForward: () => showAll('LLL', listContext),
-            transitionBackward: () => removeItem('LLL', listContext),
-            index: 7
-        },
-    ]
+    var _transitions = makeDFTransitions(listContext)
 </script>
