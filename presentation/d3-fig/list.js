@@ -24,7 +24,8 @@ function makeListContext(items, color) {
         height: height,
         linkLength: width / (items.length - 1),
         idSequence: 0,
-        color: color
+        color: color,
+        isTree: false
     };
     hideSubtree(hierarchy, context)
     return context;
@@ -51,7 +52,8 @@ function makeTreeContext(tree, color, linkLength, margins) {
         height: height,
         linkLength: linkLength ? linkLength : 180,
         idSequence: 0,
-        color: color
+        color: color,
+        isTree: true
     };
     hideSubtree(hierarchy, context)
     return context;
@@ -276,11 +278,32 @@ function update(source, listContext) {
         return d.parent;
     }
 
+    function labelXpos(d) {
+        if (listContext.isTree)
+            return hasParent(d) ? (isParentNode(d) ? -10 : 16) : -20;
+        else
+            return 0
+    }
+
+    function labelYpos(d) {
+        if (listContext.isTree)
+            return hasParent(d) ? (isParentNode(d) ? -25 : 0) : 0;
+        else
+            return -25
+    }
+
+    function labelAnchor(d) {
+        if (listContext.isTree)
+            return hasParent(d) ? "start" : "end";
+        else
+            return "middle"
+    }
+
     // Add labels for the nodes
     nodeEnter.append('text')
-        .attr("x", (d) => (hasParent(d) ?  (isParentNode(d) ? -10 : 16) : -20 ) )
-        .attr("dy", (d) => (hasParent(d) ?  (isParentNode(d) ? -25 : 0) : 0) )
-        .attr("text-anchor", (d) => (hasParent(d) ? "start" : "end"))
+        .attr("x", (d) => labelXpos(d) )
+        .attr("dy", (d) => labelYpos(d) )
+        .attr("text-anchor", (d) => labelAnchor(d))
         .attr("fill", "#24425C")
         .style('font-size', '30px')
         .style('font-family', '"Fira Sans", sans-serif')
