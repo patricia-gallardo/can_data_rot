@@ -22,6 +22,7 @@ function makeListContext(items) {
         margin: margin,
         width: width,
         height: height,
+        linkLength: width / (items.length - 1),
         idSequence: 0
     };
     hideSubtree(hierarchy, context)
@@ -47,6 +48,7 @@ function makeTreeContext(tree) {
         margin: margin,
         width: width,
         height: height,
+        linkLength: 180,
         idSequence: 0
     };
     hideSubtree(hierarchy, context)
@@ -236,7 +238,7 @@ function update(source, listContext) {
 
     // Normalize for fixed-depth.
     nodes.forEach(function (d) {
-        d.y = d.depth * 180
+        d.y = d.depth * listContext.linkLength
     });
 
     const duration = 750
