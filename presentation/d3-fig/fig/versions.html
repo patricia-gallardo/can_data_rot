@@ -106,15 +106,5 @@
     const color = d3.scaleOrdinal(d3.schemeCategory10)
     const listContext = makeTreeContext(items, color, 300, margin);
 
-    var _transitions = [
-        {
-            transitionForward: () => showAll('DTD.1.0?', listContext),
-            index: "onSlideChange"
-        },
-        {
-            transitionForward: () => showAll('DTD.1.0?', listContext),
-            transitionBackward: () => showAll('DTD.1.0?', listContext),
-            index: 0
-        },
-    ]
+    var _transitions = makeBFTransitions(listContext)
 </script>
