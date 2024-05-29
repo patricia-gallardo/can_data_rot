@@ -4,24 +4,9 @@
 <!-- https://gist.github.com/d3noob/1a96af738c89b88723eb63456beb6510/f2a2a09df5233e4dffea48d9598472da91a5eb1a -->
 <script src="https://d3js.org/d3.v6.min.js"></script>
 <script src="../list.js"></script>
+<script src="../palette.js"></script>
 <script>
     console.log("Init versions slide")
-
-    const palette1 = [
-        "#6097ce",
-        "#72a553",
-        "#a265c2",
-        "#c57c3d",
-        "#ca5572",
-    ]
-
-    const palette2 = [
-        "#697cd4",
-        "#62ad64",
-        "#9350a1",
-        "#b8893a",
-        "#b8475f"
-    ]
 
     let items =
         {
@@ -30,34 +15,34 @@
             "children": [
                 {
                     "name": "2024",
-                    "color": "#1f77b4",
+                    "color": slide_palette[44],
                     "children": [
-                        {"name": "eForms", "color": "#1f77b4"}
+                        {"name": "eForms", "color": slide_palette[44]}
                     ]
                 },
                 {
                     "name": "2023-18",
-                    "color": "#1f77b4",
+                    "color": slide_palette[44],
                     "children": [
                         {
                             "name": "R2.0.9",
-                            "color": "#1f77b4",
+                            "color": slide_palette[44],
                             "children": [
                                 {
                                     "name": "R2.0.9.SXX",
-                                    "color": "#1f77b4",
+                                    "color": slide_palette[44],
                                     "children": [
                                         {
                                             "name": "V3.0.4",
-                                            "color": "#1f77b4",
+                                            "color": slide_palette[44],
                                         },
                                         {
                                             "name": "V3.0.3",
-                                            "color": "#1f77b4",
+                                            "color": slide_palette[44],
                                         },
                                         {
                                             "name": "V3.0.2",
-                                            "color": "#1f77b4",
+                                            "color": slide_palette[44],
                                         }
                                     ]
                                 }
@@ -67,18 +52,18 @@
                 }, // TODO 2017
                 {
                     "name": "2016-12",
-                    "color": "#ff7f0e",
+                    "color": slide_palette[31],
                     "children": [
                         {
                             "name": "R2.0.8",
-                            "color": "#ff7f0e",
+                            "color": slide_palette[31],
                             "children": [
                                 {
                                     "name": "R2.0.8.S02",
-                                    "color": "#ff7f0e",
+                                    "color": slide_palette[31],
                                     "children": [
-                                        {"name": "V2.0.0", "color": "#ff7f0e"},
-                                        {"name": "Vanilla", "color": "#ff7f0e"},
+                                        {"name": "V2.0.0", "color": slide_palette[31]},
+                                        {"name": "Vanilla", "color": slide_palette[31]},
                                     ]
                                 }
                             ]
@@ -87,17 +72,17 @@
                 },
                 {
                     "name": "2011-10",
-                    "color": "#ff7f0e",
+                    "color": slide_palette[31],
                     "children": [
                         {
                             "name": "R2.0.7",
-                            "color": "#ff7f0e",
+                            "color": slide_palette[31],
                             "children": [
                                 {
                                     "name": "R2.0.7.D02",
-                                    "color": "#ff7f0e",
+                                    "color": slide_palette[31],
                                     "children": [
-                                        {"name": "Plain", "color": "#ff7f0e"},
+                                        {"name": "Plain", "color": slide_palette[31]},
                                     ]
                                 },
                             ]
@@ -106,37 +91,37 @@
                 },
                 {
                     "name": "2009",
-                    "color": "#ff7f0e",
+                    "color": slide_palette[31],
                     "children": [
-                        {"name": "R2.0.6", "color": "#ff7f0e",}
+                        {"name": "R2.0.6", "color": slide_palette[31],}
                     ]
                 }, // TODO 2008
                 {
                     "name": "2007",
-                    "color": "#d62728",
+                    "color": slide_palette[7],
                     "children": [
-                        {"name": "R2.0.5", "color": "#d62728"}
+                        {"name": "R2.0.5", "color": slide_palette[7]}
                     ]
                 },
                 {
                     "name": "2006",
-                    "color": "#d62728",
+                    "color": slide_palette[7],
                     "children": [
-                        {"name": "R1.0.0?", "color": "#d62728"}
+                        {"name": "R1.0.0?", "color": slide_palette[7]}
                     ]
                 },
                 {
                     "name": "2005-04",
-                    "color": "#d62728",
+                    "color": slide_palette[7],
                     "children": [
-                        {"name": "DTD.1.4", "color": "#d62728"}
+                        {"name": "DTD.1.4", "color": slide_palette[7]}
                     ]
                 },
                 {
                     "name": "2003",
-                    "color": "#d62728",
+                    "color": slide_palette[7],
                     "children": [
-                        {"name": "DTD.1.0?", "color": "#d62728"}
+                        {"name": "DTD.1.0?", "color": slide_palette[7]}
                     ]
                 },
             ]
