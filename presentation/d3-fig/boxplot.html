@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<body>
+<!-- load the d3.js library -->
+<!-- https://observablehq.com/@akngs/d3-boxplot -->
+<!-- https://d3-graph-gallery.com/graph/boxplot_several_groups.html -->
+<!--<script src="https://d3js.org/d3.v6.min.js"></script>-->
+<script src="https://d3js.org/d3.v4.min.js"></script>
+<script src="./palette.js"></script>
+<script>
+
+    const margin = {top: 100, right: 90, bottom: 100, left: 90};
+    const width = window.innerWidth - margin.left - margin.right;
+    const height = Math.min(860, window.innerHeight - margin.top - margin.bottom);
+
+    const svg = makeSvg(width, height, margin)
+
+    function makeSvg(width, height, margin) {
+        return d3.select("body").append("svg")
+            .attr("width", width + margin.right + margin.left)
+            .attr("height", height + margin.top + margin.bottom)
+    }
+
+    // TODO this data is probably wrong, it's late and math is a mess rn
+    var data = [{
+        "min": "2003",
+        "max": "2005",
+        "label": "Purple",
+        "color": slide_palette[37],
+        "mean": "2004"
+    }, {
+        "min": "2005",
+        "max": "2008",
+        "label": "Red",
+        "color": slide_palette[7],
+        "mean": "2003"
+    }, {
+        "min": "2008",
+        "max": "2023",
+        "label": "Blue",
+        "color": slide_palette[31],
+        "mean": "2006"
+    }, {
+        "min": "2023",
+        "max": "2024",
+        "label": "Pink",
+        "color": slide_palette[44],
+        "mean": "2017"
+    }];
+
+    var yScale = d3.scaleLinear()
+        .domain([2000, 2024])
+        .range([height, 10]);
+
+    var yAxis = d3.axisLeft(yScale);
+
+    var gY = svg.append("g")
+        .attr("transform", "translate(" + (margin.left + margin.right) + "," + 0 + ")")
+        .call(yAxis);
+
+    var xScale = d3.scaleBand()
+        .domain(data.map(function (d) {
+            return d.label
+        }))
+        .range([margin.left + margin.right, width])
+        .padding(0.4);
+
+    var xAxis = d3.axisBottom(xScale);
+
+    var gX = svg.append("g")
+        .attr("transform", "translate(" + 0 + "," + (height) + ")")
+        .call(xAxis);
+
+    var boxes = svg.selectAll("foo")
+        .data(data)
+        .enter()
+        .append("rect")
+        .attr("fill", (d) => d.color)
+        .attr("stroke", "black")
+        .attr("x", function (d) {
+            return xScale(d.label)
+        })
+        .attr("width", xScale.bandwidth())
+        .attr("y", function (d) {
+            return yScale(d.max)
+        })
+        .attr("height", function (d) {
+            return yScale(d.min) - yScale(d.max)
+        });
+
+    var lines = svg.selectAll("foo")
+        .data(data)
+        .enter()
+        .append("line")
+        .attr("stroke", "black")
+        .attr("stroke-width", 4)
+        .attr("x1", function (d) {
+            return xScale(d.label)
+        })
+        .attr("x2", function (d) {
+            return xScale(d.label) + xScale.bandwidth()
+        })
+        .attr("y1", function (d) {
+            return yScale(d.mean)
+        })
+        .attr("y2", function (d) {
+            return yScale(d.mean)
+        })
+</script>
