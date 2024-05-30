@@ -187,6 +187,94 @@
             </div>
         </section>
 
+        <section class="fig-container no-margin-top" data-file="d3-fig/fig/ted_versions.html" data-preload
+                 style="overflow: visible;">
+            <div style="width: 1920px; height: 980px; display: flex; flex-direction: column; align-content: flex-end; justify-content: flex-end; align-items: flex-end">
+                <h2 style="align-self: flex-end; text-align: right;">TED versions used with Norwegian notices</h2>
+            </div>
+        </section>
+
+        <section class="fig-container no-margin-top" data-file="d3-fig/fig/ted_versions.html" data-preload
+                 style="overflow: visible;">
+            <div style="width: 1920px; height: 980px; display: flex; flex-direction: column; align-content: flex-end; justify-content: flex-end; align-items: flex-end">
+                <h2 style="align-self: flex-end; text-align: right;">TED versions used with Norwegian notices</h2>
+            </div>
+        </section>
+
+        <section style="display: flex; flex-direction: column;">
+            <h2 class="fragment">First of all...</h2>
+            <h2 class="fragment">I should apologize</h2>
+            <h2 class="fragment">I have been simplifying a bit</h2>
+            <h2 class="fragment">Because...</h2>
+            <h2 class="fragment">there is actually a multiplier here</h2>
+            <h2 class="fragment">there are variations over a lot of these versions</h2>
+            <h2 class="fragment">So, in advance...</h2>
+            <h2 class="fragment">Sorry</h2>
+        </section>
+
+        <section style="text-align: left; display: flex; flex-direction: column;">
+            <h2 class="fragment">Within the R.X.X.X series</h2>
+            <h2 class="fragment">There are variation "families"</h2>
+            <h3 class="fragment">INTERNAL_OJS: Which we will ignore because we don't see them</h3>
+            <h3 class="fragment">TED_ESENDERS: Used by Doffin, including NAV IT 2012-13</h3>
+            <h3 class="fragment">DOFFIN_ESENDERS: Used by Doffin, including NAV IT 2014-23</h3>
+            <h3 class="fragment">TED_EXPORT: Used by TED as far back as 2007, up to 2023</h3>
+        </section>
+
+        <section style="display: flex; flex-direction: column;">
+            <h2 class="fragment">Also...</h2>
+            <h2 class="fragment">I need to reduce the font size</h2>
+            <h2 class="fragment">Because...</h2>
+            <h2 class="fragment">well... you'll see</h2>
+        </section>
+
+        <section style="display: flex; flex-direction: column;">
+            <h2 class="fragment">The XML versions I have schemas for</h2>
+        </section>
+
+        <section class="fig-container no-margin-top" data-file="d3-fig/fig/schemas.html" data-preload style="overflow: visible;">
+        </section>
+
+        <section style="display: flex; flex-direction: column;">
+            <h2 class="fragment">Attempt number 1</h2>
+            <h3 class="fragment">I did what I think most people would do</h3>
+            <h3 class="fragment">What I think my predecessors did</h3>
+            <h3 class="fragment">I went backwards in time</h3>
+        </section>
+
+        <section style="display: flex; flex-direction: column; justify-content: center;">
+            <h2>Using JAXB to generate parsing code in Java from the schemas</h2>
+            <h3 class="fragment">eForms and TED_EXPORT for R2.0.9 and R2.0.8</h3>
+            <div class="fragment fig-container no-margin-top" data-file="d3-fig/fig/attempt1.html" data-preload style="width: 1920px; height: 200px; overflow: visible"></div>
+            <h2 class="fragment">It was terrible</h2>
+            <h3 class="fragment">The generated types and APIs were very similar within R2.0.9 and R2.0.8</h3>
+            <h3 class="fragment">But subtly different, so couldn't share code</h3>
+            <h3 class="fragment">Most frustrating: Typo fixing in tag names</h3>
+            <h3 class="fragment">Getting a new piece of information meant adding support across 9 parsers</h3>
+            <h3 class="fragment">Copy, paste and modify</h3>
+        </section>
+
+        <section style="display: flex; flex-direction: column;">
+            <h2 class="fragment">I desperately wanted C++ templates</h2>
+            <h3 class="fragment">Kotlin/Java generics couldn't do what I wanted</h3>
+            <h3 class="fragment">I needed compile time "duck typing"</h3>
+            <h3 class="fragment">Then I could've written templated functions to share code that processed the generated types</h3>
+            <h3 class="fragment">But this is not a C++ talk, so never mind</h3>
+            <h3 class="fragment">I explored other options for Kotlin</h3>
+            <h3 class="fragment">They were all terrible</h3>
+        </section>
+
+        <section style="display: flex; flex-direction: column;">
+            <h2 class="fragment">Maybe we could use XSLT to transform the XMLs to a common format?</h2>
+            <h3 class="fragment">I am bad at XSLT</h3>
+            <h3 class="fragment">Kids today have never even heard of it</h3>
+            <h3 class="fragment">TED had an attempt for R2.0.9 to eForms</h3>
+            <h3 class="fragment">It is in development and huge</h3>
+            <h3 class="fragment">It also can't ever fully work because the semantics and fields are different</h3>
+            <h3 class="fragment">I think this is what Doffin is using for R2.0.9</h3>
+            <h3 class="fragment">And why that support is patchy and there is no support for R2.0.8</h3>
+        </section>
+
         <section style="display: flex; flex-direction: column;">
             <h2>Why does it matter that you only support the past 7 years?</h2>
             <p class="fragment">First of all it isn't 7 years of support</p>
@@ -196,8 +284,40 @@
             <p class="fragment">Secondly...</p>
         </section>
 
-        <section>
-            <h2>The world's slowest social network</h2>
+        <section style="display: flex; flex-direction: column;">
+            <h2>This is the world's slowest social network</h2>
+            <h3>Interactions between companies are often 4-8 years apart</h3>
+            <h3>Without a long timespan, you won't see anything</h3>
+            <h3>Like watching starfish</h3>
+            <h3>So, not giving up, not yet</h3>
+        </section>
+
+        <section style="display: flex; flex-direction: column;">
+            <h2 class="fragment">I had done a lot of TED_EXPORT</h2>
+            <h2 class="fragment">But I still had to do all the DOFFIN and TED ESENDER versions</h2>
+            <h3 class="fragment">Even with ADHD and hyperfocus</h3>
+            <h3 class="fragment">I couldn't do it</h3>
+            <h3 class="fragment">Not true</h3>
+            <h3 class="fragment">I started with DOFFIN_ESENDERS</h3>
+            <h3 class="fragment">And died inside</h3>
+        </section>
+
+        <section style="display: flex; flex-direction: column;">
+            <h2 class="fragment">And I didn't even have all the schemas</h2>
+            <h3 class="fragment">With TED_EXPORT I could only read from early-2012 to 2023</h3>
+            <h3 class="fragment">With Doffin I wouldn't be able to generate parsers for before 2010</h3>
+            <h3 class="fragment">Because I had no schemas from before then</h3>
+            <h3 class="fragment">As an act of procrastination</h3>
+            <h3 class="fragment">I started from the beginning</h3>
+        </section>
+
+        <section style="display: flex; flex-direction: column;">
+            <h2 class="fragment">Attempt number 2</h2>
+            <h3 class="fragment">Starting from the beginning: 2003</h3>
+            <h3 class="fragment">I have no schemas</h3>
+            <h3 class="fragment">There probably weren't any anyway</h3>
+            <h3 class="fragment">Some of it might be DTD based</h3>
+            <h3 class="fragment">But I didn't have those either</h3>
         </section>
 
         <section style="display: flex; flex-direction: column; justify-content: center;">

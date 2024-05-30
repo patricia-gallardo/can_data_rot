@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<body>
+<!-- load the d3.js library -->
+<!-- https://gist.github.com/d3noob/1a96af738c89b88723eb63456beb6510/f2a2a09df5233e4dffea48d9598472da91a5eb1a -->
+<script src="https://d3js.org/d3.v6.min.js"></script>
+<script src="../list.js"></script>
+<script src="../palette.js"></script>
+<script>
+    console.log("Init versions slide")
+
+    let items =
+        {
+            "name": "",
+            "color": "#000000",
+            "children": [
+                {
+                    "name": "2024",
+                    "color": slide_palette[44],
+                    "children": [
+                        {"name": "eForms", "color": slide_palette[44]}
+                    ]
+                },
+                {
+                    "name": "2023-17",
+                    "color": slide_palette[44],
+                    "children": [
+                        {
+                            "name": "R2.0.9",
+                            "color": slide_palette[44],
+                            "children": [
+                                {
+                                    "name": "R2.0.9.S01.E01",
+                                    "color": slide_palette[44],
+                                },
+                                {
+                                    "name": "R2.0.9.S02.E01",
+                                    "color": slide_palette[44],
+                                },
+                                {
+                                    "name": "R2.0.9.S03.E01",
+                                    "color": slide_palette[44],
+                                },
+                                {
+                                    "name": "R2.0.9.S04.E01",
+                                    "color": slide_palette[44],
+                                },
+                                {
+                                    "name": "R2.0.9.S05.E01",
+                                    "color": slide_palette[44],
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "2023-11",
+                    "color": slide_palette[31],
+                    "children": [
+                        {
+                            "name": "R2.0.8",
+                            "color": slide_palette[31],
+                            "children": [
+                                {
+                                    "name": "R2.0.8.S01.E01",
+                                    "color": slide_palette[44],
+                                },
+                                {
+                                    "name": "R2.0.8.S02.E01",
+                                    "color": slide_palette[44],
+                                },
+                                {
+                                    "name": "R2.0.8.S03.E01",
+                                    "color": slide_palette[44],
+                                },
+                                {
+                                    "name": "R2.0.8.S04.E01",
+                                    "color": slide_palette[44],
+                                },
+                                {
+                                    "name": "R2.0.8.S05.E01",
+                                    "color": slide_palette[44],
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "2011-10",
+                    "color": slide_palette[31],
+                    "children": [
+                        {
+                            "name": "R2.0.7",
+                            "color": slide_palette[31],
+                            "children": [
+                                {
+                                    "name": "R2.0.7.D02",
+                                    "color": slide_palette[44],
+                                },
+                                {
+                                    "name": "R2.0.7.S00",
+                                    "color": slide_palette[44],
+                                },
+                                {
+                                    "name": "R2.0.7.S03.E01",
+                                    "color": slide_palette[44],
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "2011-2007",
+                    "color": slide_palette[31],
+                    "children": [
+                        {
+                            "name": "R2.0.6",
+                            "color": slide_palette[31],
+                            "children": [
+                                {
+                                    "name": "Unversioned R2.0.6",
+                                    "color": slide_palette[44],
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "2008-2007",
+                    "color": slide_palette[31],
+                    "children": [
+                        {
+                            "name": "R2.0.5",
+                            "color": slide_palette[31],
+                            "children": [
+                                {
+                                    "name": "Unversioned R2.0.5",
+                                    "color": slide_palette[44],
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "2011",
+                    "color": slide_palette[31],
+                    "children": [
+                        {
+                            "name": "R1.0.0?",
+                            "color": slide_palette[31],
+                            "children": [
+                                {
+                                    "name": "Unversioned R1.0.0?",
+                                    "color": slide_palette[44],
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "2010-07",
+                    "color": slide_palette[31],
+                    "children": [
+                        {
+                            "name": "DOC",
+                            "color": slide_palette[31],
+                            "children": [
+                                {
+                                    "name": "Unversioned DOC",
+                                    "color": slide_palette[44],
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "2007-???",
+                    "color": slide_palette[31],
+                    "children": [
+                        {
+                            "name": "TEXT",
+                            "color": slide_palette[31],
+                            "children": [
+                                {
+                                    "name": "Unversioned TEXT",
+                                    "color": slide_palette[44],
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        };
+
+    const margin = {top: 30, right: 90, bottom: 130, left: 90};
+    const color = d3.scaleOrdinal(d3.schemeCategory10)
+    const listContext = makeTreeContext(items, color, 300, margin);
+
+    var _transitions = makeDFTransitions(listContext)
+</script>

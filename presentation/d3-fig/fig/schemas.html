@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<body>
+<!-- load the d3.js library -->
+<!-- https://gist.github.com/d3noob/1a96af738c89b88723eb63456beb6510/f2a2a09df5233e4dffea48d9598472da91a5eb1a -->
+<script src="https://d3js.org/d3.v6.min.js"></script>
+<script src="../list.js"></script>
+<script src="../palette.js"></script>
+<script>
+    console.log("Init versions slide")
+
+    let items =
+        {
+            "name": "",
+            "children": [
+                {
+                    "name": "eForms",
+                    "children": [
+                        {"name": "2.3"}
+                    ]
+                },
+                {
+                    "name": "R2.0.9",
+                    "children": [
+                        {
+                            "name": "9. INTERNAL_OJS",
+                            "children": [
+                                { "name": "TED_internal_R2.0.9.S03.I01_009-20190628.zip" },
+                                { "name": "TED_internal_R2.0.9.S04.I01_002-20201027.zip" },
+                                { "name": "TED_internal_R2.0.9.S05.I01_001-20210730.zip" }
+                            ]
+                        },
+                        {
+                            "name": "9. TED_ESENDERS",
+                            "children": [
+                                { "name": "TED_reception_R2.0.9.S03_007-20181030.zip" },
+                                { "name": "TED_reception_R2.0.9.S03_009-20190628.zip" },
+                                { "name": "TED_reception_R2.0.9.S04_002-20201027.zip" },
+                                { "name": "TED_reception_R2.0.9.S05_001-20210730.zip" }
+                            ]
+                        },
+                        {
+                            "name": "9. DOFFIN_ESENDERS",
+                            "children": [
+                                { "name": "V3.0.1.zip" },
+                                { "name": "V3.0.2.zip" },
+                                { "name": "V3.0.3.zip" },
+                                { "name": "V3.0.4.zip" }
+                            ]
+                        },
+                        {
+                            "name": "9. TED_EXPORT",
+                            "children": [
+                                { "name": "TED_publication_R2.0.9.S01.E01_019-20160603.zip" },
+                                { "name": "TED_publication_R2.0.9.S02.E01_003-20170123.zip" },
+                                { "name": "TED_publication_R2.0.9.S03.E01_006-20180608.zip" },
+                                { "name": "TED_publication_R2.0.9.S03.E01_007-20181030.zip" },
+                                { "name": "TED_publication_R2.0.9.S03.E01_009-20190628.zip" },
+                                { "name": "TED_publication_R2.0.9.S04.E01_002-20201027.zip" },
+                                { "name": "TED_publication_R2.0.9.S05.E01_001-20210730.zip" }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "R2.0.8",
+                    "children": [
+                        {
+                            "name": "8. INTERNAL_OJS",
+                            "children": [
+                                { "name": "TED_internal_R2.0.8.S04.I01_003-20180515.zip" },
+                                { "name": "TED_internal_R2.0.8.S05.I01_002-20201027.zip" },
+                            ]
+                        },
+                        {
+                            "name": "8. TED_ESENDERS",
+                            "children": [
+                                { "name": "TED_reception_R2.0.8.S04_003-20180515.zip" },
+                                { "name": "TED_reception_R2.0.8.S05_002-20201027.zip" },
+                            ]
+                        },
+                        {
+                            "name": "8. DOFFIN_ESENDERS",
+                            "children": [
+                                { "name": "V2.0.0.zip" },
+                                { "name": "V2.0.1.zip" },
+                                { "name": "V2.0.2.zip" },
+                            ]
+                        },
+                        {
+                            "name": "8. TED_EXPORT",
+                            "children": [
+                                { "name": "TED_publication_R2.0.8.S02.E01_015-20161124.zip" },
+                                { "name": "TED_publication_R2.0.8.S03.E01_002-20171128.zip" },
+                                { "name": "TED_publication_R2.0.8.S04.E01_003-20180515.zip" },
+                                { "name": "TED_publication_R2.0.8.S05.E01_002-20201027.zip" },
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "R2.0.7?",
+                    "children": [
+                        {
+                            "name": "7. DOFFIN_ESENDERS",
+                            "children": [
+                                { "name": "V1.0.0.zip" },
+                            ]
+                        },
+                    ]
+                }
+            ]
+        };
+
+    const margin = {top: 25, right: 90, bottom: 50, left: 90};
+    const color = d3.scaleOrdinal(d3.schemeCategory10)
+    const fontSize = "10px"
+    const listContext = makeTreeContext(items, color, 300, margin, fontSize);
+
+    var _transitions = makeDFTransitions(listContext)
+</script>
