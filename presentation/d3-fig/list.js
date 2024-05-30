@@ -1,8 +1,8 @@
-function makeListContext(items, color) {
+function makeListContext(items, color, margins, fontSize) {
     let tree = makeTree(items);
 
     // Set the dimensions and margins of the diagram
-    const margin = {top: 0, right: 90, bottom: 30, left: 90};
+    const margin = margins ? margins : {top: 0, right: 90, bottom: 30, left: 90};
     const width = window.innerWidth - margin.left - margin.right;
     const height = Math.min(860, window.innerHeight - margin.top - margin.bottom);
 
@@ -25,13 +25,14 @@ function makeListContext(items, color) {
         linkLength: width / (items.length - 1),
         idSequence: 0,
         color: color,
+        fontSize: fontSize,
         isTree: false
     };
     hideSubtree(hierarchy, context)
     return context;
 }
 
-function makeTreeContext(tree, color, linkLength, margins) {
+function makeTreeContext(tree, color, linkLength, margins, fontSize) {
     // Set the dimensions and margins of the diagram
     const margin = margins ? margins : {top: 0, right: 90, bottom: 30, left: 90};
     const width = window.innerWidth - margin.left - margin.right;
@@ -53,6 +54,7 @@ function makeTreeContext(tree, color, linkLength, margins) {
         linkLength: linkLength ? linkLength : 180,
         idSequence: 0,
         color: color,
+        fontSize: fontSize,
         isTree: true
     };
     hideSubtree(hierarchy, context)
@@ -378,7 +380,7 @@ function update(source, listContext) {
         .attr("dy", (d) => labelYpos(d) )
         .attr("text-anchor", (d) => labelAnchor(d))
         .attr("fill", "#24425C")
-        .style('font-size', '30px')
+        .style('font-size', listContext.fontSize ? listContext.fontSize : '30px')
         .style('font-family', '"Fira Sans", sans-serif')
         .style('font-weight', '400')
         .attr("alignment-baseline", 'middle')
