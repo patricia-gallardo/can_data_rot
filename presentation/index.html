@@ -19,9 +19,9 @@
         <section data-background-transition="fade-in fade-out" data-background="images/modern-3226522_1920.jpg">
         </section>
 
-        <section>
-            <div class="col-100 fig-container no-margin-top" data-file="d3-fig/eclipses.html"></div>
-        </section>
+<!--        <section>-->
+<!--            <div class="col-100 fig-container no-margin-top" data-file="d3-fig/eclipses.html"></div>-->
+<!--        </section>-->
 
         <section>
             <header style="text-align: left;">
@@ -33,16 +33,23 @@
         </section>
 
         <section style="display: flex; flex-direction: column;">
+            <h1 class="fragment">Patricia Aas</h1>
+            <h2 class="fragment">Professional programmer since 2005</h2>
+            <h3 class="fragment">Might have a problem with letting stuff go</h3>
+        </section>
+
+        <section style="display: flex; flex-direction: column;">
             <h2>Spoilers: Since we're a mixed crowd</h2>
-            <p class="fragment">The case study: NAV IT procurements</p>
+            <h3 class="fragment">The case study: NAV IT procurements</h3>
             <p class="fragment">The data: 2003-2024 public procurement data from Doffin/TED</p>
-            <p class="fragment">The projects seen from the data: Doffin</p>
+            <p class="fragment">Observations: The stewardship of Doffin as seen from the data</p>
             <p class="fragment">Why should we care?</p>
-            <p class="fragment">Finally, being old was an advantage: XML</p>
+            <p class="fragment">Retro development: XML on the JVM</p>
             <p class="fragment">What didn't work, what did and how Kotlin helped</p>
             <p class="fragment">Data/Dev silos are hurting what we build</p>
-            <p class="fragment">Data that cannot be analyzed, does it even exist?</p>
-            <p class="fragment">Should you care?</p>
+            <p class="fragment">Data isn't only in the present tense</p>
+            <h3 class="fragment">Data that cannot be analyzed, does it even exist?</h3>
+<!--            <p class="fragment">Should you care?</p>-->
         </section>
 
         <section style="display: flex; flex-direction: row; flex-wrap: nowrap; justify-content: flex-start">
@@ -66,8 +73,9 @@
                 <p class="fragment">Since we're going to talk about data</p>
                 <p class="fragment">Some data visualization seems in order</p>
                 <p class="fragment">The slides are in Reveal.js</p>
-                <p class="fragment">The visualization are in d3.js</p>
-                <p class="fragment">All data viz is custom</p>
+                <p class="fragment">The visualizations are written in d3.js</p>
+                <h3 class="fragment">All the data viz is custom for this talk</h3>
+                <p class="fragment">I will not take any questions on whether that was a good idea</p>
             </div>
             <div class="fig-container no-margin-top" data-file="d3-fig/bubbles.html" data-preload
                  style="overflow: visible"></div>
@@ -100,52 +108,73 @@
                 <p class="fragment">NAV IT uses all the features of this system</p>
                 <p class="fragment">The frame agreements are big, both in money and in lots</p>
                 <p class="fragment">The "org" has gone under a dozen names</p>
-                <p class="fragment">How can we find them?</p>
-                <p class="fragment">If I can find and model these, then I can handle any data in the set</p>
+                <p class="fragment">How can we even find them and connect them?</p>
+                <p class="fragment">If I can find these, then I can handle any data in the set</p>
             </div>
         </section>
 
-        <section data-auto-animate style="display: flex; flex-direction: column; justify-content: center;">
-            <h2 data-id="code-title">With Animations</h2>
-            <pre data-id="code-animation">
-                <code class="hljs javascript" data-trim data-line-numbers="|4,8-11|17|22-24">
-                    <script type="text/template">
-                        import React, { useState } from 'react';
+<!--        <section style="display: flex; flex-direction: column; justify-content: center;">-->
+<!--            <h2>Some NAV IT Frame Agreements</h2>-->
+<!--            <div class="fig-container no-margin-top" data-file="d3-fig/fig/frame_list.html" data-preload-->
+<!--                 style="overflow: visible"></div>-->
+<!--        </section>-->
 
-                        function Example() {
-                          const [count, setCount] = useState(0);
+        <section style="display: flex; flex-direction: column; justify-content: center;">
+            <h2>Some of NAV ITs Frame Agreements</h2>
+            <div class="fragment fig-container no-margin-top" data-file="d3-fig/fig/frame_list.html" data-preload style="width: 1920px; height: 150px; overflow: visible"></div>
+            <h4 class="fragment">We'll look at a bigger set, but these are the biggest ones I found</h4>
+            <h3 class="fragment">Ranging in value from around 500+ million to 4.6 billion NOK</h3>
+            <h4 class="fragment">The colors indicate where you can/could see these on different versions of Doffin</h4>
+            <h4 class="fragment">&#128308; Old Doffin &#x1F7E0; "Classic" Doffin &#128994; New Doffin but buggy &#128309; New Doffin</h4>
+        </section>
 
-                          return (
-                            <div>
-                              <p>You clicked {count} times</p>
-                              <button onClick={() => setCount(count + 1)}>
-                                Click me
-                              </button>
-                            </div>
-                          );
-                        }
+        <section style="display: flex; flex-direction: column;">
+            <h2 class="fragment">Why have transparency into public procurements?</h2>
+            <h3 class="fragment">To ensure sufficient competition, so that public costs are kept in check</h3>
+            <h3 class="fragment">To prevent corruption, through a transparent process</h3>
+        </section>
 
-                        function SecondExample() {
-                          const [count, setCount] = useState(0);
+        <section style="display: flex; flex-direction: column;">
+            <h2 class="fragment">Corruption?</h2>
+            <h1 class="fragment">In Norway?</h1>
+        </section>
 
-                          return (
-                            <div>
-                              <p>You clicked {count} times</p>
-                              <button onClick={() => setCount(count + 1)}>
-                                Click me
-                              </button>
-                            </div>
-                          );
-                        }
-                    </script>
-                </code>
-            </pre>
+        <section style="display: flex; flex-direction: column;">
+            <h2 class="fragment">The Unibus Corruption Scandal</h2>
+        </section>
+
+        <section style="display: flex; flex-direction: column;">
+            <h2 class="fragment">The Unibuss Corruption Scandal</h2>
+            <h4 class="fragment">In 2014 6 people were sentenced to between 6 months and 5.5 years in prison for corruption</h4>
+            <h4 class="fragment">The corruption spanned more than a decade</h4>
+            <h4 class="fragment">The board and leadership had been warned about the practice since the late nineties</h4>
+            <h4 class="fragment">The employee representative to the board was later joined by others in warning about the practice</h4>
+            <h4 class="fragment">They also tried to warn politicians</h4>
+            <h4 class="fragment">They and the evidence they had amassed, were consistently ignored</h4>
+            <h4 class="fragment">Only once became a part of a corruption case in Germany did anything happen</h4>
+            <h4 class="fragment">The police independently started an investigation</h4>
+            <h4 class="fragment">The conspirators included 4 of Unibuss' top leadership</h4>
+            <h3 class="fragment">Including the CEO and the head of procurement</h3>
         </section>
 
         <section style="display: flex; flex-direction: column; justify-content: center;">
-            <h2>Some NAV IT Frame Agreements</h2>
-            <div class="fig-container no-margin-top" data-file="d3-fig/fig/frame_list.html" data-preload
-                 style="overflow: visible"></div>
+            <h2>What data is currently publicly available?</h2>
+            <div class="fragment fig-container no-margin-top" data-file="d3-fig/fig/years_list.html" data-preload style="width: 1920px; height: 150px; overflow: visible"></div>
+            <h3 class="fragment">Remember the color coding</h3>
+            <h4 class="fragment">&#128308; "Old" Doffin &#x1F7E0; "Classic" Doffin &#128994; New Doffin but buggy &#128309; New Doffin</h4>
+            <h4 class="fragment">&#128308; "Old" Doffin has been offline since I assume around 2010</h4>
+            <h4 class="fragment">&#x1F7E0; "Classic" Doffin has been offline since early 2024</h4>
+            <p class="fragment">This shows a sliding window into each team trying to convince the world the past doesn't matter</p>
+            <p class="fragment">And from now on... things will be different</p>
+        </section>
+
+        <section style="display: flex; flex-direction: column; justify-content: center; text-align: left">
+            <h2>Dev Teams Tackling Norwegian Public Procurement: 2003-2024</h2>
+            <p class="fragment">All info about these teams is deduced from the data, and is probably at least a little bit wrong</p>
+            <h4 class="fragment">&#128995; 2003-2005: Team "Norsk lysingsblad"</h4>
+            <h4 class="fragment">&#128308; 2005-2010: Team "Old" Doffin</h4>
+            <h4 class="fragment">&#x1F7E0; 2011-2023: Team "Classic" Doffin</h4>
+            <h4 class="fragment">&#128309; 2023-now: Team "New" Doffin</h4>
         </section>
 
         <section class="fig-container no-margin-top" data-file="d3-fig/fig/years_list.html" data-preload
@@ -264,6 +293,43 @@
             <h3 class="fragment">They were all terrible</h3>
         </section>
 
+        <section data-auto-animate style="display: flex; flex-direction: column; justify-content: center;">
+            <h2 data-id="code-title">With Animations</h2>
+            <pre data-id="code-animation">
+                <code class="hljs javascript" data-trim data-line-numbers="|4,8-11|17|22-24">
+                    <script type="text/template">
+                        import React, { useState } from 'react';
+
+                        function Example() {
+                          const [count, setCount] = useState(0);
+
+                          return (
+                            <div>
+                              <p>You clicked {count} times</p>
+                              <button onClick={() => setCount(count + 1)}>
+                                Click me
+                              </button>
+                            </div>
+                          );
+                        }
+
+                        function SecondExample() {
+                          const [count, setCount] = useState(0);
+
+                          return (
+                            <div>
+                              <p>You clicked {count} times</p>
+                              <button onClick={() => setCount(count + 1)}>
+                                Click me
+                              </button>
+                            </div>
+                          );
+                        }
+                    </script>
+                </code>
+            </pre>
+        </section>
+
         <section style="display: flex; flex-direction: column;">
             <h2 class="fragment">Maybe we could use XSLT to transform the XMLs to a common format?</h2>
             <h3 class="fragment">I am bad at XSLT</h3>
@@ -285,11 +351,14 @@
         </section>
 
         <section style="display: flex; flex-direction: column;">
-            <h2>This is the world's slowest social network</h2>
-            <h3>Interactions between companies are often 4-8 years apart</h3>
-            <h3>Without a long timespan, you won't see anything</h3>
-            <h3>Like watching starfish</h3>
-            <h3>So, not giving up, not yet</h3>
+            <h2 class="fragment">This is the world's slowest social network</h2>
+            <h3 class="fragment">Interactions between companies are often 4-8 years apart</h3>
+            <h3 class="fragment">Without a long timespan, you won't see anything</h3>
+            <h3 class="fragment">Like watching starfish</h3>
+            <h3 class="fragment">It will look like they're standing still</h3>
+            <h3 class="fragment">So...</h3>
+            <h3 class="fragment">I'm not giving up</h3>
+            <h3 class="fragment">Not yet</h3>
         </section>
 
         <section style="display: flex; flex-direction: column;">
