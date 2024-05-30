@@ -1,0 +1,1175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TED_EXPORT xmlns="http://publications.europa.eu/TED_schema/Export"
+            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink"
+            xsi:schemaLocation="http://publications.europa.eu/TED_schema/Export/R2.0.8.S02.E01 TED_EXPORT.xsd"
+            DOC_ID="107172-2015" EDITION="2015061">
+    <TECHNICAL_SECTION>
+        <RECEPTION_ID>15-108515-001</RECEPTION_ID>
+        <DELETION_DATE>20150522</DELETION_DATE>
+        <FORM_LG_LIST>EN</FORM_LG_LIST>
+        <COMMENTS>From Convertor</COMMENTS>
+    </TECHNICAL_SECTION>
+    <LINKS_SECTION>
+        <XML_SCHEMA_DEFINITION_LINK xlink:title="TED WEBSITE" xlink:href="http://ted.europa.eu" xlink:type="simple"/>
+        <OFFICIAL_FORMS_LINK xlink:href="http://ted.europa.eu" xlink:type="simple"/>
+        <FORMS_LABELS_LINK xlink:href="http://ted.europa.eu" xlink:type="simple"/>
+        <ORIGINAL_CPV_LINK xlink:href="http://ted.europa.eu" xlink:type="simple "/>
+        <ORIGINAL_NUTS_LINK xlink:href="http://ted.europa.eu" xlink:type="simple"/>
+    </LINKS_SECTION>
+    <CODED_DATA_SECTION>
+        <REF_OJS>
+            <COLL_OJ>S</COLL_OJ>
+            <NO_OJ>61</NO_OJ>
+            <DATE_PUB>20150327</DATE_PUB>
+        </REF_OJS>
+        <NOTICE_DATA>
+            <NO_DOC_OJS>2015/S 061-107172</NO_DOC_OJS>
+            <URI_LIST>
+                <URI_DOC LG="EN">http://ted.europa.eu/udl?uri=TED:NOTICE:107172-2015:TEXT:EN:HTML</URI_DOC>
+            </URI_LIST>
+            <LG_ORIG>EN</LG_ORIG>
+            <ISO_COUNTRY VALUE="NO"/>
+            <IA_URL_GENERAL/>
+            <IA_URL_ETENDERING>https://kgv.doffin.no/ctm/Supplier/Documents/Folder/129654</IA_URL_ETENDERING>
+            <ORIGINAL_CPV CODE="72000000">IT services: consulting, software development, Internet and support
+            </ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="79600000">Recruitment services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="79710000">Security services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="79411100">Business development consultancy services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="79400000">Business and management consultancy and related services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="79411000">General management consultancy services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="79414000">Human resources management consultancy services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="79420000">Management-related services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="79633000">Staff development services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="75112100">Administrative development project services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="73220000">Development consultancy services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="79412000">Financial management consultancy services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="72224000">Project management consultancy services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="79418000">Procurement consultancy services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="72600000">Computer support and consultancy services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="72130000">Computer-site planning consultancy services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="72220000">Systems and technical consultancy services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="72230000">Custom software development services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="72267100">Maintenance of information technology software</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="72222000">Information systems or technology strategic review and planning services
+            </ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="48000000">Software package and information systems</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="50324100">System maintenance services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="72212400">Business transaction and personal business software development services
+            </ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="72212442">Financial systems software development services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="79415200">Design consultancy services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="64000000">Postal and telecommunications services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="79000000">Business services: law, marketing, consulting, recruitment, printing and
+                security
+            </ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="72510000">Computer-related management services</ORIGINAL_CPV>
+            <ORIGINAL_NUTS CODE="NO">NORGE</ORIGINAL_NUTS>
+            <VALUES_LIST>
+                <VALUES TYPE="GLOBAL">
+                    <RANGE_VALUE>
+                        <VALUE CURRENCY="NOK">1 162 400 000</VALUE>
+                        <VALUE CURRENCY="NOK">1 473 600 000</VALUE>
+                    </RANGE_VALUE>
+                </VALUES>
+                <VALUES TYPE="GLOBAL">
+                    <RANGE_VALUE>
+                        <VALUE CURRENCY="NOK">1 162 400 000</VALUE>
+                        <VALUE CURRENCY="NOK">1 473 600 000</VALUE>
+                    </RANGE_VALUE>
+                </VALUES>
+                <VALUES TYPE="PER_LOT">
+                    <RANGE_VALUE>
+                        <VALUE CURRENCY="NOK">6 400 000</VALUE>
+                        <VALUE CURRENCY="NOK">8 000 000</VALUE>
+                    </RANGE_VALUE>
+                </VALUES>
+                <VALUES TYPE="PER_LOT">
+                    <RANGE_VALUE>
+                        <VALUE CURRENCY="NOK">8 000 000</VALUE>
+                        <VALUE CURRENCY="NOK">9 600 000</VALUE>
+                    </RANGE_VALUE>
+                </VALUES>
+                <VALUES TYPE="PER_LOT">
+                    <RANGE_VALUE>
+                        <VALUE CURRENCY="NOK">56 000 000</VALUE>
+                        <VALUE CURRENCY="NOK">68 000 000</VALUE>
+                    </RANGE_VALUE>
+                </VALUES>
+                <VALUES TYPE="PER_LOT">
+                    <RANGE_VALUE>
+                        <VALUE CURRENCY="NOK">32 000 000</VALUE>
+                        <VALUE CURRENCY="NOK">40 000 000</VALUE>
+                    </RANGE_VALUE>
+                </VALUES>
+                <VALUES TYPE="PER_LOT">
+                    <RANGE_VALUE>
+                        <VALUE CURRENCY="NOK">72 000 000</VALUE>
+                        <VALUE CURRENCY="NOK">88 000 000</VALUE>
+                    </RANGE_VALUE>
+                </VALUES>
+                <VALUES TYPE="PER_LOT">
+                    <RANGE_VALUE>
+                        <VALUE CURRENCY="NOK">480 000 000</VALUE>
+                        <VALUE CURRENCY="NOK">560 000 000</VALUE>
+                    </RANGE_VALUE>
+                </VALUES>
+                <VALUES TYPE="PER_LOT">
+                    <RANGE_VALUE>
+                        <VALUE CURRENCY="NOK">56 000 000</VALUE>
+                        <VALUE CURRENCY="NOK">72 000 000</VALUE>
+                    </RANGE_VALUE>
+                </VALUES>
+                <VALUES TYPE="PER_LOT">
+                    <RANGE_VALUE>
+                        <VALUE CURRENCY="NOK">220 000 000</VALUE>
+                        <VALUE CURRENCY="NOK">280 000 000</VALUE>
+                    </RANGE_VALUE>
+                </VALUES>
+                <VALUES TYPE="PER_LOT">
+                    <RANGE_VALUE>
+                        <VALUE CURRENCY="NOK">72 000 000</VALUE>
+                        <VALUE CURRENCY="NOK">96 000 000</VALUE>
+                    </RANGE_VALUE>
+                </VALUES>
+                <VALUES TYPE="PER_LOT">
+                    <RANGE_VALUE>
+                        <VALUE CURRENCY="NOK">40 000 000</VALUE>
+                        <VALUE CURRENCY="NOK">56 000 000</VALUE>
+                    </RANGE_VALUE>
+                </VALUES>
+                <VALUES TYPE="PER_LOT">
+                    <RANGE_VALUE>
+                        <VALUE CURRENCY="NOK">64 000 000</VALUE>
+                        <VALUE CURRENCY="NOK">96 000 000</VALUE>
+                    </RANGE_VALUE>
+                </VALUES>
+                <VALUES TYPE="PER_LOT">
+                    <RANGE_VALUE>
+                        <VALUE CURRENCY="NOK">48 000 000</VALUE>
+                        <VALUE CURRENCY="NOK">88 000 000</VALUE>
+                    </RANGE_VALUE>
+                </VALUES>
+                <VALUES TYPE="PER_LOT">
+                    <RANGE_VALUE>
+                        <VALUE CURRENCY="NOK">8 000 000</VALUE>
+                        <VALUE CURRENCY="NOK">12 000 000</VALUE>
+                    </RANGE_VALUE>
+                </VALUES>
+            </VALUES_LIST>
+        </NOTICE_DATA>
+        <CODIF_DATA>
+            <DS_DATE_DISPATCH>20150323</DS_DATE_DISPATCH>
+            <DT_DATE_FOR_SUBMISSION>20150522 12:00</DT_DATE_FOR_SUBMISSION>
+            <AA_AUTHORITY_TYPE CODE="1">Ministry or any other national or federal authority</AA_AUTHORITY_TYPE>
+            <TD_DOCUMENT_TYPE CODE="3">Contract notice</TD_DOCUMENT_TYPE>
+            <NC_CONTRACT_NATURE CODE="4">Services</NC_CONTRACT_NATURE>
+            <PR_PROC CODE="2">Restricted procedure</PR_PROC>
+            <RP_REGULATION CODE="B">European Economic Area (EEA), with participation by GPA countries</RP_REGULATION>
+            <TY_TYPE_BID CODE="3">Submission for one or more lots</TY_TYPE_BID>
+            <AC_AWARD_CRIT CODE="2">The most economic tender</AC_AWARD_CRIT>
+            <MA_MAIN_ACTIVITIES CODE="S">General public services</MA_MAIN_ACTIVITIES>
+            <HEADING>03302</HEADING>
+            <DIRECTIVE VALUE="2004/18/EC"/>
+        </CODIF_DATA>
+    </CODED_DATA_SECTION>
+    <TRANSLATION_SECTION>
+        <ML_TITLES>
+            <ML_TI_DOC LG="BG">
+                <TI_CY>Норвегия</TI_CY>
+                <TI_TOWN>Осло</TI_TOWN>
+                <TI_TEXT>ИТ услуги: консултации, разработване на софтуер, Интернет и поддръжка</TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="CS">
+                <TI_CY>Norsko</TI_CY>
+                <TI_TOWN>Oslo</TI_TOWN>
+                <TI_TEXT>Informační technologie: poradenství, vývoj programového vybavení, internet a podpora</TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="DA">
+                <TI_CY>Norge</TI_CY>
+                <TI_TOWN>Oslo</TI_TOWN>
+                <TI_TEXT>It-tjenester: rådgivning, programmeludvikling, internet og support</TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="DE">
+                <TI_CY>Norwegen</TI_CY>
+                <TI_TOWN>Oslo</TI_TOWN>
+                <TI_TEXT>IT-Dienste: Beratung, Software-Entwicklung, Internet und Hilfestellung</TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="EL">
+                <TI_CY>Νορβηγία</TI_CY>
+                <TI_TOWN>Όσλο</TI_TOWN>
+                <TI_TEXT>Υπηρεσίες τεχνολογίας των πληροφοριών: παροχή συμβουλών, ανάπτυξη λογισμικού, Διαδίκτυο και
+                    υποστήριξη
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="EN">
+                <TI_CY>Norway</TI_CY>
+                <TI_TOWN>Oslo</TI_TOWN>
+                <TI_TEXT>IT services: consulting, software development, Internet and support</TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="ES">
+                <TI_CY>Noruega</TI_CY>
+                <TI_TOWN>Oslo</TI_TOWN>
+                <TI_TEXT>Servicios TI: consultoría, desarrollo de software, Internet y apoyo</TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="ET">
+                <TI_CY>Norra</TI_CY>
+                <TI_TOWN>Oslo</TI_TOWN>
+                <TI_TEXT>IT-teenused: nõuande-, tarkvaraarendus-, Interneti- ja tugiteenused</TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="FI">
+                <TI_CY>Norja</TI_CY>
+                <TI_TOWN>Oslo</TI_TOWN>
+                <TI_TEXT>Tietotekniset palvelut: neuvonta, ohjelmistojen kehittäminen, Internet ja tuki</TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="FR">
+                <TI_CY>Norvège</TI_CY>
+                <TI_TOWN>Oslo</TI_TOWN>
+                <TI_TEXT>Services de technologies de l'information, conseil, développement de logiciels, internet et
+                    appui
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="GA">
+                <TI_CY>Iorua, an</TI_CY>
+                <TI_TOWN>Osló</TI_TOWN>
+                <TI_TEXT>IT services: consulting, software development, Internet and support</TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="HR">
+                <TI_CY>Norveška</TI_CY>
+                <TI_TOWN>Oslo</TI_TOWN>
+                <TI_TEXT>Usluge informacijske tehnologije: savjetovanje, razvoj programske podrške, internet i podrška
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="HU">
+                <TI_CY>Norvégia</TI_CY>
+                <TI_TOWN>Oslo</TI_TOWN>
+                <TI_TEXT>IT-szolgáltatások: tanácsadás, szoftverfejlesztés, internet és támogatás</TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="IT">
+                <TI_CY>Norvegia</TI_CY>
+                <TI_TOWN>Oslo</TI_TOWN>
+                <TI_TEXT>Servizi informatici: consulenza, sviluppo di software, Internet e supporto</TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="LT">
+                <TI_CY>Norvegija</TI_CY>
+                <TI_TOWN>Oslas</TI_TOWN>
+                <TI_TEXT>IT paslaugos: konsultavimas, programinės įrangos kūrimas, internetas ir aptarnavimo paslaugos
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="LV">
+                <TI_CY>Norvēģija</TI_CY>
+                <TI_TOWN>Oslo</TI_TOWN>
+                <TI_TEXT>IT pakalpojumi konsultēšana, programmatūras izstrāde, internets un atbalsts</TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="MT">
+                <TI_CY>in-Norveġja</TI_CY>
+                <TI_TOWN>Oslo</TI_TOWN>
+                <TI_TEXT>Servizzi ta' IT: konsulenza, żvilupp ta' softwer, Internet u appoġġ</TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="NL">
+                <TI_CY>Noorwegen</TI_CY>
+                <TI_TOWN>Oslo</TI_TOWN>
+                <TI_TEXT>IT-diensten: adviezen, softwareontwikkeling, internet en ondersteuning</TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="PL">
+                <TI_CY>Norwegia</TI_CY>
+                <TI_TOWN>Oslo</TI_TOWN>
+                <TI_TEXT>Usługi informatyczne: konsultacyjne, opracowywania oprogramowania, internetowe i wsparcia
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="PT">
+                <TI_CY>Noruega</TI_CY>
+                <TI_TOWN>Oslo</TI_TOWN>
+                <TI_TEXT>Serviços de TI: consultoria, desenvolvimento de software, Internet e apoio</TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="RO">
+                <TI_CY>Norvegia</TI_CY>
+                <TI_TOWN>Oslo</TI_TOWN>
+                <TI_TEXT>Servicii IT: consultanţă, dezvoltare de software, internet şi asistenţă</TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="SK">
+                <TI_CY>Nórsko</TI_CY>
+                <TI_TOWN>Oslo</TI_TOWN>
+                <TI_TEXT>Služby informačných technológií: konzultácie, vývoj softvéru, internet a podpora</TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="SL">
+                <TI_CY>Norveška</TI_CY>
+                <TI_TOWN>Oslo</TI_TOWN>
+                <TI_TEXT>Storitve informacijske tehnologije: svetovanje, razvoj programske opreme, internet in podpora
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="SV">
+                <TI_CY>Norge</TI_CY>
+                <TI_TOWN>Oslo</TI_TOWN>
+                <TI_TEXT>IT-tjänster: konsultverksamhet, programvaruutveckling, Internet och stöd</TI_TEXT>
+            </ML_TI_DOC>
+        </ML_TITLES>
+        <ML_AA_NAMES>
+            <AA_NAME LG="EN">Arbeids- og velferdsdirektoratet, Økonomiavdelingen, Anskaffelsesseksjonen</AA_NAME>
+        </ML_AA_NAMES>
+    </TRANSLATION_SECTION>
+    <FORM_SECTION>
+        <CONTRACT CATEGORY="ORIGINAL" FORM="2" LG="EN" VERSION="R2.0.8.S02.E01">
+            <FD_CONTRACT CTYPE="SERVICES">
+                <CONTRACTING_AUTHORITY_INFORMATION>
+                    <NAME_ADDRESSES_CONTACT_CONTRACT>
+                        <CA_CE_CONCESSIONAIRE_PROFILE>
+                            <ORGANISATION>
+                                <OFFICIALNAME>Arbeids- og velferdsdirektoratet, Økonomiavdelingen,
+                                    Anskaffelsesseksjonen
+                                </OFFICIALNAME>
+                                <NATIONALID>889640782</NATIONALID>
+                            </ORGANISATION>
+                            <ADDRESS>Postboks 5, St Olavs plass</ADDRESS>
+                            <TOWN>Oslo</TOWN>
+                            <POSTAL_CODE>0130</POSTAL_CODE>
+                            <COUNTRY VALUE="NO"/>
+                            <ATTENTION>Beate Oliver</ATTENTION>
+                            <PHONE>+47 21071000</PHONE>
+                            <E_MAILS>
+                                <E_MAIL>beate.oliver@nav.no</E_MAIL>
+                            </E_MAILS>
+                            <FAX>+47 21071010</FAX>
+                        </CA_CE_CONCESSIONAIRE_PROFILE>
+                        <INTERNET_ADDRESSES_CONTRACT>
+                            <URL_BUYER>https://kgv.doffin.no/ctm/Supplier/CompanyInformation/Index/1002</URL_BUYER>
+                            <URL_INFORMATION>https://kgv.doffin.no/ctm/Supplier/Documents/Folder/129654
+                            </URL_INFORMATION>
+                        </INTERNET_ADDRESSES_CONTRACT>
+                        <FURTHER_INFORMATION>
+                            <IDEM/>
+                        </FURTHER_INFORMATION>
+                        <SPECIFICATIONS_AND_ADDITIONAL_DOCUMENTS>
+                            <IDEM/>
+                        </SPECIFICATIONS_AND_ADDITIONAL_DOCUMENTS>
+                        <TENDERS_REQUESTS_APPLICATIONS_MUST_BE_SENT_TO>
+                            <IDEM/>
+                        </TENDERS_REQUESTS_APPLICATIONS_MUST_BE_SENT_TO>
+                    </NAME_ADDRESSES_CONTACT_CONTRACT>
+                    <TYPE_AND_ACTIVITIES_AND_PURCHASING_ON_BEHALF>
+                        <TYPE_AND_ACTIVITIES>
+                            <TYPE_OF_CONTRACTING_AUTHORITY VALUE="MINISTRY"/>
+                            <TYPE_OF_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+                        </TYPE_AND_ACTIVITIES>
+                        <PURCHASING_ON_BEHALF>
+                            <PURCHASING_ON_BEHALF_NO/>
+                        </PURCHASING_ON_BEHALF>
+                    </TYPE_AND_ACTIVITIES_AND_PURCHASING_ON_BEHALF>
+                </CONTRACTING_AUTHORITY_INFORMATION>
+                <OBJECT_CONTRACT_INFORMATION>
+                    <DESCRIPTION_CONTRACT_INFORMATION>
+                        <TITLE_CONTRACT>
+                            <P>Procurement of parallel framework agreements for consultancy services for NAV.</P>
+                        </TITLE_CONTRACT>
+                        <TYPE_CONTRACT_LOCATION>
+                            <TYPE_CONTRACT VALUE="SERVICES"/>
+                            <SERVICE_CATEGORY>11</SERVICE_CATEGORY>
+                        </TYPE_CONTRACT_LOCATION>
+                        <LOCATION_NUTS>
+                            <LOCATION>
+                                <P>Oslo, Norway.</P>
+                            </LOCATION>
+                            <NUTS CODE="NO"/>
+                        </LOCATION_NUTS>
+                        <NOTICE_INVOLVES>
+                            <ESTABLISHMENT_FRAMEWORK_AGREEMENT/>
+                        </NOTICE_INVOLVES>
+                        <F02_FRAMEWORK>
+                            <SEVERAL_OPERATORS>
+                                <MAX_NUMBER_PARTICIPANTS>90</MAX_NUMBER_PARTICIPANTS>
+                            </SEVERAL_OPERATORS>
+                            <DURATION_FRAMEWORK_YEAR>4</DURATION_FRAMEWORK_YEAR>
+                            <TOTAL_ESTIMATED>
+                                <COSTS_RANGE_AND_CURRENCY CURRENCY="NOK">
+                                    <RANGE_VALUE_COST>
+                                        <LOW_VALUE FMTVAL="1162400000">1 162 400 000</LOW_VALUE>
+                                        <HIGH_VALUE FMTVAL="1473600000">1 473 600 000</HIGH_VALUE>
+                                    </RANGE_VALUE_COST>
+                                </COSTS_RANGE_AND_CURRENCY>
+                            </TOTAL_ESTIMATED>
+                        </F02_FRAMEWORK>
+                        <SHORT_CONTRACT_DESCRIPTION>
+                            <P>The aim of the procurement is to establish parallel framework agreements that can be used
+                                to obtain necessary external competence for NAV.
+                            </P>
+                            <P>The contracts shall cover the need for competence that the contracting authority does not
+                                have access to in its own department on a given day, or where there is an independent
+                                need for external task solving. The contracts can also be used if extra capacity is
+                                needed.
+                            </P>
+                        </SHORT_CONTRACT_DESCRIPTION>
+                        <CPV>
+                            <CPV_MAIN>
+                                <CPV_CODE CODE="72000000"/>
+                            </CPV_MAIN>
+                            <CPV_ADDITIONAL>
+                                <CPV_CODE CODE="79600000"/>
+                            </CPV_ADDITIONAL>
+                            <CPV_ADDITIONAL>
+                                <CPV_CODE CODE="79710000"/>
+                            </CPV_ADDITIONAL>
+                            <CPV_ADDITIONAL>
+                                <CPV_CODE CODE="79411100"/>
+                            </CPV_ADDITIONAL>
+                            <CPV_ADDITIONAL>
+                                <CPV_CODE CODE="79400000"/>
+                            </CPV_ADDITIONAL>
+                            <CPV_ADDITIONAL>
+                                <CPV_CODE CODE="79411000"/>
+                            </CPV_ADDITIONAL>
+                            <CPV_ADDITIONAL>
+                                <CPV_CODE CODE="79414000"/>
+                            </CPV_ADDITIONAL>
+                            <CPV_ADDITIONAL>
+                                <CPV_CODE CODE="79420000"/>
+                            </CPV_ADDITIONAL>
+                            <CPV_ADDITIONAL>
+                                <CPV_CODE CODE="79633000"/>
+                            </CPV_ADDITIONAL>
+                            <CPV_ADDITIONAL>
+                                <CPV_CODE CODE="75112100"/>
+                            </CPV_ADDITIONAL>
+                            <CPV_ADDITIONAL>
+                                <CPV_CODE CODE="73220000"/>
+                            </CPV_ADDITIONAL>
+                            <CPV_ADDITIONAL>
+                                <CPV_CODE CODE="79412000"/>
+                            </CPV_ADDITIONAL>
+                            <CPV_ADDITIONAL>
+                                <CPV_CODE CODE="72224000"/>
+                            </CPV_ADDITIONAL>
+                            <CPV_ADDITIONAL>
+                                <CPV_CODE CODE="79418000"/>
+                            </CPV_ADDITIONAL>
+                            <CPV_ADDITIONAL>
+                                <CPV_CODE CODE="72600000"/>
+                            </CPV_ADDITIONAL>
+                            <CPV_ADDITIONAL>
+                                <CPV_CODE CODE="72130000"/>
+                            </CPV_ADDITIONAL>
+                            <CPV_ADDITIONAL>
+                                <CPV_CODE CODE="72220000"/>
+                            </CPV_ADDITIONAL>
+                            <CPV_ADDITIONAL>
+                                <CPV_CODE CODE="72230000"/>
+                            </CPV_ADDITIONAL>
+                            <CPV_ADDITIONAL>
+                                <CPV_CODE CODE="72267100"/>
+                            </CPV_ADDITIONAL>
+                            <CPV_ADDITIONAL>
+                                <CPV_CODE CODE="72222000"/>
+                            </CPV_ADDITIONAL>
+                            <CPV_ADDITIONAL>
+                                <CPV_CODE CODE="48000000"/>
+                            </CPV_ADDITIONAL>
+                            <CPV_ADDITIONAL>
+                                <CPV_CODE CODE="50324100"/>
+                            </CPV_ADDITIONAL>
+                            <CPV_ADDITIONAL>
+                                <CPV_CODE CODE="72212400"/>
+                            </CPV_ADDITIONAL>
+                            <CPV_ADDITIONAL>
+                                <CPV_CODE CODE="72212442"/>
+                            </CPV_ADDITIONAL>
+                            <CPV_ADDITIONAL>
+                                <CPV_CODE CODE="79415200"/>
+                            </CPV_ADDITIONAL>
+                            <CPV_ADDITIONAL>
+                                <CPV_CODE CODE="64000000"/>
+                            </CPV_ADDITIONAL>
+                            <CPV_ADDITIONAL>
+                                <CPV_CODE CODE="79000000"/>
+                            </CPV_ADDITIONAL>
+                            <CPV_ADDITIONAL>
+                                <CPV_CODE CODE="72510000"/>
+                            </CPV_ADDITIONAL>
+                        </CPV>
+                        <CONTRACT_COVERED_GPA VALUE="YES"/>
+                        <F02_DIVISION_INTO_LOTS>
+                            <F02_DIV_INTO_LOT_YES VALUE="ONE_OR_MORE_LOT">
+                                <F02_ANNEX_B>
+                                    <LOT_NUMBER>1</LOT_NUMBER>
+                                    <LOT_TITLE>Recruitment assistance</LOT_TITLE>
+                                    <LOT_DESCRIPTION>
+                                        <P>Examples are:</P>
+                                        <P>Full recruitment process of key personnel and of managers from office manager
+                                            level and higher levels.
+                                        </P>
+                                        <P>Parts of the recruitment process of key personnel and of managers from office
+                                            manager level and higher levels, such as
+                                        </P>
+                                        <P>— needs analyse;</P>
+                                        <P>— announcement;</P>
+                                        <P>— search, interview, testing and recommendations.</P>
+                                        <P>Consultancy services for the recruitment process</P>
+                                        <P>Assistance with process improvements and quality assurance for recruitment.
+                                        </P>
+                                    </LOT_DESCRIPTION>
+                                    <CPV>
+                                        <CPV_MAIN>
+                                            <CPV_CODE CODE="79600000"/>
+                                        </CPV_MAIN>
+                                        <CPV_ADDITIONAL>
+                                            <CPV_CODE CODE="79000000"/>
+                                        </CPV_ADDITIONAL>
+                                    </CPV>
+                                    <NATURE_QUANTITY_SCOPE>
+                                        <COSTS_RANGE_AND_CURRENCY CURRENCY="NOK">
+                                            <RANGE_VALUE_COST>
+                                                <LOW_VALUE FMTVAL="6400000">6 400 000</LOW_VALUE>
+                                                <HIGH_VALUE FMTVAL="8000000">8 000 000</HIGH_VALUE>
+                                            </RANGE_VALUE_COST>
+                                        </COSTS_RANGE_AND_CURRENCY>
+                                    </NATURE_QUANTITY_SCOPE>
+                                </F02_ANNEX_B>
+                                <F02_ANNEX_B>
+                                    <LOT_NUMBER>2</LOT_NUMBER>
+                                    <LOT_TITLE>Security advice (physical security/personal security)</LOT_TITLE>
+                                    <LOT_DESCRIPTION>
+                                        <P>Examples are:</P>
+                                        <P>Advice on methods and systems for physically securing personnel from threats
+                                            and violence.
+                                        </P>
+                                        <P>Advice on the prevention, handling and follow-up of violence and threats of
+                                            violence.
+                                        </P>
+                                        <P>Advice on the design of buildings and furnishings that fulfil NAV's
+                                            requirements for its employees' safety.
+                                        </P>
+                                    </LOT_DESCRIPTION>
+                                    <CPV>
+                                        <CPV_MAIN>
+                                            <CPV_CODE CODE="79710000"/>
+                                        </CPV_MAIN>
+                                        <CPV_ADDITIONAL>
+                                            <CPV_CODE CODE="79000000"/>
+                                        </CPV_ADDITIONAL>
+                                    </CPV>
+                                    <NATURE_QUANTITY_SCOPE>
+                                        <COSTS_RANGE_AND_CURRENCY CURRENCY="NOK">
+                                            <RANGE_VALUE_COST>
+                                                <LOW_VALUE FMTVAL="8000000">8 000 000</LOW_VALUE>
+                                                <HIGH_VALUE FMTVAL="9600000">9 600 000</HIGH_VALUE>
+                                            </RANGE_VALUE_COST>
+                                        </COSTS_RANGE_AND_CURRENCY>
+                                    </NATURE_QUANTITY_SCOPE>
+                                </F02_ANNEX_B>
+                                <F02_ANNEX_B>
+                                    <LOT_NUMBER>3</LOT_NUMBER>
+                                    <LOT_TITLE>Organisational Development</LOT_TITLE>
+                                    <LOT_DESCRIPTION>
+                                        <P>Examples are:</P>
+                                        <P>Advice, project management and project support connected to:</P>
+                                        <P>— strategy development;</P>
+                                        <P>— restructuring and change processes;</P>
+                                        <P>— entity development and continual improvement in implementation and change
+                                            methods;
+                                        </P>
+                                        <P>— organisation culture;</P>
+                                        <P>— analysis/review and evaluation of the organisation, including consequences
+                                            and gains work;
+                                        </P>
+                                        <P>— improving efficiency and service development;</P>
+                                        <P>— organisation design, work processes, roles and responsibility;</P>
+                                        <P>— advice, methods and tools within strategic competence work — development,
+                                            management and mapping.
+                                        </P>
+                                        <P>Strategic competence management, including the use of and interaction between
+                                            procurement, development, restructuring and discontinuing measures.
+                                        </P>
+                                        <P>Development and adaptation of competence measures with the main emphasis on
+                                            e-learning/digital learning (action support and competence sharing).
+                                        </P>
+                                        <P>Organisation and personnel analyses, including obtaining and comparing data,
+                                            analyses and decision bases.
+                                        </P>
+                                        <P>Consultancy for facility management.</P>
+                                        <P>Evaluations.</P>
+                                    </LOT_DESCRIPTION>
+                                    <CPV>
+                                        <CPV_MAIN>
+                                            <CPV_CODE CODE="79411100"/>
+                                        </CPV_MAIN>
+                                        <CPV_ADDITIONAL>
+                                            <CPV_CODE CODE="79400000"/>
+                                        </CPV_ADDITIONAL>
+                                    </CPV>
+                                    <NATURE_QUANTITY_SCOPE>
+                                        <COSTS_RANGE_AND_CURRENCY CURRENCY="NOK">
+                                            <RANGE_VALUE_COST>
+                                                <LOW_VALUE FMTVAL="56000000">56 000 000</LOW_VALUE>
+                                                <HIGH_VALUE FMTVAL="68000000">68 000 000</HIGH_VALUE>
+                                            </RANGE_VALUE_COST>
+                                        </COSTS_RANGE_AND_CURRENCY>
+                                    </NATURE_QUANTITY_SCOPE>
+                                </F02_ANNEX_B>
+                                <F02_ANNEX_B>
+                                    <LOT_NUMBER>4</LOT_NUMBER>
+                                    <LOT_TITLE>Management support/development</LOT_TITLE>
+                                    <LOT_DESCRIPTION>
+                                        <P>Examples are:</P>
+                                        <P>— Coaching;</P>
+                                        <P>— Mentor support;</P>
+                                        <P>— Change management;</P>
+                                        <P>— Development of management groups and teams;</P>
+                                        <P>— Measuring/following-up managers, including systems, tools and methods (360
+                                            manager evaluations).
+                                        </P>
+                                        <P>— Development of manager programmes, talent programmes and mentor
+                                            programmes.
+                                        </P>
+                                    </LOT_DESCRIPTION>
+                                    <CPV>
+                                        <CPV_MAIN>
+                                            <CPV_CODE CODE="79420000"/>
+                                        </CPV_MAIN>
+                                        <CPV_ADDITIONAL>
+                                            <CPV_CODE CODE="79400000"/>
+                                        </CPV_ADDITIONAL>
+                                        <CPV_ADDITIONAL>
+                                            <CPV_CODE CODE="79633000"/>
+                                        </CPV_ADDITIONAL>
+                                    </CPV>
+                                    <NATURE_QUANTITY_SCOPE>
+                                        <COSTS_RANGE_AND_CURRENCY CURRENCY="NOK">
+                                            <RANGE_VALUE_COST>
+                                                <LOW_VALUE FMTVAL="32000000">32 000 000</LOW_VALUE>
+                                                <HIGH_VALUE FMTVAL="40000000">40 000 000</HIGH_VALUE>
+                                            </RANGE_VALUE_COST>
+                                        </COSTS_RANGE_AND_CURRENCY>
+                                    </NATURE_QUANTITY_SCOPE>
+                                </F02_ANNEX_B>
+                                <F02_ANNEX_B>
+                                    <LOT_NUMBER>5</LOT_NUMBER>
+                                    <LOT_TITLE>Business management</LOT_TITLE>
+                                    <LOT_DESCRIPTION>
+                                        <P>Examples are:</P>
+                                        <P>— Strategy development;</P>
+                                        <P>— Strategy implementation;</P>
+                                        <P>— Risk management;</P>
+                                        <P>— Quality assurance;</P>
+                                        <P>— Quality assurance within business management;</P>
+                                        <P>— Financial management;</P>
+                                        <P>— Management for hire;</P>
+                                        <P>— Balanced performance management.</P>
+                                    </LOT_DESCRIPTION>
+                                    <CPV>
+                                        <CPV_MAIN>
+                                            <CPV_CODE CODE="79400000"/>
+                                        </CPV_MAIN>
+                                        <CPV_ADDITIONAL>
+                                            <CPV_CODE CODE="79411100"/>
+                                        </CPV_ADDITIONAL>
+                                        <CPV_ADDITIONAL>
+                                            <CPV_CODE CODE="79411000"/>
+                                        </CPV_ADDITIONAL>
+                                        <CPV_ADDITIONAL>
+                                            <CPV_CODE CODE="75112100"/>
+                                        </CPV_ADDITIONAL>
+                                        <CPV_ADDITIONAL>
+                                            <CPV_CODE CODE="73220000"/>
+                                        </CPV_ADDITIONAL>
+                                        <CPV_ADDITIONAL>
+                                            <CPV_CODE CODE="79412000"/>
+                                        </CPV_ADDITIONAL>
+                                    </CPV>
+                                    <NATURE_QUANTITY_SCOPE>
+                                        <COSTS_RANGE_AND_CURRENCY CURRENCY="NOK">
+                                            <RANGE_VALUE_COST>
+                                                <LOW_VALUE FMTVAL="72000000">72 000 000</LOW_VALUE>
+                                                <HIGH_VALUE FMTVAL="88000000">88 000 000</HIGH_VALUE>
+                                            </RANGE_VALUE_COST>
+                                        </COSTS_RANGE_AND_CURRENCY>
+                                    </NATURE_QUANTITY_SCOPE>
+                                </F02_ANNEX_B>
+                                <F02_ANNEX_B>
+                                    <LOT_NUMBER>6</LOT_NUMBER>
+                                    <LOT_TITLE>Project management/consultancy</LOT_TITLE>
+                                    <LOT_DESCRIPTION>
+                                        <P>Examples are:</P>
+                                        <P>— Project management</P>
+                                        <P>— Technical project management</P>
+                                        <P>— Project manager support/administration</P>
+                                        <P>— Programme management/portfolio management</P>
+                                        <P>— Process management</P>
+                                        <P>— Process mapping and improving efficiency</P>
+                                        <P>— Project management tool, for example MS Project</P>
+                                        <P>— Risk handling</P>
+                                        <P>— Gains estimation and gains realisation</P>
+                                        <P>— Mapping needs/specifying requirements</P>
+                                        <P>— Quality assurance of ICT projects</P>
+                                        <P>— Estimation of time and costs</P>
+                                        <P>— Configuration management</P>
+                                        <P>— Cost/benefit analysis</P>
+                                        <P>— Public procurements</P>
+                                        <P>ITIL; expertise within Service Management and work processes within ITIL's
+                                            framework
+                                        </P>
+                                        <P>Method within system development and administration.</P>
+                                    </LOT_DESCRIPTION>
+                                    <CPV>
+                                        <CPV_MAIN>
+                                            <CPV_CODE CODE="72224000"/>
+                                        </CPV_MAIN>
+                                        <CPV_ADDITIONAL>
+                                            <CPV_CODE CODE="73220000"/>
+                                        </CPV_ADDITIONAL>
+                                        <CPV_ADDITIONAL>
+                                            <CPV_CODE CODE="79418000"/>
+                                        </CPV_ADDITIONAL>
+                                        <CPV_ADDITIONAL>
+                                            <CPV_CODE CODE="72600000"/>
+                                        </CPV_ADDITIONAL>
+                                        <CPV_ADDITIONAL>
+                                            <CPV_CODE CODE="72130000"/>
+                                        </CPV_ADDITIONAL>
+                                        <CPV_ADDITIONAL>
+                                            <CPV_CODE CODE="72000000"/>
+                                        </CPV_ADDITIONAL>
+                                        <CPV_ADDITIONAL>
+                                            <CPV_CODE CODE="72220000"/>
+                                        </CPV_ADDITIONAL>
+                                    </CPV>
+                                    <NATURE_QUANTITY_SCOPE>
+                                        <COSTS_RANGE_AND_CURRENCY CURRENCY="NOK">
+                                            <RANGE_VALUE_COST>
+                                                <LOW_VALUE FMTVAL="480000000">480 000 000</LOW_VALUE>
+                                                <HIGH_VALUE FMTVAL="560000000">560 000 000</HIGH_VALUE>
+                                            </RANGE_VALUE_COST>
+                                        </COSTS_RANGE_AND_CURRENCY>
+                                    </NATURE_QUANTITY_SCOPE>
+                                </F02_ANNEX_B>
+                                <F02_ANNEX_B>
+                                    <LOT_NUMBER>7</LOT_NUMBER>
+                                    <LOT_TITLE>Strategy planning/consultancy</LOT_TITLE>
+                                    <LOT_DESCRIPTION>
+                                        <P>Examples are:</P>
+                                        <P>— SOA governance;</P>
+                                        <P>— IT governance;</P>
+                                        <P>— Strategic consultancy.</P>
+                                    </LOT_DESCRIPTION>
+                                    <CPV>
+                                        <CPV_MAIN>
+                                            <CPV_CODE CODE="72000000"/>
+                                        </CPV_MAIN>
+                                        <CPV_ADDITIONAL>
+                                            <CPV_CODE CODE="75112100"/>
+                                        </CPV_ADDITIONAL>
+                                        <CPV_ADDITIONAL>
+                                            <CPV_CODE CODE="72220000"/>
+                                        </CPV_ADDITIONAL>
+                                    </CPV>
+                                    <NATURE_QUANTITY_SCOPE>
+                                        <COSTS_RANGE_AND_CURRENCY CURRENCY="NOK">
+                                            <RANGE_VALUE_COST>
+                                                <LOW_VALUE FMTVAL="56000000">56 000 000</LOW_VALUE>
+                                                <HIGH_VALUE FMTVAL="72000000">72 000 000</HIGH_VALUE>
+                                            </RANGE_VALUE_COST>
+                                        </COSTS_RANGE_AND_CURRENCY>
+                                    </NATURE_QUANTITY_SCOPE>
+                                </F02_ANNEX_B>
+                                <F02_ANNEX_B>
+                                    <LOT_NUMBER>8</LOT_NUMBER>
+                                    <LOT_TITLE>Architecture and system specification</LOT_TITLE>
+                                    <LOT_DESCRIPTION>
+                                        <P>Examples are:</P>
+                                        <P>— Enterprise architecture</P>
+                                        <P>— Functional architecture and design</P>
+                                        <P>— Searches and search technology</P>
+                                        <P>— User quality and interaction design</P>
+                                        <P>— Architecture for user orientated services</P>
+                                        <P>— Architecture for electronic interaction</P>
+                                        <P>— Document handling, including journal/archive, document production, document
+                                            distribution and receipt/scanning.
+                                        </P>
+                                        <P>— Information and data architecture, including master data management</P>
+                                        <P>— Content Management</P>
+                                        <P>— Application architecture</P>
+                                        <P>— Service orientated architecture</P>
+                                        <P>— BPM (Business Process Modelling)</P>
+                                        <P>— Architecture tool</P>
+                                        <P>— Enterprise management and data warehouse</P>
+                                        <P>— Rule architecture, including rule engine tool</P>
+                                        <P>— Independent quality assurance, for example, of technical architecture,
+                                            systems, infrastructure, functional requirements for architecture and
+                                            technology, processes/security.
+                                        </P>
+                                        <P>— Information security</P>
+                                        <P>— Technology advice</P>
+                                        <P>— Service orientated architecture (SOA)</P>
+                                        <P>— Operational architecture</P>
+                                        <P>— Technical infrastructure</P>
+                                        <P>— Security architecture.</P>
+                                    </LOT_DESCRIPTION>
+                                    <CPV>
+                                        <CPV_MAIN>
+                                            <CPV_CODE CODE="72220000"/>
+                                        </CPV_MAIN>
+                                        <CPV_ADDITIONAL>
+                                            <CPV_CODE CODE="72000000"/>
+                                        </CPV_ADDITIONAL>
+                                        <CPV_ADDITIONAL>
+                                            <CPV_CODE CODE="48000000"/>
+                                        </CPV_ADDITIONAL>
+                                    </CPV>
+                                    <NATURE_QUANTITY_SCOPE>
+                                        <COSTS_RANGE_AND_CURRENCY CURRENCY="NOK">
+                                            <RANGE_VALUE_COST>
+                                                <LOW_VALUE FMTVAL="220000000">220 000 000</LOW_VALUE>
+                                                <HIGH_VALUE FMTVAL="280000000">280 000 000</HIGH_VALUE>
+                                            </RANGE_VALUE_COST>
+                                        </COSTS_RANGE_AND_CURRENCY>
+                                    </NATURE_QUANTITY_SCOPE>
+                                </F02_ANNEX_B>
+                                <F02_ANNEX_B>
+                                    <LOT_NUMBER>9</LOT_NUMBER>
+                                    <LOT_TITLE>Testing and quality assurance</LOT_TITLE>
+                                    <LOT_DESCRIPTION>
+                                        <P>Examples are:</P>
+                                        <P>— Test management and technical roles connected to testing (performance
+                                            testing, automising tests, test data etc.) including strategy and plan.
+                                        </P>
+                                        <P>— Test competence within technical tests (performance, security and
+                                            interruption tests).
+                                        </P>
+                                        <P>— Test tool.</P>
+                                        <P>— General test competence.</P>
+                                    </LOT_DESCRIPTION>
+                                    <CPV>
+                                        <CPV_MAIN>
+                                            <CPV_CODE CODE="72000000"/>
+                                        </CPV_MAIN>
+                                    </CPV>
+                                    <NATURE_QUANTITY_SCOPE>
+                                        <COSTS_RANGE_AND_CURRENCY CURRENCY="NOK">
+                                            <RANGE_VALUE_COST>
+                                                <LOW_VALUE FMTVAL="72000000">72 000 000</LOW_VALUE>
+                                                <HIGH_VALUE FMTVAL="96000000">96 000 000</HIGH_VALUE>
+                                            </RANGE_VALUE_COST>
+                                        </COSTS_RANGE_AND_CURRENCY>
+                                    </NATURE_QUANTITY_SCOPE>
+                                </F02_ANNEX_B>
+                                <F02_ANNEX_B>
+                                    <LOT_NUMBER>10</LOT_NUMBER>
+                                    <LOT_TITLE>Logistics, OeBS and e-commerce</LOT_TITLE>
+                                    <LOT_DESCRIPTION>
+                                        <P>Examples are:</P>
+                                        <P>— Operation and management of Oracle eBusiness Suite;</P>
+                                        <P>— Reporting using Oracle Discoverer;</P>
+                                        <P>— Set up of system, functional and technical competence;</P>
+                                        <P>— Invoice system integrated with OeBS;</P>
+                                        <P>— Interface, for example, for handling invoices.</P>
+                                    </LOT_DESCRIPTION>
+                                    <CPV>
+                                        <CPV_MAIN>
+                                            <CPV_CODE CODE="72000000"/>
+                                        </CPV_MAIN>
+                                        <CPV_ADDITIONAL>
+                                            <CPV_CODE CODE="50324100"/>
+                                        </CPV_ADDITIONAL>
+                                        <CPV_ADDITIONAL>
+                                            <CPV_CODE CODE="72212400"/>
+                                        </CPV_ADDITIONAL>
+                                        <CPV_ADDITIONAL>
+                                            <CPV_CODE CODE="72212442"/>
+                                        </CPV_ADDITIONAL>
+                                        <CPV_ADDITIONAL>
+                                            <CPV_CODE CODE="72510000"/>
+                                        </CPV_ADDITIONAL>
+                                    </CPV>
+                                    <NATURE_QUANTITY_SCOPE>
+                                        <COSTS_RANGE_AND_CURRENCY CURRENCY="NOK">
+                                            <RANGE_VALUE_COST>
+                                                <LOW_VALUE FMTVAL="40000000">40 000 000</LOW_VALUE>
+                                                <HIGH_VALUE FMTVAL="56000000">56 000 000</HIGH_VALUE>
+                                            </RANGE_VALUE_COST>
+                                        </COSTS_RANGE_AND_CURRENCY>
+                                    </NATURE_QUANTITY_SCOPE>
+                                </F02_ANNEX_B>
+                                <F02_ANNEX_B>
+                                    <LOT_NUMBER>11</LOT_NUMBER>
+                                    <LOT_TITLE>System development/programming</LOT_TITLE>
+                                    <LOT_DESCRIPTION>
+                                        <P>Examples are:</P>
+                                        <P>— Data warehouse, Business Intelligence, for example, Actuate, Business
+                                            Objects, Informatica, SAS.
+                                        </P>
+                                        <P>— Web development, further development of applications and interface.</P>
+                                        <P>— Enonic publishing tool.</P>
+                                        <P>— Analysis and design: analyse description and data modelling (for example
+                                            UML, Rational S/XDE, ERWin).
+                                        </P>
+                                        <P>— Programming: Component based and construction (for example Java, j2EE,
+                                            Eclipse, WSAD5.1, Cobol, C/C++, Visual Basic, Oracle PL/ SQL).
+                                        </P>
+                                        <P>— Application integration (for example SOA integration).</P>
+                                    </LOT_DESCRIPTION>
+                                    <CPV>
+                                        <CPV_MAIN>
+                                            <CPV_CODE CODE="72000000"/>
+                                        </CPV_MAIN>
+                                        <CPV_ADDITIONAL>
+                                            <CPV_CODE CODE="72230000"/>
+                                        </CPV_ADDITIONAL>
+                                        <CPV_ADDITIONAL>
+                                            <CPV_CODE CODE="72220000"/>
+                                        </CPV_ADDITIONAL>
+                                        <CPV_ADDITIONAL>
+                                            <CPV_CODE CODE="79415200"/>
+                                        </CPV_ADDITIONAL>
+                                    </CPV>
+                                    <NATURE_QUANTITY_SCOPE>
+                                        <COSTS_RANGE_AND_CURRENCY CURRENCY="NOK">
+                                            <RANGE_VALUE_COST>
+                                                <LOW_VALUE FMTVAL="64000000">64 000 000</LOW_VALUE>
+                                                <HIGH_VALUE FMTVAL="96000000">96 000 000</HIGH_VALUE>
+                                            </RANGE_VALUE_COST>
+                                        </COSTS_RANGE_AND_CURRENCY>
+                                    </NATURE_QUANTITY_SCOPE>
+                                </F02_ANNEX_B>
+                                <F02_ANNEX_B>
+                                    <LOT_NUMBER>12</LOT_NUMBER>
+                                    <LOT_TITLE>Operation of IT systems and platforms</LOT_TITLE>
+                                    <LOT_DESCRIPTION>
+                                        <P>Examples are:</P>
+                                        <P>Virtualisation technology (VMWare)</P>
+                                        <P>Operation, production and troubleshooting (for example HPUX, Solaris, Red Hat
+                                            Linux, Z/OS, windows client and server, Cisco, PCP / IP, Oracle, DB2 for Z /
+                                            OS, DL/1, VSAM, ARS-remedy, CA-Unicenter, IBMs TWS)
+                                        </P>
+                                        <P>Operational documentation</P>
+                                        <P>Expertise within IN-services, IP-telephony, PABX-systems and mobile
+                                            systems.
+                                        </P>
+                                        <P>Spesialists in Citrix Xen App, Unix, Red Hat Linux</P>
+                                        <P>Expertise within design and architecture for data storage.</P>
+                                        <P>Design, construction development tools, tuning (for example DB2 for z/OS,
+                                            DL/1, VSAM, Oracle)
+                                        </P>
+                                        <P>Design, operational competence, competence transfer, architecture and
+                                            configuration work for middle layer software (For example: MQSeries,
+                                            TP-Monitor / CICS / Cobol, WebSphere Application server, WebLogic
+                                            Application server, XML, J2EE / JCA / CTG / JMS / JAAS, JMX, LDAP, Websphere
+                                            Process Server, JBoss Application server, DataPower, Oracle FORMS, JBoss
+                                            Enterprise service bus, SonicMQ).
+                                        </P>
+                                    </LOT_DESCRIPTION>
+                                    <CPV>
+                                        <CPV_MAIN>
+                                            <CPV_CODE CODE="72000000"/>
+                                        </CPV_MAIN>
+                                        <CPV_ADDITIONAL>
+                                            <CPV_CODE CODE="48000000"/>
+                                        </CPV_ADDITIONAL>
+                                        <CPV_ADDITIONAL>
+                                            <CPV_CODE CODE="72510000"/>
+                                        </CPV_ADDITIONAL>
+                                    </CPV>
+                                    <NATURE_QUANTITY_SCOPE>
+                                        <COSTS_RANGE_AND_CURRENCY CURRENCY="NOK">
+                                            <RANGE_VALUE_COST>
+                                                <LOW_VALUE FMTVAL="48000000">48 000 000</LOW_VALUE>
+                                                <HIGH_VALUE FMTVAL="88000000">88 000 000</HIGH_VALUE>
+                                            </RANGE_VALUE_COST>
+                                        </COSTS_RANGE_AND_CURRENCY>
+                                    </NATURE_QUANTITY_SCOPE>
+                                </F02_ANNEX_B>
+                                <F02_ANNEX_B>
+                                    <LOT_NUMBER>13</LOT_NUMBER>
+                                    <LOT_TITLE>Datacommunication</LOT_TITLE>
+                                    <LOT_DESCRIPTION>
+                                        <P>Examples are:</P>
+                                        <P>Cisco: Router Switch, security, content Switching, Wireless LAN, Cisco
+                                            Works
+                                        </P>
+                                        <P>Checkpoint: Firewall-1, Secure Platform</P>
+                                        <P>Trend Micro virus Software, IMSS, IESS, eManager</P>
+                                        <P>Technical expertise in technologies and protocols such as TCP, IP, Frame
+                                            Relay, MPLS, SMTP, SNMP, VPN, VLAN and OSPF
+                                        </P>
+                                        <P>General network technology: Debugging Windows network problems and debugging
+                                            IP network using a sniffer tool.
+                                        </P>
+                                    </LOT_DESCRIPTION>
+                                    <CPV>
+                                        <CPV_MAIN>
+                                            <CPV_CODE CODE="72000000"/>
+                                        </CPV_MAIN>
+                                        <CPV_ADDITIONAL>
+                                            <CPV_CODE CODE="72220000"/>
+                                        </CPV_ADDITIONAL>
+                                        <CPV_ADDITIONAL>
+                                            <CPV_CODE CODE="72267100"/>
+                                        </CPV_ADDITIONAL>
+                                        <CPV_ADDITIONAL>
+                                            <CPV_CODE CODE="50324100"/>
+                                        </CPV_ADDITIONAL>
+                                        <CPV_ADDITIONAL>
+                                            <CPV_CODE CODE="64000000"/>
+                                        </CPV_ADDITIONAL>
+                                    </CPV>
+                                    <NATURE_QUANTITY_SCOPE>
+                                        <COSTS_RANGE_AND_CURRENCY CURRENCY="NOK">
+                                            <RANGE_VALUE_COST>
+                                                <LOW_VALUE FMTVAL="8000000">8 000 000</LOW_VALUE>
+                                                <HIGH_VALUE FMTVAL="12000000">12 000 000</HIGH_VALUE>
+                                            </RANGE_VALUE_COST>
+                                        </COSTS_RANGE_AND_CURRENCY>
+                                    </NATURE_QUANTITY_SCOPE>
+                                </F02_ANNEX_B>
+                            </F02_DIV_INTO_LOT_YES>
+                        </F02_DIVISION_INTO_LOTS>
+                        <ACCEPTED_VARIANTS VALUE="NO"/>
+                    </DESCRIPTION_CONTRACT_INFORMATION>
+                    <QUANTITY_SCOPE>
+                        <NATURE_QUANTITY_SCOPE>
+                            <COSTS_RANGE_AND_CURRENCY CURRENCY="NOK">
+                                <RANGE_VALUE_COST>
+                                    <LOW_VALUE FMTVAL="1162400000">1 162 400 000</LOW_VALUE>
+                                    <HIGH_VALUE FMTVAL="1473600000">1 473 600 000</HIGH_VALUE>
+                                </RANGE_VALUE_COST>
+                            </COSTS_RANGE_AND_CURRENCY>
+                        </NATURE_QUANTITY_SCOPE>
+                        <OPTIONS>
+                            <OPTION_DESCRIPTION>
+                                <P>The contract period is 2 years from contract signing. The contracting authority (the
+                                    customer) has the option to extend the contract for an additional up to 1+ up to 1
+                                    year.
+                                </P>
+                            </OPTION_DESCRIPTION>
+                            <PROVISIONAL_TIMETABLE_MONTH>24</PROVISIONAL_TIMETABLE_MONTH>
+                        </OPTIONS>
+                        <RECURRENT_CONTRACT>
+                            <NUMBER_POSSIBLE_RENEWALS>2</NUMBER_POSSIBLE_RENEWALS>
+                        </RECURRENT_CONTRACT>
+                    </QUANTITY_SCOPE>
+                </OBJECT_CONTRACT_INFORMATION>
+                <LEFTI_CONTRACT>
+                    <CONTRACT_RELATING_CONDITIONS>
+                        <NO_EXISTENCE_OTHER_PARTICULAR_CONDITIONS/>
+                    </CONTRACT_RELATING_CONDITIONS>
+                    <F02_CONDITIONS_FOR_PARTICIPATION>
+                        <ECONOMIC_OPERATORS_PERSONAL_SITUATION>
+                            <P>Documentation requirement:</P>
+                            <P>Tax certificate for tax (National requirement).</P>
+                            <P>Tax certificate for VAT (National requirement).</P>
+                            <P>HSE self declaration (National requirement).</P>
+                            <P>The tenderer is required to be a legally established company.</P>
+                            <P>Documentation requirement:</P>
+                            <P>— Norwegian service providers: Company registration certificate from the Brønnøysund
+                                Register Centre.
+                            </P>
+                            <P>— Foreign service providers: Certificate for registration in the Register of Business
+                                Enterprises as prescribed in the legislation of the state in which the provider is
+                                established.
+                            </P>
+                        </ECONOMIC_OPERATORS_PERSONAL_SITUATION>
+                        <F02_ECONOMIC_FINANCIAL_CAPACITY>
+                            <EAF_CAPACITY_INFORMATION>
+                                <P>The service provider is required to have good financial solidity. A ‘good
+                                    creditworthiness’ or better credit rating satisfies this requirement.
+                                </P>
+                                <P>— The contracting authority will obtain a credit rating carried out by Experian; see
+                                    www.experian.no
+                                </P>
+                                <P>If the service provider feels that the credit rating will not provide an accurate
+                                    picture, please send supplementary information together with the qualification
+                                    application.
+                                </P>
+                            </EAF_CAPACITY_INFORMATION>
+                        </F02_ECONOMIC_FINANCIAL_CAPACITY>
+                        <TECHNICAL_CAPACITY_LEFTI>
+                            <T_CAPACITY_INFORMATION>
+                                <P>Relevant experience from similar assignments is required.</P>
+                                <P>Documentation requirement:</P>
+                                <P>The service provider's 3 most important contracts in the last 3 years per competence
+                                    area that the service provider is applying to be pre-qualified for, including:
+                                </P>
+                                <P>— Customer</P>
+                                <P>— The contract's length</P>
+                                <P>— The contract's extent (value and/or number of invoiced hours)</P>
+                                <P>— The service provider's function/area of responsibility.</P>
+                                <P>— Name and contact information of the contact person at the reference customer so
+                                    that NAV can contact them if needed.
+                                </P>
+                                <P>— A short description of the contract/project. The service provider's contribution
+                                    shall be clearly stated.
+                                </P>
+                                <P>The template in the qualification documents' annex 2 shall be used.</P>
+                                <P>This point shall be responded to per competence area that a request for participation
+                                    is submitted for.
+                                </P>
+                                <P>A good, efficient quality assurance system is required.</P>
+                                <P>Documentation requirement:</P>
+                                <P>— An account of the company's quality assurance system/management system, including a
+                                    system for the development and maintenance of competence.
+                                </P>
+                                <P>— Any certificates issued by independent bodies.</P>
+                            </T_CAPACITY_INFORMATION>
+                        </TECHNICAL_CAPACITY_LEFTI>
+                    </F02_CONDITIONS_FOR_PARTICIPATION>
+                    <SERVICES_CONTRACTS_SPECIFIC_CONDITIONS>
+                        <NO_EXEC_SERVICE_RESERVED_PARTICULAR_PROFESSION/>
+                        <REQUESTS_NAMES_PROFESSIONAL_QUALIFICATIONS VALUE="NO"/>
+                    </SERVICES_CONTRACTS_SPECIFIC_CONDITIONS>
+                </LEFTI_CONTRACT>
+                <PROCEDURE_DEFINITION_CONTRACT_NOTICE>
+                    <TYPE_OF_PROCEDURE>
+                        <TYPE_OF_PROCEDURE_DETAIL_FOR_CONTRACT_NOTICE>
+                            <PT_RESTRICTED/>
+                        </TYPE_OF_PROCEDURE_DETAIL_FOR_CONTRACT_NOTICE>
+                        <MAXIMUM_NUMBER_INVITED>
+                            <OPE_MINIMUM_NUMBER>116</OPE_MINIMUM_NUMBER>
+                            <OPE_MAXIMUM_NUMBER>155</OPE_MAXIMUM_NUMBER>
+                            <OPE_OBJECTIVE_CRITERIA>
+                                <P>Relevant experience 85 %</P>
+                                <P>Quality assurance system 15 %.</P>
+                            </OPE_OBJECTIVE_CRITERIA>
+                        </MAXIMUM_NUMBER_INVITED>
+                    </TYPE_OF_PROCEDURE>
+                    <AWARD_CRITERIA_CONTRACT_NOTICE_INFORMATION>
+                        <AWARD_CRITERIA_DETAIL>
+                            <MOST_ECONOMICALLY_ADVANTAGEOUS_TENDER>
+                                <CRITERIA_STATED_IN_OTHER_DOCUMENT/>
+                            </MOST_ECONOMICALLY_ADVANTAGEOUS_TENDER>
+                        </AWARD_CRITERIA_DETAIL>
+                        <IS_ELECTRONIC_AUCTION_USABLE>
+                            <NO_USE_ELECTRONIC_AUCTION/>
+                        </IS_ELECTRONIC_AUCTION_USABLE>
+                    </AWARD_CRITERIA_CONTRACT_NOTICE_INFORMATION>
+                    <ADMINISTRATIVE_INFORMATION_CONTRACT_NOTICE>
+                        <FILE_REFERENCE_NUMBER>
+                            <P>15 / 247</P>
+                        </FILE_REFERENCE_NUMBER>
+                        <PREVIOUS_PUBLICATION_INFORMATION_NOTICE_F2>
+                            <NO_PREVIOUS_PUBLICATION_EXISTS_F2/>
+                        </PREVIOUS_PUBLICATION_INFORMATION_NOTICE_F2>
+                        <CONDITIONS_OBTAINING_SPECIFICATIONS>
+                            <NO_PAYABLE_DOCUMENTS/>
+                        </CONDITIONS_OBTAINING_SPECIFICATIONS>
+                        <RECEIPT_LIMIT_DATE>
+                            <DAY>22</DAY>
+                            <MONTH>05</MONTH>
+                            <YEAR>2015</YEAR>
+                            <TIME>12:00</TIME>
+                        </RECEIPT_LIMIT_DATE>
+                        <LANGUAGE>
+                            <LANGUAGE_OTHER>
+                                <P>Norwegian.</P>
+                            </LANGUAGE_OTHER>
+                        </LANGUAGE>
+                    </ADMINISTRATIVE_INFORMATION_CONTRACT_NOTICE>
+                </PROCEDURE_DEFINITION_CONTRACT_NOTICE>
+                <COMPLEMENTARY_INFORMATION_CONTRACT_NOTICE>
+                    <NO_RECURRENT_PROCUREMENT/>
+                    <RELATES_TO_EU_PROJECT_NO/>
+                    <NOTICE_DISPATCH_DATE>
+                        <DAY>23</DAY>
+                        <MONTH>03</MONTH>
+                        <YEAR>2015</YEAR>
+                    </NOTICE_DISPATCH_DATE>
+                </COMPLEMENTARY_INFORMATION_CONTRACT_NOTICE>
+            </FD_CONTRACT>
+        </CONTRACT>
+    </FORM_SECTION>
+</TED_EXPORT>
