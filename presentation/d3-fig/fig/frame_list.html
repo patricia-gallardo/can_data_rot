@@ -35,5 +35,16 @@
 
     const listContext = makeListContext(items, color);
 
-    var _transitions = makeTransitions(listContext)
+    const last = items[items.length-1]
+    var _transitions = [
+        {
+            transitionForward: () => showAll(last, listContext),
+            index: "onSlideChange"
+        },
+        {
+            transitionForward: () => showAll(last, listContext),
+            transitionBackward: () => showAll(last, listContext),
+            index: 0
+        },
+    ]
 </script>
