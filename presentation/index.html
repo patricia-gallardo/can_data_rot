@@ -312,14 +312,98 @@
         </section>
 
         <section style="display: flex; flex-direction: column;">
+            <h2 class="fragment">How many types are we talking about?</h2>
+            <h3 class="fragment">Each schema is a collection of forms</h3>
+            <h3 class="fragment">R.2.0.9 versions have 18-19 different forms</h3>
+            <h3 class="fragment">Late R.2.0.8 versions, which were only for defense, have only 7 different forms</h3>
+            <h3 class="fragment">However, early R.2.0.8 versions, only for defense, have 23 different forms</h3>
+            <h3 class="fragment">How similar are these?</h3>
+            <h3 class="fragment">How often is one specific form used?</h3>
+        </section>
+
+        <!-- Add pie chart -->
+        <section>
+            <h2>Pie charts</h2>
+        </section>
+
+        <section style="display: flex; flex-direction: column;">
+            <h2 class="fragment">For this to scale I needed to share code</h2>
+            <h3 class="fragment">When you multiply up the number of versions in use with all the different forms we have</h3>
+            <h3 class="fragment">Number of schema versions: ~30</h3>
+            <h3 class="fragment">Number of forms per schema version: ~20</h3>
+            <h3 class="fragment">We possibly have around 600 different forms</h3>
+            <h3 class="fragment">From which we need to extract pretty much the same information</h3>
+            <h3 class="fragment">From forms that are very similar but not the same</h3>
+            <h3 class="fragment">And the generated types for them, that are very similar, but not the same</h3>
+        </section>
+
+        <section style="display: flex; flex-direction: column;">
             <h2 class="fragment">I desperately wanted C++ templates</h2>
-            <h3 class="fragment">Kotlin/Java generics couldn't do what I wanted</h3>
-            <h3 class="fragment">I needed compile time "duck typing"</h3>
-            <h3 class="fragment">Then I could've written templated functions</h3>
-            <h3 class="fragment">to share code that processed the generated types</h3>
+            <h3 class="fragment">To write templated functions that I could use with similar types accross "all" the forms</h3>
+            <h3 class="fragment">As long as the types had the specific features I needed</h3>
+            <h3 class="fragment">I wanted compile-time "duck typing" like in C++</h3>
+            <h3 class="fragment">“If it walks like a duck, and it quacks like a duck, then it must be a duck.”</h3>
+            <h3 class="fragment">Kotlin/Java generics can't do that</h3>
             <h3 class="fragment">But this is not a C++ talk, so never mind</h3>
-            <h3 class="fragment">I explored other options for Kotlin</h3>
-            <h3 class="fragment">They were all terrible</h3>
+            <h3 class="fragment">I explored options for Kotlin</h3>
+            <h3 class="fragment">They were all varying degrees of bad</h3>
+        </section>
+
+        <section style="display: flex; flex-direction: column;">
+            <h2 class="fragment">Kotlin has something else though</h2>
+            <h3 class="fragment">Extension functions</h3>
+            <h3 class="fragment">I can add functions to someone else's type</h3>
+            <h3 class="fragment">And I have a lot of those, each schema generates thousands of classes</h3>
+            <h3 class="fragment">But extension functions are attached to a single type</h3>
+            <h3 class="fragment">However, this time, I'm starting from the beginning</h3>
+            <h3 class="fragment">I don't have any schemas, that is something I need to figure out</h3>
+            <h3 class="fragment">Maybe I could write a new schema set that I can use across many versions?</h3>
+            <h3 class="fragment">A magic schema set, generating common types and then using Kotlin extension functions to share code?</h3>
+        </section>
+
+        <section data-auto-animate style="display: flex; flex-direction: column; justify-content: center;">
+            <h2 data-id="code-title" class="fragment">Extension functions could work, if we have common types</h2>
+            <pre data-id="code-animation" class="fragment">
+                <code class="hljs kotlin" data-trim data-line-numbers="1|1-3">
+                    <script type="text/template">
+                        private fun CONTRACT.getFormType(): FormType {
+                            return NoticeFormType.CONTRACT_NOTICE.toFormType()
+                        }
+                    </script>
+                </code>
+            </pre>
+        </section>
+
+        <section data-auto-animate style="display: flex; flex-direction: column; justify-content: center;">
+            <h2 data-id="code-title">We could write each function once for each common type</h2>
+            <pre data-id="code-animation">
+                <code class="hljs kotlin" data-trim data-line-numbers="|1-3|5-13|11|15-22">
+                    <script type="text/template">
+                        private fun CONTRACT.getFormType(): FormType {
+                            return NoticeFormType.CONTRACT_NOTICE.toFormType()
+                        }
+
+                        private fun CONTRACT.getContractType(): ContractType {
+                            val ctype = this.fdcontract.ctype ?: return ContractType(code = "UNKNOWN", label = "UNKNOWN")
+                            return when (ctype) {
+                                "WORKS"    -> ContractType(code = "1", label = "Works")
+                                "SUPPLIES" -> ContractType(code = "2", label = "Supplies")
+                                "SERVICES" -> ContractType(code = "4", label = "Services")
+                                else       -> TODO("Unknown ContractType : $ctype")
+                            }
+                        }
+
+                        private fun CONTRACT.getProcedureType(): ProcedureType {
+                            val cproc = this.fdcontract.cproc ?: return ProcedureType(code = "UNKNOWN", label = "UNKNOWN")
+                            return when (cproc) {
+                                "OPEN"       -> ProcedureType(code = "1", label = "Open procedure")
+                                "RESTRICTED" -> ProcedureType(code = "2", label = "Restricted procedure")
+                                else         -> TODO("Unknown ProcedureType : $cproc")
+                            }
+                        }
+                    </script>
+                </code>
+            </pre>
         </section>
 
         <section data-auto-animate style="display: flex; flex-direction: column; justify-content: center;">
