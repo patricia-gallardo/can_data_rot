@@ -1,0 +1,463 @@
+<doc t='O' id='285326-2009'>
+    <CONTRACT ctype='S' lgorig='en' lg='en' category='orig' hd='3340'>
+        <refdtd>CONTRACT</refdtd>
+        <refojs>
+            <colloj>S</colloj>
+            <nooj>198</nooj>
+            <datepub>20091014</datepub>
+            <lgoj>EN</lgoj>
+        </refojs>
+        <codifdata>
+            <sector code='N'>National or federal Agency/Office</sector>
+            <natnotice code='3'>Contract notice</natnotice>
+            <market code='4'>Service contract</market>
+            <proc code='4'>Negotiated procedure</proc>
+            <marketorg code='B'>European Economic Area (EEA), with participation by GPA countries</marketorg>
+            <typebid code='1'>Global tender</typebid>
+            <awardcrit code='2'>The most economic tender</awardcrit>
+            <originalcpv code='72230000'>Custom software development services</originalcpv>
+            <originalcpv code='72267100'>Maintenance of information technology software</originalcpv>
+            <datedisp>20091012</datedisp>
+            <daterec>20091012</daterec>
+            <deadlinereq>20091109</deadlinereq>
+            <deadlinerec>20091116 12:00</deadlinerec>
+            <isocountry>NO</isocountry>
+            <mainactivities code='S'>General public/services</mainactivities>
+            <nodocojs>285326-2009</nodocojs>
+        </codifdata>
+        <tidoc>
+            <p>NO-Oslo: custom software development services</p>
+            <p>2009/S 198-285326</p>
+        </tidoc>
+        <stidoc>
+            <p>CONTRACT NOTICE</p>
+        </stidoc>
+        <stidoc>
+            <p>Services</p>
+        </stidoc>
+        <contents>
+            <grseq>
+                <tigrseq>SECTION I: CONTRACTING AUTHORITY</tigrseq>
+                <marklist sep=''>
+                    <mlioccur>
+                        <nomark>I.1)</nomark>
+                        <timark>NAME, ADDRESSES AND CONTACT POINT(S):</timark>
+                        <txtmark>
+                            <p>
+                                <addr><organisation>NAV Drift og utvikling</organisation>, <address>Sannergata 2,
+                                    Postboks 5200 Nydalen</address>, Contact: <contact>Anskaffelse og økonomi</contact>,
+                                    Attn: <attention>Gunnar Helge Wiik</attention>, <countrycode>N</countrycode>-<postalcode>
+                                        0426
+                                    </postalcode>
+                                    <town>Oslo</town>. Tel. <tel>+47 21071000</tel>. E-mail:
+                                    <email>
+                                        <txemail>gunnar.helge.wiik@nav.no</txemail>
+                                    </email>
+                                    . Fax <fax>+47 21071010</fax>.
+                                </addr>
+                            </p>
+                            <p><ft type='bold'>Internet address(es)</ft>:
+                            </p>
+                            <p>General address of the contracting authority: <txurl>www.nav.no</txurl>.
+                            </p>
+                            <p>Address of the buyer profile: <txurl>
+                                http://www.doffin.no/search/Search_AuthProfile.aspx?ID=AA0005</txurl>.
+                            </p>
+                            <p>
+                                <ft type='bold'>Further information can be obtained at:</ft>
+                                <addr><organisation>NAV Drift og utvikling</organisation>, <address>Sannergata 2,
+                                    Postboks 5200 Nydalen</address>, Contact: <contact>Anskaffelse og økonomi</contact>,
+                                    Attn: <attention>Gunnar Helge Wiik</attention>, <countrycode>N</countrycode>-<postalcode>
+                                        0426
+                                    </postalcode>
+                                    <town>Oslo</town>. Tel. <tel>+47 21071000</tel>. E-mail:
+                                    <email>
+                                        <txemail>gunnar.helge.wiik@nav.no</txemail>
+                                    </email>
+                                    . Fax <fax>+47 21071010</fax>. URL:
+                                    <url>
+                                        <txurl>www.nav.no</txurl>
+                                    </url>
+                                    .
+                                </addr>
+                            </p>
+                            <p>
+                                <ft type='bold'>Specifications and additional documents (including documents for
+                                    competitive dialogue and a dynamic purchasing system) can be obtained at:
+                                </ft>
+                                As in above-mentioned contact point(s).
+                            </p>
+                            <p>
+                                <ft type='bold'>Tenders or requests to participate must be sent to:</ft>
+                                As in above-mentioned contact point(s).
+                            </p>
+                        </txtmark>
+                    </mlioccur>
+                    <mlioccur>
+                        <nomark>I.2)</nomark>
+                        <timark>TYPE OF THE CONTRACTING AUTHORITY AND MAIN ACTIVITY OR ACTIVITIES:</timark>
+                        <txtmark>
+                            <p>National or federal agency/office.</p>
+                            <p>General public services.</p>
+                        </txtmark>
+                    </mlioccur>
+                </marklist>
+            </grseq>
+            <grseq>
+                <tigrseq>SECTION II: OBJECT OF THE CONTRACT</tigrseq>
+                <marklist sep=''>
+                    <mlioccur>
+                        <nomark>II.1)</nomark>
+                        <timark>DESCRIPTION</timark>
+                    </mlioccur>
+                    <mlioccur>
+                        <nomark>II.1.1)</nomark>
+                        <timark>Title attributed to the contract by the contracting authority:</timark>
+                        <txtmark>
+                            <p>Maintenance and further development contract for Joint Systems.</p>
+                        </txtmark>
+                    </mlioccur>
+                    <mlioccur>
+                        <nomark>II.1.2)</nomark>
+                        <timark>Type of contract and location of works, place of delivery or of performance:</timark>
+                        <txtmark>
+                            <p>Services.</p>
+                            <p>Service category: No 7.</p>
+                            <p>Main place of performance: Oslo, Norway.</p>
+                        </txtmark>
+                    </mlioccur>
+                    <mlioccur>
+                        <nomark>II.1.3)</nomark>
+                        <timark>The notice involves:</timark>
+                        <txtmark>
+                            <p>A public contract.</p>
+                        </txtmark>
+                    </mlioccur>
+                    <mlioccur tbo='yes'>
+                        <nomark>II.1.4)</nomark>
+                        <timark>Information on framework agreement:</timark>
+                    </mlioccur>
+                    <mlioccur>
+                        <nomark>II.1.5)</nomark>
+                        <timark>Short description of the contract or purchase(s):</timark>
+                        <txtmark>
+                            <p>The aim is to enter into a maintenance contract and framework agreement for further
+                                development with a service provider of services connected to Joint Systems. The annual
+                                value of the contract will vary, but the amount is estimated to normally be between 10
+                                000 000 and 17 000 000 NOK per annum.
+                            </p>
+                        </txtmark>
+                    </mlioccur>
+                    <mlioccur>
+                        <nomark>II.1.6)</nomark>
+                        <timark>Common procurement vocabulary (CPV):</timark>
+                        <txtmark>
+                            <p><txcpv txt='Custom software development services'>72230000</txcpv>, <txcpv
+                                    txt='Maintenance of information technology software'>72267100</txcpv>.
+                            </p>
+                        </txtmark>
+                    </mlioccur>
+                    <mlioccur>
+                        <nomark>II.1.7)</nomark>
+                        <timark>Contract covered by the Government Procurement Agreement (GPA):</timark>
+                        <txtmark>
+                            <p>Yes.</p>
+                        </txtmark>
+                    </mlioccur>
+                    <mlioccur>
+                        <nomark>II.1.8)</nomark>
+                        <timark>Division into lots:</timark>
+                        <txtmark>
+                            <p>No.</p>
+                        </txtmark>
+                    </mlioccur>
+                    <mlioccur tbo='yes'>
+                        <nomark>II.1.9)</nomark>
+                        <timark>Variants will be accepted:</timark>
+                    </mlioccur>
+                    <mlioccur>
+                        <nomark>II.2)</nomark>
+                        <timark>QUANTITY OR SCOPE OF THE CONTRACT</timark>
+                    </mlioccur>
+                    <mlioccur>
+                        <nomark>II.2.1)</nomark>
+                        <timark>Total quantity or scope:</timark>
+                        <txtmark>
+                            <p>Estimated value excluding VAT:</p>
+                            <p>Range: between 60 000 000 and 102 000 000 NOK.</p>
+                        </txtmark>
+                    </mlioccur>
+                    <mlioccur>
+                        <nomark>II.2.2)</nomark>
+                        <timark>Options:</timark>
+                        <txtmark>
+                            <p>No.</p>
+                        </txtmark>
+                    </mlioccur>
+                    <mlioccur>
+                        <nomark>II.3)</nomark>
+                        <timark>DURATION OF THE CONTRACT OR TIME-LIMIT FOR COMPLETION:</timark>
+                        <txtmark>
+                            <p>Duration in months: 72 (from the award of the contract).</p>
+                        </txtmark>
+                    </mlioccur>
+                </marklist>
+            </grseq>
+            <grseq>
+                <tigrseq>SECTION III: LEGAL, ECONOMIC, FINANCIAL AND TECHNICAL INFORMATION</tigrseq>
+                <marklist sep=''>
+                    <mlioccur>
+                        <nomark>III.1)</nomark>
+                        <timark>CONDITIONS RELATING TO THE CONTRACT</timark>
+                    </mlioccur>
+                    <mlioccur tbo='yes'>
+                        <nomark>III.1.1)</nomark>
+                        <timark>Deposits and guarantees required:</timark>
+                    </mlioccur>
+                    <mlioccur>
+                        <nomark>III.1.2)</nomark>
+                        <timark>Main financing conditions and payment arrangements and/or reference to the relevant
+                            provisions regulating them:
+                        </timark>
+                        <txtmark>
+                            <p>See the tender documents.</p>
+                        </txtmark>
+                    </mlioccur>
+                    <mlioccur tbo='yes'>
+                        <nomark>III.1.3)</nomark>
+                        <timark>Legal form to be taken by the group of economic operators to whom the contract is to be
+                            awarded:
+                        </timark>
+                    </mlioccur>
+                    <mlioccur>
+                        <nomark>III.1.4)</nomark>
+                        <timark>Other particular conditions to which the performance of the contract is subject:
+                        </timark>
+                        <txtmark>
+                            <p>No.</p>
+                        </txtmark>
+                    </mlioccur>
+                    <mlioccur>
+                        <nomark>III.2)</nomark>
+                        <timark>CONDITIONS FOR PARTICIPATION</timark>
+                    </mlioccur>
+                    <mlioccur>
+                        <nomark>III.2.1)</nomark>
+                        <timark>Personal situation of economic operators, including requirements relating to enrolment
+                            on professional or trade registers:
+                        </timark>
+                        <txtmark>
+                            <p>Information and formalities necessary for evaluating if requirements are met: Company
+                                registration certificate.
+                            </p>
+                            <p>Value added tax certificate (National requirement).</p>
+                            <p>Company tax certificate (National requirement).</p>
+                            <p>Self-declaration in compliance with Appendix 2 (HSE) of the Norwegian procurement
+                                regulations (National requirement).
+                            </p>
+                            <p>Other documentation required (please state below).</p>
+                            <p>See the tender documents.</p>
+                        </txtmark>
+                    </mlioccur>
+                    <mlioccur>
+                        <nomark>III.2.2)</nomark>
+                        <timark>Economic and financial capacity:</timark>
+                        <txtmark>
+                            <p>Information and formalities necessary for evaluating if requirements are met: Other
+                                documentation required (please state below).
+                            </p>
+                            <p>See the tender documents.</p>
+                            <p>Minimum level(s) of standards possibly required: The tenderer is required to have good
+                                financial solidity.
+                            </p>
+                        </txtmark>
+                    </mlioccur>
+                    <mlioccur>
+                        <nomark>III.2.3)</nomark>
+                        <timark>Technical capacity:</timark>
+                        <txtmark>
+                            <p>Information and formalities necessary for evaluating if requirements are met:</p>
+                            <p>Other documentation required (please state below).</p>
+                            <p>See the tender documents.</p>
+                        </txtmark>
+                    </mlioccur>
+                    <mlioccur tbo='yes'>
+                        <nomark>III.2.4)</nomark>
+                        <timark>Reserved contracts:</timark>
+                    </mlioccur>
+                    <mlioccur>
+                        <nomark>III.3)</nomark>
+                        <timark>CONDITIONS SPECIFIC TO SERVICES CONTRACTS</timark>
+                    </mlioccur>
+                    <mlioccur tbo='yes'>
+                        <nomark>III.3.1)</nomark>
+                        <timark>Execution of the service is reserved to a particular profession:</timark>
+                    </mlioccur>
+                    <mlioccur>
+                        <nomark>III.3.2)</nomark>
+                        <timark>Legal entities should indicate the names and professional qualifications of the staff
+                            responsible for the execution of the service:
+                        </timark>
+                        <txtmark>
+                            <p>Yes.</p>
+                        </txtmark>
+                    </mlioccur>
+                </marklist>
+            </grseq>
+            <grseq>
+                <tigrseq>SECTION IV: PROCEDURE</tigrseq>
+                <marklist sep=''>
+                    <mlioccur>
+                        <nomark>IV.1)</nomark>
+                        <timark>TYPE OF PROCEDURE</timark>
+                    </mlioccur>
+                    <mlioccur>
+                        <nomark>IV.1.1)</nomark>
+                        <timark>Type of procedure:</timark>
+                        <txtmark>
+                            <p>Negotiated.</p>
+                            <p>Candidates have already been selected: no.</p>
+                        </txtmark>
+                    </mlioccur>
+                    <mlioccur>
+                        <nomark>IV.1.2)</nomark>
+                        <timark>Limitations on the number of operators who will be invited to tender or to
+                            participate:
+                        </timark>
+                        <txtmark>
+                            <p>Envisaged minimum number: 3. Maximum number: 5</p>
+                            <p>Objective criteria for choosing the limited number of candidates: See the qualification
+                                documents.
+                            </p>
+                        </txtmark>
+                    </mlioccur>
+                    <mlioccur>
+                        <nomark>IV.1.3)</nomark>
+                        <timark>Reduction of the number of operators during the negotiation or dialogue:</timark>
+                        <txtmark>
+                            <p>Recourse to staged procedure to gradually reduce the number of solutions to be discussed
+                                or tenders to be negotiated yes.
+                            </p>
+                        </txtmark>
+                    </mlioccur>
+                    <mlioccur>
+                        <nomark>IV.2)</nomark>
+                        <timark>AWARD CRITERIA</timark>
+                    </mlioccur>
+                    <mlioccur>
+                        <nomark>IV.2.1)</nomark>
+                        <timark>Award criteria:</timark>
+                        <txtmark>
+                            <p>The most economically advantageous tender in terms of the criteria stated in the
+                                specifications, in the invitation to tender or to negotiate or in the descriptive
+                                document.
+                            </p>
+                        </txtmark>
+                    </mlioccur>
+                    <mlioccur>
+                        <nomark>IV.2.2)</nomark>
+                        <timark>An electronic auction will be used:</timark>
+                        <txtmark>
+                            <p>No.</p>
+                        </txtmark>
+                    </mlioccur>
+                    <mlioccur>
+                        <nomark>IV.3)</nomark>
+                        <timark>ADMINISTRATIVE INFORMATION</timark>
+                    </mlioccur>
+                    <mlioccur tbo='yes'>
+                        <nomark>IV.3.1)</nomark>
+                        <timark>File reference number attributed by the contracting authority:</timark>
+                    </mlioccur>
+                    <mlioccur tbo='yes'>
+                        <nomark>IV.3.2)</nomark>
+                        <timark>Previous publication(s) concerning the same contract:</timark>
+                    </mlioccur>
+                    <mlioccur>
+                        <nomark>IV.3.3)</nomark>
+                        <timark>Conditions for obtaining specifications and additional documents or descriptive
+                            document:
+                        </timark>
+                        <txtmark>
+                            <p>Time limit for receipt of requests for documents or for accessing documents: 9.11.2009.
+                            </p>
+                        </txtmark>
+                    </mlioccur>
+                    <mlioccur>
+                        <nomark>IV.3.4)</nomark>
+                        <timark>Time-limit for receipt of tenders or requests to participate:</timark>
+                        <txtmark>
+                            <p>16.11.2009 - 12:00.</p>
+                        </txtmark>
+                    </mlioccur>
+                    <mlioccur>
+                        <nomark>IV.3.5)</nomark>
+                        <timark>Date of dispatch of invitations to tender or to participate to selected candidates:
+                        </timark>
+                        <txtmark>
+                            <p>15.2.2010.</p>
+                        </txtmark>
+                    </mlioccur>
+                    <mlioccur>
+                        <nomark>IV.3.6)</nomark>
+                        <timark>Language(s) in which tenders or requests to participate may be drawn up:</timark>
+                        <txtmark>
+                            <p>Other: Norwegian.</p>
+                        </txtmark>
+                    </mlioccur>
+                    <mlioccur tbo='yes'>
+                        <nomark>IV.3.7)</nomark>
+                        <timark>Minimum time frame during which the tenderer must maintain the tender:</timark>
+                    </mlioccur>
+                    <mlioccur tbo='yes'>
+                        <nomark>IV.3.8)</nomark>
+                        <timark>Conditions for opening tenders:</timark>
+                    </mlioccur>
+                </marklist>
+            </grseq>
+            <grseq>
+                <tigrseq>SECTION VI: COMPLEMENTARY INFORMATION</tigrseq>
+                <marklist sep=''>
+                    <mlioccur tbo='yes'>
+                        <nomark>VI.1)</nomark>
+                        <timark>THIS IS A RECURRENT PROCUREMENT:</timark>
+                    </mlioccur>
+                    <mlioccur tbo='yes'>
+                        <nomark>VI.2)</nomark>
+                        <timark>CONTRACT RELATED TO A PROJECT AND/OR PROGRAMME FINANCED BY EU FUNDS:</timark>
+                    </mlioccur>
+                    <mlioccur>
+                        <nomark>VI.3)</nomark>
+                        <timark>ADDITIONAL INFORMATION:</timark>
+                        <txtmark>
+                            <p>(NT Ref:182272).</p>
+                        </txtmark>
+                    </mlioccur>
+                    <mlioccur tbo='yes'>
+                        <nomark>VI.4)</nomark>
+                        <timark>PROCEDURES FOR APPEAL</timark>
+                    </mlioccur>
+                    <mlioccur tbo='yes'>
+                        <nomark>VI.4.1)</nomark>
+                        <timark>Body responsible for appeal procedures:</timark>
+                    </mlioccur>
+                    <mlioccur tbo='yes'>
+                        <nomark>VI.4.2)</nomark>
+                        <timark>Lodging of appeals:</timark>
+                    </mlioccur>
+                    <mlioccur tbo='yes'>
+                        <nomark>VI.4.3)</nomark>
+                        <timark>Service from which information about the lodging of appeals may be obtained:</timark>
+                    </mlioccur>
+                    <mlioccur>
+                        <nomark>VI.5)</nomark>
+                        <timark>DATE OF DISPATCH OF THIS NOTICE:</timark>
+                        <txtmark>
+                            <p>12.10.2009.</p>
+                        </txtmark>
+                    </mlioccur>
+                </marklist>
+            </grseq>
+        </contents>
+    </CONTRACT>
+</doc>
