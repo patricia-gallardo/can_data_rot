@@ -9,7 +9,8 @@ function makeBoxplotContext(items, renderLowerBound) {
     const svg = makeSvg(width, height, margin)
 
     let context = {
-        items: items,
+        items: [],
+        _items: items,
         svg: svg,
         margin: margin,
         padding: padding,
@@ -29,9 +30,42 @@ function makeSvg(width, height, margin) {
             + margin.left + "," + margin.top + ")")
 }
 
+function showAll(context) {
+    console.log("[showAll]")
+    context.items = context._items
+    renderBoxplot(context)
+}
+
+function hideAll(context) {
+    console.log("[hideAll]")
+    context.items = []
+    renderBoxplot(context)
+}
+
+function addItem(itemName, context) {
+    console.log("[addItem] " + itemName)
+    const found = context._items.find((item) => item.label === itemName);
+    if (!found) return;
+    if (!context.items.includes(found)) {
+        context.items.push(found)
+        renderBoxplot(context)
+    }
+}
+
+function removeItem(itemName, context) {
+    console.log("[removeItem] " + itemName)
+    const found = context._items.find((item) => item.label === itemName);
+    if (!found) return;
+    if (context.items.includes(found)) {
+        context.items = context.items.filter((item) => item.label !== itemName);
+        renderBoxplot(context)
+    }
+}
+
 function renderBoxplot(context) {
+    console.log("Items to be rendered " + context.items)
     const yScale = d3.scaleBand()
-        .domain(context.items.map(function (d) {
+        .domain(context._items.map(function (d) {
             return d.label
         }))
         .range([context.height - (context.padding.top + context.padding.bottom), context.padding.bottom])

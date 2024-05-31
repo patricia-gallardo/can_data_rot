@@ -43,4 +43,34 @@
     }];
 
     const context = makeBoxplotContext(items);
+    var _transitions = [
+        {
+            transitionForward: () => hideAll(context),
+            index: "onSlideChange"
+        },
+        {
+            transitionForward: () => addItem("TED XML", context),
+            // transitionBackward: () => removeItem("TED XML", context),
+            index: 0
+        },
+        {
+            transitionForward: () => addItem("Doffin XML", context),
+            // transitionBackward: () => removeItem("Doffin XML", context),
+            index: 1
+        },
+        {
+            transitionForward: () => addItem("Classic Doffin HTML", context),
+            // transitionBackward: () => removeItem("Classic Doffin HTML", context),
+            index: 2
+        },
+        {
+            transitionForward: () => addItem("New Doffin HTML", context),
+            // transitionBackward: () => removeItem("New Doffin HTML", context),
+            index: 3
+        },
+        {
+            transitionForward: () => showAll(context),
+            index: 4
+        },
+    ]
 </script>
