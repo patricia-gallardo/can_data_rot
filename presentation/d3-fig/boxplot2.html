@@ -25,35 +25,36 @@
 
     // TODO this data is probably wrong, it's late and math is a mess rn
     // https://waldyrious.net/viridis-palette-generator/
-    const alpha = "33"
     const data = [{
-        "min": "2003",
-        "max": "2005",
-        "label": "Norsk lysingsblad",
-        "color": "#f0f921",
-        "color2": "#f0f921" + alpha,
-        "lower": "2003"
-    }, {
-        "min": "2005",
-        "max": "2012",
-        "label": "\"Old\" Doffin",
-        "color": "#f48849",
-        "color2": "#f48849" + alpha,
-        "lower": "2003"
-    }, {
-        "min": "2012",
+        "min": "2007",
         "max": "2024",
-        "label": "\"Classic\" Doffin",
-        "color": "#b83289",
-        "color2": "#b83289" + alpha,
-        "lower": "2006"
+        "label": "TED XML",
+        "color": "#fde725",
+        "mean": "2003"
     }, {
-        "min": "2024",
-        "max": "2025",
-        "label": "\"New\" Doffin",
-        "color": "#5302a3",
-        "color2": "#5302a3" + alpha,
-        "lower": "2017"
+        "min": "2003",
+        "max": "2024",
+        "label": "Doffin XML",
+        "color": "#5ec962",
+        "mean": "2003"
+    }, {
+        "min": "2006",
+        "max": "2023",
+        "label": "Classic Doffin HTML",
+        "color": "#21918c",
+        "mean": "2006"
+    }, {
+        "min": "2017",
+        "max": "2024",
+        "label": "New Doffin HTML",
+        "color": "#3b528b66",
+        "mean": "2006"
+    }, {
+        "min": "2018",
+        "max": "2022",
+        "label": "Doffin CSV",
+        "color": "#440154",
+        "mean": "2017"
     }];
 
     const yScale = d3.scaleBand()
@@ -90,7 +91,7 @@
         .enter()
         .append("rect")
         .attr("fill", (d) => d.color)
-        .attr("stroke", (d) => d.color)
+        .attr("stroke", "black")
         .attr("y", function (d) {
             return yScale(d.label)
         })
@@ -99,23 +100,6 @@
         })
         .attr("x", function (d) {
             return xScale(d.min)
-        })
-        .attr("height", yScale.bandwidth());
-
-    svg.selectAll("foo")
-        .data(data)
-        .enter()
-        .append("rect")
-        .attr("fill", (d) => d.color2)
-        .attr("stroke", (d) => d.color)
-        .attr("y", function (d) {
-            return yScale(d.label)
-        })
-        .attr("width", function (d) {
-            return xScale(d.min) - xScale(d.lower)
-        })
-        .attr("x", function (d) {
-            return xScale(d.lower)
         })
         .attr("height", yScale.bandwidth());
 </script>
