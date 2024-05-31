@@ -9,7 +9,7 @@
 <script>
 
     const margin = {top: 200, right: 300, bottom: 200, left: 300};
-    const padding = {top: 80, right: 100, bottom: 80, left: 130};
+    const padding = {top: 80, right: 100, bottom: 80, left: 200};
     const width = window.innerWidth - margin.left - margin.right;
     const height = Math.min(860, window.innerHeight - margin.top - margin.bottom);
 
@@ -24,29 +24,30 @@
     }
 
     // TODO this data is probably wrong, it's late and math is a mess rn
+    // https://waldyrious.net/viridis-palette-generator/
     var data = [{
         "min": "2003",
         "max": "2005",
-        "label": "Purple",
-        "color": slide_palette[37],
+        "label": "Norsk lysingsblad",
+        "color": "#f0f921",
         "mean": "2003"
     }, {
         "min": "2005",
         "max": "2008",
-        "label": "Red",
-        "color": slide_palette[7],
+        "label": "\"Old\" Doffin",
+        "color": "#ed7953",
         "mean": "2003"
     }, {
         "min": "2008",
         "max": "2024",
-        "label": "Blue",
-        "color": slide_palette[31],
+        "label": "\"Classic\" Doffin",
+        "color": "#9c179e",
         "mean": "2006"
     }, {
         "min": "2024",
         "max": "2025",
-        "label": "Pink",
-        "color": slide_palette[44],
+        "label": "\"New\" Doffin",
+        "color": "#0d0887",
         "mean": "2017"
     }];
 
