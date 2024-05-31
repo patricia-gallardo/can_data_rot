@@ -8,7 +8,8 @@
 <script src="./palette.js"></script>
 <script>
 
-    const margin = {top: 100, right: 90, bottom: 400, left: 90};
+    const margin = {top: 150, right: 300, bottom: 150, left: 300};
+    const padding = {top: 80, right: 50, bottom: 80, left: 80};
     const width = window.innerWidth - margin.left - margin.right;
     const height = Math.min(860, window.innerHeight - margin.top - margin.bottom);
 
@@ -53,23 +54,29 @@
         .domain(data.map(function (d) {
             return d.label
         }))
-        .range([height + margin.top, 10])
+        .range([height - (padding.top + padding.bottom), padding.bottom])
         .padding(0.4);
 
     var yAxis = d3.axisLeft(yScale);
 
     var gY = svg.append("g")
-        .attr("transform", "translate(" + (margin.left) + "," + 0 + ")")
+        .style('font-size', '20px')
+        .style('font-family', '"Fira Sans", sans-serif')
+        .style('font-weight', '400')
+        .attr("transform", "translate(" + padding.left + "," + 0 + ")")
         .call(yAxis);
 
     var xScale = d3.scaleLinear()
-        .domain([2000, 2024])
-        .range([margin.left, width])
+        .domain([2001, 2025])
+        .range([padding.left, width - (padding.left + padding.right)])
 
     var xAxis = d3.axisBottom(xScale).tickFormat((d) => d);
 
     var gX = svg.append("g")
-        .attr("transform", "translate(" + 0 + "," + (height + margin.top) + ")")
+        .style('font-size', '20px')
+        .style('font-family', '"Fira Sans", sans-serif')
+        .style('font-weight', '400')
+        .attr("transform", "translate(" + 0 + "," + (height - (padding.top + padding.bottom)) + ")")
         .call(xAxis);
 
     var boxes = svg.selectAll("foo")
