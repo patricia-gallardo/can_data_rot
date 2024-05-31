@@ -8,8 +8,8 @@
 <script src="./palette.js"></script>
 <script>
 
-    const margin = {top: 150, right: 300, bottom: 150, left: 300};
-    const padding = {top: 80, right: 50, bottom: 80, left: 80};
+    const margin = {top: 200, right: 300, bottom: 200, left: 300};
+    const padding = {top: 80, right: 100, bottom: 80, left: 130};
     const width = window.innerWidth - margin.left - margin.right;
     const height = Math.min(860, window.innerHeight - margin.top - margin.bottom);
 
@@ -29,7 +29,7 @@
         "max": "2005",
         "label": "Purple",
         "color": slide_palette[37],
-        "mean": "2004"
+        "mean": "2003"
     }, {
         "min": "2005",
         "max": "2008",
@@ -38,13 +38,13 @@
         "mean": "2003"
     }, {
         "min": "2008",
-        "max": "2023",
+        "max": "2024",
         "label": "Blue",
         "color": slide_palette[31],
         "mean": "2006"
     }, {
-        "min": "2023",
-        "max": "2024",
+        "min": "2024",
+        "max": "2025",
         "label": "Pink",
         "color": slide_palette[44],
         "mean": "2017"
@@ -67,7 +67,7 @@
         .call(yAxis);
 
     var xScale = d3.scaleLinear()
-        .domain([2001, 2025])
+        .domain([2002, 2025])
         .range([padding.left, width - (padding.left + padding.right)])
 
     var xAxis = d3.axisBottom(xScale).tickFormat((d) => d);
