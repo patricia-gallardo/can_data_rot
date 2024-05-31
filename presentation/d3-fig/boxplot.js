@@ -1,4 +1,4 @@
-function makeBoxplotContext(items) {
+function makeBoxplotContext(items, renderLowerBound) {
     const margin = {top: 200, right: 100, bottom: 200, left: 200};
     const padding = {top: 0, right: 100, bottom: 0, left: 200};
     const width = window.innerWidth - margin.left - margin.right;
@@ -15,6 +15,7 @@ function makeBoxplotContext(items) {
         padding: padding,
         width: width,
         height: height,
+        renderLowerBound: renderLowerBound
     };
     renderBoxplot(context);
     return context;
@@ -74,4 +75,23 @@ function renderBoxplot(context) {
             return xScale(d.min)
         })
         .attr("height", yScale.bandwidth());
+
+    if (context.renderLowerBound) {
+        context.svg.selectAll("foo")
+            .data(context.items)
+            .enter()
+            .append("rect")
+            .attr("fill", (d) => d.color2)
+            .attr("stroke", (d) => d.color)
+            .attr("y", function (d) {
+                return yScale(d.label)
+            })
+            .attr("width", function (d) {
+                return xScale(d.min) - xScale(d.lower)
+            })
+            .attr("x", function (d) {
+                return xScale(d.lower)
+            })
+            .attr("height", yScale.bandwidth());
+    }
 }
