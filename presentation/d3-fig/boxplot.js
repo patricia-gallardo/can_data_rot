@@ -98,7 +98,7 @@ function renderBoxplot(context) {
         .enter()
         .append("rect")
         .attr("fill", (d) => d.color)
-        .attr("stroke", "black")
+        .attr("stroke", (d) => d.color)
         .attr("y", function (d) {
             return yScale(d.label)
         })
