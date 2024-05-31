@@ -6,26 +6,11 @@
 <!-- https://stackoverflow.com/a/43325481 -->
 <script src="https://d3js.org/d3.v7.min.js"></script>
 <script src="./palette.js"></script>
+<script src="./boxplot.js"></script>
 <script>
-
-    const margin = {top: 200, right: 100, bottom: 200, left: 200};
-    const padding = {top: 0, right: 100, bottom: 0, left: 200};
-    const width = window.innerWidth - margin.left - margin.right;
-    const height = Math.min(860, window.innerHeight - margin.top - margin.bottom);
-
-    const svg = makeSvg(width, height, margin)
-
-    function makeSvg(width, height, margin) {
-        return d3.select("body").append("svg")
-            .attr("width", width + margin.right + margin.left)
-            .attr("height", height + margin.top + margin.bottom)
-            .attr("transform", "translate("
-                + margin.left + "," + margin.top + ")")
-    }
-
     // TODO this data is probably wrong, it's late and math is a mess rn
     // https://waldyrious.net/viridis-palette-generator/
-    const data = [{
+    const items = [{
         "min": "2007",
         "max": "2024",
         "label": "TED XML",
@@ -57,49 +42,5 @@
         "mean": "2017"
     }];
 
-    const yScale = d3.scaleBand()
-        .domain(data.map(function (d) {
-            return d.label
-        }))
-        .range([height - (padding.top + padding.bottom), padding.bottom])
-        .padding(0.4);
-
-    const yAxis = d3.axisLeft(yScale);
-
-    svg.append("g")
-        .style('font-size', '20px')
-        .style('font-family', '"Fira Sans", sans-serif')
-        .style('font-weight', '400')
-        .attr("transform", "translate(" + padding.left + "," + 0 + ")")
-        .call(yAxis);
-
-    const xScale = d3.scaleLinear()
-        .domain([2002, 2025])
-        .range([padding.left, width - (padding.left + padding.right)]);
-
-    const xAxis = d3.axisBottom(xScale).tickFormat((d) => d);
-
-    svg.append("g")
-        .style('font-size', '20px')
-        .style('font-family', '"Fira Sans", sans-serif')
-        .style('font-weight', '400')
-        .attr("transform", "translate(" + 0 + "," + (height - (padding.top + padding.bottom)) + ")")
-        .call(xAxis);
-
-    svg.selectAll("foo")
-        .data(data)
-        .enter()
-        .append("rect")
-        .attr("fill", (d) => d.color)
-        .attr("stroke", "black")
-        .attr("y", function (d) {
-            return yScale(d.label)
-        })
-        .attr("width", function (d) {
-            return xScale(d.max) - xScale(d.min)
-        })
-        .attr("x", function (d) {
-            return xScale(d.min)
-        })
-        .attr("height", yScale.bandwidth());
+    const context = makeBoxplotContext(items);
 </script>
