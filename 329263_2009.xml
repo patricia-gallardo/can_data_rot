@@ -1,0 +1,562 @@
+<doc t='O' id='329263-2009'>
+    <CONTRACT ctype='S' lgorig='en' lg='en' category='orig' hd='3340'>
+        <refdtd>CONTRACT</refdtd>
+        <refojs>
+            <colloj>S</colloj>
+            <nooj>229</nooj>
+            <datepub>20091127</datepub>
+            <lgoj>EN</lgoj>
+        </refojs>
+        <codifdata>
+            <sector code='N'>National or federal Agency/Office</sector>
+            <natnotice code='3'>Contract notice</natnotice>
+            <market code='4'>Service contract</market>
+            <proc code='4'>Negotiated procedure</proc>
+            <marketorg code='B'>European Economic Area (EEA), with participation by GPA countries</marketorg>
+            <typebid code='1'>Global tender</typebid>
+            <awardcrit code='2'>The most economic tender</awardcrit>
+            <originalcpv code='72230000'>Custom software development services</originalcpv>
+            <originalcpv code='72267100'>Maintenance of information technology software</originalcpv>
+            <datedisp>20091126</datedisp>
+            <daterec>20091126</daterec>
+            <refnotice>2009/S 112-161942</refnotice>
+            <deadlinereq>20100119</deadlinereq>
+            <deadlinerec>20100120 12:00</deadlinerec>
+            <isocountry>NO</isocountry>
+            <mainactivities code='S'>General public/services</mainactivities>
+            <nodocojs>329263-2009</nodocojs>
+        </codifdata>
+        <tidoc>
+            <p>NO-Oslo: custom software development services</p>
+            <p>2009/S 229-329263</p>
+        </tidoc>
+        <stidoc>
+            <p>CONTRACT NOTICE</p>
+        </stidoc>
+        <stidoc>
+            <p>Services</p>
+        </stidoc>
+        <contents>
+            <grseq>
+                <tigrseq>SECTION I: CONTRACTING AUTHORITY</tigrseq>
+                <marklist sep=''>
+                    <mlioccur>
+                        <nomark>I.1)</nomark>
+                        <timark>NAME, ADDRESSES AND CONTACT POINT(S):</timark>
+                        <txtmark>
+                            <p>
+                                <addr><organisation>NAV Drift og utvikling</organisation>, <address>Sannergata 2,
+                                    Postboks 5200 Nydalen</address>, Contact: <contact>Anskaffelse og økonomi</contact>,
+                                    Attn: <attention>Gunnar Helge Wiik</attention>, <countrycode>N</countrycode>-<postalcode>
+                                        0426
+                                    </postalcode>
+                                    <town>Oslo</town>. Tel. <tel>+47 21071000</tel>. E-mail:
+                                    <email>
+                                        <txemail>gunnar.helge.wiik@nav.no</txemail>
+                                    </email>
+                                    . Fax <fax>+47 21071010</fax>.
+                                </addr>
+                            </p>
+                            <p><ft type='bold'>Internet address(es)</ft>:
+                            </p>
+                            <p>General address of the contracting authority: <txurl>www.nav.no</txurl>.
+                            </p>
+                            <p>Address of the buyer profile: <txurl>
+                                http://www.doffin.no/search/Search_AuthProfile.aspx?ID=AA0005</txurl>.
+                            </p>
+                            <p>
+                                <ft type='bold'>Further information can be obtained at:</ft>
+                                As in above-mentioned contact point(s).
+                            </p>
+                            <p>
+                                <ft type='bold'>Specifications and additional documents (including documents for
+                                    competitive dialogue and a dynamic purchasing system) can be obtained at:
+                                </ft>
+                                As in above-mentioned contact point(s).
+                            </p>
+                            <p>
+                                <ft type='bold'>Tenders or requests to participate must be sent to:</ft>
+                                As in above-mentioned contact point(s).
+                            </p>
+                        </txtmark>
+                    </mlioccur>
+                    <mlioccur>
+                        <nomark>I.2)</nomark>
+                        <timark>TYPE OF THE CONTRACTING AUTHORITY AND MAIN ACTIVITY OR ACTIVITIES:</timark>
+                        <txtmark>
+                            <p>National or federal agency/office.</p>
+                            <p>General public services.</p>
+                        </txtmark>
+                    </mlioccur>
+                </marklist>
+            </grseq>
+            <grseq>
+                <tigrseq>SECTION II: OBJECT OF THE CONTRACT</tigrseq>
+                <marklist sep=''>
+                    <mlioccur>
+                        <nomark>II.1)</nomark>
+                        <timark>DESCRIPTION</timark>
+                    </mlioccur>
+                    <mlioccur>
+                        <nomark>II.1.1)</nomark>
+                        <timark>Title attributed to the contract by the contracting authority:</timark>
+                        <txtmark>
+                            <p>Procurement of maintenance and development agreement for Joint Register V2.</p>
+                        </txtmark>
+                    </mlioccur>
+                    <mlioccur>
+                        <nomark>II.1.2)</nomark>
+                        <timark>Type of contract and location of works, place of delivery or of performance:</timark>
+                        <txtmark>
+                            <p>Services.</p>
+                            <p>Service category: No 7.</p>
+                            <p>Main place of performance: Oslo, Norway.</p>
+                        </txtmark>
+                    </mlioccur>
+                    <mlioccur>
+                        <nomark>II.1.3)</nomark>
+                        <timark>The notice involves:</timark>
+                        <txtmark>
+                            <p>The establishment of a framework agreement.</p>
+                        </txtmark>
+                    </mlioccur>
+                    <mlioccur>
+                        <nomark>II.1.4)</nomark>
+                        <timark>Information on framework agreement:</timark>
+                        <txtmark>
+                            <p>Framework agreement with a single operator.</p>
+                            <p>Duration of the framework agreement: Duration in year(s): 4.</p>
+                            <p>Justification for a framework agreement, the duration of which exceeds four years: It is
+                                a considerable investment for a new administrative service provider to develop the
+                                necessary functional and technical competence which is specialised for the system which
+                                shall be administered.
+                            </p>
+                            <p>The amount will normally be several man labour years for up to 2 years. In addition a new
+                                administrative service provider must establish routines and processes in accordance with
+                                the contract requirements and the customer's use of the framework and system must be
+                                understood and anchored. If these costs cannot be divided over a sufficiently long
+                                contract period, it will be difficult for others than the established service provider
+                                to win an administration contract.
+                            </p>
+                            <p>In order to ensure access to competence in order to get a new administrative service
+                                provider, NAV will ensure access to competence for assistance for the new administrative
+                                service provider for a period of 2 years. Such transition contracts also help to ensure
+                                a real competition for the administrative contracts.
+                            </p>
+                            <p>These are very comprehensive contracts, and service providers must make considerable
+                                investments, which can be said to have a depreciation period over the whole of the
+                                contract period of 4+1+1 years, in order to fulfil the contracts. A contract period of
+                                4+1+1 years has been chosen in order to ensure competition.
+                            </p>
+                            <p>Estimated total value of purchases for the entire duration of the framework agreement:
+                            </p>
+                            <p>Estimated value excluding VAT:</p>
+                            <p>Range: between 150 000 000 and 240 000 000 NOK.</p>
+                        </txtmark>
+                    </mlioccur>
+                    <mlioccur>
+                        <nomark>II.1.5)</nomark>
+                        <timark>Short description of the contract or purchase(s):</timark>
+                        <txtmark>
+                            <p>The aim is to enter into a maintenance contract and framework agreement for further
+                                development with one service provider of services connected to Joint Registers.
+                            </p>
+                            <p>Requirements regarding workplace will be given in the tender documents. The Awarding
+                                Authority finds it necessary to provide guidelines for this area as early as in the
+                                qualification documents. The object for these guidelines is close cooperation between
+                                the Awarding Authority and supplier.
+                            </p>
+                            <p>— Norwegian language is required in connection with all communication with the Awarding
+                                Authority. This involves both reports, meetings, documentation, user support and
+                                additional information. The system documentation may, if agreed upon, be prepared in
+                                English.
+                            </p>
+                            <p>The maintenance services shall basically be implemented in the Awarding Authority’s
+                                premises.
+                            </p>
+                            <p>Further development shall basically be implemented in the Awarding Authority’s premises
+                                unless the parties have agreed differently.
+                            </p>
+                            <p>The annual value of the agreement will vary, but the extent is expected to be from 25 000
+                                000 to 40 000 000 NOK per annum.
+                            </p>
+                            <p>The agreement shall be for 4 years, starting from contract signing. Option for the
+                                Awarding Authority to prolong the agreement with further 1+1 year(s).
+                            </p>
+                            <p>Note: To register your interest in this notice and obtain any additional information
+                                please visit the Doffin Web Site at <txurl>
+                                    http://www.doffin.no/Search/Search_Switch.aspx?ID=192301</txurl>.
+                            </p>
+                        </txtmark>
+                    </mlioccur>
+                    <mlioccur>
+                        <nomark>II.1.6)</nomark>
+                        <timark>Common procurement vocabulary (CPV):</timark>
+                        <txtmark>
+                            <p><txcpv txt='Custom software development services'>72230000</txcpv>, <txcpv
+                                    txt='Maintenance of information technology software'>72267100</txcpv>.
+                            </p>
+                        </txtmark>
+                    </mlioccur>
+                    <mlioccur>
+                        <nomark>II.1.7)</nomark>
+                        <timark>Contract covered by the Government Procurement Agreement (GPA):</timark>
+                        <txtmark>
+                            <p>Yes.</p>
+                        </txtmark>
+                    </mlioccur>
+                    <mlioccur>
+                        <nomark>II.1.8)</nomark>
+                        <timark>Division into lots:</timark>
+                        <txtmark>
+                            <p>No.</p>
+                        </txtmark>
+                    </mlioccur>
+                    <mlioccur tbo='yes'>
+                        <nomark>II.1.9)</nomark>
+                        <timark>Variants will be accepted:</timark>
+                    </mlioccur>
+                    <mlioccur>
+                        <nomark>II.2)</nomark>
+                        <timark>QUANTITY OR SCOPE OF THE CONTRACT</timark>
+                    </mlioccur>
+                    <mlioccur>
+                        <nomark>II.2.1)</nomark>
+                        <timark>Total quantity or scope:</timark>
+                        <txtmark>
+                            <p>The annual value of the contract will vary, but the amount is estimated to normally lie
+                                within 25 000 000 to 40 000 000 NOK per annum.
+                            </p>
+                            <p>Estimated value excluding VAT:</p>
+                            <p>Range: between 150 000 000 and 240 000 000 NOK.</p>
+                        </txtmark>
+                    </mlioccur>
+                    <mlioccur>
+                        <nomark>II.2.2)</nomark>
+                        <timark>Options:</timark>
+                        <txtmark>
+                            <p>Yes.</p>
+                            <p>Description of these options: The contract will be for 4 years from when it is signed.
+                                The awarding authority (the customer) will have an option for an extension of the
+                                contract for a further 1+1 year.
+                            </p>
+                            <p>Number of possible renewals: 2.</p>
+                        </txtmark>
+                    </mlioccur>
+                    <mlioccur tbo='yes'>
+                        <nomark>II.3)</nomark>
+                        <timark>DURATION OF THE CONTRACT OR TIME-LIMIT FOR COMPLETION:</timark>
+                    </mlioccur>
+                </marklist>
+            </grseq>
+            <grseq>
+                <tigrseq>SECTION III: LEGAL, ECONOMIC, FINANCIAL AND TECHNICAL INFORMATION</tigrseq>
+                <marklist sep=''>
+                    <mlioccur>
+                        <nomark>III.1)</nomark>
+                        <timark>CONDITIONS RELATING TO THE CONTRACT</timark>
+                    </mlioccur>
+                    <mlioccur tbo='yes'>
+                        <nomark>III.1.1)</nomark>
+                        <timark>Deposits and guarantees required:</timark>
+                    </mlioccur>
+                    <mlioccur tbo='yes'>
+                        <nomark>III.1.2)</nomark>
+                        <timark>Main financing conditions and payment arrangements and/or reference to the relevant
+                            provisions regulating them:
+                        </timark>
+                    </mlioccur>
+                    <mlioccur tbo='yes'>
+                        <nomark>III.1.3)</nomark>
+                        <timark>Legal form to be taken by the group of economic operators to whom the contract is to be
+                            awarded:
+                        </timark>
+                    </mlioccur>
+                    <mlioccur>
+                        <nomark>III.1.4)</nomark>
+                        <timark>Other particular conditions to which the performance of the contract is subject:
+                        </timark>
+                        <txtmark>
+                            <p>No.</p>
+                        </txtmark>
+                    </mlioccur>
+                    <mlioccur>
+                        <nomark>III.2)</nomark>
+                        <timark>CONDITIONS FOR PARTICIPATION</timark>
+                    </mlioccur>
+                    <mlioccur>
+                        <nomark>III.2.1)</nomark>
+                        <timark>Personal situation of economic operators, including requirements relating to enrolment
+                            on professional or trade registers:
+                        </timark>
+                        <txtmark>
+                            <p>Information and formalities necessary for evaluating if requirements are met: Value added
+                                tax certificate (National requirement).
+                            </p>
+                            <p>Company tax certificate (National requirement).</p>
+                            <p>Self-declaration in compliance with Appendix 2 (HSE) of the Norwegian procurement
+                                regulations (National requirement).
+                            </p>
+                            <p>Other documentation required:</p>
+                            <p>— Evidence of enrolment on the professional or trade register, as required by national
+                                law, in the country where the company is established, for instance company certificate
+                                from the Brønnøysund Register Centre.
+                            </p>
+                        </txtmark>
+                    </mlioccur>
+                    <mlioccur>
+                        <nomark>III.2.2)</nomark>
+                        <timark>Economic and financial capacity:</timark>
+                        <txtmark>
+                            <p>Information and formalities necessary for evaluating if requirements are met: Statement
+                                of the company’s turnover, of relevance to this contract, for previous years.
+                            </p>
+                            <p>Other documentation required:</p>
+                            <p>— The company’s annual reports to the Brønnøysund Register Centre with the auditor’s
+                                report for the most resent years, as well as newer information with relevance to the
+                                company’s accounting figures,
+                            </p>
+                            <p>— The company’s most resent annual accounts with notes.</p>
+                            <p>Minimum level(s) of standards possibly required: It is required that the supplier has
+                                good financial solidity.
+                            </p>
+                        </txtmark>
+                    </mlioccur>
+                    <mlioccur>
+                        <nomark>III.2.3)</nomark>
+                        <timark>Technical capacity:</timark>
+                        <txtmark>
+                            <p>Information and formalities necessary for evaluating if requirements are met:</p>
+                            <p>Other documentation required:</p>
+                            <p>— Experience,</p>
+                            <p>— Description of the service provider's 3 principal relevant contracts for the last 3
+                                years including values, roles/responsibility areas, technology, dates, activity
+                                areas/activity processes and recipients. The service provider is asked to include one or
+                                several deliveries which include use of flexible methodology. Names and contact
+                                information of the contact person shall be given so that the Awarding Authority can
+                                address the person, if required,
+                            </p>
+                            <p>— Implementation ability,</p>
+                            <p>— Description of the provider’s technical capacity and professional qualifications. The
+                                relevant capacity shall be a description of relevant units in the Awarding Authority’s
+                                organisation. The relevant qualifications shall be a brief overview of general, relevant
+                                competence in the provider’s organisation. Information of available personnel and CVs
+                                shall not be given,
+                            </p>
+                            <p>— Use of sub suppliers, see the qualification documents point 3.5,</p>
+                            <p>— Methods for quality assurance,</p>
+                            <p>— A description of methods and processes which are relevant for ensuring quality of the
+                                delivery. The subjects in the quality document’s points punkt 2.2.6.2, 2.3.3.2, 2.4.3.2,
+                                2.5.4.2, 2.6.4.2 and 2.7 should be covered in the description,
+                            </p>
+                            <p>— An account of the company's quality assurance system/control system as well as any
+                                certificates issued by independent bodies.
+                            </p>
+                            <p>Minimum level(s) of standards possibly required:</p>
+                            <p>— Relevant experience from similar assignments is required,</p>
+                            <p>— A very good ability to fulfil the contract is required,</p>
+                            <p>— Established and suitable methods for quality assurance are required.</p>
+                        </txtmark>
+                    </mlioccur>
+                    <mlioccur tbo='yes'>
+                        <nomark>III.2.4)</nomark>
+                        <timark>Reserved contracts:</timark>
+                    </mlioccur>
+                    <mlioccur tbo='yes'>
+                        <nomark>III.3)</nomark>
+                        <timark>CONDITIONS SPECIFIC TO SERVICES CONTRACTS</timark>
+                    </mlioccur>
+                    <mlioccur tbo='yes'>
+                        <nomark>III.3.1)</nomark>
+                        <timark>Execution of the service is reserved to a particular profession:</timark>
+                    </mlioccur>
+                    <mlioccur tbo='yes'>
+                        <nomark>III.3.2)</nomark>
+                        <timark>Legal entities should indicate the names and professional qualifications of the staff
+                            responsible for the execution of the service:
+                        </timark>
+                    </mlioccur>
+                </marklist>
+            </grseq>
+            <grseq>
+                <tigrseq>SECTION IV: PROCEDURE</tigrseq>
+                <marklist sep=''>
+                    <mlioccur>
+                        <nomark>IV.1)</nomark>
+                        <timark>TYPE OF PROCEDURE</timark>
+                    </mlioccur>
+                    <mlioccur>
+                        <nomark>IV.1.1)</nomark>
+                        <timark>Type of procedure:</timark>
+                        <txtmark>
+                            <p>Negotiated.</p>
+                            <p>Candidates have already been selected: no.</p>
+                        </txtmark>
+                    </mlioccur>
+                    <mlioccur>
+                        <nomark>IV.1.2)</nomark>
+                        <timark>Limitations on the number of operators who will be invited to tender or to
+                            participate:
+                        </timark>
+                        <txtmark>
+                            <p>Envisaged minimum number: 3. Maximum number: 5</p>
+                            <p>Objective criteria for choosing the limited number of candidates: The selection of
+                                providers will be made amongst the service providers who fulfil the requirements for
+                                participation in the competition.
+                            </p>
+                            <p>The selection will be based on the degree that the qualification requirements listed in
+                                the qualification documents point 3.4 are fulfilled. The following weighting will be
+                                used in the selection:
+                            </p>
+                            <p>Qualification requirements: Experience.</p>
+                            <p>Weighting: 35 %.</p>
+                            <p>Qualification requirements: Implementation ability (the Awarding Authority will evaluate
+                                capacity and not competence/qualifications in relation to selection of providers).
+                                Weighting: 35 %.
+                            </p>
+                            <p>Qualification requirements: Methods for quality assurance.</p>
+                            <p>Weighting: 30 %.</p>
+                            <p>The assessment of the suppliers will be implemented as follows: The provider will be
+                                awarded one grade for each qualification requirement on a scale from 0 to 10 where 10 is
+                                the highest grade. Each of these grades will be multiplied with the prevailing
+                                weighting.
+                            </p>
+                        </txtmark>
+                    </mlioccur>
+                    <mlioccur>
+                        <nomark>IV.1.3)</nomark>
+                        <timark>Reduction of the number of operators during the negotiation or dialogue:</timark>
+                        <txtmark>
+                            <p>Recourse to staged procedure to gradually reduce the number of solutions to be discussed
+                                or tenders to be negotiated yes.
+                            </p>
+                        </txtmark>
+                    </mlioccur>
+                    <mlioccur>
+                        <nomark>IV.2)</nomark>
+                        <timark>AWARD CRITERIA</timark>
+                    </mlioccur>
+                    <mlioccur>
+                        <nomark>IV.2.1)</nomark>
+                        <timark>Award criteria:</timark>
+                        <txtmark>
+                            <p>The most economically advantageous tender in terms of the criteria stated in the
+                                specifications, in the invitation to tender or to negotiate or in the descriptive
+                                document.
+                            </p>
+                        </txtmark>
+                    </mlioccur>
+                    <mlioccur>
+                        <nomark>IV.2.2)</nomark>
+                        <timark>An electronic auction will be used:</timark>
+                        <txtmark>
+                            <p>No.</p>
+                        </txtmark>
+                    </mlioccur>
+                    <mlioccur>
+                        <nomark>IV.3)</nomark>
+                        <timark>ADMINISTRATIVE INFORMATION</timark>
+                    </mlioccur>
+                    <mlioccur tbo='yes'>
+                        <nomark>IV.3.1)</nomark>
+                        <timark>File reference number attributed by the contracting authority:</timark>
+                    </mlioccur>
+                    <mlioccur>
+                        <nomark>IV.3.2)</nomark>
+                        <timark>Previous publication(s) concerning the same contract:</timark>
+                        <txtmark>
+                            <p>
+                                <ft type='bold'>Prior information notice</ft>
+                            </p>
+                            <p>Notice number in OJ: <txnum ref='161942-2009'>2009/S 112-161942</txnum> of 11.6.2009.
+                            </p>
+                        </txtmark>
+                    </mlioccur>
+                    <mlioccur>
+                        <nomark>IV.3.3)</nomark>
+                        <timark>Conditions for obtaining specifications and additional documents or descriptive
+                            document:
+                        </timark>
+                        <txtmark>
+                            <p>Time limit for receipt of requests for documents or for accessing documents: 19.1.2010.
+                            </p>
+                        </txtmark>
+                    </mlioccur>
+                    <mlioccur>
+                        <nomark>IV.3.4)</nomark>
+                        <timark>Time-limit for receipt of tenders or requests to participate:</timark>
+                        <txtmark>
+                            <p>20.1.2010 - 12:00.</p>
+                        </txtmark>
+                    </mlioccur>
+                    <mlioccur>
+                        <nomark>IV.3.5)</nomark>
+                        <timark>Date of dispatch of invitations to tender or to participate to selected candidates:
+                        </timark>
+                        <txtmark>
+                            <p>22.2.2010.</p>
+                        </txtmark>
+                    </mlioccur>
+                    <mlioccur>
+                        <nomark>IV.3.6)</nomark>
+                        <timark>Language(s) in which tenders or requests to participate may be drawn up:</timark>
+                        <txtmark>
+                            <p>Other: Norwegian.</p>
+                        </txtmark>
+                    </mlioccur>
+                    <mlioccur tbo='yes'>
+                        <nomark>IV.3.7)</nomark>
+                        <timark>Minimum time frame during which the tenderer must maintain the tender:</timark>
+                    </mlioccur>
+                    <mlioccur tbo='yes'>
+                        <nomark>IV.3.8)</nomark>
+                        <timark>Conditions for opening tenders:</timark>
+                    </mlioccur>
+                </marklist>
+            </grseq>
+            <grseq>
+                <tigrseq>SECTION VI: COMPLEMENTARY INFORMATION</tigrseq>
+                <marklist sep=''>
+                    <mlioccur tbo='yes'>
+                        <nomark>VI.1)</nomark>
+                        <timark>THIS IS A RECURRENT PROCUREMENT:</timark>
+                    </mlioccur>
+                    <mlioccur tbo='yes'>
+                        <nomark>VI.2)</nomark>
+                        <timark>CONTRACT RELATED TO A PROJECT AND/OR PROGRAMME FINANCED BY EU FUNDS:</timark>
+                    </mlioccur>
+                    <mlioccur>
+                        <nomark>VI.3)</nomark>
+                        <timark>ADDITIONAL INFORMATION:</timark>
+                        <txtmark>
+                            <p>(NT Ref:192481).</p>
+                        </txtmark>
+                    </mlioccur>
+                    <mlioccur tbo='yes'>
+                        <nomark>VI.4)</nomark>
+                        <timark>PROCEDURES FOR APPEAL</timark>
+                    </mlioccur>
+                    <mlioccur tbo='yes'>
+                        <nomark>VI.4.1)</nomark>
+                        <timark>Body responsible for appeal procedures:</timark>
+                    </mlioccur>
+                    <mlioccur tbo='yes'>
+                        <nomark>VI.4.2)</nomark>
+                        <timark>Lodging of appeals:</timark>
+                    </mlioccur>
+                    <mlioccur tbo='yes'>
+                        <nomark>VI.4.3)</nomark>
+                        <timark>Service from which information about the lodging of appeals may be obtained:</timark>
+                    </mlioccur>
+                    <mlioccur>
+                        <nomark>VI.5)</nomark>
+                        <timark>DATE OF DISPATCH OF THIS NOTICE:</timark>
+                        <txtmark>
+                            <p>26.11.2009.</p>
+                        </txtmark>
+                    </mlioccur>
+                </marklist>
+            </grseq>
+        </contents>
+    </CONTRACT>
+</doc>
