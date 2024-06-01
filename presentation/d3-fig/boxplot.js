@@ -7,7 +7,9 @@ function makeBoxplotContext(items) {
     const svg = makeSvg(width, height, margin)
 
     let xDomain = [2002, 2025];
-    let yDomain = items.map(function (d) { return d.label });
+    let yDomain = items.map(function (d) {
+        return d.label
+    });
 
     const {yScale, xScale} = renderAxes(svg, xDomain, yDomain, width, height, padding);
 
@@ -30,7 +32,7 @@ function makeBoxplotContext(items) {
         const {yScale, xScale} = renderAxes(svg, xDomain, yDomain, width, height, padding);
         context.yScale = yScale
         context.xScale = xScale
-        removeItems(svg)
+        removeBoxes(svg)
         renderBoxplot(context)
     });
 
@@ -102,7 +104,7 @@ function removeYaxis(svg) {
     node.remove()
 }
 
-function removeItems(svg) {
+function removeBoxes(svg) {
     const node = svg.selectAll('g.box')
     node.remove()
 }
@@ -120,28 +122,44 @@ function hideAll(context) {
 }
 
 function labels(items) {
-    return JSON.stringify(items.map((item) => item.label));
+    return JSON.stringify(items.map((item) => item.label + " (" + item.id + ")"));
 }
 
-function addItem(itemName, context) {
-    console.log("[addItem] " + itemName)
-    const found = context._items.find((item) => item.id === itemName);
+function addItem(id, context) {
+    console.log("[addItem] " + id)
+    addItems([id], context)
+}
 
-    console.log("[addItem] before " + labels(context.items))
-    context.items = context._items.filter((item) => (item === found || context.items.includes(item)));
-    console.log("[addItem] after " + labels(context.items))
+function addItems(ids, context) {
+    console.log("[addItems] " + JSON.stringify(ids))
 
+    ids.map((id) => {
+        const found = context._items.find((item) => item.id === id);
+        console.log("[addItems] before " + labels(context.items))
+        context.items = context._items.filter((item) => (item === found || context.items.includes(item)));
+        console.log("[addItems] after " + labels(context.items))
+    })
+
+    removeBoxes(context.svg)
     renderBoxplot(context)
 }
 
-function removeItem(itemName, context) {
-    console.log("[removeItem] " + itemName)
-    const found = context._items.find((item) => item.id === itemName);
+function removeItem(id, context) {
+    console.log("[removeItem] " + id)
+    removeItems([id], context)
+}
 
-    console.log("[removeItem] before " + labels(context.items))
-    context.items = context.items.filter((item) => item !== found);
-    console.log("[removeItem] after " + labels(context.items))
+function removeItems(ids, context) {
+    console.log("[removeItems] " + JSON.stringify(ids))
 
+    ids.map((id) => {
+        const found = context._items.find((item) => item.id === id);
+        console.log("[removeItems] before " + labels(context.items))
+        context.items = context.items.filter((item) => item !== found);
+        console.log("[removeItems] after " + labels(context.items))
+    })
+
+    removeBoxes(context.svg)
     renderBoxplot(context)
 }
 
@@ -150,7 +168,9 @@ function renderRect(node, nodeEnter, context, {left, right, fill}) {
     nodeEnter.append('rect')
         .attr('class', 'box')
         .attr("y", function (d) {
-            return context.yScale(d.label)
+            let y = context.yScale(d.label);
+            console.log("Label " + d.label + " at " + y)
+            return y
         })
         .attr("width", function (d) {
             return context.xScale(right(d)) - context.xScale(left(d))
