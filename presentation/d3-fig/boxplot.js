@@ -1,4 +1,4 @@
-function makeBoxplotContext(items, renderLowerBound) {
+function makeBoxplotContext(items) {
     const margin = {top: 200, right: 100, bottom: 200, left: 200};
     const padding = {top: 0, right: 100, bottom: 0, left: 200};
     const width = window.innerWidth - margin.left - margin.right;
@@ -19,7 +19,6 @@ function makeBoxplotContext(items, renderLowerBound) {
         padding: padding,
         xScale: xScale,
         yScale: yScale,
-        renderLowerBound: renderLowerBound
     };
 }
 
@@ -94,7 +93,7 @@ function labels(items) {
 
 function addItem(itemName, context) {
     console.log("[addItem] " + itemName)
-    const found = context._items.find((item) => item.label === itemName);
+    const found = context._items.find((item) => item.id === itemName);
 
     console.log("[addItem] before " + labels(context.items))
     context.items = context._items.filter((item) => (item === found || context.items.includes(item)));
@@ -105,7 +104,7 @@ function addItem(itemName, context) {
 
 function removeItem(itemName, context) {
     console.log("[removeItem] " + itemName)
-    const found = context._items.find((item) => item.label === itemName);
+    const found = context._items.find((item) => item.id === itemName);
 
     console.log("[removeItem] before " + labels(context.items))
     context.items = context.items.filter((item) => item !== found);
@@ -114,13 +113,7 @@ function removeItem(itemName, context) {
     renderBoxplot(context)
 }
 
-function renderRect(context, { left, right, fill }) {
-    // Update the nodes...
-    const node = context.svg.selectAll('g.box').data(context.items)
-
-    const nodeEnter = node.enter().append('g')
-        .attr('class', 'box');
-
+function renderRect(node, nodeEnter, context, { left, right, fill }) {
     // Add Box for the nodes
     nodeEnter.append('rect')
         .attr('class', 'box')
@@ -142,19 +135,22 @@ function renderRect(context, { left, right, fill }) {
     nodeUpdate
         .attr("fill", (d) => fill(d))
         .attr("stroke", (d) => d.color);
+}
+
+function renderBoxplot(context) {
+    console.log("Items to be rendered " + labels(context.items))
+
+    // Update the nodes...
+    const node = context.svg.selectAll('g.box').data(context.items)
+
+    const nodeEnter = node.enter().append('g')
+        .attr('class', 'box');
+
+    renderRect(node, nodeEnter, context, { left: (d) => d.min, right: (d) => d.max, fill: (d) => d.color });
 
     // Remove any exiting nodes
     const duration = 0
     const nodeExit = node.exit().transition()
         .duration(duration)
         .remove();
-}
-
-function renderBoxplot(context) {
-    console.log("Items to be rendered " + labels(context.items))
-    renderRect(context, { left: (d) => d.min, right: (d) => d.max, fill: (d) => d.color });
-
-    if (context.renderLowerBound) {
-        renderRect(context, { left: (d) => d.lower, right: (d) => d.min, fill: (d) => d.color2 });
-    }
 }

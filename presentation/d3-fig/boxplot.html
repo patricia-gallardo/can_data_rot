@@ -15,58 +15,86 @@
         "min": "2003",
         "max": "2005",
         "label": "Norsk lysingsblad",
+        "id": "Norsk lysingsblad",
         "color": "#f0f921",
-        "color2": "#f0f921" + alpha,
-        "lower": "2003"
     }, {
         "min": "2005",
         "max": "2012",
         "label": "Old Doffin",
+        "id": "Old Doffin",
         "color": "#f48849",
-        "color2": "#f48849" + alpha,
-        "lower": "2003"
+    }, {
+        "min": "2003",
+        "max": "2005",
+        "label": "Old Doffin",
+        "id": "Old Doffin support",
+        "color": "#f48849" + alpha,
     }, {
         "min": "2012",
         "max": "2024",
         "label": "Classic Doffin",
+        "id": "Classic Doffin",
         "color": "#b83289",
-        "color2": "#b83289" + alpha,
-        "lower": "2006"
+    }, {
+        "min": "2006",
+        "max": "2012",
+        "label": "Classic Doffin",
+        "id": "Classic Doffin support",
+        "color": "#b83289" + alpha,
     }, {
         "min": "2024",
         "max": "2025",
         "label": "New Doffin",
+        "id": "New Doffin",
         "color": "#5302a3",
-        "color2": "#5302a3" + alpha,
-        "lower": "2017"
+    }, {
+        "min": "2017",
+        "max": "2024",
+        "label": "New Doffin",
+        "id": "New Doffin support",
+        "color": "#5302a3" + alpha,
     }];
 
-    const renderLowerBound = true
-    const context = makeBoxplotContext(items, renderLowerBound);
+    const context = makeBoxplotContext(items);
     var _transitions = [
         {
             transitionForward: () => hideAll(context),
             index: "onSlideChange"
         },
         {
-            transitionForward: () => addItem(items[0].label, context),
-            transitionBackward: () => removeItem(items[0].label, context),
+            transitionForward: () => addItem(items[0].id, context),
+            transitionBackward: () => removeItem(items[0].id, context),
             index: 1
         },
         {
-            transitionForward: () => addItem(items[1].label, context),
-            transitionBackward: () => removeItem(items[1].label, context),
+            transitionForward: () => addItem(items[1].id, context),
+            transitionBackward: () => removeItem(items[1].id, context),
             index: 2
         },
         {
-            transitionForward: () => addItem(items[2].label, context),
-            transitionBackward: () => removeItem(items[2].label, context),
+            transitionForward: () => addItem(items[2].id, context),
+            transitionBackward: () => removeItem(items[2].id, context),
             index: 3
         },
         {
-            transitionForward: () => showAll(context),
-            transitionBackward: () => removeItem(items[3].label, context),
+            transitionForward: () => addItem(items[3].id, context),
+            transitionBackward: () => removeItem(items[3].id, context),
             index: 4
+        },
+        {
+            transitionForward: () => addItem(items[4].id, context),
+            transitionBackward: () => removeItem(items[4].id, context),
+            index: 5
+        },
+        {
+            transitionForward: () => addItem(items[5].id, context),
+            transitionBackward: () => removeItem(items[5].id, context),
+            index: 6
+        },
+        {
+            transitionForward: () => showAll(context),
+            transitionBackward: () => removeItem(items[6].id, context),
+            index: 7
         },
     ]
 </script>

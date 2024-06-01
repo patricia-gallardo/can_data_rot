@@ -14,32 +14,32 @@
         "min": "2007",
         "max": "2024",
         "label": "TED XML",
+        "id": "TED XML",
         "color": "#fde725",
-        "mean": "2003"
     }, {
         "min": "2003",
         "max": "2024",
         "label": "Doffin XML",
+        "id": "Doffin XML",
         "color": "#5ec962",
-        "mean": "2003"
     }, {
         "min": "2006",
         "max": "2023",
         "label": "Classic Doffin HTML",
+        "id": "Classic Doffin HTML",
         "color": "#21918c",
-        "mean": "2006"
     }, {
         "min": "2017",
         "max": "2024",
         "label": "New Doffin HTML",
+        "id": "New Doffin HTML",
         "color": "#3b528b66",
-        "mean": "2006"
     }, {
         "min": "2018",
         "max": "2022",
         "label": "Doffin CSV",
+        "id": "Doffin CSV",
         "color": "#440154",
-        "mean": "2017"
     }];
 
     const context = makeBoxplotContext(items);
@@ -49,28 +49,28 @@
             index: "onSlideChange"
         },
         {
-            transitionForward: () => addItem(items[0].label, context),
-            transitionBackward: () => removeItem(items[0].label, context),
+            transitionForward: () => addItem(items[0].id, context),
+            transitionBackward: () => removeItem(items[0].id, context),
             index: 1
         },
         {
-            transitionForward: () => addItem(items[1].label, context),
-            transitionBackward: () => removeItem(items[1].label, context),
+            transitionForward: () => addItem(items[1].id, context),
+            transitionBackward: () => removeItem(items[1].id, context),
             index: 2
         },
         {
-            transitionForward: () => addItem(items[2].label, context),
-            transitionBackward: () => removeItem(items[2].label, context),
+            transitionForward: () => addItem(items[2].id, context),
+            transitionBackward: () => removeItem(items[2].id, context),
             index: 3
         },
         {
-            transitionForward: () => addItem(items[3].label, context),
-            transitionBackward: () => removeItem(items[3].label, context),
+            transitionForward: () => addItem(items[3].id, context),
+            transitionBackward: () => removeItem(items[3].id, context),
             index: 4
         },
         {
             transitionForward: () => showAll(context),
-            transitionBackward: () => removeItem(items[4].label, context),
+            transitionBackward: () => removeItem(items[4].id, context),
             index: 5
         },
     ]
