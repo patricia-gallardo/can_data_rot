@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<body>
+<!-- load the d3.js library -->
+<!-- https://d3-graph-gallery.com/graph/barplot_basic.html -->
+<script src="https://d3js.org/d3.v7.min.js"></script>
+<script src="../palette.js"></script>
+<script src="../barplot.js"></script>
+<script>
+    // https://waldyrious.net/viridis-palette-generator/
+    const items = [
+        {"num": "0", "year": "2002"},
+        {"num": "0", "year": "2003"},
+        {"num": "0", "year": "2004"},
+        {"num": "0", "year": "2005"},
+        {"num": "15", "year": "2006"},
+        {"num": "15", "year": "2007"},
+        {"num": "15", "year": "2008"},
+        {"num": "15", "year": "2009"},
+        {"num": "15", "year": "2010"},
+        {"num": "15", "year": "2011"},
+        {"num": "15", "year": "2012"},
+        {"num": "7", "year": "2013"},
+        {"num": "1", "year": "2014"},
+        {"num": "0", "year": "2015"},
+        {"num": "0", "year": "2016"},
+        {"num": "0", "year": "2017"},
+        {"num": "0", "year": "2018"},
+        {"num": "1", "year": "2019"},
+        {"num": "1", "year": "2020"},
+        {"num": "6", "year": "2021"}, // 4 canceled
+        {"num": "1", "year": "2022"},
+    ]
+
+    const context = makeBarplotContext(items);
+</script>
