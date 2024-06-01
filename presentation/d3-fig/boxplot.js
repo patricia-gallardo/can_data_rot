@@ -4,9 +4,12 @@ function makeBoxplotContext(items, renderLowerBound) {
     const width = window.innerWidth - margin.left - margin.right;
     const height = Math.min(860, window.innerHeight - margin.top - margin.bottom);
 
-    console.log("Height : " + height)
-
     const svg = makeSvg(width, height, margin)
+
+    let xDomain = [2002, 2025];
+    let yDomain = items.map(function (d) { return d.label });
+
+    const {yScale, xScale} = renderAxes(svg, xDomain, yDomain, width, height, padding);
 
     let context = {
         items: [],
@@ -14,8 +17,8 @@ function makeBoxplotContext(items, renderLowerBound) {
         svg: svg,
         margin: margin,
         padding: padding,
-        width: width,
-        height: height,
+        xScale: xScale,
+        yScale: yScale,
         renderLowerBound: renderLowerBound
     };
     renderBoxplot(context);
@@ -28,6 +31,51 @@ function makeSvg(width, height, margin) {
         .attr("height", height + margin.top + margin.bottom)
         .attr("transform", "translate("
             + margin.left + "," + margin.top + ")")
+}
+
+function renderAxes(svg, xDomain, yDomain, width, height, padding) {
+    const {yScale, yAxis} = getYaxis(yDomain, height, padding);
+    const {xScale, xAxis} = getXaxis(xDomain, width, padding);
+    renderYaxis(svg, yAxis, padding);
+    renderXaxis(svg, xAxis, padding, height);
+    return {yScale, xScale};
+}
+
+function renderYaxis(svg, yAxis, padding) {
+    svg.append("g")
+        .style('font-size', '20px')
+        .style('font-family', '"Fira Sans", sans-serif')
+        .style('font-weight', '400')
+        .attr("transform", "translate(" + padding.left + "," + 0 + ")")
+        .call(yAxis);
+}
+
+function renderXaxis(svg, xAxis, padding, height) {
+    svg.append("g")
+        .style('font-size', '20px')
+        .style('font-family', '"Fira Sans", sans-serif')
+        .style('font-weight', '400')
+        .attr("transform", "translate(" + 0 + "," + (height - (padding.top + padding.bottom)) + ")")
+        .call(xAxis);
+}
+
+function getYaxis(yDomain, height, padding) {
+    const yScale = d3.scaleBand()
+        .domain(yDomain)
+        .range([height - (padding.top + padding.bottom), padding.bottom])
+        .padding(0.4);
+
+    const yAxis = d3.axisLeft(yScale);
+    return {yScale, yAxis};
+}
+
+function getXaxis(xDomain, width, padding) {
+    const xScale = d3.scaleLinear()
+        .domain(xDomain)
+        .range([padding.left, width - (padding.left + padding.right)]);
+
+    const xAxis = d3.axisBottom(xScale).tickFormat((d) => d);
+    return {xScale, xAxis};
 }
 
 function showAll(context) {
@@ -62,56 +110,8 @@ function removeItem(itemName, context) {
     }
 }
 
-function getYaxis(context) {
-    const yScale = d3.scaleBand()
-        .domain(context._items.map(function (d) {
-            return d.label
-        }))
-        .range([context.height - (context.padding.top + context.padding.bottom), context.padding.bottom])
-        .padding(0.4);
-
-    const yAxis = d3.axisLeft(yScale);
-    return {yScale, yAxis};
-}
-
-function getXaxis(context) {
-    const xScale = d3.scaleLinear()
-        .domain([2002, 2025])
-        .range([context.padding.left, context.width - (context.padding.left + context.padding.right)]);
-
-    const xAxis = d3.axisBottom(xScale).tickFormat((d) => d);
-    return {xScale, xAxis};
-}
-
-function renderYaxis(context, yAxis) {
-    context.svg.append("g")
-        .style('font-size', '20px')
-        .style('font-family', '"Fira Sans", sans-serif')
-        .style('font-weight', '400')
-        .attr("transform", "translate(" + context.padding.left + "," + 0 + ")")
-        .call(yAxis);
-}
-
-function renderXaxis(context, xAxis) {
-    context.svg.append("g")
-        .style('font-size', '20px')
-        .style('font-family', '"Fira Sans", sans-serif')
-        .style('font-weight', '400')
-        .attr("transform", "translate(" + 0 + "," + (context.height - (context.padding.top + context.padding.bottom)) + ")")
-        .call(xAxis);
-}
-
-function renderAxes(context) {
-    const {yScale, yAxis} = getYaxis(context);
-    const {xScale, xAxis} = getXaxis(context);
-    renderYaxis(context, yAxis);
-    renderXaxis(context, xAxis);
-    return {yScale, xScale};
-}
-
 function renderBoxplot(context) {
     console.log("Items to be rendered " + context.items)
-    const {yScale, xScale} = renderAxes(context);
 
     context.svg.selectAll("foo")
         .data(context.items)
@@ -120,15 +120,15 @@ function renderBoxplot(context) {
         .attr("fill", (d) => d.color)
         .attr("stroke", (d) => d.color)
         .attr("y", function (d) {
-            return yScale(d.label)
+            return context.yScale(d.label)
         })
         .attr("width", function (d) {
-            return xScale(d.max) - xScale(d.min)
+            return context.xScale(d.max) - context.xScale(d.min)
         })
         .attr("x", function (d) {
-            return xScale(d.min)
+            return context.xScale(d.min)
         })
-        .attr("height", yScale.bandwidth());
+        .attr("height", context.yScale.bandwidth());
 
     if (context.renderLowerBound) {
         context.svg.selectAll("foo")
@@ -138,14 +138,14 @@ function renderBoxplot(context) {
             .attr("fill", (d) => d.color2)
             .attr("stroke", (d) => d.color)
             .attr("y", function (d) {
-                return yScale(d.label)
+                return context.yScale(d.label)
             })
             .attr("width", function (d) {
-                return xScale(d.min) - xScale(d.lower)
+                return context.xScale(d.min) - context.xScale(d.lower)
             })
             .attr("x", function (d) {
-                return xScale(d.lower)
+                return context.xScale(d.lower)
             })
-            .attr("height", yScale.bandwidth());
+            .attr("height", context.yScale.bandwidth());
     }
 }
