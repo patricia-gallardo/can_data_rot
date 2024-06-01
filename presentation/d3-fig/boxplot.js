@@ -62,8 +62,7 @@ function removeItem(itemName, context) {
     }
 }
 
-function renderBoxplot(context) {
-    console.log("Items to be rendered " + context.items)
+function getYaxis(context) {
     const yScale = d3.scaleBand()
         .domain(context._items.map(function (d) {
             return d.label
@@ -72,26 +71,47 @@ function renderBoxplot(context) {
         .padding(0.4);
 
     const yAxis = d3.axisLeft(yScale);
+    return {yScale, yAxis};
+}
 
+function getXaxis(context) {
+    const xScale = d3.scaleLinear()
+        .domain([2002, 2025])
+        .range([context.padding.left, context.width - (context.padding.left + context.padding.right)]);
+
+    const xAxis = d3.axisBottom(xScale).tickFormat((d) => d);
+    return {xScale, xAxis};
+}
+
+function renderYaxis(context, yAxis) {
     context.svg.append("g")
         .style('font-size', '20px')
         .style('font-family', '"Fira Sans", sans-serif')
         .style('font-weight', '400')
         .attr("transform", "translate(" + context.padding.left + "," + 0 + ")")
         .call(yAxis);
+}
 
-    const xScale = d3.scaleLinear()
-        .domain([2002, 2025])
-        .range([context.padding.left, context.width - (context.padding.left + context.padding.right)]);
-
-    const xAxis = d3.axisBottom(xScale).tickFormat((d) => d);
-
+function renderXaxis(context, xAxis) {
     context.svg.append("g")
         .style('font-size', '20px')
         .style('font-family', '"Fira Sans", sans-serif')
         .style('font-weight', '400')
         .attr("transform", "translate(" + 0 + "," + (context.height - (context.padding.top + context.padding.bottom)) + ")")
         .call(xAxis);
+}
+
+function renderAxes(context) {
+    const {yScale, yAxis} = getYaxis(context);
+    const {xScale, xAxis} = getXaxis(context);
+    renderYaxis(context, yAxis);
+    renderXaxis(context, xAxis);
+    return {yScale, xScale};
+}
+
+function renderBoxplot(context) {
+    console.log("Items to be rendered " + context.items)
+    const {yScale, xScale} = renderAxes(context);
 
     context.svg.selectAll("foo")
         .data(context.items)
