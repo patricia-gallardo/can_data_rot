@@ -11,7 +11,7 @@ function makeBoxplotContext(items, renderLowerBound) {
 
     const {yScale, xScale} = renderAxes(svg, xDomain, yDomain, width, height, padding);
 
-    let context = {
+    return {
         items: [],
         _items: items,
         svg: svg,
@@ -21,8 +21,6 @@ function makeBoxplotContext(items, renderLowerBound) {
         yScale: yScale,
         renderLowerBound: renderLowerBound
     };
-    renderBoxplot(context);
-    return context;
 }
 
 function makeSvg(width, height, margin) {
@@ -90,28 +88,34 @@ function hideAll(context) {
     renderBoxplot(context)
 }
 
+function labels(items) {
+    return JSON.stringify(items.map((item) => item.label));
+}
+
 function addItem(itemName, context) {
     console.log("[addItem] " + itemName)
     const found = context._items.find((item) => item.label === itemName);
-    if (!found) return;
-    if (!context.items.includes(found)) {
-        context.items.push(found)
-        renderBoxplot(context)
-    }
+
+    console.log("[addItem] before " + labels(context.items))
+    context.items = context._items.filter((item) => (item === found || context.items.includes(item)));
+    console.log("[addItem] after " + labels(context.items))
+
+    renderBoxplot(context)
 }
 
 function removeItem(itemName, context) {
     console.log("[removeItem] " + itemName)
     const found = context._items.find((item) => item.label === itemName);
-    if (!found) return;
-    if (context.items.includes(found)) {
-        context.items = context.items.filter((item) => item.label !== itemName);
-        renderBoxplot(context)
-    }
+
+    console.log("[removeItem] before " + labels(context.items))
+    context.items = context.items.filter((item) => item !== found);
+    console.log("[removeItem] after " + labels(context.items))
+
+    renderBoxplot(context)
 }
 
 function renderBoxplot(context) {
-    console.log("Items to be rendered " + context.items)
+    console.log("Items to be rendered " + labels(context.items))
 
     context.svg.selectAll("foo")
         .data(context.items)

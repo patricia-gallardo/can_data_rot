@@ -49,28 +49,29 @@
             index: "onSlideChange"
         },
         {
-            transitionForward: () => addItem("TED XML", context),
-            // transitionBackward: () => removeItem("TED XML", context),
-            index: 0
-        },
-        {
-            transitionForward: () => addItem("Doffin XML", context),
-            // transitionBackward: () => removeItem("Doffin XML", context),
+            transitionForward: () => addItem(items[0].label, context),
+            transitionBackward: () => removeItem(items[0].label, context),
             index: 1
         },
         {
-            transitionForward: () => addItem("Classic Doffin HTML", context),
-            // transitionBackward: () => removeItem("Classic Doffin HTML", context),
+            transitionForward: () => addItem(items[1].label, context),
+            transitionBackward: () => removeItem(items[1].label, context),
             index: 2
         },
         {
-            transitionForward: () => addItem("New Doffin HTML", context),
-            // transitionBackward: () => removeItem("New Doffin HTML", context),
+            transitionForward: () => addItem(items[2].label, context),
+            transitionBackward: () => removeItem(items[2].label, context),
             index: 3
         },
         {
-            transitionForward: () => showAll(context),
+            transitionForward: () => addItem(items[3].label, context),
+            transitionBackward: () => removeItem(items[3].label, context),
             index: 4
+        },
+        {
+            transitionForward: () => addItem(items[4].label, context),
+            transitionBackward: () => removeItem(items[4].label, context),
+            index: 5
         },
     ]
 </script>

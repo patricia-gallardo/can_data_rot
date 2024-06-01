@@ -21,21 +21,21 @@
     }, {
         "min": "2005",
         "max": "2012",
-        "label": "\"Old\" Doffin",
+        "label": "Old Doffin",
         "color": "#f48849",
         "color2": "#f48849" + alpha,
         "lower": "2003"
     }, {
         "min": "2012",
         "max": "2024",
-        "label": "\"Classic\" Doffin",
+        "label": "Classic Doffin",
         "color": "#b83289",
         "color2": "#b83289" + alpha,
         "lower": "2006"
     }, {
         "min": "2024",
         "max": "2025",
-        "label": "\"New\" Doffin",
+        "label": "New Doffin",
         "color": "#5302a3",
         "color2": "#5302a3" + alpha,
         "lower": "2017"
@@ -43,5 +43,30 @@
 
     const renderLowerBound = true
     const context = makeBoxplotContext(items, renderLowerBound);
-    showAll(context)
+    var _transitions = [
+        {
+            transitionForward: () => hideAll(context),
+            index: "onSlideChange"
+        },
+        {
+            transitionForward: () => addItem(items[0].label, context),
+            transitionBackward: () => removeItem(items[0].label, context),
+            index: 1
+        },
+        {
+            transitionForward: () => addItem(items[1].label, context),
+            transitionBackward: () => removeItem(items[1].label, context),
+            index: 2
+        },
+        {
+            transitionForward: () => addItem(items[2].label, context),
+            transitionBackward: () => removeItem(items[2].label, context),
+            index: 3
+        },
+        {
+            transitionForward: () => addItem(items[3].label, context),
+            transitionBackward: () => removeItem(items[3].label, context),
+            index: 4
+        },
+    ]
 </script>
