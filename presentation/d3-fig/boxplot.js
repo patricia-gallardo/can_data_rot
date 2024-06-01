@@ -11,7 +11,7 @@ function makeBoxplotContext(items) {
 
     const {yScale, xScale} = renderAxes(svg, xDomain, yDomain, width, height, padding);
 
-    return {
+    let context = {
         items: [],
         _items: items,
         svg: svg,
@@ -20,6 +20,21 @@ function makeBoxplotContext(items) {
         xScale: xScale,
         yScale: yScale,
     };
+
+    d3.select(window).on("resize", function () {
+        console.log("Window resized")
+        const width = window.innerWidth - margin.left - margin.right;
+        const height = Math.min(860, window.innerHeight - margin.top - margin.bottom);
+        removeXaxis(svg)
+        removeYaxis(svg)
+        const {yScale, xScale} = renderAxes(svg, xDomain, yDomain, width, height, padding);
+        context.yScale = yScale
+        context.xScale = xScale
+        removeItems(svg)
+        renderBoxplot(context)
+    });
+
+    return context;
 }
 
 function makeSvg(width, height, margin) {
@@ -40,6 +55,7 @@ function renderAxes(svg, xDomain, yDomain, width, height, padding) {
 
 function renderYaxis(svg, yAxis, padding) {
     svg.append("g")
+        .attr('class', 'yaxis')
         .style('font-size', '20px')
         .style('font-family', '"Fira Sans", sans-serif')
         .style('font-weight', '400')
@@ -49,6 +65,7 @@ function renderYaxis(svg, yAxis, padding) {
 
 function renderXaxis(svg, xAxis, padding, height) {
     svg.append("g")
+        .attr('class', 'xaxis')
         .style('font-size', '20px')
         .style('font-family', '"Fira Sans", sans-serif')
         .style('font-weight', '400')
@@ -73,6 +90,21 @@ function getXaxis(xDomain, width, padding) {
 
     const xAxis = d3.axisBottom(xScale).tickFormat((d) => d);
     return {xScale, xAxis};
+}
+
+function removeXaxis(svg) {
+    const node = svg.selectAll('g.xaxis')
+    node.remove()
+}
+
+function removeYaxis(svg) {
+    const node = svg.selectAll('g.yaxis')
+    node.remove()
+}
+
+function removeItems(svg) {
+    const node = svg.selectAll('g.box')
+    node.remove()
 }
 
 function showAll(context) {
@@ -113,7 +145,7 @@ function removeItem(itemName, context) {
     renderBoxplot(context)
 }
 
-function renderRect(node, nodeEnter, context, { left, right, fill }) {
+function renderRect(node, nodeEnter, context, {left, right, fill}) {
     // Add Box for the nodes
     nodeEnter.append('rect')
         .attr('class', 'box')
@@ -146,7 +178,7 @@ function renderBoxplot(context) {
     const nodeEnter = node.enter().append('g')
         .attr('class', 'box');
 
-    renderRect(node, nodeEnter, context, { left: (d) => d.min, right: (d) => d.max, fill: (d) => d.color });
+    renderRect(node, nodeEnter, context, {left: (d) => d.min, right: (d) => d.max, fill: (d) => d.color});
 
     // Remove any exiting nodes
     const duration = 0
