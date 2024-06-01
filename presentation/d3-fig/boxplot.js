@@ -152,8 +152,11 @@ function removeItem(id, context) {
     removeItems([id], context)
 }
 
-function removeItems(ids, context) {
+function removeItems(ids, context, colorAll) {
     console.log("[removeItems] " + JSON.stringify(ids))
+
+    if (colorAll)
+        context.items.map((item) => { item.isGray = false})
 
     ids.map((id) => {
         const found = context._items.find((item) => item.id === id);
@@ -173,9 +176,27 @@ function grayOut(ids, context) {
         const found = context._items.find((item) => item.id === id);
         found.isGray = true
     })
+    context.items = context._items
 
     removeBoxes(context.svg)
     renderBoxplot(context)
+}
+
+function fillRect(d, fill) {
+    let color = fill(d);
+    return d.isGray ? gray(color) : color;
+}
+
+function strokeRect(d) {
+    let color = d.color;
+    return d.isGray ? "#E5E4E2FF" : color;
+}
+function gray(col)
+{
+    if (col.length === 9)
+        return "#E5E4E244"
+    else
+        return "#E5E4E2bb"
 }
 
 function renderRect(node, nodeEnter, context, {left, right, fill}) {
@@ -200,8 +221,8 @@ function renderRect(node, nodeEnter, context, {left, right, fill}) {
 
     // Update the node attributes and style
     nodeUpdate
-        .attr("fill", (d) => d.isGray ? "#80808022" : fill(d))
-        .attr("stroke", (d) => d.isGray ? "#80808044" : d.color);
+        .attr("fill", (d) => fillRect(d, fill))
+        .attr("stroke", (d) => strokeRect(d));
 }
 
 function renderBoxplot(context) {
