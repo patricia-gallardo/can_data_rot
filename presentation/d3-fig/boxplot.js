@@ -112,12 +112,15 @@ function removeBoxes(svg) {
 function showAll(context) {
     console.log("[showAll]")
     context.items = context._items
+    context.items.map((item) => { item.isGray = false })
+    removeBoxes(context.svg)
     renderBoxplot(context)
 }
 
 function hideAll(context) {
     console.log("[hideAll]")
     context.items = []
+    removeBoxes(context.svg)
     renderBoxplot(context)
 }
 
@@ -163,6 +166,18 @@ function removeItems(ids, context) {
     renderBoxplot(context)
 }
 
+function grayOut(ids, context) {
+    console.log("[grayOut] " + JSON.stringify(ids))
+
+    ids.map((id) => {
+        const found = context._items.find((item) => item.id === id);
+        found.isGray = true
+    })
+
+    removeBoxes(context.svg)
+    renderBoxplot(context)
+}
+
 function renderRect(node, nodeEnter, context, {left, right, fill}) {
     // Add Box for the nodes
     nodeEnter.append('rect')
@@ -185,8 +200,8 @@ function renderRect(node, nodeEnter, context, {left, right, fill}) {
 
     // Update the node attributes and style
     nodeUpdate
-        .attr("fill", (d) => fill(d))
-        .attr("stroke", (d) => d.color);
+        .attr("fill", (d) => d.isGray ? "#80808022" : fill(d))
+        .attr("stroke", (d) => d.isGray ? "#80808044" : d.color);
 }
 
 function renderBoxplot(context) {
