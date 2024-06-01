@@ -114,42 +114,30 @@ function removeItem(itemName, context) {
     renderBoxplot(context)
 }
 
-function renderBoxplot(context) {
-    console.log("Items to be rendered " + labels(context.items))
-
+function renderRect(context, { left, right, fill }) {
     context.svg.selectAll("foo")
         .data(context.items)
         .enter()
         .append("rect")
-        .attr("fill", (d) => d.color)
+        .attr("fill", (d) => fill(d))
         .attr("stroke", (d) => d.color)
         .attr("y", function (d) {
             return context.yScale(d.label)
         })
         .attr("width", function (d) {
-            return context.xScale(d.max) - context.xScale(d.min)
+            return context.xScale(right(d)) - context.xScale(left(d))
         })
         .attr("x", function (d) {
-            return context.xScale(d.min)
+            return context.xScale(left(d))
         })
         .attr("height", context.yScale.bandwidth());
+}
+
+function renderBoxplot(context) {
+    console.log("Items to be rendered " + labels(context.items))
+    renderRect(context, { left: (d) => d.min, right: (d) => d.max, fill: (d) => d.color });
 
     if (context.renderLowerBound) {
-        context.svg.selectAll("foo")
-            .data(context.items)
-            .enter()
-            .append("rect")
-            .attr("fill", (d) => d.color2)
-            .attr("stroke", (d) => d.color)
-            .attr("y", function (d) {
-                return context.yScale(d.label)
-            })
-            .attr("width", function (d) {
-                return context.xScale(d.min) - context.xScale(d.lower)
-            })
-            .attr("x", function (d) {
-                return context.xScale(d.lower)
-            })
-            .attr("height", context.yScale.bandwidth());
+        renderRect(context, { left: (d) => d.lower, right: (d) => d.min, fill: (d) => d.color2 });
     }
 }
