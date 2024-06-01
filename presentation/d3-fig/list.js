@@ -6,7 +6,7 @@ function makeListContext(items, color, margins, fontSize) {
     const width = window.innerWidth - margin.left - margin.right;
     const height = Math.min(860, window.innerHeight - margin.top - margin.bottom);
 
-    console.log("Height : " + height)
+    // console.log("Height : " + height)
 
     let hierarchy = makeHierarchy(tree, height);
     const svg = makeSvg(width, height, margin);
@@ -91,7 +91,7 @@ function makeTree(strings) {
         }
     })
 
-    console.log(JSON.stringify(treeData))
+    // console.log(JSON.stringify(treeData))
     return treeData;
 }
 
@@ -305,7 +305,7 @@ function update(source, listContext) {
 
     // Assigns the x and y position for the nodes
     let root = listContext.root;
-    console.log("root : " + root)
+    // console.log("root : " + root)
     // declares a tree layout and assigns the size
     const treemap = d3.tree().size([listContext.height, listContext.width]);
 
