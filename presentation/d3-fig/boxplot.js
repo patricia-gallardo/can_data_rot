@@ -115,12 +115,15 @@ function removeItem(itemName, context) {
 }
 
 function renderRect(context, { left, right, fill }) {
-    context.svg.selectAll("foo")
-        .data(context.items)
-        .enter()
-        .append("rect")
-        .attr("fill", (d) => fill(d))
-        .attr("stroke", (d) => d.color)
+    // Update the nodes...
+    const node = context.svg.selectAll('g.box').data(context.items)
+
+    const nodeEnter = node.enter().append('g')
+        .attr('class', 'box');
+
+    // Add Box for the nodes
+    nodeEnter.append('rect')
+        .attr('class', 'box')
         .attr("y", function (d) {
             return context.yScale(d.label)
         })
@@ -130,7 +133,21 @@ function renderRect(context, { left, right, fill }) {
         .attr("x", function (d) {
             return context.xScale(left(d))
         })
-        .attr("height", context.yScale.bandwidth());
+        .attr("height", context.yScale.bandwidth())
+
+    // UPDATE
+    const nodeUpdate = nodeEnter.merge(node);
+
+    // Update the node attributes and style
+    nodeUpdate
+        .attr("fill", (d) => fill(d))
+        .attr("stroke", (d) => d.color);
+
+    // Remove any exiting nodes
+    const duration = 0
+    const nodeExit = node.exit().transition()
+        .duration(duration)
+        .remove();
 }
 
 function renderBoxplot(context) {
