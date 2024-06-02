@@ -24,7 +24,7 @@ function makeGraphContext(_graph) {
         },
         charge: {
             enabled: true,
-            strength: -100,
+            strength: -400,
             distanceMin: 1,
             distanceMax: 2000
         },
