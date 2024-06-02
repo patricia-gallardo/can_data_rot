@@ -1,6 +1,6 @@
 function makeBarplotContext(items) {
     const margin = {top: 50, right: 100, bottom: 150, left: 200};
-    const padding = {top: 50, right: 100, bottom: 0, left: 200};
+    const padding = {top: 50, right: 50, bottom: 50, left: 50};
     const width = window.innerWidth - margin.left - margin.right;
     const height = Math.min(860, window.innerHeight - margin.top - margin.bottom);
 
@@ -75,7 +75,7 @@ function renderXaxis(svg, xAxis, padding, height) {
         .style('font-size', '20px')
         .style('font-family', '"Fira Sans", sans-serif')
         .style('font-weight', '400')
-        .attr("transform", "translate(" + 0 + "," + height + ")")
+        .attr("transform", "translate(" + 0 + "," + (height - padding.bottom) + ")")
         .call(xAxis);
 }
 
@@ -221,7 +221,7 @@ function renderRect(node, nodeEnter, context, {left, right, fill}) {
         })
         .attr("height", (d) => {
             let yScale = context.yScale(d.num);
-            return (context.height - context.padding.top)  - yScale;
+            return (context.height - context.padding.top - context.padding.bottom)  - yScale;
         })
 
     // UPDATE
