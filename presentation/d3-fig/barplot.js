@@ -20,7 +20,8 @@ function makeBarplotContext(items) {
         xScale: xScale,
         yScale: yScale,
         width: width,
-        height: height
+        height: height,
+        xDomain: xDomain
     };
 
     d3.select(window).on("resize", function () {
@@ -203,8 +204,17 @@ function gray(col)
         return "#E5E4E2bb"
 }
 
+function getColumnWidth(context) {
+    let availableWidth = context.width - context.padding.left - context.padding.right;
+    let last = context.xDomain[context.xDomain.length - 1];
+    let first = context.xDomain[0];
+    let sizeOfDomain = last - first;
+    let scaleFactorIncludingSpace = 1.4;
+    return availableWidth / (sizeOfDomain * scaleFactorIncludingSpace);
+}
+
 function renderRect(node, nodeEnter, context, {left, right, fill}) {
-    const columnWidth = 20
+    const columnWidth = getColumnWidth(context)
     // Add Box for the nodes
     nodeEnter.append('rect')
         .attr('class', 'box')
