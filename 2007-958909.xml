@@ -1,0 +1,1121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CONTRACT_AWARD LG="NB" CATEGORY="ORIGINAL" FORM="3" VERSION="R2.0.5">
+    <SENDER>
+        <LOGIN CLASS="B"/>
+        <USER/>
+        <NO_DOC_EXT>M102811</NO_DOC_EXT>
+    </SENDER>
+    <FD_CONTRACT_AWARD CTYPE="SERVICES">
+        <CONTACTING_AUTHORITY_INFORMATION>
+            <NAME_ADDRESSES_CONTACT_CONTRACT_AWARD>
+                <CA_CE_CONCESSIONAIRE_PROFILE>
+                    <ORGANISATION>NAV Drift og utvikling</ORGANISATION>
+                    <ADDRESS>Sannergata 2, Postboks 5200 Nydalen</ADDRESS>
+                    <TOWN>OSLO</TOWN>
+                    <POSTAL_CODE>0426</POSTAL_CODE>
+                    <COUNTRY VALUE="NO"/>
+                    <CONTACT_POINT>Anskaffelser og økonomi</CONTACT_POINT>
+                    <ATTENTION>Tone Karlsen</ATTENTION>
+                    <PHONE>21 07 00 00</PHONE>
+                    <E_MAIL>tone.karlsen@nav.no</E_MAIL>
+                    <FAX>21 07 10 00</FAX>
+                </CA_CE_CONCESSIONAIRE_PROFILE>
+                <INTERNET_ADDRESSES_CONTRACT_AWARD>
+                    <URL_GENERAL>www.nav.no</URL_GENERAL>
+                    <URL_BUYER>http://www.doffin.no/search/Search_AuthProfile.aspx?ID=AA0005</URL_BUYER>
+                </INTERNET_ADDRESSES_CONTRACT_AWARD>
+            </NAME_ADDRESSES_CONTACT_CONTRACT_AWARD>
+            <TYPE_AND_ACTIVITIES_AND_PURCHASING_ON_BEHALF>
+                <TYPE_AND_ACTIVITIES>
+                    <TYPE_OF_CONTRACTING_AUTHORITY VALUE="NATIONAL_AGENCY"/>
+                    <TYPE_OF_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+                </TYPE_AND_ACTIVITIES>
+            </TYPE_AND_ACTIVITIES_AND_PURCHASING_ON_BEHALF>
+        </CONTACTING_AUTHORITY_INFORMATION>
+        <OBJECT_CONTRACT_INFORMATION_CONTRACT_AWARD_NOTICE>
+            <DESCRIPTION_AWARD_NOTICE_INFORMATION>
+                <TITLE_CONTRACT>Rammeavtale om konsulenttjenester innenfor IKT-området</TITLE_CONTRACT>
+                <TYPE_CONTRACT_LOCATION_W_PUB>
+                    <TYPE_CONTRACT VALUE="SERVICES"/>
+                    <SERVICE_CATEGORY_PUB VALUE="27">
+                        <AGREEMENT_PUBLICATION/>
+                    </SERVICE_CATEGORY_PUB>
+                </TYPE_CONTRACT_LOCATION_W_PUB>
+                <LOCATION_NUTS>
+                    <LOCATION>
+                        <P>Oslo</P>
+                    </LOCATION>
+                </LOCATION_NUTS>
+                <NOTICE_INVOLVES_DESC VALUE="CONCLUSION_FRAMEWORK_AGREEMENT"/>
+                <SHORT_CONTRACT_DESCRIPTION>
+                    <P>Konsulenttjenester innfor IKT-området</P>
+                    <P>
+                        <P/>
+                        <P/>
+                        <P>Merk: Ytterligere informasjon relatert til denne kunngjøringen kan være tilgjengelig på
+                            Doffin nettsiden på http://www.doffin.no/Search/Search_Switch.aspx?ID=102811.
+                        </P>
+                    </P>
+                </SHORT_CONTRACT_DESCRIPTION>
+                <CPV>
+                    <CPV_MAIN>
+                        <CPV_CODE CODE="72520000"/>
+                    </CPV_MAIN>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72220000"/>
+                    </CPV_ADDITIONAL>
+                </CPV>
+                <CONTRACT_COVERED_GPA VALUE="YES"/>
+            </DESCRIPTION_AWARD_NOTICE_INFORMATION>
+            <TOTAL_FINAL_VALUE>
+                <COSTS_RANGE_AND_CURRENCY_WITH_VAT_RATE CURRENCY="NOK"/>
+            </TOTAL_FINAL_VALUE>
+        </OBJECT_CONTRACT_INFORMATION_CONTRACT_AWARD_NOTICE>
+        <PROCEDURE_DEFINITION_CONTRACT_AWARD_NOTICE>
+            <TYPE_OF_PROCEDURE_DEF>
+                <PT_OPEN/>
+            </TYPE_OF_PROCEDURE_DEF>
+            <AWARD_CRITERIA_CONTRACT_AWARD_NOTICE_INFORMATION>
+                <AWARD_CRITERIA_DETAIL_F03>
+                    <MOST_ECONOMICALLY_ADVANTAGEOUS_TENDER_SHORT>
+                        <CRITERIA_DEFINITION>
+                            <ORDER_C>1</ORDER_C>
+                            <CRITERIA>Kvalitet på tjenesten; erfaring, kompetanse og falglige kvalifikasjoner hos
+                                tilbudte konsulenter
+                            </CRITERIA>
+                            <WEIGHTING>40</WEIGHTING>
+                        </CRITERIA_DEFINITION>
+                        <CRITERIA_DEFINITION>
+                            <ORDER_C>2</ORDER_C>
+                            <CRITERIA>Kvalitet på tjenesten; arbeidsmetodikk og kompetanseoverføring</CRITERIA>
+                            <WEIGHTING>25</WEIGHTING>
+                        </CRITERIA_DEFINITION>
+                        <CRITERIA_DEFINITION>
+                            <ORDER_C>3</ORDER_C>
+                            <CRITERIA>Timepris</CRITERIA>
+                            <WEIGHTING>20</WEIGHTING>
+                        </CRITERIA_DEFINITION>
+                        <CRITERIA_DEFINITION>
+                            <ORDER_C>4</ORDER_C>
+                            <CRITERIA>Kapasitet</CRITERIA>
+                            <WEIGHTING>10</WEIGHTING>
+                        </CRITERIA_DEFINITION>
+                        <CRITERIA_DEFINITION>
+                            <ORDER_C>5</ORDER_C>
+                            <CRITERIA>Forbehold til kontrakten</CRITERIA>
+                            <WEIGHTING>5</WEIGHTING>
+                        </CRITERIA_DEFINITION>
+                    </MOST_ECONOMICALLY_ADVANTAGEOUS_TENDER_SHORT>
+                </AWARD_CRITERIA_DETAIL_F03>
+            </AWARD_CRITERIA_CONTRACT_AWARD_NOTICE_INFORMATION>
+            <ADMINISTRATIVE_INFORMATION_CONTRACT_AWARD>
+                <FILE_REFERENCE_NUMBER>
+                    <P>DEC071045</P>
+                </FILE_REFERENCE_NUMBER>
+                <PREVIOUS_PUBLICATION_INFORMATION_NOTICE_F3>
+                    <PREVIOUS_PUBLICATION_EXISTS_F3>
+                        <CNT_NOTICE_INFORMATION>
+                            <CNT_NOTICE_INFORMATION_S CHOICE="CONTRACT_NOTICE"/>
+                            <NOTICE_NUMBER_OJ>2007/S99-121584</NOTICE_NUMBER_OJ>
+                            <DATE_OJ>
+                                <DAY>25</DAY>
+                                <MONTH>05</MONTH>
+                                <YEAR>2007</YEAR>
+                            </DATE_OJ>
+                        </CNT_NOTICE_INFORMATION>
+                    </PREVIOUS_PUBLICATION_EXISTS_F3>
+                </PREVIOUS_PUBLICATION_INFORMATION_NOTICE_F3>
+            </ADMINISTRATIVE_INFORMATION_CONTRACT_AWARD>
+        </PROCEDURE_DEFINITION_CONTRACT_AWARD_NOTICE>
+        <AWARD_OF_CONTRACT>
+            <CONTRACT_NUMBER>07/12233</CONTRACT_NUMBER>
+            <CONTRACT_TITLE>Rammeavtale om konsulenttjenester innenfor IKT-området</CONTRACT_TITLE>
+            <CONTRACT_AWARD_DATE>
+                <DAY>28</DAY>
+                <MONTH>06</MONTH>
+                <YEAR>2007</YEAR>
+            </CONTRACT_AWARD_DATE>
+            <OFFERS_RECEIVED_NUMBER>76</OFFERS_RECEIVED_NUMBER>
+            <ECONOMIC_OPERATOR_NAME_ADDRESS>
+                <CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+                    <ORGANISATION>Avenir AS</ORGANISATION>
+                    <ADDRESS>Postboks 494</ADDRESS>
+                    <TOWN>Oslo</TOWN>
+                    <POSTAL_CODE>0213</POSTAL_CODE>
+                    <COUNTRY VALUE="NO"/>
+                </CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+            </ECONOMIC_OPERATOR_NAME_ADDRESS>
+            <CONTRACT_VALUE_INFORMATION>
+                <MORE_INFORMATION_IF_ANNUAL_MONTHLY/>
+            </CONTRACT_VALUE_INFORMATION>
+        </AWARD_OF_CONTRACT>
+        <AWARD_OF_CONTRACT>
+            <CONTRACT_NUMBER>07/12235</CONTRACT_NUMBER>
+            <CONTRACT_TITLE>Rammeavtale om konsulenttjenester innenfor IKT-området</CONTRACT_TITLE>
+            <CONTRACT_AWARD_DATE>
+                <DAY>28</DAY>
+                <MONTH>06</MONTH>
+                <YEAR>2007</YEAR>
+            </CONTRACT_AWARD_DATE>
+            <OFFERS_RECEIVED_NUMBER>76</OFFERS_RECEIVED_NUMBER>
+            <ECONOMIC_OPERATOR_NAME_ADDRESS>
+                <CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+                    <ORGANISATION>Bekk Consulting AS</ORGANISATION>
+                    <ADDRESS>Postboks 134, Sentrum</ADDRESS>
+                    <TOWN>Oslo</TOWN>
+                    <POSTAL_CODE>0102</POSTAL_CODE>
+                    <COUNTRY VALUE="NO"/>
+                </CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+            </ECONOMIC_OPERATOR_NAME_ADDRESS>
+            <CONTRACT_VALUE_INFORMATION>
+                <MORE_INFORMATION_IF_ANNUAL_MONTHLY/>
+            </CONTRACT_VALUE_INFORMATION>
+        </AWARD_OF_CONTRACT>
+        <AWARD_OF_CONTRACT>
+            <CONTRACT_NUMBER>07/12236</CONTRACT_NUMBER>
+            <CONTRACT_TITLE>Rammeavtale om konsulenttjenester innenfor IKT-området</CONTRACT_TITLE>
+            <CONTRACT_AWARD_DATE>
+                <DAY>28</DAY>
+                <MONTH>06</MONTH>
+                <YEAR>2007</YEAR>
+            </CONTRACT_AWARD_DATE>
+            <OFFERS_RECEIVED_NUMBER>76</OFFERS_RECEIVED_NUMBER>
+            <ECONOMIC_OPERATOR_NAME_ADDRESS>
+                <CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+                    <ORGANISATION>Bouvet AS</ORGANISATION>
+                    <ADDRESS>Postboks 4430, Nydalen</ADDRESS>
+                    <TOWN>Oslo</TOWN>
+                    <POSTAL_CODE>0403</POSTAL_CODE>
+                    <COUNTRY VALUE="NO"/>
+                </CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+            </ECONOMIC_OPERATOR_NAME_ADDRESS>
+            <CONTRACT_VALUE_INFORMATION>
+                <MORE_INFORMATION_IF_ANNUAL_MONTHLY/>
+            </CONTRACT_VALUE_INFORMATION>
+        </AWARD_OF_CONTRACT>
+        <AWARD_OF_CONTRACT>
+            <CONTRACT_NUMBER>07/12237</CONTRACT_NUMBER>
+            <CONTRACT_TITLE>Rammeavtale om konsulenttjenester innenfor IKT-området</CONTRACT_TITLE>
+            <CONTRACT_AWARD_DATE>
+                <DAY>28</DAY>
+                <MONTH>06</MONTH>
+                <YEAR>2007</YEAR>
+            </CONTRACT_AWARD_DATE>
+            <OFFERS_RECEIVED_NUMBER>76</OFFERS_RECEIVED_NUMBER>
+            <ECONOMIC_OPERATOR_NAME_ADDRESS>
+                <CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+                    <ORGANISATION>Capgemini Norge AS</ORGANISATION>
+                    <ADDRESS>postboks 475, Skøyen</ADDRESS>
+                    <TOWN>Oslo</TOWN>
+                    <POSTAL_CODE>0214</POSTAL_CODE>
+                    <COUNTRY VALUE="NO"/>
+                </CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+            </ECONOMIC_OPERATOR_NAME_ADDRESS>
+            <CONTRACT_VALUE_INFORMATION>
+                <MORE_INFORMATION_IF_ANNUAL_MONTHLY/>
+            </CONTRACT_VALUE_INFORMATION>
+        </AWARD_OF_CONTRACT>
+        <AWARD_OF_CONTRACT>
+            <CONTRACT_NUMBER>07/12239</CONTRACT_NUMBER>
+            <CONTRACT_TITLE>Rammeavtale om konsulenttjenester innenfor IKT-området</CONTRACT_TITLE>
+            <CONTRACT_AWARD_DATE>
+                <DAY>28</DAY>
+                <MONTH>06</MONTH>
+                <YEAR>2007</YEAR>
+            </CONTRACT_AWARD_DATE>
+            <OFFERS_RECEIVED_NUMBER>76</OFFERS_RECEIVED_NUMBER>
+            <ECONOMIC_OPERATOR_NAME_ADDRESS>
+                <CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+                    <ORGANISATION>Computas AS</ORGANISATION>
+                    <ADDRESS>postboks 482</ADDRESS>
+                    <TOWN>Lysaker</TOWN>
+                    <POSTAL_CODE>1327</POSTAL_CODE>
+                    <COUNTRY VALUE="NO"/>
+                </CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+            </ECONOMIC_OPERATOR_NAME_ADDRESS>
+            <CONTRACT_VALUE_INFORMATION>
+                <MORE_INFORMATION_IF_ANNUAL_MONTHLY/>
+            </CONTRACT_VALUE_INFORMATION>
+        </AWARD_OF_CONTRACT>
+        <AWARD_OF_CONTRACT>
+            <CONTRACT_NUMBER>07/12242</CONTRACT_NUMBER>
+            <CONTRACT_TITLE>Rammeavtale om konsulenttjenester innenfor IKT-området</CONTRACT_TITLE>
+            <CONTRACT_AWARD_DATE>
+                <DAY>28</DAY>
+                <MONTH>06</MONTH>
+                <YEAR>2007</YEAR>
+            </CONTRACT_AWARD_DATE>
+            <OFFERS_RECEIVED_NUMBER>76</OFFERS_RECEIVED_NUMBER>
+            <ECONOMIC_OPERATOR_NAME_ADDRESS>
+                <CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+                    <ORGANISATION>Crayon AS</ORGANISATION>
+                    <ADDRESS>Sandakerveien 114A</ADDRESS>
+                    <TOWN>Oslo</TOWN>
+                    <POSTAL_CODE>0484</POSTAL_CODE>
+                    <COUNTRY VALUE="NO"/>
+                </CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+            </ECONOMIC_OPERATOR_NAME_ADDRESS>
+            <CONTRACT_VALUE_INFORMATION>
+                <MORE_INFORMATION_IF_ANNUAL_MONTHLY/>
+            </CONTRACT_VALUE_INFORMATION>
+        </AWARD_OF_CONTRACT>
+        <AWARD_OF_CONTRACT>
+            <CONTRACT_NUMBER>07/12243</CONTRACT_NUMBER>
+            <CONTRACT_TITLE>Rammeavtale om konsulenttjenester innenfor IKT-området</CONTRACT_TITLE>
+            <CONTRACT_AWARD_DATE>
+                <DAY>28</DAY>
+                <MONTH>06</MONTH>
+                <YEAR>2007</YEAR>
+            </CONTRACT_AWARD_DATE>
+            <OFFERS_RECEIVED_NUMBER>76</OFFERS_RECEIVED_NUMBER>
+            <ECONOMIC_OPERATOR_NAME_ADDRESS>
+                <CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+                    <ORGANISATION>daVinci Consulting AS</ORGANISATION>
+                    <ADDRESS>Hoffsveien 21 - 23</ADDRESS>
+                    <TOWN>Oslo</TOWN>
+                    <POSTAL_CODE>0275</POSTAL_CODE>
+                    <COUNTRY VALUE="NO"/>
+                </CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+            </ECONOMIC_OPERATOR_NAME_ADDRESS>
+            <CONTRACT_VALUE_INFORMATION>
+                <MORE_INFORMATION_IF_ANNUAL_MONTHLY/>
+            </CONTRACT_VALUE_INFORMATION>
+        </AWARD_OF_CONTRACT>
+        <AWARD_OF_CONTRACT>
+            <CONTRACT_NUMBER>07/12245</CONTRACT_NUMBER>
+            <CONTRACT_TITLE>Rammeavtale om konsulenttjenester innenfor IKT-området</CONTRACT_TITLE>
+            <CONTRACT_AWARD_DATE>
+                <DAY>28</DAY>
+                <MONTH>06</MONTH>
+                <YEAR>2007</YEAR>
+            </CONTRACT_AWARD_DATE>
+            <OFFERS_RECEIVED_NUMBER>76</OFFERS_RECEIVED_NUMBER>
+            <ECONOMIC_OPERATOR_NAME_ADDRESS>
+                <CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+                    <ORGANISATION>EdiSys Consulting AS</ORGANISATION>
+                    <ADDRESS>Øvre Slottsgate 17</ADDRESS>
+                    <TOWN>Oslo</TOWN>
+                    <POSTAL_CODE>0157</POSTAL_CODE>
+                    <COUNTRY VALUE="NO"/>
+                </CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+            </ECONOMIC_OPERATOR_NAME_ADDRESS>
+            <CONTRACT_VALUE_INFORMATION>
+                <MORE_INFORMATION_IF_ANNUAL_MONTHLY/>
+            </CONTRACT_VALUE_INFORMATION>
+        </AWARD_OF_CONTRACT>
+        <AWARD_OF_CONTRACT>
+            <CONTRACT_NUMBER>07/12246</CONTRACT_NUMBER>
+            <CONTRACT_TITLE>Rammeavtale om konsulenttjenester innenfor IKT-området</CONTRACT_TITLE>
+            <CONTRACT_AWARD_DATE>
+                <DAY>28</DAY>
+                <MONTH>06</MONTH>
+                <YEAR>2007</YEAR>
+            </CONTRACT_AWARD_DATE>
+            <OFFERS_RECEIVED_NUMBER>76</OFFERS_RECEIVED_NUMBER>
+            <ECONOMIC_OPERATOR_NAME_ADDRESS>
+                <CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+                    <ORGANISATION>Ergo Group AS</ORGANISATION>
+                    <ADDRESS>postboks 4364, Nydalen</ADDRESS>
+                    <TOWN>Oslo</TOWN>
+                    <POSTAL_CODE>0402</POSTAL_CODE>
+                    <COUNTRY VALUE="NO"/>
+                </CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+            </ECONOMIC_OPERATOR_NAME_ADDRESS>
+            <CONTRACT_VALUE_INFORMATION>
+                <MORE_INFORMATION_IF_ANNUAL_MONTHLY/>
+            </CONTRACT_VALUE_INFORMATION>
+        </AWARD_OF_CONTRACT>
+        <AWARD_OF_CONTRACT>
+            <CONTRACT_NUMBER>07/12248</CONTRACT_NUMBER>
+            <CONTRACT_TITLE>Rammeavtale om konsulenttjenester innenfor IKT-området</CONTRACT_TITLE>
+            <CONTRACT_AWARD_DATE>
+                <DAY>28</DAY>
+                <MONTH>06</MONTH>
+                <YEAR>2007</YEAR>
+            </CONTRACT_AWARD_DATE>
+            <OFFERS_RECEIVED_NUMBER>76</OFFERS_RECEIVED_NUMBER>
+            <ECONOMIC_OPERATOR_NAME_ADDRESS>
+                <CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+                    <ORGANISATION>IBM AS</ORGANISATION>
+                    <ADDRESS>Postboks 500</ADDRESS>
+                    <TOWN>Kolbotn</TOWN>
+                    <POSTAL_CODE>1411</POSTAL_CODE>
+                    <COUNTRY VALUE="NO"/>
+                </CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+            </ECONOMIC_OPERATOR_NAME_ADDRESS>
+            <CONTRACT_VALUE_INFORMATION>
+                <MORE_INFORMATION_IF_ANNUAL_MONTHLY/>
+            </CONTRACT_VALUE_INFORMATION>
+        </AWARD_OF_CONTRACT>
+        <AWARD_OF_CONTRACT>
+            <CONTRACT_NUMBER>07/12257</CONTRACT_NUMBER>
+            <CONTRACT_TITLE>Rammeavtale om konsulenttjenester innenfor IKT-området</CONTRACT_TITLE>
+            <CONTRACT_AWARD_DATE>
+                <DAY>28</DAY>
+                <MONTH>06</MONTH>
+                <YEAR>2007</YEAR>
+            </CONTRACT_AWARD_DATE>
+            <OFFERS_RECEIVED_NUMBER>76</OFFERS_RECEIVED_NUMBER>
+            <ECONOMIC_OPERATOR_NAME_ADDRESS>
+                <CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+                    <ORGANISATION>Sandbox Solutions</ORGANISATION>
+                    <ADDRESS>Fornes</ADDRESS>
+                    <TOWN>Risøyhamn</TOWN>
+                    <POSTAL_CODE>8484</POSTAL_CODE>
+                    <COUNTRY VALUE="NO"/>
+                </CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+            </ECONOMIC_OPERATOR_NAME_ADDRESS>
+            <CONTRACT_VALUE_INFORMATION>
+                <MORE_INFORMATION_IF_ANNUAL_MONTHLY/>
+            </CONTRACT_VALUE_INFORMATION>
+        </AWARD_OF_CONTRACT>
+        <AWARD_OF_CONTRACT>
+            <CONTRACT_NUMBER>07/12258</CONTRACT_NUMBER>
+            <CONTRACT_TITLE>Rammeavtale om konsulenttjenester innenfor IKT-området</CONTRACT_TITLE>
+            <CONTRACT_AWARD_DATE>
+                <DAY>28</DAY>
+                <MONTH>06</MONTH>
+                <YEAR>2007</YEAR>
+            </CONTRACT_AWARD_DATE>
+            <OFFERS_RECEIVED_NUMBER>76</OFFERS_RECEIVED_NUMBER>
+            <ECONOMIC_OPERATOR_NAME_ADDRESS>
+                <CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+                    <ORGANISATION>SenseIT AS</ORGANISATION>
+                    <ADDRESS>Myrhaugen 7</ADDRESS>
+                    <TOWN>Oslo</TOWN>
+                    <POSTAL_CODE>0752</POSTAL_CODE>
+                    <COUNTRY VALUE="NO"/>
+                </CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+            </ECONOMIC_OPERATOR_NAME_ADDRESS>
+            <CONTRACT_VALUE_INFORMATION>
+                <MORE_INFORMATION_IF_ANNUAL_MONTHLY/>
+            </CONTRACT_VALUE_INFORMATION>
+        </AWARD_OF_CONTRACT>
+        <AWARD_OF_CONTRACT>
+            <CONTRACT_NUMBER>07/12260</CONTRACT_NUMBER>
+            <CONTRACT_TITLE>Rammeavtale om konsulenttjenester innenfor IKT-området</CONTRACT_TITLE>
+            <CONTRACT_AWARD_DATE>
+                <DAY>28</DAY>
+                <MONTH>06</MONTH>
+                <YEAR>2007</YEAR>
+            </CONTRACT_AWARD_DATE>
+            <OFFERS_RECEIVED_NUMBER>76</OFFERS_RECEIVED_NUMBER>
+            <ECONOMIC_OPERATOR_NAME_ADDRESS>
+                <CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+                    <ORGANISATION>Sirius IT AS</ORGANISATION>
+                    <ADDRESS>Postboks 109, Lilleaker</ADDRESS>
+                    <TOWN>Oslo</TOWN>
+                    <POSTAL_CODE>0216</POSTAL_CODE>
+                    <COUNTRY VALUE="NO"/>
+                </CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+            </ECONOMIC_OPERATOR_NAME_ADDRESS>
+            <CONTRACT_VALUE_INFORMATION>
+                <MORE_INFORMATION_IF_ANNUAL_MONTHLY/>
+            </CONTRACT_VALUE_INFORMATION>
+        </AWARD_OF_CONTRACT>
+        <AWARD_OF_CONTRACT>
+            <CONTRACT_NUMBER>07/12261</CONTRACT_NUMBER>
+            <CONTRACT_TITLE>Rammeavtale om konsulenttjenester innenfor IKT-området</CONTRACT_TITLE>
+            <CONTRACT_AWARD_DATE>
+                <DAY>28</DAY>
+                <MONTH>06</MONTH>
+                <YEAR>2007</YEAR>
+            </CONTRACT_AWARD_DATE>
+            <OFFERS_RECEIVED_NUMBER>76</OFFERS_RECEIVED_NUMBER>
+            <ECONOMIC_OPERATOR_NAME_ADDRESS>
+                <CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+                    <ORGANISATION>Steria AS</ORGANISATION>
+                    <ADDRESS>Postboks 2</ADDRESS>
+                    <TOWN>Oslo</TOWN>
+                    <POSTAL_CODE>0051</POSTAL_CODE>
+                    <COUNTRY VALUE="NO"/>
+                </CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+            </ECONOMIC_OPERATOR_NAME_ADDRESS>
+            <CONTRACT_VALUE_INFORMATION>
+                <MORE_INFORMATION_IF_ANNUAL_MONTHLY/>
+            </CONTRACT_VALUE_INFORMATION>
+        </AWARD_OF_CONTRACT>
+        <AWARD_OF_CONTRACT>
+            <CONTRACT_NUMBER>07/12262</CONTRACT_NUMBER>
+            <CONTRACT_TITLE>Rammeavtale om konsulenttjenester innenfor IKT-området</CONTRACT_TITLE>
+            <CONTRACT_AWARD_DATE>
+                <DAY>28</DAY>
+                <MONTH>06</MONTH>
+                <YEAR>2007</YEAR>
+            </CONTRACT_AWARD_DATE>
+            <OFFERS_RECEIVED_NUMBER>76</OFFERS_RECEIVED_NUMBER>
+            <ECONOMIC_OPERATOR_NAME_ADDRESS>
+                <CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+                    <ORGANISATION>Symantec Norway AS</ORGANISATION>
+                    <ADDRESS>Martin Lingesvei 25</ADDRESS>
+                    <TOWN>Fornebu</TOWN>
+                    <POSTAL_CODE>1330</POSTAL_CODE>
+                    <COUNTRY VALUE="NO"/>
+                </CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+            </ECONOMIC_OPERATOR_NAME_ADDRESS>
+            <CONTRACT_VALUE_INFORMATION>
+                <MORE_INFORMATION_IF_ANNUAL_MONTHLY/>
+            </CONTRACT_VALUE_INFORMATION>
+        </AWARD_OF_CONTRACT>
+        <AWARD_OF_CONTRACT>
+            <CONTRACT_NUMBER>07/12263</CONTRACT_NUMBER>
+            <CONTRACT_TITLE>Rammeavtale om konsulenttjenester innenfor IKT-området</CONTRACT_TITLE>
+            <CONTRACT_AWARD_DATE>
+                <DAY>28</DAY>
+                <MONTH>06</MONTH>
+                <YEAR>2007</YEAR>
+            </CONTRACT_AWARD_DATE>
+            <OFFERS_RECEIVED_NUMBER>76</OFFERS_RECEIVED_NUMBER>
+            <ECONOMIC_OPERATOR_NAME_ADDRESS>
+                <CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+                    <ORGANISATION>Teleplan AS</ORGANISATION>
+                    <ADDRESS>Postboks 69</ADDRESS>
+                    <TOWN>Lysaker</TOWN>
+                    <POSTAL_CODE>1324</POSTAL_CODE>
+                    <COUNTRY VALUE="NO"/>
+                </CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+            </ECONOMIC_OPERATOR_NAME_ADDRESS>
+            <CONTRACT_VALUE_INFORMATION>
+                <MORE_INFORMATION_IF_ANNUAL_MONTHLY/>
+            </CONTRACT_VALUE_INFORMATION>
+        </AWARD_OF_CONTRACT>
+        <AWARD_OF_CONTRACT>
+            <CONTRACT_NUMBER>07/12266</CONTRACT_NUMBER>
+            <CONTRACT_TITLE>Rammeavtale om konsulenttjenester innenfor IKT-området</CONTRACT_TITLE>
+            <CONTRACT_AWARD_DATE>
+                <DAY>28</DAY>
+                <MONTH>06</MONTH>
+                <YEAR>2007</YEAR>
+            </CONTRACT_AWARD_DATE>
+            <OFFERS_RECEIVED_NUMBER>76</OFFERS_RECEIVED_NUMBER>
+            <ECONOMIC_OPERATOR_NAME_ADDRESS>
+                <CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+                    <ORGANISATION>Visma Unique AS</ORGANISATION>
+                    <ADDRESS>Postboks 774, Sentrum</ADDRESS>
+                    <TOWN>Oslo</TOWN>
+                    <POSTAL_CODE>0106</POSTAL_CODE>
+                    <COUNTRY VALUE="NO"/>
+                </CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+            </ECONOMIC_OPERATOR_NAME_ADDRESS>
+            <CONTRACT_VALUE_INFORMATION>
+                <MORE_INFORMATION_IF_ANNUAL_MONTHLY/>
+            </CONTRACT_VALUE_INFORMATION>
+        </AWARD_OF_CONTRACT>
+        <AWARD_OF_CONTRACT>
+            <CONTRACT_NUMBER>07/12231</CONTRACT_NUMBER>
+            <CONTRACT_TITLE>Rammeavtale om konsulenttjenester innenfor IKT-området</CONTRACT_TITLE>
+            <CONTRACT_AWARD_DATE>
+                <DAY>28</DAY>
+                <MONTH>06</MONTH>
+                <YEAR>2007</YEAR>
+            </CONTRACT_AWARD_DATE>
+            <OFFERS_RECEIVED_NUMBER>76</OFFERS_RECEIVED_NUMBER>
+            <ECONOMIC_OPERATOR_NAME_ADDRESS>
+                <CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+                    <ORGANISATION>Application Development Group AS</ORGANISATION>
+                    <ADDRESS>Postboks 2205 Postterminalen</ADDRESS>
+                    <TOWN>Tønsberg</TOWN>
+                    <POSTAL_CODE>3103</POSTAL_CODE>
+                    <COUNTRY VALUE="NO"/>
+                </CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+            </ECONOMIC_OPERATOR_NAME_ADDRESS>
+            <CONTRACT_VALUE_INFORMATION>
+                <MORE_INFORMATION_IF_ANNUAL_MONTHLY/>
+            </CONTRACT_VALUE_INFORMATION>
+        </AWARD_OF_CONTRACT>
+        <AWARD_OF_CONTRACT>
+            <CONTRACT_NUMBER>07/12250</CONTRACT_NUMBER>
+            <CONTRACT_TITLE>Rammeavtale om konsulenttjenester innenfor IKT-området</CONTRACT_TITLE>
+            <CONTRACT_AWARD_DATE>
+                <DAY>28</DAY>
+                <MONTH>06</MONTH>
+                <YEAR>2007</YEAR>
+            </CONTRACT_AWARD_DATE>
+            <OFFERS_RECEIVED_NUMBER>76</OFFERS_RECEIVED_NUMBER>
+            <ECONOMIC_OPERATOR_NAME_ADDRESS>
+                <CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+                    <ORGANISATION>KITH</ORGANISATION>
+                    <ADDRESS>Sukkerhuset</ADDRESS>
+                    <TOWN>Trondheim</TOWN>
+                    <POSTAL_CODE>7489</POSTAL_CODE>
+                    <COUNTRY VALUE="NO"/>
+                </CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+            </ECONOMIC_OPERATOR_NAME_ADDRESS>
+            <CONTRACT_VALUE_INFORMATION>
+                <MORE_INFORMATION_IF_ANNUAL_MONTHLY/>
+            </CONTRACT_VALUE_INFORMATION>
+        </AWARD_OF_CONTRACT>
+        <AWARD_OF_CONTRACT>
+            <CONTRACT_NUMBER>07/12230</CONTRACT_NUMBER>
+            <CONTRACT_TITLE>Rammeavtale om konsulenttjenester innenfor IKT-området</CONTRACT_TITLE>
+            <CONTRACT_AWARD_DATE>
+                <DAY>28</DAY>
+                <MONTH>06</MONTH>
+                <YEAR>2007</YEAR>
+            </CONTRACT_AWARD_DATE>
+            <OFFERS_RECEIVED_NUMBER>76</OFFERS_RECEIVED_NUMBER>
+            <ECONOMIC_OPERATOR_NAME_ADDRESS>
+                <CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+                    <ORGANISATION>Accenture ANS</ORGANISATION>
+                    <ADDRESS>Postboks 363</ADDRESS>
+                    <TOWN>Lysaker</TOWN>
+                    <POSTAL_CODE>1326</POSTAL_CODE>
+                    <COUNTRY VALUE="NO"/>
+                </CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+            </ECONOMIC_OPERATOR_NAME_ADDRESS>
+            <CONTRACT_VALUE_INFORMATION>
+                <MORE_INFORMATION_IF_ANNUAL_MONTHLY/>
+            </CONTRACT_VALUE_INFORMATION>
+        </AWARD_OF_CONTRACT>
+        <AWARD_OF_CONTRACT>
+            <CONTRACT_NUMBER>07/12228</CONTRACT_NUMBER>
+            <CONTRACT_TITLE>Rammeavtale om konsulenttjenester innenfor IKT-området</CONTRACT_TITLE>
+            <CONTRACT_AWARD_DATE>
+                <DAY>28</DAY>
+                <MONTH>06</MONTH>
+                <YEAR>2007</YEAR>
+            </CONTRACT_AWARD_DATE>
+            <OFFERS_RECEIVED_NUMBER>76</OFFERS_RECEIVED_NUMBER>
+            <ECONOMIC_OPERATOR_NAME_ADDRESS>
+                <CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+                    <ORGANISATION>Abeo AS</ORGANISATION>
+                    <ADDRESS>Vika Atrium, Munkedamsvn. 45D</ADDRESS>
+                    <TOWN>Oslo</TOWN>
+                    <POSTAL_CODE>0250</POSTAL_CODE>
+                    <COUNTRY VALUE="NO"/>
+                </CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+            </ECONOMIC_OPERATOR_NAME_ADDRESS>
+            <CONTRACT_VALUE_INFORMATION>
+                <MORE_INFORMATION_IF_ANNUAL_MONTHLY/>
+            </CONTRACT_VALUE_INFORMATION>
+            <MORE_INFORMATION_TO_SUB_CONTRACTED>
+                <CONTRACT_LIKELY_SUB_CONTRACTED>
+                    <UNKNOWN_VALUE/>
+                    <ADDITIONAL_INFORMATION>
+                        <P>Underleverandør; Isfjord</P>
+                    </ADDITIONAL_INFORMATION>
+                </CONTRACT_LIKELY_SUB_CONTRACTED>
+            </MORE_INFORMATION_TO_SUB_CONTRACTED>
+        </AWARD_OF_CONTRACT>
+        <AWARD_OF_CONTRACT>
+            <CONTRACT_NUMBER>07/12232</CONTRACT_NUMBER>
+            <CONTRACT_TITLE>Rammeavtale om konsulenttjenester innenfor IKT-området</CONTRACT_TITLE>
+            <CONTRACT_AWARD_DATE>
+                <DAY>28</DAY>
+                <MONTH>06</MONTH>
+                <YEAR>2007</YEAR>
+            </CONTRACT_AWARD_DATE>
+            <OFFERS_RECEIVED_NUMBER>76</OFFERS_RECEIVED_NUMBER>
+            <ECONOMIC_OPERATOR_NAME_ADDRESS>
+                <CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+                    <ORGANISATION>ArcticPark Consulting AS</ORGANISATION>
+                    <ADDRESS>Drammensveien 123</ADDRESS>
+                    <TOWN>Oslo</TOWN>
+                    <POSTAL_CODE>0277</POSTAL_CODE>
+                    <COUNTRY VALUE="NO"/>
+                </CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+            </ECONOMIC_OPERATOR_NAME_ADDRESS>
+            <CONTRACT_VALUE_INFORMATION>
+                <MORE_INFORMATION_IF_ANNUAL_MONTHLY/>
+            </CONTRACT_VALUE_INFORMATION>
+            <MORE_INFORMATION_TO_SUB_CONTRACTED>
+                <CONTRACT_LIKELY_SUB_CONTRACTED>
+                    <UNKNOWN_VALUE/>
+                    <ADDITIONAL_INFORMATION>
+                        <P>Underleverandør; Integrate</P>
+                    </ADDITIONAL_INFORMATION>
+                </CONTRACT_LIKELY_SUB_CONTRACTED>
+            </MORE_INFORMATION_TO_SUB_CONTRACTED>
+        </AWARD_OF_CONTRACT>
+        <AWARD_OF_CONTRACT>
+            <CONTRACT_NUMBER>07/12234</CONTRACT_NUMBER>
+            <CONTRACT_TITLE>Rammeavtale om konsulenttjenester innenfor IKT-området</CONTRACT_TITLE>
+            <CONTRACT_AWARD_DATE>
+                <DAY>28</DAY>
+                <MONTH>06</MONTH>
+                <YEAR>2007</YEAR>
+            </CONTRACT_AWARD_DATE>
+            <OFFERS_RECEIVED_NUMBER>76</OFFERS_RECEIVED_NUMBER>
+            <ECONOMIC_OPERATOR_NAME_ADDRESS>
+                <CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+                    <ORGANISATION>BearingPoint</ORGANISATION>
+                    <ADDRESS>postboks 22</ADDRESS>
+                    <TOWN>Oslo</TOWN>
+                    <POSTAL_CODE>0051</POSTAL_CODE>
+                    <COUNTRY VALUE="NO"/>
+                </CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+            </ECONOMIC_OPERATOR_NAME_ADDRESS>
+            <CONTRACT_VALUE_INFORMATION>
+                <MORE_INFORMATION_IF_ANNUAL_MONTHLY/>
+            </CONTRACT_VALUE_INFORMATION>
+            <MORE_INFORMATION_TO_SUB_CONTRACTED>
+                <CONTRACT_LIKELY_SUB_CONTRACTED>
+                    <UNKNOWN_VALUE/>
+                    <ADDITIONAL_INFORMATION>
+                        <P>Underleverandør; A-2 og CommITment</P>
+                    </ADDITIONAL_INFORMATION>
+                </CONTRACT_LIKELY_SUB_CONTRACTED>
+            </MORE_INFORMATION_TO_SUB_CONTRACTED>
+        </AWARD_OF_CONTRACT>
+        <AWARD_OF_CONTRACT>
+            <CONTRACT_NUMBER>07/12238</CONTRACT_NUMBER>
+            <CONTRACT_TITLE>Rammeavtale om konsulenttjenester innenfor IKT-området</CONTRACT_TITLE>
+            <CONTRACT_AWARD_DATE>
+                <DAY>28</DAY>
+                <MONTH>06</MONTH>
+                <YEAR>2007</YEAR>
+            </CONTRACT_AWARD_DATE>
+            <OFFERS_RECEIVED_NUMBER>76</OFFERS_RECEIVED_NUMBER>
+            <ECONOMIC_OPERATOR_NAME_ADDRESS>
+                <CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+                    <ORGANISATION>CIBER Norge AS</ORGANISATION>
+                    <ADDRESS>postboks 417, Sentrum</ADDRESS>
+                    <TOWN>Oslo</TOWN>
+                    <POSTAL_CODE>0103</POSTAL_CODE>
+                    <COUNTRY VALUE="NO"/>
+                </CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+            </ECONOMIC_OPERATOR_NAME_ADDRESS>
+            <CONTRACT_VALUE_INFORMATION>
+                <MORE_INFORMATION_IF_ANNUAL_MONTHLY/>
+            </CONTRACT_VALUE_INFORMATION>
+            <MORE_INFORMATION_TO_SUB_CONTRACTED>
+                <CONTRACT_LIKELY_SUB_CONTRACTED>
+                    <UNKNOWN_VALUE/>
+                    <ADDITIONAL_INFORMATION>
+                        <P>Underleverandør; Webstep</P>
+                    </ADDITIONAL_INFORMATION>
+                </CONTRACT_LIKELY_SUB_CONTRACTED>
+            </MORE_INFORMATION_TO_SUB_CONTRACTED>
+        </AWARD_OF_CONTRACT>
+        <AWARD_OF_CONTRACT>
+            <CONTRACT_NUMBER>07/12241</CONTRACT_NUMBER>
+            <CONTRACT_TITLE>Rammeavtale om konsulenttjenester innenfor IKT-området</CONTRACT_TITLE>
+            <CONTRACT_AWARD_DATE>
+                <DAY>28</DAY>
+                <MONTH>06</MONTH>
+                <YEAR>2007</YEAR>
+            </CONTRACT_AWARD_DATE>
+            <OFFERS_RECEIVED_NUMBER>76</OFFERS_RECEIVED_NUMBER>
+            <ECONOMIC_OPERATOR_NAME_ADDRESS>
+                <CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+                    <ORGANISATION>Consider AS</ORGANISATION>
+                    <ADDRESS>postboks 22</ADDRESS>
+                    <TOWN>Bærum Postterminal</TOWN>
+                    <POSTAL_CODE>1306</POSTAL_CODE>
+                    <COUNTRY VALUE="NO"/>
+                </CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+            </ECONOMIC_OPERATOR_NAME_ADDRESS>
+            <CONTRACT_VALUE_INFORMATION>
+                <MORE_INFORMATION_IF_ANNUAL_MONTHLY/>
+            </CONTRACT_VALUE_INFORMATION>
+            <MORE_INFORMATION_TO_SUB_CONTRACTED>
+                <CONTRACT_LIKELY_SUB_CONTRACTED>
+                    <UNKNOWN_VALUE/>
+                    <ADDITIONAL_INFORMATION>
+                        <P>Underleverandør; Xitio</P>
+                    </ADDITIONAL_INFORMATION>
+                </CONTRACT_LIKELY_SUB_CONTRACTED>
+            </MORE_INFORMATION_TO_SUB_CONTRACTED>
+        </AWARD_OF_CONTRACT>
+        <AWARD_OF_CONTRACT>
+            <CONTRACT_NUMBER>07/12244</CONTRACT_NUMBER>
+            <CONTRACT_TITLE>Rammeavtale om konsulenttjenester innenfor IKT-området</CONTRACT_TITLE>
+            <CONTRACT_AWARD_DATE>
+                <DAY>28</DAY>
+                <MONTH>06</MONTH>
+                <YEAR>2007</YEAR>
+            </CONTRACT_AWARD_DATE>
+            <OFFERS_RECEIVED_NUMBER>76</OFFERS_RECEIVED_NUMBER>
+            <ECONOMIC_OPERATOR_NAME_ADDRESS>
+                <CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+                    <ORGANISATION>Dell AS</ORGANISATION>
+                    <ADDRESS>Hoffsveien 1D</ADDRESS>
+                    <TOWN>Oslo</TOWN>
+                    <POSTAL_CODE>0275</POSTAL_CODE>
+                    <COUNTRY VALUE="NO"/>
+                </CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+            </ECONOMIC_OPERATOR_NAME_ADDRESS>
+            <CONTRACT_VALUE_INFORMATION>
+                <MORE_INFORMATION_IF_ANNUAL_MONTHLY/>
+            </CONTRACT_VALUE_INFORMATION>
+            <MORE_INFORMATION_TO_SUB_CONTRACTED>
+                <CONTRACT_LIKELY_SUB_CONTRACTED>
+                    <UNKNOWN_VALUE/>
+                    <ADDITIONAL_INFORMATION>
+                        <P>Underleverandør; Datametrix og Crayon</P>
+                    </ADDITIONAL_INFORMATION>
+                </CONTRACT_LIKELY_SUB_CONTRACTED>
+            </MORE_INFORMATION_TO_SUB_CONTRACTED>
+        </AWARD_OF_CONTRACT>
+        <AWARD_OF_CONTRACT>
+            <CONTRACT_NUMBER>07/12269</CONTRACT_NUMBER>
+            <CONTRACT_TITLE>Rammeavtale om konsulenttjenester innenfor IKT-området</CONTRACT_TITLE>
+            <CONTRACT_AWARD_DATE>
+                <DAY>28</DAY>
+                <MONTH>06</MONTH>
+                <YEAR>2007</YEAR>
+            </CONTRACT_AWARD_DATE>
+            <OFFERS_RECEIVED_NUMBER>76</OFFERS_RECEIVED_NUMBER>
+            <ECONOMIC_OPERATOR_NAME_ADDRESS>
+                <CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+                    <ORGANISATION>Fornebu Consulting AS</ORGANISATION>
+                    <ADDRESS>postboks 46</ADDRESS>
+                    <TOWN>Lysaker</TOWN>
+                    <POSTAL_CODE>1326</POSTAL_CODE>
+                    <COUNTRY VALUE="NO"/>
+                </CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+            </ECONOMIC_OPERATOR_NAME_ADDRESS>
+            <CONTRACT_VALUE_INFORMATION>
+                <MORE_INFORMATION_IF_ANNUAL_MONTHLY/>
+            </CONTRACT_VALUE_INFORMATION>
+            <MORE_INFORMATION_TO_SUB_CONTRACTED>
+                <CONTRACT_LIKELY_SUB_CONTRACTED>
+                    <UNKNOWN_VALUE/>
+                    <ADDITIONAL_INFORMATION>
+                        <P>Underleverandør; IKON</P>
+                    </ADDITIONAL_INFORMATION>
+                </CONTRACT_LIKELY_SUB_CONTRACTED>
+            </MORE_INFORMATION_TO_SUB_CONTRACTED>
+        </AWARD_OF_CONTRACT>
+        <AWARD_OF_CONTRACT>
+            <CONTRACT_NUMBER>07/12247</CONTRACT_NUMBER>
+            <CONTRACT_TITLE>Rammeavtale om konsulenttjenester innenfor IKT-området</CONTRACT_TITLE>
+            <CONTRACT_AWARD_DATE>
+                <DAY>28</DAY>
+                <MONTH>06</MONTH>
+                <YEAR>2007</YEAR>
+            </CONTRACT_AWARD_DATE>
+            <OFFERS_RECEIVED_NUMBER>76</OFFERS_RECEIVED_NUMBER>
+            <ECONOMIC_OPERATOR_NAME_ADDRESS>
+                <CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+                    <ORGANISATION>Hewlett-Packard Norge AS</ORGANISATION>
+                    <ADDRESS>Postboks 6700, Etterstad</ADDRESS>
+                    <TOWN>Oslo</TOWN>
+                    <POSTAL_CODE>0609</POSTAL_CODE>
+                    <COUNTRY VALUE="NO"/>
+                </CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+            </ECONOMIC_OPERATOR_NAME_ADDRESS>
+            <CONTRACT_VALUE_INFORMATION>
+                <MORE_INFORMATION_IF_ANNUAL_MONTHLY/>
+            </CONTRACT_VALUE_INFORMATION>
+            <MORE_INFORMATION_TO_SUB_CONTRACTED>
+                <CONTRACT_LIKELY_SUB_CONTRACTED>
+                    <UNKNOWN_VALUE/>
+                    <ADDITIONAL_INFORMATION>
+                        <P>Underleverandør; Crayon, InfoCare og Tre65</P>
+                    </ADDITIONAL_INFORMATION>
+                </CONTRACT_LIKELY_SUB_CONTRACTED>
+            </MORE_INFORMATION_TO_SUB_CONTRACTED>
+        </AWARD_OF_CONTRACT>
+        <AWARD_OF_CONTRACT>
+            <CONTRACT_NUMBER>07/12249</CONTRACT_NUMBER>
+            <CONTRACT_TITLE>Rammeavtale om konsulenttjenester innenfor IKT-området</CONTRACT_TITLE>
+            <CONTRACT_AWARD_DATE>
+                <DAY>28</DAY>
+                <MONTH>06</MONTH>
+                <YEAR>2007</YEAR>
+            </CONTRACT_AWARD_DATE>
+            <OFFERS_RECEIVED_NUMBER>76</OFFERS_RECEIVED_NUMBER>
+            <ECONOMIC_OPERATOR_NAME_ADDRESS>
+                <CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+                    <ORGANISATION>Innovatec - Innovative Technologies AS</ORGANISATION>
+                    <ADDRESS>Øvre Slottsgate 5</ADDRESS>
+                    <TOWN>Oslo</TOWN>
+                    <POSTAL_CODE>0157</POSTAL_CODE>
+                    <COUNTRY VALUE="NO"/>
+                </CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+            </ECONOMIC_OPERATOR_NAME_ADDRESS>
+            <CONTRACT_VALUE_INFORMATION>
+                <MORE_INFORMATION_IF_ANNUAL_MONTHLY/>
+            </CONTRACT_VALUE_INFORMATION>
+            <MORE_INFORMATION_TO_SUB_CONTRACTED>
+                <CONTRACT_LIKELY_SUB_CONTRACTED>
+                    <UNKNOWN_VALUE/>
+                    <ADDITIONAL_INFORMATION>
+                        <P>Underleverandør; iFront, Karde og TellU</P>
+                    </ADDITIONAL_INFORMATION>
+                </CONTRACT_LIKELY_SUB_CONTRACTED>
+            </MORE_INFORMATION_TO_SUB_CONTRACTED>
+        </AWARD_OF_CONTRACT>
+        <AWARD_OF_CONTRACT>
+            <CONTRACT_NUMBER>07/12251</CONTRACT_NUMBER>
+            <CONTRACT_TITLE>Rammeavtale om konsulenttjenester innenfor IKT-området</CONTRACT_TITLE>
+            <CONTRACT_AWARD_DATE>
+                <DAY>28</DAY>
+                <MONTH>06</MONTH>
+                <YEAR>2007</YEAR>
+            </CONTRACT_AWARD_DATE>
+            <OFFERS_RECEIVED_NUMBER>76</OFFERS_RECEIVED_NUMBER>
+            <ECONOMIC_OPERATOR_NAME_ADDRESS>
+                <CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+                    <ORGANISATION>KonsensIT</ORGANISATION>
+                    <ADDRESS>Von Øtkens vei 4H</ADDRESS>
+                    <TOWN>Oslo</TOWN>
+                    <POSTAL_CODE>1169</POSTAL_CODE>
+                    <COUNTRY VALUE="NO"/>
+                </CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+            </ECONOMIC_OPERATOR_NAME_ADDRESS>
+            <CONTRACT_VALUE_INFORMATION>
+                <MORE_INFORMATION_IF_ANNUAL_MONTHLY/>
+            </CONTRACT_VALUE_INFORMATION>
+            <MORE_INFORMATION_TO_SUB_CONTRACTED>
+                <CONTRACT_LIKELY_SUB_CONTRACTED>
+                    <UNKNOWN_VALUE/>
+                    <ADDITIONAL_INFORMATION>
+                        <P>Underleverandør; Tenera og Lemandata</P>
+                    </ADDITIONAL_INFORMATION>
+                </CONTRACT_LIKELY_SUB_CONTRACTED>
+            </MORE_INFORMATION_TO_SUB_CONTRACTED>
+        </AWARD_OF_CONTRACT>
+        <AWARD_OF_CONTRACT>
+            <CONTRACT_NUMBER>07/12252</CONTRACT_NUMBER>
+            <CONTRACT_TITLE>Rammeavtale om konsulenttjenester innenfor IKT-området</CONTRACT_TITLE>
+            <CONTRACT_AWARD_DATE>
+                <DAY>28</DAY>
+                <MONTH>06</MONTH>
+                <YEAR>2007</YEAR>
+            </CONTRACT_AWARD_DATE>
+            <OFFERS_RECEIVED_NUMBER>76</OFFERS_RECEIVED_NUMBER>
+            <ECONOMIC_OPERATOR_NAME_ADDRESS>
+                <CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+                    <ORGANISATION>Microsoft Norge AS</ORGANISATION>
+                    <ADDRESS>Lilleakerveien 6</ADDRESS>
+                    <TOWN>Oslo</TOWN>
+                    <POSTAL_CODE>0283</POSTAL_CODE>
+                    <COUNTRY VALUE="NO"/>
+                </CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+            </ECONOMIC_OPERATOR_NAME_ADDRESS>
+            <CONTRACT_VALUE_INFORMATION>
+                <MORE_INFORMATION_IF_ANNUAL_MONTHLY/>
+            </CONTRACT_VALUE_INFORMATION>
+            <MORE_INFORMATION_TO_SUB_CONTRACTED>
+                <CONTRACT_LIKELY_SUB_CONTRACTED>
+                    <UNKNOWN_VALUE/>
+                    <ADDITIONAL_INFORMATION>
+                        <P>Underleverandør; Crayon</P>
+                    </ADDITIONAL_INFORMATION>
+                </CONTRACT_LIKELY_SUB_CONTRACTED>
+            </MORE_INFORMATION_TO_SUB_CONTRACTED>
+        </AWARD_OF_CONTRACT>
+        <AWARD_OF_CONTRACT>
+            <CONTRACT_NUMBER>07/12253</CONTRACT_NUMBER>
+            <CONTRACT_TITLE>Rammeavtale om konsulenttjenester innenfor IKT-området</CONTRACT_TITLE>
+            <CONTRACT_AWARD_DATE>
+                <DAY>28</DAY>
+                <MONTH>06</MONTH>
+                <YEAR>2007</YEAR>
+            </CONTRACT_AWARD_DATE>
+            <OFFERS_RECEIVED_NUMBER>76</OFFERS_RECEIVED_NUMBER>
+            <ECONOMIC_OPERATOR_NAME_ADDRESS>
+                <CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+                    <ORGANISATION>Objectnet AS</ORGANISATION>
+                    <ADDRESS>Ruseløkkveien 14</ADDRESS>
+                    <TOWN>Oslo</TOWN>
+                    <POSTAL_CODE>0251</POSTAL_CODE>
+                    <COUNTRY VALUE="NO"/>
+                </CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+            </ECONOMIC_OPERATOR_NAME_ADDRESS>
+            <CONTRACT_VALUE_INFORMATION>
+                <MORE_INFORMATION_IF_ANNUAL_MONTHLY/>
+            </CONTRACT_VALUE_INFORMATION>
+            <MORE_INFORMATION_TO_SUB_CONTRACTED>
+                <CONTRACT_LIKELY_SUB_CONTRACTED>
+                    <UNKNOWN_VALUE/>
+                    <ADDITIONAL_INFORMATION>
+                        <P>Underleverandør; Unified Consulting, Agitec og Empiri</P>
+                    </ADDITIONAL_INFORMATION>
+                </CONTRACT_LIKELY_SUB_CONTRACTED>
+            </MORE_INFORMATION_TO_SUB_CONTRACTED>
+        </AWARD_OF_CONTRACT>
+        <AWARD_OF_CONTRACT>
+            <CONTRACT_NUMBER>07/12254</CONTRACT_NUMBER>
+            <CONTRACT_TITLE>Rammeavtale om konsulenttjenester innenfor IKT-området</CONTRACT_TITLE>
+            <CONTRACT_AWARD_DATE>
+                <DAY>28</DAY>
+                <MONTH>06</MONTH>
+                <YEAR>2007</YEAR>
+            </CONTRACT_AWARD_DATE>
+            <OFFERS_RECEIVED_NUMBER>76</OFFERS_RECEIVED_NUMBER>
+            <ECONOMIC_OPERATOR_NAME_ADDRESS>
+                <CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+                    <ORGANISATION>Objectware AS</ORGANISATION>
+                    <ADDRESS>Postboks 3977, Ullevål</ADDRESS>
+                    <TOWN>Oslo</TOWN>
+                    <POSTAL_CODE>0806</POSTAL_CODE>
+                    <COUNTRY VALUE="NO"/>
+                </CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+            </ECONOMIC_OPERATOR_NAME_ADDRESS>
+            <CONTRACT_VALUE_INFORMATION>
+                <MORE_INFORMATION_IF_ANNUAL_MONTHLY/>
+            </CONTRACT_VALUE_INFORMATION>
+            <MORE_INFORMATION_TO_SUB_CONTRACTED>
+                <CONTRACT_LIKELY_SUB_CONTRACTED>
+                    <UNKNOWN_VALUE/>
+                    <ADDITIONAL_INFORMATION>
+                        <P>Underleverandør; Arne Olav Forbord</P>
+                    </ADDITIONAL_INFORMATION>
+                </CONTRACT_LIKELY_SUB_CONTRACTED>
+            </MORE_INFORMATION_TO_SUB_CONTRACTED>
+        </AWARD_OF_CONTRACT>
+        <AWARD_OF_CONTRACT>
+            <CONTRACT_NUMBER>07/12255</CONTRACT_NUMBER>
+            <CONTRACT_TITLE>Rammeavtale om konsulenttjenester innenfor IKT-området</CONTRACT_TITLE>
+            <CONTRACT_AWARD_DATE>
+                <DAY>28</DAY>
+                <MONTH>06</MONTH>
+                <YEAR>2007</YEAR>
+            </CONTRACT_AWARD_DATE>
+            <OFFERS_RECEIVED_NUMBER>76</OFFERS_RECEIVED_NUMBER>
+            <ECONOMIC_OPERATOR_NAME_ADDRESS>
+                <CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+                    <ORGANISATION>Opus One AS</ORGANISATION>
+                    <ADDRESS>Oscarsgate 1B</ADDRESS>
+                    <TOWN>Oslo</TOWN>
+                    <POSTAL_CODE>0352</POSTAL_CODE>
+                    <COUNTRY VALUE="NO"/>
+                </CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+            </ECONOMIC_OPERATOR_NAME_ADDRESS>
+            <CONTRACT_VALUE_INFORMATION>
+                <MORE_INFORMATION_IF_ANNUAL_MONTHLY/>
+            </CONTRACT_VALUE_INFORMATION>
+            <MORE_INFORMATION_TO_SUB_CONTRACTED>
+                <CONTRACT_LIKELY_SUB_CONTRACTED>
+                    <UNKNOWN_VALUE/>
+                    <ADDITIONAL_INFORMATION>
+                        <P>Underleverandør; Ole Kristian Foss, Foss data Services og Lemandata</P>
+                    </ADDITIONAL_INFORMATION>
+                </CONTRACT_LIKELY_SUB_CONTRACTED>
+            </MORE_INFORMATION_TO_SUB_CONTRACTED>
+        </AWARD_OF_CONTRACT>
+        <AWARD_OF_CONTRACT>
+            <CONTRACT_NUMBER>07/12270</CONTRACT_NUMBER>
+            <CONTRACT_TITLE>Rammeavtale om konsulenttjenester innenfor IKT-området</CONTRACT_TITLE>
+            <CONTRACT_AWARD_DATE>
+                <DAY>28</DAY>
+                <MONTH>06</MONTH>
+                <YEAR>2007</YEAR>
+            </CONTRACT_AWARD_DATE>
+            <OFFERS_RECEIVED_NUMBER>76</OFFERS_RECEIVED_NUMBER>
+            <ECONOMIC_OPERATOR_NAME_ADDRESS>
+                <CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+                    <ORGANISATION>PricewaterhouseCoopers AS</ORGANISATION>
+                    <ADDRESS>Karenslyst alle 12</ADDRESS>
+                    <TOWN>Oslo</TOWN>
+                    <POSTAL_CODE>0245</POSTAL_CODE>
+                    <COUNTRY VALUE="NO"/>
+                </CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+            </ECONOMIC_OPERATOR_NAME_ADDRESS>
+            <CONTRACT_VALUE_INFORMATION>
+                <MORE_INFORMATION_IF_ANNUAL_MONTHLY/>
+            </CONTRACT_VALUE_INFORMATION>
+            <MORE_INFORMATION_TO_SUB_CONTRACTED>
+                <CONTRACT_LIKELY_SUB_CONTRACTED>
+                    <UNKNOWN_VALUE/>
+                    <ADDITIONAL_INFORMATION>
+                        <P>Underleverandør; Mesan og Structurum</P>
+                    </ADDITIONAL_INFORMATION>
+                </CONTRACT_LIKELY_SUB_CONTRACTED>
+            </MORE_INFORMATION_TO_SUB_CONTRACTED>
+        </AWARD_OF_CONTRACT>
+        <AWARD_OF_CONTRACT>
+            <CONTRACT_NUMBER>07/12256</CONTRACT_NUMBER>
+            <CONTRACT_TITLE>Rammeavtale om konsulenttjenester innenfor IKT-området</CONTRACT_TITLE>
+            <CONTRACT_AWARD_DATE>
+                <DAY>28</DAY>
+                <MONTH>06</MONTH>
+                <YEAR>2007</YEAR>
+            </CONTRACT_AWARD_DATE>
+            <OFFERS_RECEIVED_NUMBER>76</OFFERS_RECEIVED_NUMBER>
+            <ECONOMIC_OPERATOR_NAME_ADDRESS>
+                <CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+                    <ORGANISATION>Promis AS</ORGANISATION>
+                    <ADDRESS>Postboks 3968, Ullevål Stadion</ADDRESS>
+                    <TOWN>Oslo</TOWN>
+                    <POSTAL_CODE>0806</POSTAL_CODE>
+                    <COUNTRY VALUE="NO"/>
+                </CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+            </ECONOMIC_OPERATOR_NAME_ADDRESS>
+            <CONTRACT_VALUE_INFORMATION>
+                <MORE_INFORMATION_IF_ANNUAL_MONTHLY/>
+            </CONTRACT_VALUE_INFORMATION>
+            <MORE_INFORMATION_TO_SUB_CONTRACTED>
+                <CONTRACT_LIKELY_SUB_CONTRACTED>
+                    <UNKNOWN_VALUE/>
+                    <ADDITIONAL_INFORMATION>
+                        <P>Underleverandør; Entrada</P>
+                    </ADDITIONAL_INFORMATION>
+                </CONTRACT_LIKELY_SUB_CONTRACTED>
+            </MORE_INFORMATION_TO_SUB_CONTRACTED>
+        </AWARD_OF_CONTRACT>
+        <AWARD_OF_CONTRACT>
+            <CONTRACT_NUMBER>07/12266</CONTRACT_NUMBER>
+            <CONTRACT_TITLE>Rammeavtale om konsulenttjenester innenfor IKT-området</CONTRACT_TITLE>
+            <CONTRACT_AWARD_DATE>
+                <DAY>28</DAY>
+                <MONTH>06</MONTH>
+                <YEAR>2007</YEAR>
+            </CONTRACT_AWARD_DATE>
+            <OFFERS_RECEIVED_NUMBER>76</OFFERS_RECEIVED_NUMBER>
+            <ECONOMIC_OPERATOR_NAME_ADDRESS>
+                <CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+                    <ORGANISATION>UNIConsult AS</ORGANISATION>
+                    <ADDRESS>Postboks 1835, Vika</ADDRESS>
+                    <TOWN>Oslo</TOWN>
+                    <POSTAL_CODE>0123</POSTAL_CODE>
+                    <COUNTRY VALUE="NO"/>
+                </CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+            </ECONOMIC_OPERATOR_NAME_ADDRESS>
+            <CONTRACT_VALUE_INFORMATION>
+                <MORE_INFORMATION_IF_ANNUAL_MONTHLY/>
+            </CONTRACT_VALUE_INFORMATION>
+            <MORE_INFORMATION_TO_SUB_CONTRACTED>
+                <CONTRACT_LIKELY_SUB_CONTRACTED>
+                    <UNKNOWN_VALUE/>
+                    <ADDITIONAL_INFORMATION>
+                        <P>Underleverandør; Isfjord, Nordheim Consulting, Sjaavaag AS og Abacaos</P>
+                    </ADDITIONAL_INFORMATION>
+                </CONTRACT_LIKELY_SUB_CONTRACTED>
+            </MORE_INFORMATION_TO_SUB_CONTRACTED>
+        </AWARD_OF_CONTRACT>
+        <AWARD_OF_CONTRACT>
+            <CONTRACT_NUMBER>07/12267</CONTRACT_NUMBER>
+            <CONTRACT_TITLE>Rammeavtale om konsulenttjenester innenfor IKT-området</CONTRACT_TITLE>
+            <CONTRACT_AWARD_DATE>
+                <DAY>28</DAY>
+                <MONTH>06</MONTH>
+                <YEAR>2007</YEAR>
+            </CONTRACT_AWARD_DATE>
+            <OFFERS_RECEIVED_NUMBER>76</OFFERS_RECEIVED_NUMBER>
+            <ECONOMIC_OPERATOR_NAME_ADDRESS>
+                <CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+                    <ORGANISATION>WM Data</ORGANISATION>
+                    <ADDRESS>postboks 6432, Etterstad</ADDRESS>
+                    <TOWN>Oslo</TOWN>
+                    <POSTAL_CODE>0605</POSTAL_CODE>
+                    <COUNTRY VALUE="NO"/>
+                </CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+            </ECONOMIC_OPERATOR_NAME_ADDRESS>
+            <CONTRACT_VALUE_INFORMATION>
+                <MORE_INFORMATION_IF_ANNUAL_MONTHLY/>
+            </CONTRACT_VALUE_INFORMATION>
+            <MORE_INFORMATION_TO_SUB_CONTRACTED>
+                <CONTRACT_LIKELY_SUB_CONTRACTED>
+                    <UNKNOWN_VALUE/>
+                    <ADDITIONAL_INFORMATION>
+                        <P>Underleverandør; Pharos og Delta Support</P>
+                    </ADDITIONAL_INFORMATION>
+                </CONTRACT_LIKELY_SUB_CONTRACTED>
+            </MORE_INFORMATION_TO_SUB_CONTRACTED>
+        </AWARD_OF_CONTRACT>
+        <COMPLEMENTARY_INFORMATION_CONTRACT_AWARD>
+            <ADDITIONAL_INFORMATION>
+                <P>(NT Ref:102811)</P>
+            </ADDITIONAL_INFORMATION>
+            <NOTICE_DISPATCH_DATE>
+                <DAY>20</DAY>
+                <MONTH>09</MONTH>
+                <YEAR>2007</YEAR>
+            </NOTICE_DISPATCH_DATE>
+        </COMPLEMENTARY_INFORMATION_CONTRACT_AWARD>
+    </FD_CONTRACT_AWARD>
+</CONTRACT_AWARD>

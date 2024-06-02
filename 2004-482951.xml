@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CONTRACT_AWARD FORM="3">
+    <NOJ_SECTION>
+        <SECTION_0>
+            <CTRL_CPROC>6</CTRL_CPROC>
+            <NOJ_DTD_VERSION>1.4</NOJ_DTD_VERSION>
+            <NOJ_VERSION>1-test</NOJ_VERSION>
+            <NOJ_FORM>Kunngjøring av kontraktstildeling</NOJ_FORM>
+            <NOJ_FORM_ID>200215</NOJ_FORM_ID>
+            <NOJ_PUBLISHING>1</NOJ_PUBLISHING>
+            <NOJ_THRESHOLD>1</NOJ_THRESHOLD>
+            <NOJ_LOBBY_ID>1</NOJ_LOBBY_ID>
+            <NOJ_NL_TITTEL>Rammeavtaler om konsulenttjenester innen teknisk kvalitetssikring</NOJ_NL_TITTEL>
+            <NOJ_TRANSLATE_YES>-1</NOJ_TRANSLATE_YES>
+            <NOJ_TRANSLATE_NO>0</NOJ_TRANSLATE_NO>
+            <NOJ_PUBLISHING_NO>-1</NOJ_PUBLISHING_NO>
+            <NOJ_PUBLISHING_SHORT>0</NOJ_PUBLISHING_SHORT>
+            <NOJ_PUBLISHING_LONG>0</NOJ_PUBLISHING_LONG>
+            <NOJ_THRESHOLD_ABOVE>-1</NOJ_THRESHOLD_ABOVE>
+            <NOJ_THRESHOLD_BELOW>0</NOJ_THRESHOLD_BELOW>
+            <NOJ_SENDER_ORGANISATION>Aetat Arbeidsdirektoratet</NOJ_SENDER_ORGANISATION>
+            <NOJ_SENDER_ATTENTION>Hendrik Stang Lund</NOJ_SENDER_ATTENTION>
+            <NOJ_SENDER_ADDRESS>Postboks 8127 Dep, 0032 Oslo</NOJ_SENDER_ADDRESS>
+            <NOJ_SENDER_TELEPHONE>23 35 24 89</NOJ_SENDER_TELEPHONE>
+            <NOJ_SENDER_MOBILE/>
+            <NOJ_SENDER_FAX>35 35 27 58</NOJ_SENDER_FAX>
+            <NOJ_SENDER_E_MAIL>hsl@adir.aetat.no</NOJ_SENDER_E_MAIL>
+            <NOJ_SENDER_MESSAGE/>
+            <NOJ_DATE_RECEIPT/>
+            <NOJ_IDENTIFIER/>
+            <NOJ_NLREF>2004-23324</NOJ_NLREF>
+            <NOJ_COUNTRY/>
+            <NOJ_LANGUAGE>NO</NOJ_LANGUAGE>
+        </SECTION_0>
+        <SECTION_1>
+            <NOJ_COUNTRY_CODE>Norge</NOJ_COUNTRY_CODE>
+            <CTRL_CTYPE>3</CTRL_CTYPE>
+            <NOJ_CTYPE>3</NOJ_CTYPE>
+            <NOJ_OG_ORGANISATION/>
+            <NOJ_OG_ATTENTION/>
+            <NOJ_OG_ADDRESS/>
+            <NOJ_OG_POSTAL_CODE/>
+            <NOJ_OG_TOWN/>
+            <NOJ_OG_COUNTRY/>
+            <NOJ_OG_PHONE/>
+            <NOJ_OG_FAX/>
+            <NOJ_OG_E_MAIL/>
+            <NOJ_OG_URL/>
+        </SECTION_1>
+        <SECTION_4>
+            <NOJ_DELIVERY_OR_COMPLETION_DATE>0</NOJ_DELIVERY_OR_COMPLETION_DATE>
+            <NOJ_SECURITY_OF_SUPPLIES>0</NOJ_SECURITY_OF_SUPPLIES>
+            <NOJ_AVAILABILITY_OF_SPARES>0</NOJ_AVAILABILITY_OF_SPARES>
+            <NOJ_AFTER_SALES_SERVICE>0</NOJ_AFTER_SALES_SERVICE>
+            <NOJ_RUNNING_COSTS>0</NOJ_RUNNING_COSTS>
+            <NOJ_PROFITABILITY>0</NOJ_PROFITABILITY>
+            <NOJ_TECHNICAL_MERIT>0</NOJ_TECHNICAL_MERIT>
+            <NOJ_AESTETHIC_AND_FUNCTIONAL_CHARACTERISTICS>0</NOJ_AESTETHIC_AND_FUNCTIONAL_CHARACTERISTICS>
+            <NOJ_PRICE>0</NOJ_PRICE>
+            <NOJ_QUALITY>0</NOJ_QUALITY>
+            <NOJ_OTHER_AWARD_CRITERIA>1</NOJ_OTHER_AWARD_CRITERIA>
+            <NOJ_LIST_CRITERIA_01/>
+            <NOJ_LIST_CRITERIA_02/>
+            <NOJ_LIST_CRITERIA_03/>
+            <NOJ_LIST_CRITERIA_04/>
+            <NOJ_LIST_CRITERIA_05/>
+            <NOJ_LIST_CRITERIA_06/>
+            <NOJ_LIST_CRITERIA_07/>
+            <NOJ_LIST_CRITERIA_08/>
+            <NOJ_LIST_CRITERIA_09/>
+            <NOJ_LIST_CRITERIA_10/>
+        </SECTION_4>
+    </NOJ_SECTION>
+    <FD_CONTRACT_AWARD CTYPE="SERVICES">
+        <COVERED_BY_GPA_YES/>
+        <AUTHORITY_CONTRACT_AWARD>
+            <ADDRESS_AUTHORITY>
+                <ORGANISATION>Aetat Arbeidsdiraktoratet</ORGANISATION>
+                <ATTENTION>Cecilie Trehjørningen</ATTENTION>
+                <ADDRESS>Postboks 8127 Dep</ADDRESS>
+                <POSTAL_CODE>0032</POSTAL_CODE>
+                <TOWN>Oslo</TOWN>
+                <COUNTRY VALUE="NO"/>
+                <PHONE>23 35 24 00</PHONE>
+                <FAX>23 35 27 52</FAX>
+                <E_MAIL>rammeavtalterIKT@adir.aetat.no</E_MAIL>
+            </ADDRESS_AUTHORITY>
+            <TYPE_OF_CONTRACTING_AUTHORITY VALUE="CENTRAL"/>
+        </AUTHORITY_CONTRACT_AWARD>
+        <OBJECT_CONTRACT_AWARD>
+            <TYPE_OF_CONTRACT_SERVICES>
+                <SERVICE_CATEGORY>07</SERVICE_CATEGORY>
+            </TYPE_OF_CONTRACT_SERVICES>
+            <FRAMEWORK_CONTRACT_YES/>
+            <NOMENCLATURE>
+                <CPV>
+                    <CPV_MAIN>
+                        <CPV_CODE CODE="72000000"/>
+                    </CPV_MAIN>
+                </CPV>
+            </NOMENCLATURE>
+            <NAME_GIVEN_TO_CONTRACT>Rammeavtaler om konsulenttjenester innen teknisk kvalitetssikring
+            </NAME_GIVEN_TO_CONTRACT>
+            <DESCRIPTION_OF_CONTRACT>Rammeavtaler knyttet til følgende tjenester: 1) Teknisk og funksjonell
+                kvalitetssikring, periodisk og eventuelt løpende. 2) Kvalitetssikre og bistå i utforming av enterprise-
+                og systemarkitektur. 3) Identifisere risikoområder og foreslå mulige tiltak, herunder etablere
+                handlingsplan og bistå i gjennomføringen av denne.
+            </DESCRIPTION_OF_CONTRACT>
+        </OBJECT_CONTRACT_AWARD>
+        <PROCEDURES_CONTRACT_AWARD>
+            <TYPE_OF_PROCEDURE_CONTRACT_AWARD CPROC="NEGOTIATED_COMP">
+                <ANNEX_CONTRACT_AWARD>
+                    <PP_NATURE_NO_SUFFICIENT_PRECISION/>
+                </ANNEX_CONTRACT_AWARD>
+            </TYPE_OF_PROCEDURE_CONTRACT_AWARD>
+            <AWARD_CRITERIA_CONTRACT_AWARD>
+                <MOST_ECONOMIC_CONTRACT_AWARD>
+                    <CRITERIA_NO_NUMBER>Kriterier som oppgitt i konkurransegrunnlaget.</CRITERIA_NO_NUMBER>
+                </MOST_ECONOMIC_CONTRACT_AWARD>
+            </AWARD_CRITERIA_CONTRACT_AWARD>
+        </PROCEDURES_CONTRACT_AWARD>
+        <AWARD_CONTRACT_AWARD>
+            <AWARD_CONTRACT_AWARD_LIST>
+                <NUMBER>1</NUMBER>
+                <AWARD_CONTRACT_VALUE>
+                    <ADDRESS_CONTRACTOR>
+                        <ORGANISATION>Abeo AS</ORGANISATION>
+                        <ATTENTION/>
+                        <ADDRESS>Postboks 6099</ADDRESS>
+                        <POSTAL_CODE>7434</POSTAL_CODE>
+                        <TOWN>Trondheim</TOWN>
+                        <COUNTRY VALUE="NO"/>
+                        <URL>www.abeo.no</URL>
+                    </ADDRESS_CONTRACTOR>
+                </AWARD_CONTRACT_VALUE>
+            </AWARD_CONTRACT_AWARD_LIST>
+            <AWARD_CONTRACT_AWARD_LIST>
+                <NUMBER>2</NUMBER>
+                <AWARD_CONTRACT_VALUE>
+                    <ADDRESS_CONTRACTOR>
+                        <ORGANISATION>daVinci Consulting AS</ORGANISATION>
+                        <ATTENTION/>
+                        <ADDRESS>Hoffsveien 21-23</ADDRESS>
+                        <POSTAL_CODE>0275</POSTAL_CODE>
+                        <TOWN>Oslo</TOWN>
+                        <COUNTRY VALUE="NO"/>
+                        <URL>www.davinci.no</URL>
+                    </ADDRESS_CONTRACTOR>
+                </AWARD_CONTRACT_VALUE>
+            </AWARD_CONTRACT_AWARD_LIST>
+            <AWARD_CONTRACT_AWARD_LIST>
+                <NUMBER>3</NUMBER>
+                <AWARD_CONTRACT_VALUE>
+                    <ADDRESS_CONTRACTOR>
+                        <ORGANISATION>Fornebu Consulting AS</ORGANISATION>
+                        <ATTENTION/>
+                        <ADDRESS>Gamle Snarøyvei 49</ADDRESS>
+                        <POSTAL_CODE>1367</POSTAL_CODE>
+                        <TOWN>Snarøya</TOWN>
+                        <COUNTRY VALUE="NO"/>
+                        <URL>www.fornebuconsulting.com</URL>
+                    </ADDRESS_CONTRACTOR>
+                </AWARD_CONTRACT_VALUE>
+            </AWARD_CONTRACT_AWARD_LIST>
+        </AWARD_CONTRACT_AWARD>
+        <OTH_INFO_CONTRACT_AWARD>
+            <DATE_OF_CONTRACT_AWARD>
+                <DAY>02</DAY>
+                <MONTH>12</MONTH>
+                <YEAR>2004</YEAR>
+            </DATE_OF_CONTRACT_AWARD>
+            <NUMBER_OF_OFFERS_RECEIVED>7</NUMBER_OF_OFFERS_RECEIVED>
+            <PRIOR_INFORMATION_OJ_NOTICE_YES>
+                <PRIOR_INFORMATION_NUMBER>
+                    <NUMBER>2004/S 157-136719</NUMBER>
+                </PRIOR_INFORMATION_NUMBER>
+                <PRIOR_INFORMATION_DATE>
+                    <DAY>13</DAY>
+                    <MONTH>08</MONTH>
+                    <YEAR>2004</YEAR>
+                </PRIOR_INFORMATION_DATE>
+            </PRIOR_INFORMATION_OJ_NOTICE_YES>
+            <NOTICE_DISPATCH_DATE>
+                <DAY>23</DAY>
+                <MONTH>12</MONTH>
+                <YEAR>2004</YEAR>
+            </NOTICE_DISPATCH_DATE>
+        </OTH_INFO_CONTRACT_AWARD>
+    </FD_CONTRACT_AWARD>
+</CONTRACT_AWARD>
