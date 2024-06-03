@@ -51,20 +51,3 @@
 |   | CONTRACT        |               NOJ_SECTION ? |    10.000.000 |   120.000.000 |               | [2003-688176.xml](2003-688176.xml) | [2003-412524](2003-412524.xml) |                                | Aetat Arbeidsdirektoratet                                                                     | Rammeavtale for IKT-relaterte konsulenttjenester til Aetat                                                   | x  |      |    2+1+1 | "Rammeavtaler om konsulenttjenester innen tele-/datakommunikasjon" (title mismatch in notice vs award)                                                                  |
 |   | CONTRACT?       |               NOJ_SECTION ? |               |               |               | []()                               | [2003-433664](2003-433664.xml) |                                | Aetat Arbeidsdirektoratet                                                                     | IKT-relaterte konsulenttjenester - 4 Roller                                                                  |    |      |          |                                                                                                                                                                         |
 |   | CONTRACT?       |               NOJ_SECTION ? |               |               |               | []()                               | [2003-224157](2003-224157.xml) |                                | Aetat Arbeidsdirektoratet                                                                     | Videreutvikling av saksbehandlingssytemet Arena                                                              |    |      |          | TED award: 031977-2003 norskLysingsBladID: 2003-12819                                                                                                                   |
-
-[1]: ./2024-100693.xml
-[2]: ./2023-668270.xml
-[3]: ./2019-391203.xml
-[4]: ./2016-070892.xml
-[5]: ./2015-340383.xml
-[6]: ./2014-888660.xml
-[7]: ./2014-410278.xml
-[8]: ./2014-398870.xml
-[9]: ./2013-307839.xml
-[10]: ./2012-266032.xml
-[11]: ./2012-264355.xml
-[12]: ./2011-910767.xml
-[13]: ./2011-240721.xml
-[14]: ./2007-596014.xml
-[15]: ./2005-656943.xml
-[16]: ./2004-632638.xml
