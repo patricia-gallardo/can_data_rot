@@ -48,9 +48,9 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
   font-family: var(--r-main-font);
   font-weight: 400;
   font-size: 42px;
-  color: #434343;
+  color: #0c343d;
   background-color: #d0e0e3ff;
-  border: 3px solid #434343;
+  border: 3px solid #0c343d;
   margin: 5px;
   text-align: center;
 }
