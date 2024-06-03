@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<body>
+<!-- load the d3.js library -->
+<!-- https://observablehq.com/@akngs/d3-boxplot -->
+<!-- https://d3-graph-gallery.com/graph/boxplot_several_groups.html -->
+<!-- https://stackoverflow.com/a/43325481 -->
+<script src="https://d3js.org/d3.v7.min.js"></script>
+<script src="../palette.js"></script>
+<script src="../boxplot.js"></script>
+<script>
+    // TODO this data is probably wrong, it's late and math is a mess rn
+    // https://waldyrious.net/viridis-palette-generator/
+    const items = [{
+        "min": "2018",
+        "max": "2022",
+        "label": "Doffin CSV",
+        "id": "Doffin CSV",
+        "color": "#440154",
+    }, {
+        "min": "2022",
+        "max": "2024",
+        "label": "Doffin CSV",
+        "id": "Doffin CSV missing",
+        "color": "#E5E4E2FF",
+    }, {
+        "min": "2007",
+        "max": "2024",
+        "label": "TED XML",
+        "id": "TED XML",
+        "color": "#fde725",
+    }, {
+        "min": "2017",
+        "max": "2024",
+        "label": "New Doffin XML",
+        "id": "New Doffin XML",
+        "color": "#2a788e",
+    }, {
+        "min": "2006",
+        "max": "2023",
+        "label": "Classic Doffin HTML",
+        "id": "Classic Doffin HTML",
+        "color": "#22a884",
+    }, {
+        "min": "2003",
+        "max": "2024",
+        "label": "Classic Doffin XML",
+        "id": "Doffin XML",
+        "color": "#7ad151",
+    }];
+
+    const margins = {top: 300, right: 100, bottom: 200, left: 200};
+    const context = makeBoxplotContext(items, margins);
+    var _transitions = [
+        {
+            transitionForward: () => hideAll(context),
+            index: "onSlideChange"
+        },
+        {
+            transitionForward: () => addItem(items[0].id, context),
+            transitionBackward: () => removeItem(items[0].id, context),
+            index: 1
+        },
+        {
+            transitionForward: () => addItem(items[1].id, context),
+            transitionBackward: () => removeItem(items[1].id, context),
+            index: 2
+        },
+        {
+            transitionForward: () => addItem(items[2].id, context),
+            transitionBackward: () => removeItem(items[2].id, context),
+            index: 3
+        },
+        {
+            transitionForward: () => addItem(items[3].id, context),
+            transitionBackward: () => removeItem(items[3].id, context),
+            index: 4
+        },
+        {
+            transitionForward: () => addItem(items[4].id, context),
+            transitionBackward: () => removeItem(items[4].id, context),
+            index: 5
+        },
+        {
+            transitionForward: () => showAll(context),
+            transitionBackward: () => removeItem(items[5].id, context),
+            index: 6
+        },
+    ]
+</script>
