@@ -1,0 +1,1072 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CONTRACT_AWARD LG="NB" CATEGORY="ORIGINAL" FORM="3" VERSION="R2.0.7.D02">
+    <SENDER>
+        <LOGIN CLASS="B"/>
+        <USER/>
+        <NO_DOC_EXT>M241971</NO_DOC_EXT>
+    </SENDER>
+    <FD_CONTRACT_AWARD CTYPE="SERVICES">
+        <CONTACTING_AUTHORITY_INFORMATION>
+            <NAME_ADDRESSES_CONTACT_CONTRACT_AWARD>
+                <CA_CE_CONCESSIONAIRE_PROFILE>
+                    <ORGANISATION>Arbeid og velferdsdirektoratet, NAV økonomi,anskaffelser og forretningsjuridisk
+                        avdeling
+                    </ORGANISATION>
+                    <ADDRESS>Postboks 5, St Olavs plass,</ADDRESS>
+                    <TOWN>OSLO</TOWN>
+                    <POSTAL_CODE>0130</POSTAL_CODE>
+                    <COUNTRY VALUE="NO"/>
+                    <CONTACT_POINT>Anskaffelser og forretningsjuridisk</CONTACT_POINT>
+                    <ATTENTION>Elly-Karin Melbø</ATTENTION>
+                    <PHONE>21 07 00 00</PHONE>
+                    <E_MAIL>nav.anskaffelser.ikt.konsulenttjenester@nav.no</E_MAIL>
+                    <FAX>21 07 10 10</FAX>
+                </CA_CE_CONCESSIONAIRE_PROFILE>
+                <INTERNET_ADDRESSES_CONTRACT_AWARD>
+                    <URL_GENERAL>www.nav.no</URL_GENERAL>
+                    <URL_BUYER>http://www.doffin.no//search/Search_AuthProfile.aspx?ID=AA0005</URL_BUYER>
+                </INTERNET_ADDRESSES_CONTRACT_AWARD>
+            </NAME_ADDRESSES_CONTACT_CONTRACT_AWARD>
+            <TYPE_AND_ACTIVITIES_AND_PURCHASING_ON_BEHALF>
+                <TYPE_AND_ACTIVITIES>
+                    <TYPE_OF_CONTRACTING_AUTHORITY VALUE="MINISTRY"/>
+                    <TYPE_OF_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+                </TYPE_AND_ACTIVITIES>
+            </TYPE_AND_ACTIVITIES_AND_PURCHASING_ON_BEHALF>
+        </CONTACTING_AUTHORITY_INFORMATION>
+        <OBJECT_CONTRACT_INFORMATION_CONTRACT_AWARD_NOTICE>
+            <DESCRIPTION_AWARD_NOTICE_INFORMATION>
+                <TITLE_CONTRACT>Anskaffelse av rammeavtaler for konsulenttjenester innenfor IKT-området</TITLE_CONTRACT>
+                <TYPE_CONTRACT_LOCATION_W_PUB>
+                    <TYPE_CONTRACT VALUE="SERVICES"/>
+                    <SERVICE_CATEGORY_PUB VALUE="7">
+                        <AGREEMENT_PUBLICATION/>
+                    </SERVICE_CATEGORY_PUB>
+                </TYPE_CONTRACT_LOCATION_W_PUB>
+                <LOCATION_NUTS>
+                    <LOCATION>
+                        <P>Oslo</P>
+                    </LOCATION>
+                </LOCATION_NUTS>
+                <NOTICE_INVOLVES_DESC VALUE="CONCLUSION_FRAMEWORK_AGREEMENT"/>
+                <SHORT_CONTRACT_DESCRIPTION>
+                    <P>NAV IKT ønsker med denne konkurransen å anskaffe rammeavtaler for konsulenttjenester innenfor
+                        IKT-området. Avtalene skal dekke behov for kompetanse som oppdragsgiver ikke har tilgang til i
+                        egen etat på et gitt tidspunkt eller der det er et selvstendig behov for ekstern oppgaveløsning.
+                        Avtalene kan også benyttes ved behov for ekstra kapasitet.
+                    </P>
+                    <P>Konsulenttjenestene som etterspørres er delt inn i følgende kompetanseområder:</P>
+                    <P>- Prosjektstyring / - rådgivning</P>
+                    <P>- Strategiplanlegging / -rådgivning</P>
+                    <P>- Arkitektur og løsningsspesifikasjon</P>
+                    <P>- Teknisk arkitektur (Drift)</P>
+                    <P>- Test og kvalitetssikring</P>
+                    <P>- Logistikk, OeBS og e-handel</P>
+                    <P>- Agresso</P>
+                    <P>- Elektronisk samhandling</P>
+                    <P>- Systemutvikling / programmering</P>
+                    <P>- Drift av IT-systemer og plattformer</P>
+                    <P>- Datakommunikasjon</P>
+                    <P>- Telekommunikasjon</P>
+                    <P>- Operativsystemer</P>
+                    <P>- Datalagring</P>
+                    <P>- Spesialister på databaser</P>
+                    <P>- Spesialister på applikasjonsintegrasjon</P>
+                    <P>Oppdragsgiver planlegger å gjennomføre en omfattende fornyelse/modernisering av IKT
+                        (Moderniseringsprosjektet). På bakgrunn av dette kan verdien på konsulentavtalene innen IKT bli
+                        noe annerledes enn de estimater som er oppgitt i denne kunngjøringen. Se ellers
+                        kvalifikasjonsgrunnlaget vedr. dette.
+                    </P>
+                    <P>Vedr. hvilke enheter avtatelen skal gjelde for, se kvalifikasjonsgrunnlaget.</P>
+                </SHORT_CONTRACT_DESCRIPTION>
+                <CPV>
+                    <CPV_MAIN>
+                        <CPV_CODE CODE="72224000"/>
+                    </CPV_MAIN>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72226000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72227000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72228000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72266000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72600000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72590000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72220000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72000000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72130000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72140000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72200000"/>
+                    </CPV_ADDITIONAL>
+                </CPV>
+                <CONTRACT_COVERED_GPA VALUE="YES"/>
+            </DESCRIPTION_AWARD_NOTICE_INFORMATION>
+            <TOTAL_FINAL_VALUE>
+                <COSTS_RANGE_AND_CURRENCY_WITH_VAT_RATE CURRENCY="NOK">
+                    <VALUE_COST>920000000</VALUE_COST>
+                    <EXCLUDING_VAT/>
+                </COSTS_RANGE_AND_CURRENCY_WITH_VAT_RATE>
+            </TOTAL_FINAL_VALUE>
+        </OBJECT_CONTRACT_INFORMATION_CONTRACT_AWARD_NOTICE>
+        <PROCEDURE_DEFINITION_CONTRACT_AWARD_NOTICE>
+            <TYPE_OF_PROCEDURE_DEF>
+                <PT_RESTRICTED/>
+            </TYPE_OF_PROCEDURE_DEF>
+            <AWARD_CRITERIA_CONTRACT_AWARD_NOTICE_INFORMATION>
+                <AWARD_CRITERIA_DETAIL_F03>
+                    <MOST_ECONOMICALLY_ADVANTAGEOUS_TENDER_SHORT>
+                        <CRITERIA_DEFINITION>
+                            <ORDER_C>1</ORDER_C>
+                            <CRITERIA>Totalkostnad</CRITERIA>
+                            <WEIGHTING>40%</WEIGHTING>
+                        </CRITERIA_DEFINITION>
+                        <CRITERIA_DEFINITION>
+                            <ORDER_C>2</ORDER_C>
+                            <CRITERIA>Forventet kvalitet ut fra kompetanse til de spesifikke personer som tilbys
+                            </CRITERIA>
+                            <WEIGHTING>50%</WEIGHTING>
+                        </CRITERIA_DEFINITION>
+                        <CRITERIA_DEFINITION>
+                            <ORDER_C>3</ORDER_C>
+                            <CRITERIA>Kvalitet på metodikk for kompetanseoverføring til oppdragsgiver</CRITERIA>
+                            <WEIGHTING>10%</WEIGHTING>
+                        </CRITERIA_DEFINITION>
+                    </MOST_ECONOMICALLY_ADVANTAGEOUS_TENDER_SHORT>
+                </AWARD_CRITERIA_DETAIL_F03>
+            </AWARD_CRITERIA_CONTRACT_AWARD_NOTICE_INFORMATION>
+            <ADMINISTRATIVE_INFORMATION_CONTRACT_AWARD>
+                <FILE_REFERENCE_NUMBER>
+                    <P>11/1944</P>
+                </FILE_REFERENCE_NUMBER>
+                <PREVIOUS_PUBLICATION_INFORMATION_NOTICE_F3>
+                    <PREVIOUS_PUBLICATION_EXISTS_F3>
+                        <CNT_NOTICE_INFORMATION>
+                            <CNT_NOTICE_INFORMATION_S CHOICE="CONTRACT_NOTICE"/>
+                            <NOTICE_NUMBER_OJ>2011/S62-101167</NOTICE_NUMBER_OJ>
+                            <DATE_OJ>
+                                <DAY>30</DAY>
+                                <MONTH>03</MONTH>
+                                <YEAR>2011</YEAR>
+                            </DATE_OJ>
+                        </CNT_NOTICE_INFORMATION>
+                        <NO_OTHER_PREVIOUS_PUBLICATION/>
+                    </PREVIOUS_PUBLICATION_EXISTS_F3>
+                </PREVIOUS_PUBLICATION_INFORMATION_NOTICE_F3>
+            </ADMINISTRATIVE_INFORMATION_CONTRACT_AWARD>
+        </PROCEDURE_DEFINITION_CONTRACT_AWARD_NOTICE>
+        <AWARD_OF_CONTRACT>
+            <CONTRACT_NUMBER>11/9793</CONTRACT_NUMBER>
+            <LOT_NUMBER/>
+            <CONTRACT_TITLE>Rammeavtale om kjøp av konsulenttjenester innen IKT-området</CONTRACT_TITLE>
+            <CONTRACT_AWARD_DATE>
+                <DAY>29</DAY>
+                <MONTH>09</MONTH>
+                <YEAR>2011</YEAR>
+            </CONTRACT_AWARD_DATE>
+            <OFFERS_RECEIVED_NUMBER>60</OFFERS_RECEIVED_NUMBER>
+            <ECONOMIC_OPERATOR_NAME_ADDRESS>
+                <CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+                    <ORGANISATION>Ciber Norge As</ORGANISATION>
+                    <ADDRESS>Stortorvet 10
+                        , Postboks 417 Sentrum
+                    </ADDRESS>
+                    <TOWN>Oslo</TOWN>
+                    <POSTAL_CODE>0103</POSTAL_CODE>
+                    <COUNTRY VALUE="NO"/>
+                    <E_MAIL>jon.ringen@ciber.com</E_MAIL>
+                    <PHONE>93029082</PHONE>
+                    <URL>www.ciber.no</URL>
+                    <FAX>22348010</FAX>
+                </CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+            </ECONOMIC_OPERATOR_NAME_ADDRESS>
+            <CONTRACT_VALUE_INFORMATION>
+                <MORE_INFORMATION_IF_ANNUAL_MONTHLY/>
+            </CONTRACT_VALUE_INFORMATION>
+        </AWARD_OF_CONTRACT>
+        <AWARD_OF_CONTRACT>
+            <CONTRACT_NUMBER>11/9794</CONTRACT_NUMBER>
+            <LOT_NUMBER/>
+            <CONTRACT_TITLE>Rammeavtale om kjøp av konsulenttjenester innen IKT-området</CONTRACT_TITLE>
+            <CONTRACT_AWARD_DATE>
+                <DAY>29</DAY>
+                <MONTH>09</MONTH>
+                <YEAR>2011</YEAR>
+            </CONTRACT_AWARD_DATE>
+            <OFFERS_RECEIVED_NUMBER>68</OFFERS_RECEIVED_NUMBER>
+            <ECONOMIC_OPERATOR_NAME_ADDRESS>
+                <CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+                    <ORGANISATION>Computas As</ORGANISATION>
+                    <ADDRESS>Lysaker Torg 45</ADDRESS>
+                    <TOWN>Lysaker</TOWN>
+                    <POSTAL_CODE>1327</POSTAL_CODE>
+                    <COUNTRY VALUE="NO"/>
+                    <E_MAIL>Trond.Eilertsen@computas.com</E_MAIL>
+                    <PHONE>905 92 335</PHONE>
+                </CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+            </ECONOMIC_OPERATOR_NAME_ADDRESS>
+            <CONTRACT_VALUE_INFORMATION>
+                <MORE_INFORMATION_IF_ANNUAL_MONTHLY/>
+            </CONTRACT_VALUE_INFORMATION>
+        </AWARD_OF_CONTRACT>
+        <AWARD_OF_CONTRACT>
+            <CONTRACT_NUMBER>11/9795</CONTRACT_NUMBER>
+            <LOT_NUMBER/>
+            <CONTRACT_TITLE>Rammeavtale om kjøp av konsulenttjenester innen IKT-området</CONTRACT_TITLE>
+            <CONTRACT_AWARD_DATE>
+                <DAY>29</DAY>
+                <MONTH>09</MONTH>
+                <YEAR>2011</YEAR>
+            </CONTRACT_AWARD_DATE>
+            <OFFERS_RECEIVED_NUMBER>13</OFFERS_RECEIVED_NUMBER>
+            <ECONOMIC_OPERATOR_NAME_ADDRESS>
+                <CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+                    <ORGANISATION>Decisive As</ORGANISATION>
+                    <ADDRESS>Karoline Kristiansensvei 7
+                        , Postboks 6468 Etterstad
+                    </ADDRESS>
+                    <TOWN>Oslo</TOWN>
+                    <POSTAL_CODE>0605</POSTAL_CODE>
+                    <COUNTRY VALUE="NO"/>
+                    <E_MAIL>petter.saetherbakken@decisive.no</E_MAIL>
+                    <PHONE>906 96 065</PHONE>
+                    <URL>www.decisive.no</URL>
+                    <FAX>2266 2001</FAX>
+                </CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+            </ECONOMIC_OPERATOR_NAME_ADDRESS>
+            <CONTRACT_VALUE_INFORMATION>
+                <MORE_INFORMATION_IF_ANNUAL_MONTHLY/>
+            </CONTRACT_VALUE_INFORMATION>
+        </AWARD_OF_CONTRACT>
+        <AWARD_OF_CONTRACT>
+            <CONTRACT_NUMBER>11/9797</CONTRACT_NUMBER>
+            <LOT_NUMBER/>
+            <CONTRACT_TITLE>Rammeavtale om kjøp av konsulenttjenester innen IKT-området</CONTRACT_TITLE>
+            <CONTRACT_AWARD_DATE>
+                <DAY>29</DAY>
+                <MONTH>09</MONTH>
+                <YEAR>2011</YEAR>
+            </CONTRACT_AWARD_DATE>
+            <OFFERS_RECEIVED_NUMBER>6</OFFERS_RECEIVED_NUMBER>
+            <ECONOMIC_OPERATOR_NAME_ADDRESS>
+                <CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+                    <ORGANISATION>Dell Norge</ORGANISATION>
+                    <ADDRESS>Hoffsveien 10D</ADDRESS>
+                    <TOWN>Oslo</TOWN>
+                    <POSTAL_CODE>0275</POSTAL_CODE>
+                    <COUNTRY VALUE="NO"/>
+                    <E_MAIL>Knut_rellsve@dell.com</E_MAIL>
+                    <PHONE>97149358</PHONE>
+                </CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+            </ECONOMIC_OPERATOR_NAME_ADDRESS>
+            <CONTRACT_VALUE_INFORMATION>
+                <MORE_INFORMATION_IF_ANNUAL_MONTHLY/>
+            </CONTRACT_VALUE_INFORMATION>
+        </AWARD_OF_CONTRACT>
+        <AWARD_OF_CONTRACT>
+            <CONTRACT_NUMBER>11/9798</CONTRACT_NUMBER>
+            <LOT_NUMBER/>
+            <CONTRACT_TITLE>Rammeavtale om kjøp av konsulenttjenester innen IKT-området</CONTRACT_TITLE>
+            <CONTRACT_AWARD_DATE>
+                <DAY>29</DAY>
+                <MONTH>09</MONTH>
+                <YEAR>2011</YEAR>
+            </CONTRACT_AWARD_DATE>
+            <OFFERS_RECEIVED_NUMBER>3</OFFERS_RECEIVED_NUMBER>
+            <ECONOMIC_OPERATOR_NAME_ADDRESS>
+                <CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+                    <ORGANISATION>Deloitte</ORGANISATION>
+                    <ADDRESS>Postboks 347</ADDRESS>
+                    <TOWN>Oslo</TOWN>
+                    <POSTAL_CODE>0213</POSTAL_CODE>
+                    <COUNTRY VALUE="NO"/>
+                    <E_MAIL>lsjogren@deloitte.no</E_MAIL>
+                    <PHONE>95268769</PHONE>
+                </CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+            </ECONOMIC_OPERATOR_NAME_ADDRESS>
+            <CONTRACT_VALUE_INFORMATION>
+                <MORE_INFORMATION_IF_ANNUAL_MONTHLY/>
+            </CONTRACT_VALUE_INFORMATION>
+        </AWARD_OF_CONTRACT>
+        <AWARD_OF_CONTRACT>
+            <CONTRACT_NUMBER>11/9799</CONTRACT_NUMBER>
+            <LOT_NUMBER/>
+            <CONTRACT_TITLE>Rammeavtale om kjøp av konsulenttjenester innen IKT-området</CONTRACT_TITLE>
+            <CONTRACT_AWARD_DATE>
+                <DAY>29</DAY>
+                <MONTH>09</MONTH>
+                <YEAR>2011</YEAR>
+            </CONTRACT_AWARD_DATE>
+            <OFFERS_RECEIVED_NUMBER>38</OFFERS_RECEIVED_NUMBER>
+            <ECONOMIC_OPERATOR_NAME_ADDRESS>
+                <CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+                    <ORGANISATION>Devoteam Davinci As</ORGANISATION>
+                    <ADDRESS>Hoffsveien 21-23</ADDRESS>
+                    <TOWN>Oslo</TOWN>
+                    <POSTAL_CODE>0275</POSTAL_CODE>
+                    <COUNTRY VALUE="NO"/>
+                    <E_MAIL>osolheim@devoteam.com</E_MAIL>
+                    <PHONE>950 69 693</PHONE>
+                    <URL>davinci.no</URL>
+                </CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+            </ECONOMIC_OPERATOR_NAME_ADDRESS>
+            <CONTRACT_VALUE_INFORMATION>
+                <MORE_INFORMATION_IF_ANNUAL_MONTHLY/>
+            </CONTRACT_VALUE_INFORMATION>
+        </AWARD_OF_CONTRACT>
+        <AWARD_OF_CONTRACT>
+            <CONTRACT_NUMBER>11/9800</CONTRACT_NUMBER>
+            <LOT_NUMBER/>
+            <CONTRACT_TITLE>Rammeavtale om kjøp av konsulenttjenester innen IKT-området</CONTRACT_TITLE>
+            <CONTRACT_AWARD_DATE>
+                <DAY>29</DAY>
+                <MONTH>09</MONTH>
+                <YEAR>2011</YEAR>
+            </CONTRACT_AWARD_DATE>
+            <OFFERS_RECEIVED_NUMBER>9</OFFERS_RECEIVED_NUMBER>
+            <ECONOMIC_OPERATOR_NAME_ADDRESS>
+                <CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+                    <ORGANISATION>Ebs Consulting As</ORGANISATION>
+                    <ADDRESS>Helstad Vei</ADDRESS>
+                    <COUNTRY VALUE="NO"/>
+                    <E_MAIL>pea@ebs-consulting.no</E_MAIL>
+                    <PHONE>99250087</PHONE>
+                </CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+            </ECONOMIC_OPERATOR_NAME_ADDRESS>
+            <CONTRACT_VALUE_INFORMATION>
+                <MORE_INFORMATION_IF_ANNUAL_MONTHLY/>
+            </CONTRACT_VALUE_INFORMATION>
+        </AWARD_OF_CONTRACT>
+        <AWARD_OF_CONTRACT>
+            <CONTRACT_NUMBER>11/9801</CONTRACT_NUMBER>
+            <LOT_NUMBER/>
+            <CONTRACT_TITLE>Rammeavtale om kjøp av konsulenttjenester innen IKT-området</CONTRACT_TITLE>
+            <CONTRACT_AWARD_DATE>
+                <DAY>29</DAY>
+                <MONTH>09</MONTH>
+                <YEAR>2011</YEAR>
+            </CONTRACT_AWARD_DATE>
+            <OFFERS_RECEIVED_NUMBER>59</OFFERS_RECEIVED_NUMBER>
+            <ECONOMIC_OPERATOR_NAME_ADDRESS>
+                <CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+                    <ORGANISATION>Edb Ergo Group 13 AS</ORGANISATION>
+                    <ADDRESS>Pb 4364</ADDRESS>
+                    <TOWN>Oslo</TOWN>
+                    <POSTAL_CODE>0402</POSTAL_CODE>
+                    <COUNTRY VALUE="NO"/>
+                    <E_MAIL>ole.diesen@edb.com</E_MAIL>
+                    <PHONE>90 72 71 91</PHONE>
+                </CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+            </ECONOMIC_OPERATOR_NAME_ADDRESS>
+            <CONTRACT_VALUE_INFORMATION>
+                <MORE_INFORMATION_IF_ANNUAL_MONTHLY/>
+            </CONTRACT_VALUE_INFORMATION>
+        </AWARD_OF_CONTRACT>
+        <AWARD_OF_CONTRACT>
+            <CONTRACT_NUMBER>11/9802</CONTRACT_NUMBER>
+            <LOT_NUMBER/>
+            <CONTRACT_TITLE>Rammeavtale om kjøp av konsulenttjenester innen IKT-området</CONTRACT_TITLE>
+            <CONTRACT_AWARD_DATE>
+                <DAY>29</DAY>
+                <MONTH>09</MONTH>
+                <YEAR>2011</YEAR>
+            </CONTRACT_AWARD_DATE>
+            <OFFERS_RECEIVED_NUMBER>12</OFFERS_RECEIVED_NUMBER>
+            <ECONOMIC_OPERATOR_NAME_ADDRESS>
+                <CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+                    <ORGANISATION>Ernst &amp; Young As</ORGANISATION>
+                    <ADDRESS>Pb 20</ADDRESS>
+                    <TOWN>Oslo</TOWN>
+                    <POSTAL_CODE>0051</POSTAL_CODE>
+                    <COUNTRY VALUE="NO"/>
+                    <E_MAIL>knut.hagness@no.ey.com</E_MAIL>
+                    <PHONE>913 10 168</PHONE>
+                </CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+            </ECONOMIC_OPERATOR_NAME_ADDRESS>
+            <CONTRACT_VALUE_INFORMATION>
+                <MORE_INFORMATION_IF_ANNUAL_MONTHLY/>
+            </CONTRACT_VALUE_INFORMATION>
+        </AWARD_OF_CONTRACT>
+        <AWARD_OF_CONTRACT>
+            <CONTRACT_NUMBER>11/9803</CONTRACT_NUMBER>
+            <LOT_NUMBER/>
+            <CONTRACT_TITLE>Rammeavtale om kjøp av konsulenttjenester innen IKT-området</CONTRACT_TITLE>
+            <CONTRACT_AWARD_DATE>
+                <DAY>29</DAY>
+                <MONTH>09</MONTH>
+                <YEAR>2011</YEAR>
+            </CONTRACT_AWARD_DATE>
+            <OFFERS_RECEIVED_NUMBER>36</OFFERS_RECEIVED_NUMBER>
+            <ECONOMIC_OPERATOR_NAME_ADDRESS>
+                <CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+                    <ORGANISATION>Ework Norge As</ORGANISATION>
+                    <ADDRESS>Øvre Slottsgate 12B</ADDRESS>
+                    <TOWN>Oslo</TOWN>
+                    <POSTAL_CODE>0157</POSTAL_CODE>
+                    <COUNTRY VALUE="NO"/>
+                    <E_MAIL>kari.hanzek@ework.no</E_MAIL>
+                    <PHONE>97551551</PHONE>
+                </CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+            </ECONOMIC_OPERATOR_NAME_ADDRESS>
+            <CONTRACT_VALUE_INFORMATION>
+                <MORE_INFORMATION_IF_ANNUAL_MONTHLY/>
+            </CONTRACT_VALUE_INFORMATION>
+        </AWARD_OF_CONTRACT>
+        <AWARD_OF_CONTRACT>
+            <CONTRACT_NUMBER>11/9804</CONTRACT_NUMBER>
+            <LOT_NUMBER/>
+            <CONTRACT_TITLE>Rammeavtale om kjøp av konsulenttjenester innen IKT-området</CONTRACT_TITLE>
+            <CONTRACT_AWARD_DATE>
+                <DAY>29</DAY>
+                <MONTH>09</MONTH>
+                <YEAR>2011</YEAR>
+            </CONTRACT_AWARD_DATE>
+            <OFFERS_RECEIVED_NUMBER>9</OFFERS_RECEIVED_NUMBER>
+            <ECONOMIC_OPERATOR_NAME_ADDRESS>
+                <CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+                    <ORGANISATION>Gartner Norge As</ORGANISATION>
+                    <ADDRESS>Henrik Ibsens Gt 100</ADDRESS>
+                    <TOWN>Oslo</TOWN>
+                    <COUNTRY VALUE="NO"/>
+                    <E_MAIL>terje.andersen@gartner.com</E_MAIL>
+                    <PHONE>99123504</PHONE>
+                </CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+            </ECONOMIC_OPERATOR_NAME_ADDRESS>
+            <CONTRACT_VALUE_INFORMATION>
+                <MORE_INFORMATION_IF_ANNUAL_MONTHLY/>
+            </CONTRACT_VALUE_INFORMATION>
+        </AWARD_OF_CONTRACT>
+        <AWARD_OF_CONTRACT>
+            <CONTRACT_NUMBER>11/9805</CONTRACT_NUMBER>
+            <LOT_NUMBER/>
+            <CONTRACT_TITLE>Rammeavtale om kjøp av konsulenttjenester innen IKT-området</CONTRACT_TITLE>
+            <CONTRACT_AWARD_DATE>
+                <DAY>29</DAY>
+                <MONTH>09</MONTH>
+                <YEAR>2011</YEAR>
+            </CONTRACT_AWARD_DATE>
+            <OFFERS_RECEIVED_NUMBER>10</OFFERS_RECEIVED_NUMBER>
+            <ECONOMIC_OPERATOR_NAME_ADDRESS>
+                <CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+                    <ORGANISATION>Hewlett Packard Norge As</ORGANISATION>
+                    <ADDRESS>Rolfsbuktveien 4B</ADDRESS>
+                    <TOWN>Fornebu</TOWN>
+                    <POSTAL_CODE>1364</POSTAL_CODE>
+                    <COUNTRY VALUE="NO"/>
+                    <E_MAIL>eirik.vadseth@hp.com</E_MAIL>
+                    <PHONE>94514641</PHONE>
+                </CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+            </ECONOMIC_OPERATOR_NAME_ADDRESS>
+            <CONTRACT_VALUE_INFORMATION>
+                <MORE_INFORMATION_IF_ANNUAL_MONTHLY/>
+            </CONTRACT_VALUE_INFORMATION>
+        </AWARD_OF_CONTRACT>
+        <AWARD_OF_CONTRACT>
+            <CONTRACT_NUMBER>11/9806</CONTRACT_NUMBER>
+            <LOT_NUMBER/>
+            <CONTRACT_TITLE>Rammeavtale om kjøp av konsulenttjenester innen IKT-området</CONTRACT_TITLE>
+            <CONTRACT_AWARD_DATE>
+                <DAY>29</DAY>
+                <MONTH>09</MONTH>
+                <YEAR>2011</YEAR>
+            </CONTRACT_AWARD_DATE>
+            <OFFERS_RECEIVED_NUMBER>10</OFFERS_RECEIVED_NUMBER>
+            <ECONOMIC_OPERATOR_NAME_ADDRESS>
+                <CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+                    <ORGANISATION>Inmeta Crayon</ORGANISATION>
+                    <ADDRESS>Sandakerveien 114</ADDRESS>
+                    <TOWN>Oslo</TOWN>
+                    <POSTAL_CODE>0484</POSTAL_CODE>
+                    <COUNTRY VALUE="NO"/>
+                    <E_MAIL>anders.johansen@crayon.com</E_MAIL>
+                    <PHONE>91 69 52 25</PHONE>
+                </CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+            </ECONOMIC_OPERATOR_NAME_ADDRESS>
+            <CONTRACT_VALUE_INFORMATION>
+                <MORE_INFORMATION_IF_ANNUAL_MONTHLY/>
+            </CONTRACT_VALUE_INFORMATION>
+        </AWARD_OF_CONTRACT>
+        <AWARD_OF_CONTRACT>
+            <CONTRACT_NUMBER>11/9807</CONTRACT_NUMBER>
+            <LOT_NUMBER/>
+            <CONTRACT_TITLE>Rammeavtale om kjøp av konsulenttjenester innen IKT-området</CONTRACT_TITLE>
+            <CONTRACT_AWARD_DATE>
+                <DAY>29</DAY>
+                <MONTH>09</MONTH>
+                <YEAR>2011</YEAR>
+            </CONTRACT_AWARD_DATE>
+            <OFFERS_RECEIVED_NUMBER>25</OFFERS_RECEIVED_NUMBER>
+            <ECONOMIC_OPERATOR_NAME_ADDRESS>
+                <CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+                    <ORGANISATION>Innovatec - Innovative Technologies As</ORGANISATION>
+                    <ADDRESS>Øvre Slottsgate 5</ADDRESS>
+                    <TOWN>Oslo</TOWN>
+                    <POSTAL_CODE>0157</POSTAL_CODE>
+                    <COUNTRY VALUE="NO"/>
+                    <E_MAIL>stein@innovatec.net</E_MAIL>
+                    <PHONE>91601610</PHONE>
+                    <URL>www.innovatec.net</URL>
+                    <FAX>22410392</FAX>
+                </CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+            </ECONOMIC_OPERATOR_NAME_ADDRESS>
+            <CONTRACT_VALUE_INFORMATION>
+                <MORE_INFORMATION_IF_ANNUAL_MONTHLY/>
+            </CONTRACT_VALUE_INFORMATION>
+        </AWARD_OF_CONTRACT>
+        <AWARD_OF_CONTRACT>
+            <CONTRACT_NUMBER>11/9808</CONTRACT_NUMBER>
+            <LOT_NUMBER/>
+            <CONTRACT_TITLE>Rammeavtale om kjøp av konsulenttjenester innen IKT-området</CONTRACT_TITLE>
+            <CONTRACT_AWARD_DATE>
+                <DAY>29</DAY>
+                <MONTH>09</MONTH>
+                <YEAR>2011</YEAR>
+            </CONTRACT_AWARD_DATE>
+            <OFFERS_RECEIVED_NUMBER>12</OFFERS_RECEIVED_NUMBER>
+            <ECONOMIC_OPERATOR_NAME_ADDRESS>
+                <CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+                    <ORGANISATION>Know It Objectnet As</ORGANISATION>
+                    <ADDRESS>Univesitetesgt. 7</ADDRESS>
+                    <TOWN>Oslo</TOWN>
+                    <POSTAL_CODE>0164</POSTAL_CODE>
+                    <COUNTRY VALUE="NO"/>
+                    <E_MAIL>ea@knowit.no</E_MAIL>
+                    <PHONE>90956200</PHONE>
+                </CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+            </ECONOMIC_OPERATOR_NAME_ADDRESS>
+            <CONTRACT_VALUE_INFORMATION>
+                <MORE_INFORMATION_IF_ANNUAL_MONTHLY/>
+            </CONTRACT_VALUE_INFORMATION>
+        </AWARD_OF_CONTRACT>
+        <AWARD_OF_CONTRACT>
+            <CONTRACT_NUMBER>11/9809</CONTRACT_NUMBER>
+            <LOT_NUMBER/>
+            <CONTRACT_TITLE>Rammeavtale om kjøp av konsulenttjenester innen IKT-området</CONTRACT_TITLE>
+            <CONTRACT_AWARD_DATE>
+                <DAY>29</DAY>
+                <MONTH>09</MONTH>
+                <YEAR>2011</YEAR>
+            </CONTRACT_AWARD_DATE>
+            <OFFERS_RECEIVED_NUMBER>23</OFFERS_RECEIVED_NUMBER>
+            <ECONOMIC_OPERATOR_NAME_ADDRESS>
+                <CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+                    <ORGANISATION>Kpmg</ORGANISATION>
+                    <ADDRESS>Sørkedalsveien 6</ADDRESS>
+                    <TOWN>Oslo</TOWN>
+                    <POSTAL_CODE>0306</POSTAL_CODE>
+                    <COUNTRY VALUE="NO"/>
+                    <E_MAIL>morten.gavlen@kpmg.no</E_MAIL>
+                    <PHONE>40 63 90 48</PHONE>
+                </CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+            </ECONOMIC_OPERATOR_NAME_ADDRESS>
+            <CONTRACT_VALUE_INFORMATION>
+                <MORE_INFORMATION_IF_ANNUAL_MONTHLY/>
+            </CONTRACT_VALUE_INFORMATION>
+        </AWARD_OF_CONTRACT>
+        <AWARD_OF_CONTRACT>
+            <CONTRACT_NUMBER>11/9810</CONTRACT_NUMBER>
+            <LOT_NUMBER/>
+            <CONTRACT_TITLE>Rammeavtale om kjøp av konsulenttjenester innen IKT-området</CONTRACT_TITLE>
+            <CONTRACT_AWARD_DATE>
+                <DAY>29</DAY>
+                <MONTH>09</MONTH>
+                <YEAR>2011</YEAR>
+            </CONTRACT_AWARD_DATE>
+            <OFFERS_RECEIVED_NUMBER>14</OFFERS_RECEIVED_NUMBER>
+            <ECONOMIC_OPERATOR_NAME_ADDRESS>
+                <CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+                    <ORGANISATION>Metier As</ORGANISATION>
+                    <ADDRESS>Hoffsvn 70B</ADDRESS>
+                    <TOWN>Smedstad</TOWN>
+                    <POSTAL_CODE>0309</POSTAL_CODE>
+                    <COUNTRY VALUE="NO"/>
+                    <E_MAIL>trine.lutdal@metier.no</E_MAIL>
+                    <PHONE>95268733</PHONE>
+                </CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+            </ECONOMIC_OPERATOR_NAME_ADDRESS>
+            <CONTRACT_VALUE_INFORMATION>
+                <MORE_INFORMATION_IF_ANNUAL_MONTHLY/>
+            </CONTRACT_VALUE_INFORMATION>
+        </AWARD_OF_CONTRACT>
+        <AWARD_OF_CONTRACT>
+            <CONTRACT_NUMBER>11/9811</CONTRACT_NUMBER>
+            <LOT_NUMBER/>
+            <CONTRACT_TITLE>Rammeavtale om kjøp av konsulenttjenester innen IKT-området</CONTRACT_TITLE>
+            <CONTRACT_AWARD_DATE>
+                <DAY>29</DAY>
+                <MONTH>09</MONTH>
+                <YEAR>2011</YEAR>
+            </CONTRACT_AWARD_DATE>
+            <OFFERS_RECEIVED_NUMBER>32</OFFERS_RECEIVED_NUMBER>
+            <ECONOMIC_OPERATOR_NAME_ADDRESS>
+                <CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+                    <ORGANISATION>Miles Oslo As</ORGANISATION>
+                    <ADDRESS>Pilestredet 75D</ADDRESS>
+                    <TOWN>Oslo</TOWN>
+                    <POSTAL_CODE>0354</POSTAL_CODE>
+                    <COUNTRY VALUE="NO"/>
+                    <E_MAIL>arne.lovold@miles.no</E_MAIL>
+                    <PHONE>91761456</PHONE>
+                    <URL>www.miles.no</URL>
+                </CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+            </ECONOMIC_OPERATOR_NAME_ADDRESS>
+            <CONTRACT_VALUE_INFORMATION>
+                <MORE_INFORMATION_IF_ANNUAL_MONTHLY/>
+            </CONTRACT_VALUE_INFORMATION>
+        </AWARD_OF_CONTRACT>
+        <AWARD_OF_CONTRACT>
+            <CONTRACT_NUMBER>11/9812</CONTRACT_NUMBER>
+            <LOT_NUMBER/>
+            <CONTRACT_TITLE>Rammeavtale om kjøp av konsulenttjenester innen IKT-området</CONTRACT_TITLE>
+            <CONTRACT_AWARD_DATE>
+                <DAY>29</DAY>
+                <MONTH>09</MONTH>
+                <YEAR>2011</YEAR>
+            </CONTRACT_AWARD_DATE>
+            <OFFERS_RECEIVED_NUMBER>10</OFFERS_RECEIVED_NUMBER>
+            <ECONOMIC_OPERATOR_NAME_ADDRESS>
+                <CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+                    <ORGANISATION>Norske Systemarkitekter</ORGANISATION>
+                    <ADDRESS>Kjelsåsveien 169
+                        , Postboks 116 Kjelsås
+                    </ADDRESS>
+                    <TOWN>Oslo</TOWN>
+                    <POSTAL_CODE>0411</POSTAL_CODE>
+                    <COUNTRY VALUE="NO"/>
+                    <E_MAIL>petter.kive@nsa.no</E_MAIL>
+                    <PHONE>97 55 67 20</PHONE>
+                </CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+            </ECONOMIC_OPERATOR_NAME_ADDRESS>
+            <CONTRACT_VALUE_INFORMATION>
+                <MORE_INFORMATION_IF_ANNUAL_MONTHLY/>
+            </CONTRACT_VALUE_INFORMATION>
+        </AWARD_OF_CONTRACT>
+        <AWARD_OF_CONTRACT>
+            <CONTRACT_NUMBER>11/9813</CONTRACT_NUMBER>
+            <LOT_NUMBER/>
+            <CONTRACT_TITLE>Rammeavtale om kjøp av konsulenttjenester innen IKT-området</CONTRACT_TITLE>
+            <CONTRACT_AWARD_DATE>
+                <DAY>29</DAY>
+                <MONTH>09</MONTH>
+                <YEAR>2011</YEAR>
+            </CONTRACT_AWARD_DATE>
+            <OFFERS_RECEIVED_NUMBER>23</OFFERS_RECEIVED_NUMBER>
+            <ECONOMIC_OPERATOR_NAME_ADDRESS>
+                <CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+                    <ORGANISATION>Pricewaterhousecoopers</ORGANISATION>
+                    <ADDRESS>Dronning Eufemiasgate 8</ADDRESS>
+                    <COUNTRY VALUE="NO"/>
+                    <E_MAIL>roger.mortensen@no.pwc.com</E_MAIL>
+                    <PHONE>95260699</PHONE>
+                </CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+            </ECONOMIC_OPERATOR_NAME_ADDRESS>
+            <CONTRACT_VALUE_INFORMATION>
+                <MORE_INFORMATION_IF_ANNUAL_MONTHLY/>
+            </CONTRACT_VALUE_INFORMATION>
+        </AWARD_OF_CONTRACT>
+        <AWARD_OF_CONTRACT>
+            <CONTRACT_NUMBER>11/9814</CONTRACT_NUMBER>
+            <LOT_NUMBER/>
+            <CONTRACT_TITLE>Rammeavtale om kjøp av konsulenttjenester innen IKT-området</CONTRACT_TITLE>
+            <CONTRACT_AWARD_DATE>
+                <DAY>29</DAY>
+                <MONTH>09</MONTH>
+                <YEAR>2011</YEAR>
+            </CONTRACT_AWARD_DATE>
+            <OFFERS_RECEIVED_NUMBER>14</OFFERS_RECEIVED_NUMBER>
+            <ECONOMIC_OPERATOR_NAME_ADDRESS>
+                <CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+                    <ORGANISATION>Promis</ORGANISATION>
+                    <ADDRESS>Pb 3968</ADDRESS>
+                    <TOWN>Oslo</TOWN>
+                    <POSTAL_CODE>0806</POSTAL_CODE>
+                    <COUNTRY VALUE="NO"/>
+                    <E_MAIL>jorgen.petersen@promis.no</E_MAIL>
+                    <PHONE>920 13 636</PHONE>
+                </CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+            </ECONOMIC_OPERATOR_NAME_ADDRESS>
+            <CONTRACT_VALUE_INFORMATION>
+                <MORE_INFORMATION_IF_ANNUAL_MONTHLY/>
+            </CONTRACT_VALUE_INFORMATION>
+        </AWARD_OF_CONTRACT>
+        <AWARD_OF_CONTRACT>
+            <CONTRACT_NUMBER>11/9815</CONTRACT_NUMBER>
+            <LOT_NUMBER/>
+            <CONTRACT_TITLE>Rammeavtale om kjøp av konsulenttjenester innen IKT-området</CONTRACT_TITLE>
+            <CONTRACT_AWARD_DATE>
+                <DAY>29</DAY>
+                <MONTH>09</MONTH>
+                <YEAR>2011</YEAR>
+            </CONTRACT_AWARD_DATE>
+            <OFFERS_RECEIVED_NUMBER>10</OFFERS_RECEIVED_NUMBER>
+            <ECONOMIC_OPERATOR_NAME_ADDRESS>
+                <CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+                    <ORGANISATION>Rambøll Management As</ORGANISATION>
+                    <ADDRESS>Hoffsveien 21/23</ADDRESS>
+                    <TOWN>Oslo</TOWN>
+                    <POSTAL_CODE>0213</POSTAL_CODE>
+                    <COUNTRY VALUE="NO"/>
+                    <E_MAIL>morten.skodbo@r-m.com</E_MAIL>
+                    <PHONE>48997956</PHONE>
+                    <URL>www.ramboll-management.no</URL>
+                    <FAX>22732701</FAX>
+                </CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+            </ECONOMIC_OPERATOR_NAME_ADDRESS>
+            <CONTRACT_VALUE_INFORMATION>
+                <MORE_INFORMATION_IF_ANNUAL_MONTHLY/>
+            </CONTRACT_VALUE_INFORMATION>
+        </AWARD_OF_CONTRACT>
+        <AWARD_OF_CONTRACT>
+            <CONTRACT_NUMBER>11/9816</CONTRACT_NUMBER>
+            <LOT_NUMBER/>
+            <CONTRACT_TITLE>Rammeavtale om kjøp av konsulenttjenester innen IKT-området</CONTRACT_TITLE>
+            <CONTRACT_AWARD_DATE>
+                <DAY>29</DAY>
+                <MONTH>09</MONTH>
+                <YEAR>2011</YEAR>
+            </CONTRACT_AWARD_DATE>
+            <OFFERS_RECEIVED_NUMBER>112</OFFERS_RECEIVED_NUMBER>
+            <ECONOMIC_OPERATOR_NAME_ADDRESS>
+                <CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+                    <ORGANISATION>Steria As</ORGANISATION>
+                    <ADDRESS>Postboks 2</ADDRESS>
+                    <TOWN>Oslo</TOWN>
+                    <POSTAL_CODE>0051</POSTAL_CODE>
+                    <COUNTRY VALUE="NO"/>
+                    <E_MAIL>oen@steria.no</E_MAIL>
+                    <PHONE>90091369</PHONE>
+                </CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+            </ECONOMIC_OPERATOR_NAME_ADDRESS>
+            <CONTRACT_VALUE_INFORMATION>
+                <MORE_INFORMATION_IF_ANNUAL_MONTHLY/>
+            </CONTRACT_VALUE_INFORMATION>
+        </AWARD_OF_CONTRACT>
+        <AWARD_OF_CONTRACT>
+            <CONTRACT_NUMBER>11/9818</CONTRACT_NUMBER>
+            <LOT_NUMBER/>
+            <CONTRACT_TITLE>Rammeavtale om kjøp av konsulenttjenester innen IKT-området</CONTRACT_TITLE>
+            <CONTRACT_AWARD_DATE>
+                <DAY>29</DAY>
+                <MONTH>09</MONTH>
+                <YEAR>2011</YEAR>
+            </CONTRACT_AWARD_DATE>
+            <OFFERS_RECEIVED_NUMBER>23</OFFERS_RECEIVED_NUMBER>
+            <ECONOMIC_OPERATOR_NAME_ADDRESS>
+                <CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+                    <ORGANISATION>Uniconsult As</ORGANISATION>
+                    <ADDRESS>Postboka 1835 Vika</ADDRESS>
+                    <TOWN>Oslo</TOWN>
+                    <POSTAL_CODE>0123</POSTAL_CODE>
+                    <COUNTRY VALUE="NO"/>
+                    <E_MAIL>ano@uniconsult.no</E_MAIL>
+                    <PHONE>95757854</PHONE>
+                    <URL>www.uniconsult.no</URL>
+                    <FAX>23239401</FAX>
+                </CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+            </ECONOMIC_OPERATOR_NAME_ADDRESS>
+            <CONTRACT_VALUE_INFORMATION>
+                <MORE_INFORMATION_IF_ANNUAL_MONTHLY/>
+            </CONTRACT_VALUE_INFORMATION>
+        </AWARD_OF_CONTRACT>
+        <AWARD_OF_CONTRACT>
+            <CONTRACT_NUMBER>11/9819</CONTRACT_NUMBER>
+            <LOT_NUMBER/>
+            <CONTRACT_TITLE>Rammeavtale om kjøp av konsulenttjenester innen IKT-området</CONTRACT_TITLE>
+            <CONTRACT_AWARD_DATE>
+                <DAY>29</DAY>
+                <MONTH>09</MONTH>
+                <YEAR>2011</YEAR>
+            </CONTRACT_AWARD_DATE>
+            <OFFERS_RECEIVED_NUMBER>32</OFFERS_RECEIVED_NUMBER>
+            <ECONOMIC_OPERATOR_NAME_ADDRESS>
+                <CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+                    <ORGANISATION>Visma Sirius As</ORGANISATION>
+                    <ADDRESS>Dronning Eufemiasgt. 16</ADDRESS>
+                    <TOWN>Oslo</TOWN>
+                    <POSTAL_CODE>0191</POSTAL_CODE>
+                    <COUNTRY VALUE="NO"/>
+                    <E_MAIL>morten.brurberg@visma.com</E_MAIL>
+                    <PHONE>92496672</PHONE>
+                </CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+            </ECONOMIC_OPERATOR_NAME_ADDRESS>
+            <CONTRACT_VALUE_INFORMATION>
+                <MORE_INFORMATION_IF_ANNUAL_MONTHLY/>
+            </CONTRACT_VALUE_INFORMATION>
+        </AWARD_OF_CONTRACT>
+        <AWARD_OF_CONTRACT>
+            <CONTRACT_NUMBER>11/9817</CONTRACT_NUMBER>
+            <LOT_NUMBER/>
+            <CONTRACT_TITLE>Rammeavtale om kjøp av konsulenttjenester innen IKT-området</CONTRACT_TITLE>
+            <CONTRACT_AWARD_DATE>
+                <DAY>29</DAY>
+                <MONTH>09</MONTH>
+                <YEAR>2011</YEAR>
+            </CONTRACT_AWARD_DATE>
+            <OFFERS_RECEIVED_NUMBER>6</OFFERS_RECEIVED_NUMBER>
+            <ECONOMIC_OPERATOR_NAME_ADDRESS>
+                <CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+                    <ORGANISATION>Teleplan Consulting AS</ORGANISATION>
+                    <ADDRESS>Fornebuveien 31
+                        , P.B 69
+                    </ADDRESS>
+                    <TOWN>Lysaker</TOWN>
+                    <POSTAL_CODE>1324</POSTAL_CODE>
+                    <COUNTRY VALUE="NO"/>
+                    <E_MAIL>efa@teleplan.no</E_MAIL>
+                    <PHONE>93067145</PHONE>
+                </CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+            </ECONOMIC_OPERATOR_NAME_ADDRESS>
+            <CONTRACT_VALUE_INFORMATION>
+                <MORE_INFORMATION_IF_ANNUAL_MONTHLY/>
+            </CONTRACT_VALUE_INFORMATION>
+        </AWARD_OF_CONTRACT>
+        <AWARD_OF_CONTRACT>
+            <CONTRACT_NUMBER>11/9781</CONTRACT_NUMBER>
+            <LOT_NUMBER>3</LOT_NUMBER>
+            <CONTRACT_TITLE>Rammeavtale om kjøp av konsulenttjenester innen IKT-området</CONTRACT_TITLE>
+            <CONTRACT_AWARD_DATE>
+                <DAY>29</DAY>
+                <MONTH>09</MONTH>
+                <YEAR>2011</YEAR>
+            </CONTRACT_AWARD_DATE>
+            <OFFERS_RECEIVED_NUMBER>12</OFFERS_RECEIVED_NUMBER>
+            <ECONOMIC_OPERATOR_NAME_ADDRESS>
+                <CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+                    <ORGANISATION>Acando As</ORGANISATION>
+                    <ADDRESS>Lille Grensen 5</ADDRESS>
+                    <TOWN>Oslo</TOWN>
+                    <POSTAL_CODE>0159</POSTAL_CODE>
+                    <COUNTRY VALUE="NO"/>
+                    <E_MAIL>sven.ivar.morch@acando.com</E_MAIL>
+                    <PHONE>90846984</PHONE>
+                </CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+            </ECONOMIC_OPERATOR_NAME_ADDRESS>
+            <CONTRACT_VALUE_INFORMATION>
+                <MORE_INFORMATION_IF_ANNUAL_MONTHLY>
+                    <NUMBER_OF_YEARS>4</NUMBER_OF_YEARS>
+                </MORE_INFORMATION_IF_ANNUAL_MONTHLY>
+            </CONTRACT_VALUE_INFORMATION>
+        </AWARD_OF_CONTRACT>
+        <AWARD_OF_CONTRACT>
+            <CONTRACT_NUMBER>11/9782</CONTRACT_NUMBER>
+            <LOT_NUMBER/>
+            <CONTRACT_TITLE>Rammeavtale om kjøp av konsulenttjenester innen IKT-området</CONTRACT_TITLE>
+            <CONTRACT_AWARD_DATE>
+                <DAY>29</DAY>
+                <MONTH>09</MONTH>
+                <YEAR>2011</YEAR>
+            </CONTRACT_AWARD_DATE>
+            <OFFERS_RECEIVED_NUMBER>128</OFFERS_RECEIVED_NUMBER>
+            <ECONOMIC_OPERATOR_NAME_ADDRESS>
+                <CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+                    <ORGANISATION>Accenture As</ORGANISATION>
+                    <ADDRESS>Snarøyveien 30 Postboks 363</ADDRESS>
+                    <TOWN>Lysaker</TOWN>
+                    <POSTAL_CODE>1326</POSTAL_CODE>
+                    <COUNTRY VALUE="NO"/>
+                    <E_MAIL>bjorn.tore.holte@accenture.com</E_MAIL>
+                    <PHONE>92897066</PHONE>
+                </CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+            </ECONOMIC_OPERATOR_NAME_ADDRESS>
+            <CONTRACT_VALUE_INFORMATION>
+                <MORE_INFORMATION_IF_ANNUAL_MONTHLY/>
+            </CONTRACT_VALUE_INFORMATION>
+        </AWARD_OF_CONTRACT>
+        <AWARD_OF_CONTRACT>
+            <CONTRACT_NUMBER>11/9780</CONTRACT_NUMBER>
+            <LOT_NUMBER/>
+            <CONTRACT_TITLE>Rammeavtale om kjøp av konsulenttjenester innen IKT området</CONTRACT_TITLE>
+            <CONTRACT_AWARD_DATE>
+                <DAY>29</DAY>
+                <MONTH>09</MONTH>
+                <YEAR>2011</YEAR>
+            </CONTRACT_AWARD_DATE>
+            <OFFERS_RECEIVED_NUMBER>3</OFFERS_RECEIVED_NUMBER>
+            <ECONOMIC_OPERATOR_NAME_ADDRESS>
+                <CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+                    <ORGANISATION>A2 Norge As</ORGANISATION>
+                    <ADDRESS>Pb 468 Skøyen</ADDRESS>
+                    <TOWN>Oslo</TOWN>
+                    <POSTAL_CODE>0213</POSTAL_CODE>
+                    <COUNTRY VALUE="NO"/>
+                    <E_MAIL>ssk@a-2.as</E_MAIL>
+                    <PHONE>92 89 76 73</PHONE>
+                </CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+            </ECONOMIC_OPERATOR_NAME_ADDRESS>
+            <CONTRACT_VALUE_INFORMATION>
+                <MORE_INFORMATION_IF_ANNUAL_MONTHLY/>
+            </CONTRACT_VALUE_INFORMATION>
+            <MORE_INFORMATION_TO_SUB_CONTRACTED>
+                <CONTRACT_LIKELY_SUB_CONTRACTED>
+                    <UNKNOWN_VALUE/>
+                </CONTRACT_LIKELY_SUB_CONTRACTED>
+            </MORE_INFORMATION_TO_SUB_CONTRACTED>
+        </AWARD_OF_CONTRACT>
+        <AWARD_OF_CONTRACT>
+            <CONTRACT_NUMBER>11/9783</CONTRACT_NUMBER>
+            <LOT_NUMBER/>
+            <CONTRACT_TITLE>Rammeavtale om kjøp av konsulenttjenester innen IKT-området</CONTRACT_TITLE>
+            <CONTRACT_AWARD_DATE>
+                <DAY>29</DAY>
+                <MONTH>09</MONTH>
+                <YEAR>2011</YEAR>
+            </CONTRACT_AWARD_DATE>
+            <OFFERS_RECEIVED_NUMBER>33</OFFERS_RECEIVED_NUMBER>
+            <ECONOMIC_OPERATOR_NAME_ADDRESS>
+                <CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+                    <ORGANISATION>Adg Application Development Group As</ORGANISATION>
+                    <ADDRESS>Karoline Kristiansens vei 1, OSLO (fra 1.1.2012)
+                        , Pb 2205, Postterminalen
+                    </ADDRESS>
+                    <TOWN>Tønsberg</TOWN>
+                    <POSTAL_CODE>3103</POSTAL_CODE>
+                    <COUNTRY VALUE="NO"/>
+                    <E_MAIL>morten.kjellas@adgruppen.no</E_MAIL>
+                    <PHONE>928 59 382</PHONE>
+                    <URL>www.adg.no</URL>
+                </CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+            </ECONOMIC_OPERATOR_NAME_ADDRESS>
+            <CONTRACT_VALUE_INFORMATION>
+                <MORE_INFORMATION_IF_ANNUAL_MONTHLY/>
+            </CONTRACT_VALUE_INFORMATION>
+        </AWARD_OF_CONTRACT>
+        <AWARD_OF_CONTRACT>
+            <CONTRACT_NUMBER>11/9788</CONTRACT_NUMBER>
+            <LOT_NUMBER/>
+            <CONTRACT_TITLE>Rammeavtale om kjøp av konsulenttjenester innen IKT-området</CONTRACT_TITLE>
+            <CONTRACT_AWARD_DATE>
+                <DAY>29</DAY>
+                <MONTH>09</MONTH>
+                <YEAR>2011</YEAR>
+            </CONTRACT_AWARD_DATE>
+            <OFFERS_RECEIVED_NUMBER>15</OFFERS_RECEIVED_NUMBER>
+            <ECONOMIC_OPERATOR_NAME_ADDRESS>
+                <CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+                    <ORGANISATION>Atea As</ORGANISATION>
+                    <ADDRESS>Brynsallen 2</ADDRESS>
+                    <TOWN>Etterstad</TOWN>
+                    <POSTAL_CODE>6472</POSTAL_CODE>
+                    <COUNTRY VALUE="NO"/>
+                    <E_MAIL>svein.egil.moe@atea.no</E_MAIL>
+                </CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+            </ECONOMIC_OPERATOR_NAME_ADDRESS>
+            <CONTRACT_VALUE_INFORMATION>
+                <MORE_INFORMATION_IF_ANNUAL_MONTHLY>
+                    <NUMBER_OF_YEARS>4</NUMBER_OF_YEARS>
+                </MORE_INFORMATION_IF_ANNUAL_MONTHLY>
+            </CONTRACT_VALUE_INFORMATION>
+            <MORE_INFORMATION_TO_SUB_CONTRACTED>
+                <CONTRACT_LIKELY_SUB_CONTRACTED>
+                    <UNKNOWN_VALUE/>
+                </CONTRACT_LIKELY_SUB_CONTRACTED>
+            </MORE_INFORMATION_TO_SUB_CONTRACTED>
+        </AWARD_OF_CONTRACT>
+        <AWARD_OF_CONTRACT>
+            <CONTRACT_NUMBER>11/9789</CONTRACT_NUMBER>
+            <LOT_NUMBER/>
+            <CONTRACT_TITLE>Rammeavtale om kjøp av konsulenttjenester innen IKT-området</CONTRACT_TITLE>
+            <CONTRACT_AWARD_DATE>
+                <DAY>29</DAY>
+                <MONTH>09</MONTH>
+                <YEAR>2011</YEAR>
+            </CONTRACT_AWARD_DATE>
+            <OFFERS_RECEIVED_NUMBER>32</OFFERS_RECEIVED_NUMBER>
+            <ECONOMIC_OPERATOR_NAME_ADDRESS>
+                <CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+                    <ORGANISATION>Bekk Consulting As</ORGANISATION>
+                    <ADDRESS>Pb 134 Sentrum</ADDRESS>
+                    <TOWN>Oslo</TOWN>
+                    <POSTAL_CODE>0102</POSTAL_CODE>
+                    <COUNTRY VALUE="NO"/>
+                    <E_MAIL>even.lindahl@bekk.no</E_MAIL>
+                    <PHONE>982 19 402</PHONE>
+                    <URL>www.bekk.no</URL>
+                </CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+            </ECONOMIC_OPERATOR_NAME_ADDRESS>
+            <CONTRACT_VALUE_INFORMATION>
+                <MORE_INFORMATION_IF_ANNUAL_MONTHLY/>
+            </CONTRACT_VALUE_INFORMATION>
+        </AWARD_OF_CONTRACT>
+        <AWARD_OF_CONTRACT>
+            <CONTRACT_NUMBER>11/9790</CONTRACT_NUMBER>
+            <LOT_NUMBER/>
+            <CONTRACT_TITLE>Rammeavtale om kjøp av konsulenttjenester innen IKT-området</CONTRACT_TITLE>
+            <CONTRACT_AWARD_DATE>
+                <DAY>29</DAY>
+                <MONTH>09</MONTH>
+                <YEAR>2011</YEAR>
+            </CONTRACT_AWARD_DATE>
+            <OFFERS_RECEIVED_NUMBER>95</OFFERS_RECEIVED_NUMBER>
+            <ECONOMIC_OPERATOR_NAME_ADDRESS>
+                <CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+                    <ORGANISATION>Bouvet Asa, Bergen</ORGANISATION>
+                    <ADDRESS>Sandakerveien 24C, D11
+                        , Pb 4430 Nydalen
+                    </ADDRESS>
+                    <TOWN>Oslo</TOWN>
+                    <POSTAL_CODE>0403</POSTAL_CODE>
+                    <COUNTRY VALUE="NO"/>
+                    <E_MAIL>lars.klyve@bouvet.no</E_MAIL>
+                    <PHONE>911 97 390</PHONE>
+                </CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+            </ECONOMIC_OPERATOR_NAME_ADDRESS>
+            <CONTRACT_VALUE_INFORMATION>
+                <MORE_INFORMATION_IF_ANNUAL_MONTHLY/>
+            </CONTRACT_VALUE_INFORMATION>
+        </AWARD_OF_CONTRACT>
+        <AWARD_OF_CONTRACT>
+            <CONTRACT_NUMBER>11/9792</CONTRACT_NUMBER>
+            <LOT_NUMBER/>
+            <CONTRACT_TITLE>Rammeavtale om kjøp av konsulenttjenester innen IKT-området</CONTRACT_TITLE>
+            <CONTRACT_AWARD_DATE>
+                <DAY>29</DAY>
+                <MONTH>09</MONTH>
+                <YEAR>2011</YEAR>
+            </CONTRACT_AWARD_DATE>
+            <OFFERS_RECEIVED_NUMBER>60</OFFERS_RECEIVED_NUMBER>
+            <ECONOMIC_OPERATOR_NAME_ADDRESS>
+                <CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+                    <ORGANISATION>Capgemini Norge As</ORGANISATION>
+                    <ADDRESS>Pb 475, Skøyen</ADDRESS>
+                    <TOWN>Oslo</TOWN>
+                    <POSTAL_CODE>0214</POSTAL_CODE>
+                    <COUNTRY VALUE="NO"/>
+                    <E_MAIL>haakon.brandtzeg@capgemini.com</E_MAIL>
+                    <PHONE>905 15 965</PHONE>
+                </CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+            </ECONOMIC_OPERATOR_NAME_ADDRESS>
+            <CONTRACT_VALUE_INFORMATION>
+                <MORE_INFORMATION_IF_ANNUAL_MONTHLY/>
+            </CONTRACT_VALUE_INFORMATION>
+        </AWARD_OF_CONTRACT>
+        <COMPLEMENTARY_INFORMATION_CONTRACT_AWARD>
+            <ADDITIONAL_INFORMATION>
+                <P>
+                    (NT Ref:241971)
+                </P>
+            </ADDITIONAL_INFORMATION>
+            <NOTICE_DISPATCH_DATE>
+                <DAY>02</DAY>
+                <MONTH>11</MONTH>
+                <YEAR>2011</YEAR>
+            </NOTICE_DISPATCH_DATE>
+        </COMPLEMENTARY_INFORMATION_CONTRACT_AWARD>
+    </FD_CONTRACT_AWARD>
+</CONTRACT_AWARD>

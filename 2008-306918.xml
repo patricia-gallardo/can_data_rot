@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CONTRACT_AWARD LG="EN" CATEGORY="ORIGINAL" FORM="3" VERSION="R2.0.5">
+    <SENDER>
+        <LOGIN CLASS="B"/>
+        <USER/>
+        <NO_DOC_EXT>M128459</NO_DOC_EXT>
+    </SENDER>
+    <FD_CONTRACT_AWARD CTYPE="SERVICES">
+        <CONTACTING_AUTHORITY_INFORMATION>
+            <NAME_ADDRESSES_CONTACT_CONTRACT_AWARD>
+                <CA_CE_CONCESSIONAIRE_PROFILE>
+                    <ORGANISATION>NAV Drift og utvikling</ORGANISATION>
+                    <ADDRESS>Sannergata 2, Postboks 5200 Nydalen</ADDRESS>
+                    <TOWN>OSLO</TOWN>
+                    <POSTAL_CODE>0426</POSTAL_CODE>
+                    <COUNTRY VALUE="NO"/>
+                    <CONTACT_POINT>Anskaffelser og økonomi</CONTACT_POINT>
+                    <ATTENTION>Heidi E. Rygg</ATTENTION>
+                    <PHONE>21 07 10 00</PHONE>
+                    <E_MAIL>heidi.elise.rygg@nav.no</E_MAIL>
+                    <FAX>21 07 10 10</FAX>
+                </CA_CE_CONCESSIONAIRE_PROFILE>
+                <INTERNET_ADDRESSES_CONTRACT_AWARD>
+                    <URL_GENERAL>www.nav.no</URL_GENERAL>
+                    <URL_BUYER>http://www.doffin.no/search/Search_AuthProfile.aspx?ID=AA0005</URL_BUYER>
+                </INTERNET_ADDRESSES_CONTRACT_AWARD>
+            </NAME_ADDRESSES_CONTACT_CONTRACT_AWARD>
+            <TYPE_AND_ACTIVITIES_AND_PURCHASING_ON_BEHALF>
+                <TYPE_AND_ACTIVITIES>
+                    <TYPE_OF_CONTRACTING_AUTHORITY VALUE="MINISTRY"/>
+                    <TYPE_OF_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+                </TYPE_AND_ACTIVITIES>
+            </TYPE_AND_ACTIVITIES_AND_PURCHASING_ON_BEHALF>
+        </CONTACTING_AUTHORITY_INFORMATION>
+        <OBJECT_CONTRACT_INFORMATION_CONTRACT_AWARD_NOTICE>
+            <DESCRIPTION_AWARD_NOTICE_INFORMATION>
+                <TITLE_CONTRACT>Anskaffelse av vedlikeholds- og videreutviklingsavtale for Arena saksbehandlingssystem
+                </TITLE_CONTRACT>
+                <TYPE_CONTRACT_LOCATION_W_PUB>
+                    <TYPE_CONTRACT VALUE="SERVICES"/>
+                    <SERVICE_CATEGORY_PUB VALUE="7">
+                        <AGREEMENT_PUBLICATION/>
+                    </SERVICE_CATEGORY_PUB>
+                </TYPE_CONTRACT_LOCATION_W_PUB>
+                <LOCATION_NUTS>
+                    <LOCATION>
+                        <P>Oslo</P>
+                    </LOCATION>
+                </LOCATION_NUTS>
+                <SHORT_CONTRACT_DESCRIPTION>
+                    <P>NAV har inngått avtale om drift og videreutvikling av Arena saksbehandlingssystem. Arena er et av
+                        NAVs kjernesystemer og utgjør en omfattende og fleksibel saksbehandlingsløsning som vil
+                        understøtte inntil 6000 brukere/saksbehandlere i deres daglige arbeid innen år 2010.
+                    </P>
+                </SHORT_CONTRACT_DESCRIPTION>
+                <CPV>
+                    <CPV_MAIN>
+                        <CPV_CODE CODE="72000000"/>
+                    </CPV_MAIN>
+                </CPV>
+                <CONTRACT_COVERED_GPA VALUE="YES"/>
+            </DESCRIPTION_AWARD_NOTICE_INFORMATION>
+            <TOTAL_FINAL_VALUE>
+                <COSTS_RANGE_AND_CURRENCY_WITH_VAT_RATE CURRENCY="NOK"/>
+            </TOTAL_FINAL_VALUE>
+        </OBJECT_CONTRACT_INFORMATION_CONTRACT_AWARD_NOTICE>
+        <PROCEDURE_DEFINITION_CONTRACT_AWARD_NOTICE>
+            <TYPE_OF_PROCEDURE_DEF>
+                <PT_NEGOTIATED_WITH_COMPETITION/>
+            </TYPE_OF_PROCEDURE_DEF>
+            <AWARD_CRITERIA_CONTRACT_AWARD_NOTICE_INFORMATION>
+                <AWARD_CRITERIA_DETAIL_F03>
+                    <MOST_ECONOMICALLY_ADVANTAGEOUS_TENDER_SHORT>
+                        <CRITERIA_DEFINITION>
+                            <ORDER_C>1</ORDER_C>
+                            <CRITERIA>Totalkostnad</CRITERIA>
+                            <WEIGHTING>40 %</WEIGHTING>
+                        </CRITERIA_DEFINITION>
+                        <CRITERIA_DEFINITION>
+                            <ORDER_C>2</ORDER_C>
+                            <CRITERIA>Kvalitet på tjenesten</CRITERIA>
+                            <WEIGHTING>60 %</WEIGHTING>
+                        </CRITERIA_DEFINITION>
+                    </MOST_ECONOMICALLY_ADVANTAGEOUS_TENDER_SHORT>
+                </AWARD_CRITERIA_DETAIL_F03>
+            </AWARD_CRITERIA_CONTRACT_AWARD_NOTICE_INFORMATION>
+            <ADMINISTRATIVE_INFORMATION_CONTRACT_AWARD>
+                <FILE_REFERENCE_NUMBER>
+                    <P/>
+                </FILE_REFERENCE_NUMBER>
+                <PREVIOUS_PUBLICATION_INFORMATION_NOTICE_F3>
+                    <PREVIOUS_PUBLICATION_EXISTS_F3>
+                        <CNT_NOTICE_INFORMATION>
+                            <CNT_NOTICE_INFORMATION_S CHOICE="CONTRACT_NOTICE"/>
+                            <NOTICE_NUMBER_OJ>2007/S244-297607</NOTICE_NUMBER_OJ>
+                            <DATE_OJ>
+                                <DAY>19</DAY>
+                                <MONTH>12</MONTH>
+                                <YEAR>2007</YEAR>
+                            </DATE_OJ>
+                        </CNT_NOTICE_INFORMATION>
+                    </PREVIOUS_PUBLICATION_EXISTS_F3>
+                </PREVIOUS_PUBLICATION_INFORMATION_NOTICE_F3>
+            </ADMINISTRATIVE_INFORMATION_CONTRACT_AWARD>
+        </PROCEDURE_DEFINITION_CONTRACT_AWARD_NOTICE>
+        <AWARD_OF_CONTRACT>
+            <CONTRACT_NUMBER/>
+            <CONTRACT_TITLE>Vedlikehold og videreutvikling av Arena</CONTRACT_TITLE>
+            <CONTRACT_AWARD_DATE>
+                <DAY>28</DAY>
+                <MONTH>05</MONTH>
+                <YEAR>2008</YEAR>
+            </CONTRACT_AWARD_DATE>
+            <OFFERS_RECEIVED_NUMBER>3</OFFERS_RECEIVED_NUMBER>
+            <ECONOMIC_OPERATOR_NAME_ADDRESS>
+                <CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+                    <ORGANISATION>Sirius IT</ORGANISATION>
+                    <ADDRESS>Drammensveien 288, Postboks 109 Lilleaker</ADDRESS>
+                    <TOWN>Oslo</TOWN>
+                    <POSTAL_CODE>0216</POSTAL_CODE>
+                    <COUNTRY VALUE="NO"/>
+                </CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+            </ECONOMIC_OPERATOR_NAME_ADDRESS>
+            <CONTRACT_VALUE_INFORMATION>
+                <MORE_INFORMATION_IF_ANNUAL_MONTHLY/>
+            </CONTRACT_VALUE_INFORMATION>
+        </AWARD_OF_CONTRACT>
+        <COMPLEMENTARY_INFORMATION_CONTRACT_AWARD>
+            <ADDITIONAL_INFORMATION>
+                <P>(NT Ref:128459)</P>
+            </ADDITIONAL_INFORMATION>
+            <NOTICE_DISPATCH_DATE>
+                <DAY>07</DAY>
+                <MONTH>08</MONTH>
+                <YEAR>2008</YEAR>
+            </NOTICE_DISPATCH_DATE>
+        </COMPLEMENTARY_INFORMATION_CONTRACT_AWARD>
+    </FD_CONTRACT_AWARD>
+</CONTRACT_AWARD>

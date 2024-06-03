@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CONTRACT_AWARD FORM="3" CATEGORY="ORIGINAL" LG="NB">
+    <SENDER>
+        <LOGIN/>
+        <USER/>
+        <NO_DOC_EXT>M23601</NO_DOC_EXT>
+    </SENDER>
+    <FD_CONTRACT_AWARD CTYPE="SERVICES">
+        <COVERED_BY_GPA_YES/>
+        <AUTHORITY_CONTRACT_AWARD>
+            <ADDRESS_AUTHORITY>
+                <ORGANISATION>Rikstrygdeverket</ORGANISATION>
+                <ATTENTION>Laila Kaland</ATTENTION>
+                <ADDRESS>IT-avd, Sannergata 2</ADDRESS>
+                <POSTAL_CODE>0557</POSTAL_CODE>
+                <TOWN>OSLO</TOWN>
+                <COUNTRY VALUE="NO"/>
+                <PHONE>n/a</PHONE>
+                <FAX>n/a</FAX>
+                <E_MAIL>laila.kaland@trygdeetaten.no</E_MAIL>
+                <URL/>
+            </ADDRESS_AUTHORITY>
+            <TYPE_OF_CONTRACTING_AUTHORITY VALUE="GOVERNED_BY_PUBLIC_LAW"/>
+        </AUTHORITY_CONTRACT_AWARD>
+        <OBJECT_CONTRACT_AWARD>
+            <TYPE_OF_CONTRACT_SERVICES>
+                <SRV_CAT_PUBLICATION_AGREE_YES/>
+                <SERVICE_CATEGORY>1</SERVICE_CATEGORY>
+            </TYPE_OF_CONTRACT_SERVICES>
+            <FRAMEWORK_CONTRACT_NO/>
+            <NOMENCLATURE>
+                <CPV>
+                    <CPV_MAIN>
+                        <CPV_CODE CODE="72300000"/>
+                    </CPV_MAIN>
+                    <CPV_ADDITIONNAL>
+                        <CPV_CODE CODE="30240000"/>
+                    </CPV_ADDITIONNAL>
+                </CPV>
+            </NOMENCLATURE>
+            <NAME_GIVEN_TO_CONTRACT>Anskaffelse av vedlikeholdstjenester for Rikstrygdeverket, Remedy ARS
+            </NAME_GIVEN_TO_CONTRACT>
+            <DESCRIPTION_OF_CONTRACT>
+                <P>Avtalen omfatter programvareoppdateringer, telefonsupport, samt opsjoner på kjøp av Remedy ARS for
+                    Rikstrygdeverket.
+                </P>
+            </DESCRIPTION_OF_CONTRACT>
+            <ESTIMATED_VALUE>
+                <P>ca 2 000 000 mill</P>
+            </ESTIMATED_VALUE>
+        </OBJECT_CONTRACT_AWARD>
+        <PROCEDURES_CONTRACT_AWARD>
+            <TYPE_OF_PROCEDURE_CONTRACT_AWARD CPROC="RESTRICTED">
+                <ANNEX_CONTRACT_AWARD/>
+            </TYPE_OF_PROCEDURE_CONTRACT_AWARD>
+            <AWARD_CRITERIA_CONTRACT_AWARD>
+                <MOST_ECONOMIC_CONTRACT_AWARD>
+                    <CRITERIA_NO_NUMBER>As stated in contract documents</CRITERIA_NO_NUMBER>
+                </MOST_ECONOMIC_CONTRACT_AWARD>
+            </AWARD_CRITERIA_CONTRACT_AWARD>
+        </PROCEDURES_CONTRACT_AWARD>
+        <AWARD_CONTRACT_AWARD>
+            <AWARD_CONTRACT_AWARD_LIST>
+                <NUMBER>060005</NUMBER>
+                <AWARD_CONTRACT_VALUE>
+                    <ADDRESS_CONTRACTOR>
+                        <ORGANISATION>Steria AS</ORGANISATION>
+                        <ATTENTION>Lene Melfald</ATTENTION>
+                        <ADDRESS>Postboks 2</ADDRESS>
+                        <POSTAL_CODE>0051</POSTAL_CODE>
+                        <TOWN>OSLO</TOWN>
+                        <COUNTRY VALUE="NO"/>
+                        <PHONE>22575777</PHONE>
+                        <FAX/>
+                        <E_MAIL/>
+                        <URL/>
+                    </ADDRESS_CONTRACTOR>
+                    <VALUE_OF_CONTRACT CURRENCY="NOK">
+                        <PRICE>2000000</PRICE>
+                    </VALUE_OF_CONTRACT>
+                </AWARD_CONTRACT_VALUE>
+                <SUBCONTRACT_CONTRACT_AWARD_NO/>
+            </AWARD_CONTRACT_AWARD_LIST>
+        </AWARD_CONTRACT_AWARD>
+        <OTH_INFO_CONTRACT_AWARD>
+            <NON_MANDATORY_NO/>
+            <REFERENCE_NUMBER_ATTRIBUTED/>
+            <DATE_OF_CONTRACT_AWARD>
+                <DAY>09</DAY>
+                <MONTH>01</MONTH>
+                <YEAR>2006</YEAR>
+            </DATE_OF_CONTRACT_AWARD>
+            <NUMBER_OF_OFFERS_RECEIVED>3</NUMBER_OF_OFFERS_RECEIVED>
+            <PRIOR_INFORMATION_OJ_NOTICE_NO/>
+            <RELATES_TO_EU_PROJECT_NO/>
+            <OTHER_INFORMATION>
+                <P/>
+                <P>(NT Ref:23601)</P>
+            </OTHER_INFORMATION>
+            <NOTICE_DISPATCH_DATE>
+                <DAY>21</DAY>
+                <MONTH>02</MONTH>
+                <YEAR>2006</YEAR>
+            </NOTICE_DISPATCH_DATE>
+        </OTH_INFO_CONTRACT_AWARD>
+    </FD_CONTRACT_AWARD>
+</CONTRACT_AWARD>
