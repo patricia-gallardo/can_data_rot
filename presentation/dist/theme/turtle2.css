@@ -42,6 +42,19 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
   --r-overlay-element-fg-color: 240, 240, 240;
 }
 
+.reveal .slide-number {
+  width: 42px;
+  height: 42px;
+  font-family: var(--r-main-font);
+  font-weight: 400;
+  font-size: 42px;
+  color: #434343;
+  background-color: #d0e0e3ff;
+  border: 3px solid #434343;
+  margin: 5px;
+  text-align: center;
+}
+
 .reveal-viewport {
   background: #fff;
   background-color: var(--r-background-color);
