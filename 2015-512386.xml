@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DOFFIN_ESENDERS xsi:noNamespaceSchemaLocation="DOFFIN_ESENDERS.xd" VERSION="V2.0.0"
+                 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <FORM_SECTION>
+        <CONTRACT_AWARD LG="NB" CATEGORY="ORIGINAL" FORM="3" VERSION="R2.0.8.S02">
+            <FD_CONTRACT_AWARD CTYPE="SERVICES">
+                <CONTRACTING_AUTHORITY_INFORMATION_CONTRACT_AWARD>
+                    <NAME_ADDRESSES_CONTACT_CONTRACT_AWARD>
+                        <CA_CE_CONCESSIONAIRE_PROFILE>
+                            <ORGANISATION>
+                                <OFFICIALNAME>Arbeids- og velferdsdirektoratet, Økonomiavdelingen,
+                                    Anskaffelsesseksjonen
+                                </OFFICIALNAME>
+                                <NATIONALID>889640782</NATIONALID>
+                            </ORGANISATION>
+                            <ADDRESS>Postboks 5, St Olavs plass</ADDRESS>
+                            <TOWN>OSLO</TOWN>
+                            <POSTAL_CODE>0130</POSTAL_CODE>
+                            <COUNTRY VALUE="NO"/>
+                            <ATTENTION>Beate Oliver</ATTENTION>
+                            <PHONE>+47 21071000</PHONE>
+                            <FAX>+47 21071010</FAX>
+                        </CA_CE_CONCESSIONAIRE_PROFILE>
+                        <INTERNET_ADDRESSES_CONTRACT_AWARD>
+                            <URL_BUYER>https://kgv.doffin.no/ctm/Supplier/CompanyInformation/Index/1002</URL_BUYER>
+                            <URL_INFORMATION>https://kgv.doffin.no/ctm/Supplier/Documents/Folder/117136
+                            </URL_INFORMATION>
+                        </INTERNET_ADDRESSES_CONTRACT_AWARD>
+                    </NAME_ADDRESSES_CONTACT_CONTRACT_AWARD>
+                    <TYPE_AND_ACTIVITIES_AND_PURCHASING_ON_BEHALF>
+                        <TYPE_AND_ACTIVITIES>
+                            <TYPE_OF_CONTRACTING_AUTHORITY VALUE="MINISTRY"/>
+                            <TYPE_OF_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+                        </TYPE_AND_ACTIVITIES>
+                        <PURCHASING_ON_BEHALF>
+                            <PURCHASING_ON_BEHALF_NO/>
+                        </PURCHASING_ON_BEHALF>
+                    </TYPE_AND_ACTIVITIES_AND_PURCHASING_ON_BEHALF>
+                </CONTRACTING_AUTHORITY_INFORMATION_CONTRACT_AWARD>
+                <OBJECT_CONTRACT_INFORMATION_CONTRACT_AWARD_NOTICE>
+                    <DESCRIPTION_AWARD_NOTICE_INFORMATION>
+                        <TITLE_CONTRACT>
+                            <P>Vedlikehold og videreutvikling av Pensjonsløsningen</P>
+                        </TITLE_CONTRACT>
+                        <TYPE_CONTRACT_LOCATION_W_PUB>
+                            <TYPE_CONTRACT VALUE="SERVICES"/>
+                            <SERVICE_CATEGORY_PUB>7</SERVICE_CATEGORY_PUB>
+                        </TYPE_CONTRACT_LOCATION_W_PUB>
+                        <LOCATION_NUTS>
+                            <LOCATION>
+                                <P>OSLO</P>
+                            </LOCATION>
+                            <NUTS CODE="NO"/>
+                        </LOCATION_NUTS>
+                        <SHORT_CONTRACT_DESCRIPTION>
+                            <P>Formålet med anskaffelsen er å etablere kontrakter for vedlikehold og videreutvikling av
+                                Pensjonsløsningen med en leverandør. Se kvalifikasjonsgrunnlaget for ytterligere
+                                opplysninger.
+                            </P>
+                        </SHORT_CONTRACT_DESCRIPTION>
+                        <CPV>
+                            <CPV_MAIN>
+                                <CPV_CODE CODE="72000000"/>
+                            </CPV_MAIN>
+                            <CPV_ADDITIONAL>
+                                <CPV_CODE CODE="72230000"/>
+                            </CPV_ADDITIONAL>
+                            <CPV_ADDITIONAL>
+                                <CPV_CODE CODE="72267100"/>
+                            </CPV_ADDITIONAL>
+                        </CPV>
+                        <CONTRACT_COVERED_GPA VALUE="YES"/>
+                    </DESCRIPTION_AWARD_NOTICE_INFORMATION>
+                    <TOTAL_FINAL_VALUE>
+                        <COSTS_RANGE_AND_CURRENCY_WITH_VAT_RATE CURRENCY="NOK">
+                            <VALUE_COST>750000000</VALUE_COST>
+                            <INCLUDING_VAT>
+                                <VAT_PRCT>25</VAT_PRCT>
+                            </INCLUDING_VAT>
+                        </COSTS_RANGE_AND_CURRENCY_WITH_VAT_RATE>
+                    </TOTAL_FINAL_VALUE>
+                </OBJECT_CONTRACT_INFORMATION_CONTRACT_AWARD_NOTICE>
+                <PROCEDURE_DEFINITION_CONTRACT_AWARD_NOTICE>
+                    <TYPE_OF_PROCEDURE_DEF>
+                        <PT_NEGOTIATED_WITH_COMPETITION/>
+                    </TYPE_OF_PROCEDURE_DEF>
+                    <AWARD_CRITERIA_CONTRACT_AWARD_NOTICE_INFORMATION>
+                        <AWARD_CRITERIA_DETAIL_F03>
+                            <MOST_ECONOMICALLY_ADVANTAGEOUS_TENDER_SHORT>
+                                <CRITERIA_DEFINITION>
+                                    <ORDER_C>1</ORDER_C>
+                                    <CRITERIA>Kvalitet på tjenestene</CRITERIA>
+                                    <WEIGHTING>65</WEIGHTING>
+                                </CRITERIA_DEFINITION>
+                                <CRITERIA_DEFINITION>
+                                    <ORDER_C>2</ORDER_C>
+                                    <CRITERIA>Totalkostnad</CRITERIA>
+                                    <WEIGHTING>35</WEIGHTING>
+                                </CRITERIA_DEFINITION>
+                            </MOST_ECONOMICALLY_ADVANTAGEOUS_TENDER_SHORT>
+                        </AWARD_CRITERIA_DETAIL_F03>
+                    </AWARD_CRITERIA_CONTRACT_AWARD_NOTICE_INFORMATION>
+                    <ADMINISTRATIVE_INFORMATION_CONTRACT_AWARD>
+                        <FILE_REFERENCE_NUMBER>
+                            <P>14/3025</P>
+                        </FILE_REFERENCE_NUMBER>
+                        <PREVIOUS_PUBLICATION_INFORMATION_NOTICE_F3>
+                            <PREVIOUS_PUBLICATION_EXISTS_F3>
+                                <CNT_NOTICE_INFORMATION>
+                                    <CNT_NOTICE_INFORMATION_S CHOICE="CONTRACT_NOTICE"/>
+                                    <NOTICE_NUMBER_OJ>2014/S 097-170406</NOTICE_NUMBER_OJ>
+                                    <DATE_OJ>
+                                        <DAY>17</DAY>
+                                        <MONTH>05</MONTH>
+                                        <YEAR>2014</YEAR>
+                                    </DATE_OJ>
+                                </CNT_NOTICE_INFORMATION>
+                                <NO_OTHER_PREVIOUS_PUBLICATION/>
+                            </PREVIOUS_PUBLICATION_EXISTS_F3>
+                        </PREVIOUS_PUBLICATION_INFORMATION_NOTICE_F3>
+                    </ADMINISTRATIVE_INFORMATION_CONTRACT_AWARD>
+                </PROCEDURE_DEFINITION_CONTRACT_AWARD_NOTICE>
+                <AWARD_OF_CONTRACT>
+                    <CONTRACT_NUMBER>1</CONTRACT_NUMBER>
+                    <LOT_NUMBER>1</LOT_NUMBER>
+                    <CONTRACT_TITLE>
+                        <P>Vedlikehold- og videreutvikling av Pensjonsløsningen</P>
+                    </CONTRACT_TITLE>
+                    <CONTRACT_AWARD_DATE>
+                        <DAY>22</DAY>
+                        <MONTH>12</MONTH>
+                        <YEAR>2014</YEAR>
+                    </CONTRACT_AWARD_DATE>
+                    <ECONOMIC_OPERATOR_NAME_ADDRESS>
+                        <CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+                            <ORGANISATION>
+                                <OFFICIALNAME>Accenture AS</OFFICIALNAME>
+                            </ORGANISATION>
+                            <ADDRESS>Rolfsbuktveien 2</ADDRESS>
+                            <TOWN>Lysaker</TOWN>
+                            <COUNTRY VALUE="NO"/>
+                        </CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+                    </ECONOMIC_OPERATOR_NAME_ADDRESS>
+                    <CONTRACT_VALUE_INFORMATION>
+                        <INITIAL_ESTIMATED_TOTAL_VALUE_CONTRACT CURRENCY="NOK">
+                            <VALUE_COST>750000000</VALUE_COST>
+                            <INCLUDING_VAT>
+                                <VAT_PRCT>25</VAT_PRCT>
+                            </INCLUDING_VAT>
+                        </INITIAL_ESTIMATED_TOTAL_VALUE_CONTRACT>
+                    </CONTRACT_VALUE_INFORMATION>
+                    <MORE_INFORMATION_TO_SUB_CONTRACTED>
+                        <NO_CONTRACT_LIKELY_SUB_CONTRACTED/>
+                    </MORE_INFORMATION_TO_SUB_CONTRACTED>
+                </AWARD_OF_CONTRACT>
+                <COMPLEMENTARY_INFORMATION_CONTRACT_AWARD>
+                    <RELATES_TO_EU_PROJECT_NO/>
+                    <NOTICE_DISPATCH_DATE>
+                        <DAY>20</DAY>
+                        <MONTH>1</MONTH>
+                        <YEAR>2015</YEAR>
+                    </NOTICE_DISPATCH_DATE>
+                </COMPLEMENTARY_INFORMATION_CONTRACT_AWARD>
+            </FD_CONTRACT_AWARD>
+        </CONTRACT_AWARD>
+    </FORM_SECTION>
+    <DOFFIN_APPENDIX>
+        <AUTHORITY_ORGANISATION_NR>889 640 782</AUTHORITY_ORGANISATION_NR>
+        <DOFFIN_FORM_TYPE>
+            <NATIONAL>
+                <LOCATION>
+                    <MUNICIPALITIES>
+                        <MUNICIPALITY code="301"/>
+                    </MUNICIPALITIES>
+                </LOCATION>
+                <REFERENCE_SECTION>
+                    <REFERENCE_DOFFIN TYPE="CONTRACT_NOTICE" DATE="2014-05-17">2014-888660</REFERENCE_DOFFIN>
+                </REFERENCE_SECTION>
+                <PUBLISH_TO_TED/>
+            </NATIONAL>
+        </DOFFIN_FORM_TYPE>
+    </DOFFIN_APPENDIX>
+</DOFFIN_ESENDERS>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DOFFIN_ESENDERS xsi:noNamespaceSchemaLocation="DOFFIN_ESENDERS.xd" VERSION="V2.0.0"
+                 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <FORM_SECTION>
+        <VOLUNTARY_PRIOR_INFORMATION LG="NB" CATEGORY="ORIGINAL" FORM="101" VERSION="N2.0.0">
+            <FD_VOLUNTARY_PRIOR_INFORMATION CTYPE="SERVICES">
+                <AUTHORITY_PRIOR_INFORMATION>
+                    <NAME_ADDRESSES_CONTACT_PRIOR_INFORMATION>
+                        <CA_CE_CONCESSIONAIRE_PROFILE>
+                            <ORGANISATION>
+                                <OFFICIALNAME>Arbeids- og velferdsdirektoratet, Økonomiavdelingen,
+                                    Anskaffelsesseksjonen
+                                </OFFICIALNAME>
+                                <NATIONALID>889640782</NATIONALID>
+                            </ORGANISATION>
+                            <ADDRESS>Postboks 5, St Olavs plass</ADDRESS>
+                            <TOWN>OSLO</TOWN>
+                            <POSTAL_CODE>0130</POSTAL_CODE>
+                            <COUNTRY VALUE="NO"/>
+                            <ATTENTION>Beate Oliver</ATTENTION>
+                            <PHONE>+47 21071000</PHONE>
+                            <E_MAILS>
+                                <E_MAIL>Beate.oliver@nav.no</E_MAIL>
+                            </E_MAILS>
+                            <FAX>+47 21071010</FAX>
+                        </CA_CE_CONCESSIONAIRE_PROFILE>
+                        <INTERNET_ADDRESSES_PRIOR_INFORMATION>
+                            <URL_BUYER>https://kgv.doffin.no/ctm/Supplier/CompanyInformation/Index/1002</URL_BUYER>
+                        </INTERNET_ADDRESSES_PRIOR_INFORMATION>
+                        <FURTHER_INFORMATION>
+                            <IDEM/>
+                        </FURTHER_INFORMATION>
+                    </NAME_ADDRESSES_CONTACT_PRIOR_INFORMATION>
+                </AUTHORITY_PRIOR_INFORMATION>
+                <OBJECT_PRIOR_INFORMATION>
+                    <TITLE_CONTRACT>
+                        <P>Markedsundersøkelse - Anskaffelse sentral IT infrastruktur</P>
+                    </TITLE_CONTRACT>
+                    <FRAMEWORK_AGREEMENT VALUE="YES"/>
+                    <SHORT_DESCRIPTION>
+                        <P>NAV har til hensikt å gjennomføre en anskaffelse for kjøp av produkter og tjenester innen IT
+                            infrastruktur.
+                        </P>
+                    </SHORT_DESCRIPTION>
+                    <CPV>
+                        <CPV_MAIN>
+                            <CPV_CODE CODE="50312610"/>
+                        </CPV_MAIN>
+                        <CPV_ADDITIONAL>
+                            <CPV_CODE CODE="48213000"/>
+                        </CPV_ADDITIONAL>
+                        <CPV_ADDITIONAL>
+                            <CPV_CODE CODE="72317000"/>
+                        </CPV_ADDITIONAL>
+                        <CPV_ADDITIONAL>
+                            <CPV_CODE CODE="72220000"/>
+                        </CPV_ADDITIONAL>
+                    </CPV>
+                    <SCHEDULED_DATE_PERIOD/>
+                    <ADDITIONAL_INFORMATION/>
+                </OBJECT_PRIOR_INFORMATION>
+                <OTH_INFO_PRIOR_INFORMATION>
+                    <NOTICE_DISPATCH_DATE>
+                        <DAY>26</DAY>
+                        <MONTH>11</MONTH>
+                        <YEAR>2015</YEAR>
+                    </NOTICE_DISPATCH_DATE>
+                </OTH_INFO_PRIOR_INFORMATION>
+            </FD_VOLUNTARY_PRIOR_INFORMATION>
+        </VOLUNTARY_PRIOR_INFORMATION>
+    </FORM_SECTION>
+    <DOFFIN_APPENDIX>
+        <AUTHORITY_ORGANISATION_NR>889 640 782</AUTHORITY_ORGANISATION_NR>
+        <DOFFIN_FORM_TYPE>
+            <VOLUNTARY>
+                <LOCATION>
+                    <COUNTIES>
+                        <COUNTY code="0300"/>
+                    </COUNTIES>
+                </LOCATION>
+                <EXTERNAL_DOCUMENT_URL>https://kgv.doffin.no/ctm/Supplier/Documents/Folder/138334
+                </EXTERNAL_DOCUMENT_URL>
+                <EXPRESSION_OF_INTEREST_URL>https://kgv.doffin.no/ctm/Supplier/Notice/281375
+                </EXPRESSION_OF_INTEREST_URL>
+            </VOLUNTARY>
+        </DOFFIN_FORM_TYPE>
+    </DOFFIN_APPENDIX>
+</DOFFIN_ESENDERS>
