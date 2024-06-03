@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TED_ESENDERS
+        xsi:noNamespaceSchemaLocation="http://publications.europa.eu/TED_schema/Reception/R2.0.8.S02/TED_ESENDERS.xd"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <SENDER>
+        <LOGIN CLASS="B">
+            <ESENDER_LOGIN>TED32</ESENDER_LOGIN>
+        </LOGIN>
+        <USER>
+            <ORGANISATION>
+                <OFFICIALNAME>Millstream Associates Limited</OFFICIALNAME>
+            </ORGANISATION>
+            <ATTENTION/>
+            <ADDRESS/>
+            <POSTAL_CODE/>
+            <TOWN/>
+            <COUNTRY VALUE="UK"/>
+            <PHONE>+44 1224636999</PHONE>
+            <USER_E_MAILS>
+                <USER_E_MAIL>support@millstream.eu</USER_E_MAIL>
+            </USER_E_MAILS>
+            <URL>http://www.millstream.eu/</URL>
+        </USER>
+        <NO_DOC_EXT>2012-255539</NO_DOC_EXT>
+    </SENDER>
+    <FORM_SECTION>
+        <CONTRACT_AWARD LG="NB" CATEGORY="ORIGINAL" FORM="3" VERSION="R2.0.8.S02">
+            <FD_CONTRACT_AWARD CTYPE="SERVICES">
+                <CONTRACTING_AUTHORITY_INFORMATION_CONTRACT_AWARD>
+                    <NAME_ADDRESSES_CONTACT_CONTRACT_AWARD>
+                        <CA_CE_CONCESSIONAIRE_PROFILE>
+                            <ORGANISATION>
+                                <OFFICIALNAME>Arbeids- og velferdsdirektoratet, NAV økonomi, Anskaffelser og
+                                    forretningsjuridisk avdeling
+                                </OFFICIALNAME>
+                            </ORGANISATION>
+                            <ADDRESS>Postboks 5, St Olavs plass,</ADDRESS>
+                            <TOWN>OSLO</TOWN>
+                            <POSTAL_CODE>0130</POSTAL_CODE>
+                            <COUNTRY VALUE="NO"/>
+                            <CONTACT_POINT>Anskaffelser og forretningsjuridisk</CONTACT_POINT>
+                            <ATTENTION>Beate Oliver</ATTENTION>
+                            <PHONE>+47 21071876</PHONE>
+                            <E_MAILS>
+                                <E_MAIL>nav.anskaffelser.arena.spa@nav.no</E_MAIL>
+                            </E_MAILS>
+                            <FAX>+47 21071010</FAX>
+                        </CA_CE_CONCESSIONAIRE_PROFILE>
+                        <INTERNET_ADDRESSES_CONTRACT_AWARD>
+                            <URL_GENERAL>www.nav.no</URL_GENERAL>
+                            <URL_BUYER>http://www.doffin.no//search/Search_AuthProfile.aspx?ID=AA0005</URL_BUYER>
+                        </INTERNET_ADDRESSES_CONTRACT_AWARD>
+                    </NAME_ADDRESSES_CONTACT_CONTRACT_AWARD>
+                    <TYPE_AND_ACTIVITIES_AND_PURCHASING_ON_BEHALF>
+                        <TYPE_AND_ACTIVITIES>
+                            <TYPE_OF_CONTRACTING_AUTHORITY VALUE="MINISTRY"/>
+                            <TYPE_OF_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+                        </TYPE_AND_ACTIVITIES>
+                        <PURCHASING_ON_BEHALF>
+                            <PURCHASING_ON_BEHALF_NO/>
+                        </PURCHASING_ON_BEHALF>
+                    </TYPE_AND_ACTIVITIES_AND_PURCHASING_ON_BEHALF>
+                </CONTRACTING_AUTHORITY_INFORMATION_CONTRACT_AWARD>
+                <OBJECT_CONTRACT_INFORMATION_CONTRACT_AWARD_NOTICE>
+                    <DESCRIPTION_AWARD_NOTICE_INFORMATION>
+                        <TITLE_CONTRACT>Anskaffelse av vedlikeholds- og videreutviklingsavtale for Arena
+                        </TITLE_CONTRACT>
+                        <TYPE_CONTRACT_LOCATION_W_PUB>
+                            <TYPE_CONTRACT VALUE="SERVICES"/>
+                            <SERVICE_CATEGORY_PUB>7</SERVICE_CATEGORY_PUB>
+                        </TYPE_CONTRACT_LOCATION_W_PUB>
+                        <LOCATION_NUTS>
+                            <LOCATION>
+                                <P>Oslo</P>
+                            </LOCATION>
+                        </LOCATION_NUTS>
+                        <SHORT_CONTRACT_DESCRIPTION>
+                            <P>Det skal anskaffes en vedlikeholds- og viderutviklingsavtale for Arena. Vedlikehold og
+                                videreutvikling av Arena omfatter i hovedsak feilretting, endringer,
+                                beredskapstjenester, proaktivt vedlikehold, samt videreutvikling basert på
+                                regelendringer og nye behov hos saksbehandlere.
+                            </P>
+                            <P>Arena er et saksbehandlingssystem laget for</P>
+                            <P>• å bidra til et velfungerende arbeidsmarked gjennom støtte til formidling, rekruttering
+                                og tiltak
+                            </P>
+                            <P>• å støtte forvaltning av ytelser under arbeidsledighet, attføring og tiltaksdeltakelse
+                            </P>
+                            <P>I NAV skal Arena i tillegg benyttes for oppfølging av personer som har vært sykmeldt en
+                                lengre periode, som er under rehabilitering eller som mottar tidsbegrenset uførestønad.
+                                Flere målgrupper og nye stønader / tjenester kan være aktuelle på sikt. Arena skal også
+                                gi støtte til bedriftsrettet oppfølging av avtalen om inkluderende arbeidsliv.
+                            </P>
+                        </SHORT_CONTRACT_DESCRIPTION>
+                        <CPV>
+                            <CPV_MAIN>
+                                <CPV_CODE CODE="72000000"/>
+                            </CPV_MAIN>
+                            <CPV_ADDITIONAL>
+                                <CPV_CODE CODE="72230000"/>
+                            </CPV_ADDITIONAL>
+                            <CPV_ADDITIONAL>
+                                <CPV_CODE CODE="72267100"/>
+                            </CPV_ADDITIONAL>
+                        </CPV>
+                        <CONTRACT_COVERED_GPA VALUE="YES"/>
+                    </DESCRIPTION_AWARD_NOTICE_INFORMATION>
+                </OBJECT_CONTRACT_INFORMATION_CONTRACT_AWARD_NOTICE>
+                <PROCEDURE_DEFINITION_CONTRACT_AWARD_NOTICE>
+                    <TYPE_OF_PROCEDURE_DEF>
+                        <PT_NEGOTIATED_WITH_COMPETITION/>
+                    </TYPE_OF_PROCEDURE_DEF>
+                    <AWARD_CRITERIA_CONTRACT_AWARD_NOTICE_INFORMATION>
+                        <AWARD_CRITERIA_DETAIL_F03>
+                            <MOST_ECONOMICALLY_ADVANTAGEOUS_TENDER_SHORT>
+                                <CRITERIA_DEFINITION>
+                                    <ORDER_C>1</ORDER_C>
+                                    <CRITERIA>Pris</CRITERIA>
+                                    <WEIGHTING>35</WEIGHTING>
+                                </CRITERIA_DEFINITION>
+                                <CRITERIA_DEFINITION>
+                                    <ORDER_C>2</ORDER_C>
+                                    <CRITERIA>Kvalitet</CRITERIA>
+                                    <WEIGHTING>65</WEIGHTING>
+                                </CRITERIA_DEFINITION>
+                            </MOST_ECONOMICALLY_ADVANTAGEOUS_TENDER_SHORT>
+                        </AWARD_CRITERIA_DETAIL_F03>
+                    </AWARD_CRITERIA_CONTRACT_AWARD_NOTICE_INFORMATION>
+                    <ADMINISTRATIVE_INFORMATION_CONTRACT_AWARD>
+                        <PREVIOUS_PUBLICATION_INFORMATION_NOTICE_F3>
+                            <PREVIOUS_PUBLICATION_EXISTS_F3>
+                                <CNT_NOTICE_INFORMATION>
+                                    <CNT_NOTICE_INFORMATION_S CHOICE="CONTRACT_NOTICE"/>
+                                    <NOTICE_NUMBER_OJ>2011/S 210-343149</NOTICE_NUMBER_OJ>
+                                    <DATE_OJ>
+                                        <DAY>26</DAY>
+                                        <MONTH>10</MONTH>
+                                        <YEAR>2011</YEAR>
+                                    </DATE_OJ>
+                                </CNT_NOTICE_INFORMATION>
+                                <NO_OTHER_PREVIOUS_PUBLICATION/>
+                            </PREVIOUS_PUBLICATION_EXISTS_F3>
+                        </PREVIOUS_PUBLICATION_INFORMATION_NOTICE_F3>
+                    </ADMINISTRATIVE_INFORMATION_CONTRACT_AWARD>
+                </PROCEDURE_DEFINITION_CONTRACT_AWARD_NOTICE>
+                <AWARD_OF_CONTRACT>
+                    <CONTRACT_TITLE>Vedlikeholds- og videreutviklingsavtale for Arena</CONTRACT_TITLE>
+                    <CONTRACT_AWARD_DATE>
+                        <DAY>30</DAY>
+                        <MONTH>03</MONTH>
+                        <YEAR>2012</YEAR>
+                    </CONTRACT_AWARD_DATE>
+                    <OFFERS_RECEIVED_NUMBER>4</OFFERS_RECEIVED_NUMBER>
+                    <ECONOMIC_OPERATOR_NAME_ADDRESS>
+                        <CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+                            <ORGANISATION>
+                                <OFFICIALNAME>Capgemini Norge As</OFFICIALNAME>
+                            </ORGANISATION>
+                            <ADDRESS>Pb 475, Skøyen</ADDRESS>
+                            <TOWN>Oslo</TOWN>
+                            <POSTAL_CODE>0214</POSTAL_CODE>
+                            <COUNTRY VALUE="NO"/>
+                        </CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+                    </ECONOMIC_OPERATOR_NAME_ADDRESS>
+                    <CONTRACT_VALUE_INFORMATION>
+                        <MORE_INFORMATION_IF_ANNUAL_MONTHLY/>
+                    </CONTRACT_VALUE_INFORMATION>
+                </AWARD_OF_CONTRACT>
+                <COMPLEMENTARY_INFORMATION_CONTRACT_AWARD>
+                    <ADDITIONAL_INFORMATION>
+                        <P>(NT Ref:255539)</P>
+                    </ADDITIONAL_INFORMATION>
+                    <NOTICE_DISPATCH_DATE>
+                        <DAY>12</DAY>
+                        <MONTH>04</MONTH>
+                        <YEAR>2012</YEAR>
+                    </NOTICE_DISPATCH_DATE>
+                </COMPLEMENTARY_INFORMATION_CONTRACT_AWARD>
+            </FD_CONTRACT_AWARD>
+        </CONTRACT_AWARD>
+    </FORM_SECTION>
+</TED_ESENDERS>

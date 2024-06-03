@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TED_ESENDERS
+        xsi:noNamespaceSchemaLocation="http://publications.europa.eu/TED_schema/Reception/R2.0.8.S02/TED_ESENDERS.xd"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <SENDER>
+        <LOGIN CLASS="B">
+            <ESENDER_LOGIN>TED32</ESENDER_LOGIN>
+        </LOGIN>
+        <USER>
+            <ORGANISATION>
+                <OFFICIALNAME>Millstream Associates Limited</OFFICIALNAME>
+            </ORGANISATION>
+            <ATTENTION/>
+            <ADDRESS/>
+            <POSTAL_CODE/>
+            <TOWN/>
+            <COUNTRY VALUE="UK"/>
+            <PHONE>+44 1224636999</PHONE>
+            <USER_E_MAILS>
+                <USER_E_MAIL>support@millstream.eu</USER_E_MAIL>
+            </USER_E_MAILS>
+            <URL>http://www.millstream.eu/</URL>
+        </USER>
+        <NO_DOC_EXT>2013-281148</NO_DOC_EXT>
+    </SENDER>
+    <FORM_SECTION>
+        <CONTRACT_AWARD LG="NB" CATEGORY="ORIGINAL" FORM="3" VERSION="R2.0.8.S02">
+            <FD_CONTRACT_AWARD CTYPE="SERVICES">
+                <CONTRACTING_AUTHORITY_INFORMATION_CONTRACT_AWARD>
+                    <NAME_ADDRESSES_CONTACT_CONTRACT_AWARD>
+                        <CA_CE_CONCESSIONAIRE_PROFILE>
+                            <ORGANISATION>
+                                <OFFICIALNAME>Arbeids- og velferdsdirektoratet, NAV økonomi, Anskaffelser og
+                                    forretningsjuridisk avdeling
+                                </OFFICIALNAME>
+                            </ORGANISATION>
+                            <ADDRESS>Postboks 5, St Olavs plass,</ADDRESS>
+                            <TOWN>OSLO</TOWN>
+                            <POSTAL_CODE>0130</POSTAL_CODE>
+                            <COUNTRY VALUE="NO"/>
+                            <ATTENTION>Mildrid Kvalvik</ATTENTION>
+                            <PHONE>+47 21071000</PHONE>
+                            <E_MAILS>
+                                <E_MAIL>nav.anskaffelser.drift@nav.no</E_MAIL>
+                            </E_MAILS>
+                            <FAX>+47 21071010</FAX>
+                        </CA_CE_CONCESSIONAIRE_PROFILE>
+                        <INTERNET_ADDRESSES_CONTRACT_AWARD>
+                            <URL_GENERAL>www.nav.no</URL_GENERAL>
+                            <URL_BUYER>http://www.doffin.no//search/Search_AuthProfile.aspx?ID=AA0005</URL_BUYER>
+                        </INTERNET_ADDRESSES_CONTRACT_AWARD>
+                    </NAME_ADDRESSES_CONTACT_CONTRACT_AWARD>
+                    <TYPE_AND_ACTIVITIES_AND_PURCHASING_ON_BEHALF>
+                        <TYPE_AND_ACTIVITIES>
+                            <TYPE_OF_CONTRACTING_AUTHORITY VALUE="MINISTRY"/>
+                            <TYPE_OF_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+                        </TYPE_AND_ACTIVITIES>
+                        <PURCHASING_ON_BEHALF>
+                            <PURCHASING_ON_BEHALF_NO/>
+                        </PURCHASING_ON_BEHALF>
+                    </TYPE_AND_ACTIVITIES_AND_PURCHASING_ON_BEHALF>
+                </CONTRACTING_AUTHORITY_INFORMATION_CONTRACT_AWARD>
+                <OBJECT_CONTRACT_INFORMATION_CONTRACT_AWARD_NOTICE>
+                    <DESCRIPTION_AWARD_NOTICE_INFORMATION>
+                        <TITLE_CONTRACT>Rammeavtale og vedlikeholdsavtale for IKT-sikkerhetsløsninger</TITLE_CONTRACT>
+                        <TYPE_CONTRACT_LOCATION_W_PUB>
+                            <TYPE_CONTRACT VALUE="SERVICES"/>
+                            <SERVICE_CATEGORY_PUB>7</SERVICE_CATEGORY_PUB>
+                        </TYPE_CONTRACT_LOCATION_W_PUB>
+                        <LOCATION_NUTS>
+                            <LOCATION>
+                                <P>Oslo</P>
+                            </LOCATION>
+                        </LOCATION_NUTS>
+                        <NOTICE_INVOLVES_DESC>
+                            <CONCLUSION_FRAMEWORK_AGREEMENT/>
+                        </NOTICE_INVOLVES_DESC>
+                        <SHORT_CONTRACT_DESCRIPTION>
+                            <P>Formålet med anskaffelsen er å sikre IKT Drift tilgang til produkter og tjenester
+                                innenfor området «Sikkerhetsløsninger». Dette omfatter bl.a., men ikke begrenset til,
+                                produkter for soneinndeling og sonekontroll (brannvegger), produkter for lastbalansering
+                                av trafikk, samt konsulenttjenester.
+                            </P>
+                            <P>Anskaffelsen skal videre sikre IKT Drift vedlikehold på ny og eksisterende maskinvare og
+                                programvare innenfor området.
+                            </P>
+                        </SHORT_CONTRACT_DESCRIPTION>
+                        <CPV>
+                            <CPV_MAIN>
+                                <CPV_CODE CODE="72000000"/>
+                            </CPV_MAIN>
+                        </CPV>
+                        <CONTRACT_COVERED_GPA VALUE="YES"/>
+                    </DESCRIPTION_AWARD_NOTICE_INFORMATION>
+                    <TOTAL_FINAL_VALUE>
+                        <COSTS_RANGE_AND_CURRENCY_WITH_VAT_RATE CURRENCY="NOK">
+                            <VALUE_COST>40000000</VALUE_COST>
+                            <EXCLUDING_VAT/>
+                        </COSTS_RANGE_AND_CURRENCY_WITH_VAT_RATE>
+                    </TOTAL_FINAL_VALUE>
+                </OBJECT_CONTRACT_INFORMATION_CONTRACT_AWARD_NOTICE>
+                <PROCEDURE_DEFINITION_CONTRACT_AWARD_NOTICE>
+                    <TYPE_OF_PROCEDURE_DEF>
+                        <PT_RESTRICTED/>
+                    </TYPE_OF_PROCEDURE_DEF>
+                    <AWARD_CRITERIA_CONTRACT_AWARD_NOTICE_INFORMATION>
+                        <AWARD_CRITERIA_DETAIL_F03>
+                            <MOST_ECONOMICALLY_ADVANTAGEOUS_TENDER_SHORT>
+                                <CRITERIA_DEFINITION>
+                                    <ORDER_C>1</ORDER_C>
+                                    <CRITERIA>Totalkostnad</CRITERIA>
+                                    <WEIGHTING>30</WEIGHTING>
+                                </CRITERIA_DEFINITION>
+                                <CRITERIA_DEFINITION>
+                                    <ORDER_C>2</ORDER_C>
+                                    <CRITERIA>Kvalitet</CRITERIA>
+                                    <WEIGHTING>60</WEIGHTING>
+                                </CRITERIA_DEFINITION>
+                                <CRITERIA_DEFINITION>
+                                    <ORDER_C>3</ORDER_C>
+                                    <CRITERIA>Kompetanse</CRITERIA>
+                                    <WEIGHTING>10</WEIGHTING>
+                                </CRITERIA_DEFINITION>
+                            </MOST_ECONOMICALLY_ADVANTAGEOUS_TENDER_SHORT>
+                        </AWARD_CRITERIA_DETAIL_F03>
+                    </AWARD_CRITERIA_CONTRACT_AWARD_NOTICE_INFORMATION>
+                    <ADMINISTRATIVE_INFORMATION_CONTRACT_AWARD>
+                        <FILE_REFERENCE_NUMBER>12/1171</FILE_REFERENCE_NUMBER>
+                        <PREVIOUS_PUBLICATION_INFORMATION_NOTICE_F3>
+                            <PREVIOUS_PUBLICATION_EXISTS_F3>
+                                <CNT_NOTICE_INFORMATION>
+                                    <CNT_NOTICE_INFORMATION_S CHOICE="CONTRACT_NOTICE"/>
+                                    <NOTICE_NUMBER_OJ>2012/S 147-246258</NOTICE_NUMBER_OJ>
+                                    <DATE_OJ>
+                                        <DAY>02</DAY>
+                                        <MONTH>08</MONTH>
+                                        <YEAR>2012</YEAR>
+                                    </DATE_OJ>
+                                </CNT_NOTICE_INFORMATION>
+                                <NO_OTHER_PREVIOUS_PUBLICATION/>
+                            </PREVIOUS_PUBLICATION_EXISTS_F3>
+                        </PREVIOUS_PUBLICATION_INFORMATION_NOTICE_F3>
+                    </ADMINISTRATIVE_INFORMATION_CONTRACT_AWARD>
+                </PROCEDURE_DEFINITION_CONTRACT_AWARD_NOTICE>
+                <AWARD_OF_CONTRACT>
+                    <CONTRACT_NUMBER>13/768,13/769</CONTRACT_NUMBER>
+                    <CONTRACT_TITLE>Rammeavtale og vedlikeholdsavtale for IKT sikkerhetsløsninger</CONTRACT_TITLE>
+                    <CONTRACT_AWARD_DATE>
+                        <DAY>16</DAY>
+                        <MONTH>01</MONTH>
+                        <YEAR>2013</YEAR>
+                    </CONTRACT_AWARD_DATE>
+                    <OFFERS_RECEIVED_NUMBER>2</OFFERS_RECEIVED_NUMBER>
+                    <ECONOMIC_OPERATOR_NAME_ADDRESS>
+                        <CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+                            <ORGANISATION>
+                                <OFFICIALNAME>Mnemonic As</OFFICIALNAME>
+                            </ORGANISATION>
+                            <ADDRESS>Wergelandsveien 25</ADDRESS>
+                            <TOWN>Oslo</TOWN>
+                            <POSTAL_CODE>0167</POSTAL_CODE>
+                            <COUNTRY VALUE="NO"/>
+                        </CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+                    </ECONOMIC_OPERATOR_NAME_ADDRESS>
+                    <CONTRACT_VALUE_INFORMATION>
+                        <INITIAL_ESTIMATED_TOTAL_VALUE_CONTRACT CURRENCY="NOK">
+                            <VALUE_COST>40000000</VALUE_COST>
+                            <INCLUDING_VAT>
+                                <VAT_PRCT>25</VAT_PRCT>
+                            </INCLUDING_VAT>
+                        </INITIAL_ESTIMATED_TOTAL_VALUE_CONTRACT>
+                        <MORE_INFORMATION_IF_ANNUAL_MONTHLY>
+                            <NUMBER_OF_YEARS>4</NUMBER_OF_YEARS>
+                        </MORE_INFORMATION_IF_ANNUAL_MONTHLY>
+                    </CONTRACT_VALUE_INFORMATION>
+                </AWARD_OF_CONTRACT>
+                <COMPLEMENTARY_INFORMATION_CONTRACT_AWARD>
+                    <ADDITIONAL_INFORMATION>
+                        <P>(NT Ref:281148)</P>
+                    </ADDITIONAL_INFORMATION>
+                    <NOTICE_DISPATCH_DATE>
+                        <DAY>01</DAY>
+                        <MONTH>02</MONTH>
+                        <YEAR>2013</YEAR>
+                    </NOTICE_DISPATCH_DATE>
+                </COMPLEMENTARY_INFORMATION_CONTRACT_AWARD>
+            </FD_CONTRACT_AWARD>
+        </CONTRACT_AWARD>
+    </FORM_SECTION>
+</TED_ESENDERS>
