@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DOFFIN_ESENDERS xsi:noNamespaceSchemaLocation="DOFFIN_ESENDERS.xd" VERSION="V3.0.1"
+                 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <FORM_SECTION>
+        <NOTICE_UUID>c9d4b002-f2e6-44b6-8666-3b6bc8d8f8ea</NOTICE_UUID>
+        <F03_2014 FORM="F03" CATEGORY="ORIGINAL" LG="NB">
+            <CONTRACTING_BODY>
+                <ADDRESS_CONTRACTING_BODY>
+                    <OFFICIALNAME>Arbeids- og velferdsdirektoratet, Økonomi- og styringsavdelingen,
+                        Anskaffelsesseksjonen
+                    </OFFICIALNAME>
+                    <NATIONALID>889640782</NATIONALID>
+                    <ADDRESS>Postboks 5, St Olavs plass</ADDRESS>
+                    <TOWN>OSLO</TOWN>
+                    <POSTAL_CODE>0130</POSTAL_CODE>
+                    <COUNTRY VALUE="NO"/>
+                    <CONTACT_POINT>Gunnar Helge Wiik</CONTACT_POINT>
+                    <PHONE>+47 21071000</PHONE>
+                    <E_MAIL>gunnar.helge.wiik@nav.no</E_MAIL>
+                    <FAX>+47 21071010</FAX>
+                    <LOCATION code="000000"/>
+                    <URL_GENERAL>www.nav.no</URL_GENERAL>
+                    <URL_BUYER>https://kgv.doffin.no/ctm/Supplier/CompanyInformation/Index/1002</URL_BUYER>
+                </ADDRESS_CONTRACTING_BODY>
+                <CA_TYPE VALUE="MINISTRY"/>
+                <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+            </CONTRACTING_BODY>
+            <OBJECT_CONTRACT>
+                <TITLE>
+                    <P>Anskaffelse av vedlikeholds- og videreutviklingsavtale for Arena</P>
+                </TITLE>
+                <CPV_MAIN>
+                    <CPV_CODE CODE="72000000"/>
+                </CPV_MAIN>
+                <TYPE_CONTRACT CTYPE="SERVICES"/>
+                <SHORT_DESCR>
+                    <P>Formålet med anskaffelsen er å etablere kontrakt for vedlikehold og videreutvikling av Arena med
+                        én leverandør.
+                    </P>
+                    <P>Oppdragsgiver vil legge vekt på bruk av en iterativ og smidig gjennomføringsmodell for
+                        videreutvikling.
+                    </P>
+                    <P>Arbeidet med Arena vil i hovedsak omfatte løsningsutforming, utvikling og test,
+                        konfigurasjonsstyring, vedlikehold av dokumentasjon, feilretting og forebyggende vedlikehold
+                        samt støtte til kundens systemforvaltning.
+                    </P>
+                    <P>I avtaleperioden er det planlagt å realisere funksjonalitet utenfor Arena som vil overta for
+                        funksjonelle områder som i dag inngår i Arena. Slik realisering av ny funksjonalitet vil normalt
+                        ikke inngå i kontrakt for Arena, og konsekvensen vil være at omfanget av Arena kan bli redusert.
+                        Dette vil imidlertid medføre arbeid innenfor Arena for integrasjon mot nye løsninger samt å
+                        sikre at gjenstående funksjonalitet i Arena fortsatt fungerer.
+                    </P>
+                    <P>Daglig drift av systemene foregår på et sentralt dataanlegg og driftes av NAV.</P>
+                </SHORT_DESCR>
+                <VAL_TOTAL CURRENCY="NOK">276026551.00</VAL_TOTAL>
+                <NO_LOT_DIVISION/>
+                <OBJECT_DESCR ITEM="1">
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72000000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72267000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72300000"/>
+                    </CPV_ADDITIONAL>
+                    <LOCATION code="010300"/>
+                    <SHORT_DESCR>
+                        <P>Formålet med anskaffelsen er å etablere kontrakt for vedlikehold og videreutvikling av Arena
+                            med én leverandør.
+                        </P>
+                        <P>Oppdragsgiver vil legge vekt på bruk av en iterativ og smidig gjennomføringsmodell for
+                            videreutvikling.
+                        </P>
+                        <P>Arbeidet med Arena vil i hovedsak omfatte løsningsutforming, utvikling og test,
+                            konfigurasjonsstyring, vedlikehold av dokumentasjon, feilretting og forebyggende vedlikehold
+                            samt støtte til kundens systemforvaltning.
+                        </P>
+                        <P>I avtaleperioden er det planlagt å realisere funksjonalitet utenfor Arena som vil overta for
+                            funksjonelle områder som i dag inngår i Arena. Slik realisering av ny funksjonalitet vil
+                            normalt ikke inngå i kontrakt for Arena, og konsekvensen vil være at omfanget av Arena kan
+                            bli redusert. Dette vil imidlertid medføre arbeid innenfor Arena for integrasjon mot nye
+                            løsninger samt å sikre at gjenstående funksjonalitet i Arena fortsatt fungerer.
+                        </P>
+                        <P>Daglig drift av systemene foregår på et sentralt dataanlegg og driftes av NAV.</P>
+                    </SHORT_DESCR>
+                    <AC_QUALITY>
+                        <AC_CRITERION>Kvalitet</AC_CRITERION>
+                        <AC_WEIGHTING>65%</AC_WEIGHTING>
+                    </AC_QUALITY>
+                    <AC_COST>
+                        <AC_CRITERION>Totalkostnad</AC_CRITERION>
+                        <AC_WEIGHTING>35%</AC_WEIGHTING>
+                    </AC_COST>
+                    <OPTIONS/>
+                    <OPTIONS_DESCR>
+                        <P>Oppdragsgiver (Kunden) har opsjon på forlengelse av avtalen i to ganger av inntil ett år av
+                            gangen.
+                        </P>
+                    </OPTIONS_DESCR>
+                    <NO_EU_PROGR_RELATED/>
+                </OBJECT_DESCR>
+            </OBJECT_CONTRACT>
+            <PROCEDURE>
+                <PT_COMPETITIVE_NEGOTIATION/>
+                <CONTRACT_COVERED_GPA/>
+                <NOTICE_NUMBER_OJ>2016/S 246-450726</NOTICE_NUMBER_OJ>
+            </PROCEDURE>
+            <AWARD_CONTRACT ITEM="1">
+                <CONTRACT_NO>17/4444 17/4445</CONTRACT_NO>
+                <TITLE>
+                    <P>Vedlikeholdskontrakt og kontrakt for videreutvikling av for Arena</P>
+                </TITLE>
+                <AWARDED_CONTRACT>
+                    <DATE_CONCLUSION_CONTRACT>2017-06-30</DATE_CONCLUSION_CONTRACT>
+                    <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+                    <NO_AWARDED_TO_GROUP/>
+                    <CONTRACTOR>
+                        <ADDRESS_CONTRACTOR>
+                            <OFFICIALNAME>Capgemini Norge AS</OFFICIALNAME>
+                            <TOWN>Oslo</TOWN>
+                            <COUNTRY VALUE="NO"/>
+                            <LOCATION code="000000"/>
+                        </ADDRESS_CONTRACTOR>
+                        <NO_SME/>
+                    </CONTRACTOR>
+                    <VAL_TOTAL CURRENCY="NOK">276026551.00</VAL_TOTAL>
+                </AWARDED_CONTRACT>
+            </AWARD_CONTRACT>
+            <COMPLEMENTARY_INFO>
+                <ADDRESS_REVIEW_BODY>
+                    <OFFICIALNAME>KOFA</OFFICIALNAME>
+                    <TOWN>Bergen</TOWN>
+                    <COUNTRY VALUE="NO"/>
+                </ADDRESS_REVIEW_BODY>
+                <DATE_DISPATCH_NOTICE>2017-08-22</DATE_DISPATCH_NOTICE>
+            </COMPLEMENTARY_INFO>
+        </F03_2014>
+    </FORM_SECTION>
+    <DOFFIN_APPENDIX>
+        <REFERENCE_SECTION>
+            <REFERENCE_DOFFIN>2016-070892</REFERENCE_DOFFIN>
+        </REFERENCE_SECTION>
+        <PUBLISH_TO_TED/>
+    </DOFFIN_APPENDIX>
+</DOFFIN_ESENDERS>
