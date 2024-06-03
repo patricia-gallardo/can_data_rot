@@ -218,6 +218,22 @@ function renderRect(node, nodeEnter, context, {left, right, fill}) {
         })
         .attr("height", context.yScale.bandwidth())
 
+    // Add labels for the nodes
+    nodeEnter.append('text')
+        .attr("x", (d) => context.xScale(left(d)) )
+        .attr("dy", (d) => context.yScale(d.label) - (context.yScale.bandwidth() / 10) )
+        .attr("text-anchor", (d) => "start")
+        .attr("fill", "black")
+        .attr("stroke", "black")
+        .style('font-size', context.fontSize ? context.fontSize : (context.yScale.bandwidth() * 0.5) + 'px')
+        .style('font-family', '"Fira Sans", sans-serif')
+        .style('font-weight', '400')
+        .attr("alignment-baseline", 'auto')
+        .attr("stroke-width", '0')
+        .text(function (d) {
+            return d.name ? d.name : "";
+        });
+
     // UPDATE
     const nodeUpdate = nodeEnter.merge(node);
 
