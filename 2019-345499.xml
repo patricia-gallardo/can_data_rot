@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DOFFIN_ESENDERS VERSION="V3.0.2" xsi:noNamespaceSchemaLocation="DOFFIN_ESENDERS.xd"
+                 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <FORM_SECTION>
+        <F03_2014 LG="NB" CATEGORY="ORIGINAL" FORM="F03">
+            <LEGAL_BASIS VALUE="32014L0024"/>
+            <CONTRACTING_BODY>
+                <ADDRESS_CONTRACTING_BODY>
+                    <OFFICIALNAME>ARBEIDS- OG VELFERDSETATEN (NAV)</OFFICIALNAME>
+                    <NATIONALID>889640782</NATIONALID>
+                    <ADDRESS>Postboks 5, St Olavs plass</ADDRESS>
+                    <TOWN>OSLO</TOWN>
+                    <POSTAL_CODE>0130</POSTAL_CODE>
+                    <COUNTRY VALUE="NO"/>
+                    <CONTACT_POINT>Unn Irene Lothe</CONTACT_POINT>
+                    <E_MAIL>unn.irene.lothe@nav.no</E_MAIL>
+                    <LOCATION code="000000"/>
+                    <URL_GENERAL>https://permalink.mercell.com/93596735.aspx</URL_GENERAL>
+                    <URL_BUYER>http://www.nav.no/</URL_BUYER>
+                </ADDRESS_CONTRACTING_BODY>
+                <CA_TYPE VALUE="MINISTRY"/>
+                <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+            </CONTRACTING_BODY>
+            <OBJECT_CONTRACT>
+                <TITLE>
+                    <P>Tildeling - rammeavtale for utvikling og forvaltning av løsninger for vedtaksbehandling og
+                        saksbehandling
+                    </P>
+                </TITLE>
+                <REFERENCE_NUMBER>18-1676</REFERENCE_NUMBER>
+                <CPV_MAIN>
+                    <CPV_CODE CODE="72230000"/>
+                </CPV_MAIN>
+                <TYPE_CONTRACT CTYPE="SERVICES"/>
+                <SHORT_DESCR>
+                    <P>Arbeids- og velferdsdirektoratet har gjennomført kvalifisering og forhandlinger med leverandørene
+                        som leverte tilbud.   Formålet med anskaffelsen er å etablere parallelle rammeavtaler med tre
+                        leverandører for bistand til utvikling og forvaltning av løsninger for vedtaksbehandling og
+                        saksbehandling i NAV.
+                    </P>
+                    <P>NAV skal gjennomføre utvikling og forvaltning med interne ressurser og  med ressursforsterkning
+                        og dekning av svingninger i kapasitetsbehov fra leverandørene. NAV  legger vekt på bruk av en
+                        iterativ og smidig gjennomføringsmodell, der Leverandørens ressurser inngår i våre
+                        utviklingsteam og bistå i avtaleperioden med relevant kompetanse.  Leverandøren skal kunne
+                        bemanne ulike roller i utviklingsteam.  
+                    </P>
+                    <P>Det kan også være aktuelt at leverandørene tar resultatansvaret for gjennomføring av
+                        utviklingsoppdrag iht bestilling.
+                    </P>
+                </SHORT_DESCR>
+                <VAL_TOTAL CURRENCY="NOK">380000000.00</VAL_TOTAL>
+                <NO_LOT_DIVISION/>
+                <OBJECT_DESCR ITEM="1">
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="48311000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="48311100"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72200000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72210000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72220000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72240000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72250000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72260000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72600000"/>
+                    </CPV_ADDITIONAL>
+                    <LOCATION code="010301"/>
+                    <SHORT_DESCR>
+                        <P>Kontraktene skal sikre NAV kapasitet og kompetanse for utvikling og forvaltning av løsninger
+                            innenfor vedtaksbehandling og saksbehandling og tilhørende områder. Det er etablert
+                            parallelle rammeavtaler med tre leverandører for bistand til utvikling og forvaltning av
+                            løsninger innen flere av NAVs produktområder, herunder Pensjon, Familie og Helse.
+                        </P>
+                        <P>Hver økning av kapasitet foretas gjennom iverksettelse av minikonkurranser mellom de tre
+                            leverandørene.
+                        </P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_QUALITY>
+                            <AC_CRITERION>Kvalitet på kompetanse for ressurser</AC_CRITERION>
+                            <AC_WEIGHTING>40%</AC_WEIGHTING>
+                        </AC_QUALITY>
+                        <AC_QUALITY>
+                            <AC_CRITERION>Kvalitet på tjenester</AC_CRITERION>
+                            <AC_WEIGHTING>55%</AC_WEIGHTING>
+                        </AC_QUALITY>
+                        <AC_QUALITY>
+                            <AC_CRITERION>Besvarelse av forslag til bestilling av oppstartsprosjekt</AC_CRITERION>
+                            <AC_WEIGHTING>5%</AC_WEIGHTING>
+                        </AC_QUALITY>
+                        <AC_PRICE>
+                            <AC_WEIGHTING>30%</AC_WEIGHTING>
+                        </AC_PRICE>
+                    </AC>
+                    <NO_OPTIONS/>
+                    <NO_EU_PROGR_RELATED/>
+                </OBJECT_DESCR>
+            </OBJECT_CONTRACT>
+            <PROCEDURE>
+                <PT_COMPETITIVE_NEGOTIATION/>
+                <CONTRACT_COVERED_GPA/>
+                <NOTICE_NUMBER_OJ>2018/S 206-471536</NOTICE_NUMBER_OJ>
+            </PROCEDURE>
+            <AWARD_CONTRACT ITEM="1">
+                <TITLE>
+                    <P>Tilbudsinnlevering - rammeavtale for utvikling og forvaltning av løsninger for vedtaksbehandling
+                        og saksbehandling
+                    </P>
+                </TITLE>
+                <AWARDED_CONTRACT>
+                    <DATE_CONCLUSION_CONTRACT>2019-02-26</DATE_CONCLUSION_CONTRACT>
+                    <TENDERS>
+                        <NB_TENDERS_RECEIVED>4</NB_TENDERS_RECEIVED>
+                    </TENDERS>
+                    <CONTRACTORS>
+                        <AWARDED_TO_GROUP/>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Visma Consulting AS</OFFICIALNAME>
+                                <ADDRESS>Dronning Eufemias gate 16</ADDRESS>
+                                <TOWN>OSLO</TOWN>
+                                <POSTAL_CODE>0191</POSTAL_CODE>
+                                <COUNTRY VALUE="NO"/>
+                                <PHONE>+47 46404000</PHONE>
+                                <E_MAIL>info.no.consulting@visma.com</E_MAIL>
+                                <FAX>+47 23688701</FAX>
+                                <LOCATION code="010301"/>
+                                <URL>http://www.visma.no/consulting</URL>
+                            </ADDRESS_CONTRACTOR>
+                            <SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Sopra Steria AS (hovedenhet)</OFFICIALNAME>
+                                <ADDRESS>Biskop Gunnerus' gate 14 A</ADDRESS>
+                                <TOWN>OSLO</TOWN>
+                                <POSTAL_CODE>0185</POSTAL_CODE>
+                                <COUNTRY VALUE="NO"/>
+                                <PHONE>+47 22575600</PHONE>
+                                <E_MAIL>salg.no@soprasteria.com</E_MAIL>
+                                <LOCATION code="010301"/>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME/>
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Experis AS</OFFICIALNAME>
+                                <ADDRESS>Lakkegata 53</ADDRESS>
+                                <TOWN>OSLO</TOWN>
+                                <POSTAL_CODE>0187</POSTAL_CODE>
+                                <COUNTRY VALUE="NO"/>
+                                <PHONE>+47 22018000</PHONE>
+                                <FAX>+47 22835110</FAX>
+                                <LOCATION code="010301"/>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME/>
+                        </CONTRACTOR>
+                    </CONTRACTORS>
+                    <VALUES>
+                        <VAL_ESTIMATED_TOTAL CURRENCY="NOK">380000000.00</VAL_ESTIMATED_TOTAL>
+                        <VAL_TOTAL CURRENCY="NOK">380000000.00</VAL_TOTAL>
+                    </VALUES>
+                </AWARDED_CONTRACT>
+            </AWARD_CONTRACT>
+            <COMPLEMENTARY_INFO>
+                <ADDRESS_REVIEW_BODY>
+                    <OFFICIALNAME>Arbeids- og velferdsdirektoratet</OFFICIALNAME>
+                    <TOWN>Oslo</TOWN>
+                    <COUNTRY VALUE="NO"/>
+                </ADDRESS_REVIEW_BODY>
+                <DATE_DISPATCH_NOTICE>2019-03-19</DATE_DISPATCH_NOTICE>
+            </COMPLEMENTARY_INFO>
+        </F03_2014>
+    </FORM_SECTION>
+    <DOFFIN_APPENDIX>
+        <REFERENCE_SECTION>
+            <REFERENCE_DOFFIN>2018-307274</REFERENCE_DOFFIN>
+        </REFERENCE_SECTION>
+        <PUBLISH_TO_TED/>
+    </DOFFIN_APPENDIX>
+</DOFFIN_ESENDERS>
