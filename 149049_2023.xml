@@ -1,0 +1,958 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TED_EXPORT xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xmlns="http://publications.europa.eu/resource/schema/ted/R2.0.9/publication"
+            xmlns:n2021="http://publications.europa.eu/resource/schema/ted/2021/nuts"
+            xsi:schemaLocation="http://publications.europa.eu/resource/schema/ted/R2.0.9/publication TED_EXPORT.xsd"
+            VERSION="R2.0.9.S05.E01" DOC_ID="149049-2023" EDITION="2023050">
+    <TECHNICAL_SECTION>
+        <RECEPTION_ID>23-145374-001</RECEPTION_ID>
+        <DELETION_DATE>20230414</DELETION_DATE>
+        <FORM_LG_LIST>EN</FORM_LG_LIST>
+        <COMMENTS>From Convertor</COMMENTS>
+    </TECHNICAL_SECTION>
+    <LINKS_SECTION>
+        <XML_SCHEMA_DEFINITION_LINK xlink:type="simple" xlink:href="https://ted.europa.eu" xlink:title="TED WEBSITE"/>
+        <OFFICIAL_FORMS_LINK xlink:type="simple" xlink:href="https://ted.europa.eu"/>
+        <FORMS_LABELS_LINK xlink:type="simple" xlink:href="https://ted.europa.eu"/>
+        <ORIGINAL_CPV_LINK xlink:type="simple" xlink:href="https://ted.europa.eu"/>
+        <ORIGINAL_NUTS_LINK xlink:type="simple" xlink:href="https://ted.europa.eu"/>
+    </LINKS_SECTION>
+    <CODED_DATA_SECTION>
+        <REF_OJS>
+            <COLL_OJ>S</COLL_OJ>
+            <NO_OJ>50</NO_OJ>
+            <DATE_PUB>20230310</DATE_PUB>
+        </REF_OJS>
+        <NOTICE_DATA>
+            <NO_DOC_OJS>2023/S 050-149049</NO_DOC_OJS>
+            <URI_LIST>
+                <URI_DOC LG="EN">https://ted.europa.eu/udl?uri=TED:NOTICE:149049-2023:TEXT:EN:HTML</URI_DOC>
+            </URI_LIST>
+            <LG_ORIG>EN</LG_ORIG>
+            <ISO_COUNTRY VALUE="NO"/>
+            <IA_URL_GENERAL>https://permalink.mercell.com/194087067.aspx</IA_URL_GENERAL>
+            <IA_URL_ETENDERING>https://permalink.mercell.com/194087067.aspx</IA_URL_ETENDERING>
+            <ORIGINAL_CPV CODE="79400000">Business and management consultancy and related services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="79600000">Recruitment services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="79200000">Accounting, auditing and fiscal services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="79419000">Evaluation consultancy services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="72221000">Business analysis consultancy services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="90711100">Risk or hazard assessment other than for construction</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="72224000">Project management consultancy services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="72225000">System quality assurance assessment and review services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="79414000">Human resources management consultancy services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="79420000">Management-related services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="79421000">Project-management services other than for construction work</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="79415200">Design consultancy services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="90713000">Environmental issues consultancy services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="48730000">Security software package</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="71317210">Health and safety consultancy services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="73400000">Research and Development services on security and defence materials
+            </ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="75240000">Public security, law and order services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="79000000">Business services: law, marketing, consulting, recruitment, printing and
+                security
+            </ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="79417000">Safety consultancy services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="79710000">Security services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="75231000">Judicial services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="79100000">Legal services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="79111000">Legal advisory services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="79140000">Legal advisory and information services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="79418000">Procurement consultancy services</ORIGINAL_CPV>
+            <n2021:PERFORMANCE_NUTS CODE="NO">Norge</n2021:PERFORMANCE_NUTS>
+            <n2021:CA_CE_NUTS CODE="NO">Norge</n2021:CA_CE_NUTS>
+            <VALUES>
+                <VALUE TYPE="ESTIMATED_TOTAL" CURRENCY="NOK">428000000.00</VALUE>
+            </VALUES>
+        </NOTICE_DATA>
+        <CODIF_DATA>
+            <DS_DATE_DISPATCH>20230307</DS_DATE_DISPATCH>
+            <DT_DATE_FOR_SUBMISSION>20230414 12:00</DT_DATE_FOR_SUBMISSION>
+            <AA_AUTHORITY_TYPE CODE="1">Ministry or any other national or federal authority</AA_AUTHORITY_TYPE>
+            <TD_DOCUMENT_TYPE CODE="3">Contract notice</TD_DOCUMENT_TYPE>
+            <NC_CONTRACT_NATURE CODE="4">Services</NC_CONTRACT_NATURE>
+            <PR_PROC CODE="2">Restricted procedure</PR_PROC>
+            <RP_REGULATION CODE="B">European Economic Area (EEA), with participation by GPA countries</RP_REGULATION>
+            <TY_TYPE_BID CODE="1">Submission for all lots</TY_TYPE_BID>
+            <AC_AWARD_CRIT CODE="2">The most economic tender</AC_AWARD_CRIT>
+            <MA_MAIN_ACTIVITIES CODE="S">General public services</MA_MAIN_ACTIVITIES>
+            <HEADING>03C02</HEADING>
+            <INITIATOR>03</INITIATOR>
+        </CODIF_DATA>
+    </CODED_DATA_SECTION>
+    <TRANSLATION_SECTION>
+        <ML_TITLES>
+            <ML_TI_DOC LG="BG">
+                <TI_CY>Норвегия</TI_CY>
+                <TI_TOWN>Mo i Rana</TI_TOWN>
+                <TI_TEXT>
+                    <P>Консултантски услуги по управление и стопанска дейност и свързаните с тях услуги</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="CS">
+                <TI_CY>Norsko</TI_CY>
+                <TI_TOWN>Mo i Rana</TI_TOWN>
+                <TI_TEXT>
+                    <P>Podnikatelské a manažerské poradenství a související služby</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="DA">
+                <TI_CY>Norge</TI_CY>
+                <TI_TOWN>Mo i Rana</TI_TOWN>
+                <TI_TEXT>
+                    <P>Virksomhedsrådgivning og administrativ rådgivning samt beslægtede tjenesteydelser</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="DE">
+                <TI_CY>Norwegen</TI_CY>
+                <TI_TOWN>Mo i Rana</TI_TOWN>
+                <TI_TEXT>
+                    <P>Unternehmens- und Managementberatung und zugehörige Dienste</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="EL">
+                <TI_CY>Νορβηγία</TI_CY>
+                <TI_TOWN>Mo i Rana</TI_TOWN>
+                <TI_TEXT>
+                    <P>Υπηρεσίες παροχής γενικών επιχειρηματικών συμβουλών και συμβουλών σε θέματα διαχείρισης</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="EN">
+                <TI_CY>Norway</TI_CY>
+                <TI_TOWN>Mo i Rana</TI_TOWN>
+                <TI_TEXT>
+                    <P>Business and management consultancy and related services</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="ES">
+                <TI_CY>Noruega</TI_CY>
+                <TI_TOWN>Mo i Rana</TI_TOWN>
+                <TI_TEXT>
+                    <P>Servicios de consultoría comercial y de gestión y servicios afines</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="ET">
+                <TI_CY>Norra</TI_CY>
+                <TI_TOWN>Mo i Rana</TI_TOWN>
+                <TI_TEXT>
+                    <P>Äri- ja juhtimisalased nõustamis- ja seonduvad teenused</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="FI">
+                <TI_CY>Norja</TI_CY>
+                <TI_TOWN>Mo i Rana</TI_TOWN>
+                <TI_TEXT>
+                    <P>Yrityskonsultointi, johdon konsultointi ja niihin liittyvät palvelut</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="FR">
+                <TI_CY>Norvège</TI_CY>
+                <TI_TOWN>Mo i Rana</TI_TOWN>
+                <TI_TEXT>
+                    <P>Conseil en affaires et en gestion et services connexes</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="GA">
+                <TI_CY>Iorua, an</TI_CY>
+                <TI_TOWN>Mo i Rana</TI_TOWN>
+                <TI_TEXT>
+                    <P>Business and management consultancy and related services</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="HR">
+                <TI_CY>Norveška</TI_CY>
+                <TI_TOWN>Mo i Rana</TI_TOWN>
+                <TI_TEXT>
+                    <P>Usluge savjetovanja na području poslovanja i upravljanja i srodne usluge</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="HU">
+                <TI_CY>Norvégia</TI_CY>
+                <TI_TOWN>Mo i Rana</TI_TOWN>
+                <TI_TEXT>
+                    <P>Üzleti és vezetői tanácsadói és kapcsolódó szolgáltatások</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="IT">
+                <TI_CY>Norvegia</TI_CY>
+                <TI_TOWN>Mo i Rana</TI_TOWN>
+                <TI_TEXT>
+                    <P>Servizi di consulenza commerciale e di gestione e servizi connessi</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="LT">
+                <TI_CY>Norvegija</TI_CY>
+                <TI_TOWN>Mo i Rana</TI_TOWN>
+                <TI_TEXT>
+                    <P>Verslo ir valdymo konsultacinės bei susijusios paslaugos</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="LV">
+                <TI_CY>Norvēģija</TI_CY>
+                <TI_TOWN>Mo i Rana</TI_TOWN>
+                <TI_TEXT>
+                    <P>Uzņēmējdarbības un vadības konsultāciju un saistītie pakalpojumi</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="MT">
+                <TI_CY>in-Norveġja</TI_CY>
+                <TI_TOWN>Mo i Rana</TI_TOWN>
+                <TI_TEXT>
+                    <P>Servizzi ta' l-amministrazzjoni tan-negozju u dawk relatati magħhom</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="NL">
+                <TI_CY>Noorwegen</TI_CY>
+                <TI_TOWN>Mo i Rana</TI_TOWN>
+                <TI_TEXT>
+                    <P>Adviezen inzake bedrijfsvoering en management, en aanverwante diensten</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="PL">
+                <TI_CY>Norwegia</TI_CY>
+                <TI_TOWN>Mo i Rana</TI_TOWN>
+                <TI_TEXT>
+                    <P>Usługi doradcze w zakresie działalności gospodarczej i zarządzania oraz podobne</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="PT">
+                <TI_CY>Noruega</TI_CY>
+                <TI_TOWN>Mo i Rana</TI_TOWN>
+                <TI_TEXT>
+                    <P>Serviços de consultoria em matéria comercial e de gestão e serviços conexos</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="RO">
+                <TI_CY>Norvegia</TI_CY>
+                <TI_TOWN>Mo i Rana</TI_TOWN>
+                <TI_TEXT>
+                    <P>Consultanţă în afaceri şi în management şi servicii conexe</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="SK">
+                <TI_CY>Nórsko</TI_CY>
+                <TI_TOWN>Mo i Rana</TI_TOWN>
+                <TI_TEXT>
+                    <P>Poradenské služby v oblasti obchodu a riadenia a súvisiace služby (podnikateľské poradenstvo)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="SL">
+                <TI_CY>Norveška</TI_CY>
+                <TI_TOWN>Mo i Rana</TI_TOWN>
+                <TI_TEXT>
+                    <P>Podjetniško in managersko svetovanje ter s tem povezane storitve</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="SV">
+                <TI_CY>Norge</TI_CY>
+                <TI_TOWN>Mo i Rana</TI_TOWN>
+                <TI_TEXT>
+                    <P>Företags- och managementrådgivning samt tillhörande tjänster</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+        </ML_TITLES>
+        <ML_AA_NAMES>
+            <AA_NAME LG="EN">ARBEIDS- OG VELFERDSETATEN</AA_NAME>
+        </ML_AA_NAMES>
+    </TRANSLATION_SECTION>
+    <FORM_SECTION>
+        <F02_2014 CATEGORY="ORIGINAL" FORM="F02" LG="EN">
+            <LEGAL_BASIS VALUE="32014L0024"/>
+            <CONTRACTING_BODY>
+                <ADDRESS_CONTRACTING_BODY>
+                    <OFFICIALNAME>ARBEIDS- OG VELFERDSETATEN</OFFICIALNAME>
+                    <NATIONALID>889640782</NATIONALID>
+                    <ADDRESS>Postboks 354</ADDRESS>
+                    <TOWN>Mo i Rana</TOWN>
+                    <POSTAL_CODE>8601</POSTAL_CODE>
+                    <COUNTRY VALUE="NO"/>
+                    <CONTACT_POINT>Else Marie Molden</CONTACT_POINT>
+                    <E_MAIL>else.marie.molden@nav.no</E_MAIL>
+                    <n2021:NUTS CODE="NO"/>
+                    <URL_GENERAL>https://permalink.mercell.com/194087067.aspx</URL_GENERAL>
+                    <URL_BUYER>http://www.nav.no/</URL_BUYER>
+                </ADDRESS_CONTRACTING_BODY>
+                <DOCUMENT_FULL/>
+                <URL_DOCUMENT>https://permalink.mercell.com/194087067.aspx</URL_DOCUMENT>
+                <ADDRESS_FURTHER_INFO_IDEM/>
+                <URL_PARTICIPATION>https://permalink.mercell.com/194087067.aspx</URL_PARTICIPATION>
+                <CA_TYPE VALUE="MINISTRY"/>
+                <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+            </CONTRACTING_BODY>
+            <OBJECT_CONTRACT>
+                <TITLE>
+                    <P>Procurement of parallel framework agreements for consultancy services for NAV</P>
+                </TITLE>
+                <REFERENCE_NUMBER>22/14419</REFERENCE_NUMBER>
+                <CPV_MAIN>
+                    <CPV_CODE CODE="79400000"/>
+                </CPV_MAIN>
+                <TYPE_CONTRACT CTYPE="SERVICES"/>
+                <SHORT_DESCR>
+                    <P>The Directorate of Labour and Welfare invites tenderers to a limited tender contest in connection
+                        with the procurement of parallel framework agreements for consultancy services.
+                    </P>
+                    <P>The contracts will cover the need for competence that the Contracting Authority does not have
+                        access to in its own agency at any given time, or where there is a need for extra capacity. The
+                        contracts can also be used for external quality assurance.
+                    </P>
+                    <P>The contract is for the Norwegian Directorate of Labour and Welfare [Arbeids- og
+                        velferdsdirektoratet]. Other NAV entities (government part) have an option to use the contract.
+                        Entities exercising their option within a lot (area of expertise) are obligated to make a
+                        call-off on the framework agreements within the same lot (area of expertise) if additional needs
+                        for consultancy services arise during the term of the Contract.
+                    </P>
+                    <P>The maximum value per lot (area of expertise) is 25% over the estimated total value.</P>
+                    <P>Click https://permalink.mercell.com/194087067.aspx</P>
+                </SHORT_DESCR>
+                <VAL_ESTIMATED_TOTAL CURRENCY="NOK">428000000.00</VAL_ESTIMATED_TOTAL>
+                <LOT_DIVISION>
+                    <LOT_MAX_NUMBER>8</LOT_MAX_NUMBER>
+                </LOT_DIVISION>
+                <OBJECT_DESCR ITEM="1">
+                    <TITLE>
+                        <P>Lot (area of expertise) 1 - Recruiting assistance - upper management, directors</P>
+                    </TITLE>
+                    <LOT_NO>1</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="79600000"/>
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="NO"/>
+                    <MAIN_SITE>
+                        <P>Oslo</P>
+                    </MAIN_SITE>
+                    <SHORT_DESCR>
+                        <P>Recruiting assistance - upper management, directors</P>
+                        <P>Examples are:</P>
+                        <P>Full recruitment process of upper management positions at the senior management level; this
+                            may be, for example, directors of departments in the Directorate, line directors, county
+                            directors, etc.
+                        </P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PROCUREMENT_DOC/>
+                    </AC>
+                    <VAL_OBJECT CURRENCY="NOK">8000000.00</VAL_OBJECT>
+                    <DATE_START>2023-11-01</DATE_START>
+                    <DATE_END>2025-10-31</DATE_END>
+                    <RENEWAL/>
+                    <RENEWAL_DESCR>
+                        <P>The contracting authority (the Customer) has the option to prolong the contract for an
+                            additional 1 + 1 year.
+                        </P>
+                    </RENEWAL_DESCR>
+                    <NB_MIN_LIMIT_CANDIDATE>6</NB_MIN_LIMIT_CANDIDATE>
+                    <NB_MAX_LIMIT_CANDIDATE>9</NB_MAX_LIMIT_CANDIDATE>
+                    <CRITERIA_CANDIDATE>
+                        <P>The selection of tenderers will be based on the degree of fulfilment of the qualification
+                            requirements for relevant experience from similar deliveries/assignments as stated in the
+                            Mercell portal.
+                        </P>
+                    </CRITERIA_CANDIDATE>
+                    <NO_ACCEPTED_VARIANTS/>
+                    <OPTIONS/>
+                    <OPTIONS_DESCR>
+                        <P>The contract is for the Norwegian Directorate of Labour and Welfare [Arbeids- og
+                            velferdsdirektoratet]. Other NAV entities (government part) have an option to use the
+                            contract. Entities exercising their option within a lot (area of expertise) are obligated to
+                            make a call-off on the framework agreements within the same lot (area of expertise) if
+                            additional needs for consultancy services arise during the term of the Contract.
+                        </P>
+                    </OPTIONS_DESCR>
+                    <NO_EU_PROGR_RELATED/>
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="2">
+                    <TITLE>
+                        <P>Lot (area of expertise 2 - Recruiting assistance - manager and employees</P>
+                    </TITLE>
+                    <LOT_NO>2</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="79600000"/>
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="NO"/>
+                    <MAIN_SITE>
+                        <P>Oslo</P>
+                    </MAIN_SITE>
+                    <SHORT_DESCR>
+                        <P>Recruiting assistance - manager and employees</P>
+                        <P>Examples are:</P>
+                        <P>- Full recruitment process of management positions at lower levels; this may be, for example,
+                            managers of sections or offices
+                        </P>
+                        <P>- Full recruitment process of key personnel, specialists and other employees. This applies in
+                            particular within finance and security, but also other categories except for
+                            IT/technology-oriented positions.
+                        </P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PROCUREMENT_DOC/>
+                    </AC>
+                    <VAL_OBJECT CURRENCY="NOK">8000000.00</VAL_OBJECT>
+                    <DATE_START>2023-11-01</DATE_START>
+                    <DATE_END>2025-10-31</DATE_END>
+                    <RENEWAL/>
+                    <RENEWAL_DESCR>
+                        <P>The contracting authority (the Customer) has the option to prolong the contract for an
+                            additional 1 + 1 year.
+                        </P>
+                    </RENEWAL_DESCR>
+                    <NB_MIN_LIMIT_CANDIDATE>7</NB_MIN_LIMIT_CANDIDATE>
+                    <NB_MAX_LIMIT_CANDIDATE>12</NB_MAX_LIMIT_CANDIDATE>
+                    <CRITERIA_CANDIDATE>
+                        <P>The selection of tenderers will be based on the degree of fulfilment of the qualification
+                            requirements for relevant experience from similar deliveries/assignments as stated in the
+                            Mercell portal.
+                        </P>
+                    </CRITERIA_CANDIDATE>
+                    <NO_ACCEPTED_VARIANTS/>
+                    <OPTIONS/>
+                    <OPTIONS_DESCR>
+                        <P>The contract is for the Norwegian Directorate of Labour and Welfare [Arbeids- og
+                            velferdsdirektoratet]. Other NAV entities (government part) have an option to use the
+                            contract. Entities exercising their option within a lot (area of expertise) are obligated to
+                            make a call-off on the framework agreements within the same lot (area of expertise) if
+                            additional needs for consultancy services arise during the term of the Contract.
+                        </P>
+                    </OPTIONS_DESCR>
+                    <NO_EU_PROGR_RELATED/>
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="3">
+                    <TITLE>
+                        <P>Lot (area of expertise) 3 - Recruiting assistance - IT-personnel (employees)</P>
+                    </TITLE>
+                    <LOT_NO>3</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="79600000"/>
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="NO"/>
+                    <MAIN_SITE>
+                        <P>Oslo</P>
+                    </MAIN_SITE>
+                    <SHORT_DESCR>
+                        <P>Recruiting assistance - IT-personnel (employees)</P>
+                        <P>Examples are:</P>
+                        <P>- Full recruitment process of IT personnel. This applies in particular to positions within IT
+                            security and development, but applies to all categories related to IT/technology-oriented
+                            positions.
+                        </P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PROCUREMENT_DOC/>
+                    </AC>
+                    <VAL_OBJECT CURRENCY="NOK">4000000.00</VAL_OBJECT>
+                    <DATE_START>2023-11-01</DATE_START>
+                    <DATE_END>2025-10-31</DATE_END>
+                    <RENEWAL/>
+                    <RENEWAL_DESCR>
+                        <P>The contracting authority (the Customer) has the option to prolong the contract for an
+                            additional 1 + 1 year.
+                        </P>
+                    </RENEWAL_DESCR>
+                    <NB_MIN_LIMIT_CANDIDATE>6</NB_MIN_LIMIT_CANDIDATE>
+                    <NB_MAX_LIMIT_CANDIDATE>9</NB_MAX_LIMIT_CANDIDATE>
+                    <CRITERIA_CANDIDATE>
+                        <P>The selection of tenderers will be based on the degree of fulfilment of the qualification
+                            requirements for relevant experience from similar deliveries/assignments as stated in the
+                            Mercell portal.
+                        </P>
+                    </CRITERIA_CANDIDATE>
+                    <NO_ACCEPTED_VARIANTS/>
+                    <OPTIONS/>
+                    <OPTIONS_DESCR>
+                        <P>The contract is for the Norwegian Directorate of Labour and Welfare [Arbeids- og
+                            velferdsdirektoratet]. Other NAV entities (government part) have an option to use the
+                            contract. Entities exercising their option within a lot (area of expertise) are obligated to
+                            make a call-off on the framework agreements within the same lot (area of expertise) if
+                            additional needs for consultancy services arise during the term of the Contract.
+                        </P>
+                    </OPTIONS_DESCR>
+                    <NO_EU_PROGR_RELATED/>
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="4">
+                    <TITLE>
+                        <P>Lot (area of expertise) 4 - Business and financial management</P>
+                    </TITLE>
+                    <LOT_NO>4</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="79200000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="79400000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="79419000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72221000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="90711100"/>
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="NO"/>
+                    <MAIN_SITE>
+                        <P>Oslo</P>
+                    </MAIN_SITE>
+                    <SHORT_DESCR>
+                        <P>Business and financial management</P>
+                        <P>Examples are:</P>
+                        <P>- Development of business and financial management</P>
+                        <P>- Management that supports product development</P>
+                        <P>- Quality review and overview of challenges in accounting and budgeting processes</P>
+                        <P>- Self-service and automated finance and management processes</P>
+                        <P>- Development of financial management information and provision of data</P>
+                        <P>- Analyses and insight as a basis for decisions</P>
+                        <P>- Government accounting standards and accounting expertise</P>
+                        <P>- Evaluations</P>
+                        <P>- Panning, budget and reporting processes</P>
+                        <P>- Gains estimation and gains realisation</P>
+                        <P>- Portfolio management</P>
+                        <P>- Risk management and handling risk</P>
+                        <P>- Quality management and internal controls</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PROCUREMENT_DOC/>
+                    </AC>
+                    <VAL_OBJECT CURRENCY="NOK">80000000.00</VAL_OBJECT>
+                    <DATE_START>2023-11-01</DATE_START>
+                    <DATE_END>2025-10-31</DATE_END>
+                    <RENEWAL/>
+                    <RENEWAL_DESCR>
+                        <P>The contracting authority (the Customer) has the option to prolong the contract for an
+                            additional 1 + 1 year.
+                        </P>
+                    </RENEWAL_DESCR>
+                    <NB_MIN_LIMIT_CANDIDATE>9</NB_MIN_LIMIT_CANDIDATE>
+                    <NB_MAX_LIMIT_CANDIDATE>12</NB_MAX_LIMIT_CANDIDATE>
+                    <CRITERIA_CANDIDATE>
+                        <P>The selection of tenderers will be based on the degree of fulfilment of the qualification
+                            requirements for relevant experience from similar deliveries/assignments as stated in the
+                            Mercell portal.
+                        </P>
+                    </CRITERIA_CANDIDATE>
+                    <NO_ACCEPTED_VARIANTS/>
+                    <OPTIONS/>
+                    <OPTIONS_DESCR>
+                        <P>The contract is for the Norwegian Directorate of Labour and Welfare [Arbeids- og
+                            velferdsdirektoratet]. Other NAV entities (government part) have an option to use the
+                            contract. Entities exercising their option within a lot (area of expertise) are obligated to
+                            make a call-off on the framework agreements within the same lot (area of expertise) if
+                            additional needs for consultancy services arise during the term of the Contract.
+                        </P>
+                    </OPTIONS_DESCR>
+                    <NO_EU_PROGR_RELATED/>
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="5">
+                    <TITLE>
+                        <P>Lot (area of expertise) 5 - Project management, architecture and business consultancy</P>
+                    </TITLE>
+                    <LOT_NO>5</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72224000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72225000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="79400000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="79414000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="79420000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="79421000"/>
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="NO"/>
+                    <MAIN_SITE>
+                        <P>Oslo</P>
+                    </MAIN_SITE>
+                    <SHORT_DESCR>
+                        <P>Examples are:</P>
+                        <P>- Project management of mainly large and medium-seized projects, for example, within
+                            digitalisation and process development
+                        </P>
+                        <P>- Process drivers, flexibility</P>
+                        <P>- Support for project managers, team leaders, product leaders, etc. in fields such as</P>
+                        <P>--- planning</P>
+                        <P>--- mapping</P>
+                        <P>--- quality assurance</P>
+                        <P>--- estimations</P>
+                        <P>--- handling risk</P>
+                        <P>--- gainful employment</P>
+                        <P>- Assistance within company architecture, business architecture, system architecture and
+                            information architecture with services related to:
+                        </P>
+                        <P>--- Creating and providing a comprehensive overview of the company</P>
+                        <P>--- Providing advice and assistance with development measures</P>
+                        <P>--- Drive or contribute to processes to develop and/or anchor decision-making proposals</P>
+                        <P>--- Contribute to setting frameworks and directions for innovation and development
+                            initiatives
+                        </P>
+                        <P>- Strategic staffing management, including the use of and interaction between recruitment,
+                            development, restructuring and discontinuation
+                        </P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PROCUREMENT_DOC/>
+                    </AC>
+                    <VAL_OBJECT CURRENCY="NOK">80000000.00</VAL_OBJECT>
+                    <DATE_START>2023-11-01</DATE_START>
+                    <DATE_END>2025-10-31</DATE_END>
+                    <RENEWAL/>
+                    <RENEWAL_DESCR>
+                        <P>The contracting authority (the Customer) has the option to prolong the contract for an
+                            additional 1 + 1 year.
+                        </P>
+                    </RENEWAL_DESCR>
+                    <NB_MIN_LIMIT_CANDIDATE>13</NB_MIN_LIMIT_CANDIDATE>
+                    <NB_MAX_LIMIT_CANDIDATE>15</NB_MAX_LIMIT_CANDIDATE>
+                    <CRITERIA_CANDIDATE>
+                        <P>The selection of tenderers will be based on the degree of fulfilment of the qualification
+                            requirements for relevant experience from similar deliveries/assignments as stated in the
+                            Mercell portal.
+                        </P>
+                    </CRITERIA_CANDIDATE>
+                    <NO_ACCEPTED_VARIANTS/>
+                    <OPTIONS/>
+                    <OPTIONS_DESCR>
+                        <P>The contract is for the Norwegian Directorate of Labour and Welfare [Arbeids- og
+                            velferdsdirektoratet]. Other NAV entities (government part) have an option to use the
+                            contract. Entities exercising their option within a lot (area of expertise) are obligated to
+                            make a call-off on the framework agreements within the same lot (area of expertise) if
+                            additional needs for consultancy services arise during the term of the Contract.
+                        </P>
+                    </OPTIONS_DESCR>
+                    <NO_EU_PROGR_RELATED/>
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="6">
+                    <TITLE>
+                        <P>Lot (area of expertise) 6 - Strategy and organisational development</P>
+                    </TITLE>
+                    <LOT_NO>6</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72224000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72221000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="79400000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="79414000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="79415200"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="79421000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="90713000"/>
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="NO"/>
+                    <MAIN_SITE>
+                        <P>Oslo</P>
+                    </MAIN_SITE>
+                    <SHORT_DESCR>
+                        <P>Strategy and organisational development</P>
+                        <P>Mainly at the general agency level, but may also be relevant at the unit level.</P>
+                        <P>Examples are:</P>
+                        <P>- Consultancy, process management and process support, as well as related methods and tools
+                        </P>
+                        <P>- Strategy development and consultancy</P>
+                        <P>- Strategy implementation</P>
+                        <P>- Development of management information as goals, management parameters and management
+                            indicators
+                        </P>
+                        <P>- Company and organisational development</P>
+                        <P>- Business and service development</P>
+                        <P>- Streamlining and continual improvement</P>
+                        <P>- Strategic sustainability (social, financial and environmental)</P>
+                        <P>- Organisational design, work processes, roles and responsibilities</P>
+                        <P>- Restructuring and change processes</P>
+                        <P>- Change management, digital transformation for managers</P>
+                        <P>- Organisational culture analysis/review and evaluation of the organisation</P>
+                        <P>- Strategic competence work, development, management and mapping</P>
+                        <P>- Organisational and personnel analyses, including obtaining and comparing data, analyses and
+                            decision bases.
+                        </P>
+                        <P>- Analyses and insight work as a basis for decision-making (within the themes specified
+                            above)
+                        </P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PROCUREMENT_DOC/>
+                    </AC>
+                    <VAL_OBJECT CURRENCY="NOK">120000000.00</VAL_OBJECT>
+                    <DATE_START>2023-11-01</DATE_START>
+                    <DATE_END>2025-10-31</DATE_END>
+                    <RENEWAL/>
+                    <RENEWAL_DESCR>
+                        <P>The contracting authority (the Customer) has the option to prolong the contract for an
+                            additional 1 + 1 year.
+                        </P>
+                    </RENEWAL_DESCR>
+                    <NB_MIN_LIMIT_CANDIDATE>9</NB_MIN_LIMIT_CANDIDATE>
+                    <NB_MAX_LIMIT_CANDIDATE>12</NB_MAX_LIMIT_CANDIDATE>
+                    <CRITERIA_CANDIDATE>
+                        <P>The selection of tenderers will be based on the degree of fulfilment of the qualification
+                            requirements for relevant experience from similar deliveries/assignments as stated in the
+                            Mercell portal.
+                        </P>
+                    </CRITERIA_CANDIDATE>
+                    <NO_ACCEPTED_VARIANTS/>
+                    <OPTIONS/>
+                    <OPTIONS_DESCR>
+                        <P>The contract is for the Norwegian Directorate of Labour and Welfare [Arbeids- og
+                            velferdsdirektoratet]. Other NAV entities (government part) have an option to use the
+                            contract. Entities exercising their option within a lot (area of expertise) are obligated to
+                            make a call-off on the framework agreements within the same lot (area of expertise) if
+                            additional needs for consultancy services arise during the term of the Contract.
+                        </P>
+                    </OPTIONS_DESCR>
+                    <NO_EU_PROGR_RELATED/>
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="7">
+                    <TITLE>
+                        <P>Lot (area of expertise) 7 - Security</P>
+                    </TITLE>
+                    <LOT_NO>7</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="48730000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="71317210"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="73400000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="75240000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="79000000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="79417000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="79710000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="90711100"/>
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="NO"/>
+                    <MAIN_SITE>
+                        <P>Oslo</P>
+                    </MAIN_SITE>
+                    <SHORT_DESCR>
+                        <P>Safety</P>
+                        <P>Examples are:</P>
+                        <P>- Social security and preparedness</P>
+                        <P>--- Preventive security</P>
+                        <P>--- Safety management and risk framework</P>
+                        <P>--- Management reporting and continuity management</P>
+                        <P>--- Threat intelligence and analysis</P>
+                        <P>--- Security legislation and best practices for security areas</P>
+                        <P>--- Personnel security</P>
+                        <P>- Information security and cyber security</P>
+                        <P>--- Risk management and third-party risk management (TPRM)</P>
+                        <P>--- ISMS and framework</P>
+                        <P>--- Security culture and awareness</P>
+                        <P>--- Application security/SecDevOps</P>
+                        <P>--- Security architecture</P>
+                        <P>--- IAM</P>
+                        <P>--- Security monitoring and reporting</P>
+                        <P>- Physical security of buildings and areas</P>
+                        <P>--- including security technology in "smart buildings"</P>
+                        <P>--- security risk analysis</P>
+                        <P>- Expertise in audit/verification of security assessments and controls in flexible
+                            development
+                        </P>
+                        <P>- Consultancy and development of processes, methods and support materials</P>
+                        <P>- Management for hire at different levels, e.g. management in anticipation of hiring,
+                            operations centre manager, CISO, security team
+                        </P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PROCUREMENT_DOC/>
+                    </AC>
+                    <VAL_OBJECT CURRENCY="NOK">48000000.00</VAL_OBJECT>
+                    <DATE_START>2023-11-01</DATE_START>
+                    <DATE_END>2025-10-31</DATE_END>
+                    <RENEWAL/>
+                    <RENEWAL_DESCR>
+                        <P>The contracting authority (the Customer) has the option to prolong the contract for an
+                            additional 1 + 1 year.
+                        </P>
+                    </RENEWAL_DESCR>
+                    <NB_MIN_LIMIT_CANDIDATE>8</NB_MIN_LIMIT_CANDIDATE>
+                    <NB_MAX_LIMIT_CANDIDATE>12</NB_MAX_LIMIT_CANDIDATE>
+                    <CRITERIA_CANDIDATE>
+                        <P>The selection of tenderers will be based on the degree of fulfilment of the qualification
+                            requirements for relevant experience from similar deliveries/assignments as stated in the
+                            Mercell portal.
+                        </P>
+                    </CRITERIA_CANDIDATE>
+                    <NO_ACCEPTED_VARIANTS/>
+                    <OPTIONS/>
+                    <OPTIONS_DESCR>
+                        <P>The contract is for the Norwegian Directorate of Labour and Welfare [Arbeids- og
+                            velferdsdirektoratet]. Other NAV entities (government part) have an option to use the
+                            contract. Entities exercising their option within a lot (area of expertise) are obligated to
+                            make a call-off on the framework agreements within the same lot (area of expertise) if
+                            additional needs for consultancy services arise during the term of the Contract.
+                        </P>
+                    </OPTIONS_DESCR>
+                    <NO_EU_PROGR_RELATED/>
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="8">
+                    <TITLE>
+                        <P>Lot (area of expertise) 8 - Legal services</P>
+                    </TITLE>
+                    <LOT_NO>8</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="75231000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="79100000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="79111000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="79140000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="79418000"/>
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="NO"/>
+                    <MAIN_SITE>
+                        <P>Oslo</P>
+                    </MAIN_SITE>
+                    <SHORT_DESCR>
+                        <P>Legal services</P>
+                        <P>Examples are:</P>
+                        <P>- Legal advice, both individual questions and major review work. Especially in relation to
+                        </P>
+                        <P>--- General administrative law including the Freedom of Information Act</P>
+                        <P>--- General labour and welfare law</P>
+                        <P>--- Privacy law</P>
+                        <P>--- EEA law</P>
+                        <P>- Legal advice related to information security and privacy law in general</P>
+                        <P>- Legal assistance for IT development to ensure privacy by design and regulatory compliance
+                            in general
+                        </P>
+                        <P>-Privacy impact assessments and data processing agreements in particular</P>
+                        <P>- Privacy law competence connected to information management</P>
+                        <P>- Assistance related to public procurements and contract management</P>
+                        <P>- Assistance related to equality and discrimination law</P>
+                        <P>- Assistance related to Sami/indigenous law</P>
+                        <P>- Assistance with legal disputes, in particular in the areas mentioned above.</P>
+                        <P>Please note that for this lot (area of expertise) the following requirements are set forth in
+                            Part III of the Tender Documentation: The resources offered must be lawyers with a valid
+                            Norwegian licence to practise law or assistant lawyers with a valid authorisation, and
+                            possibly others who comply with Chapter 10 of the Lawyer Regulations.
+                        </P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PROCUREMENT_DOC/>
+                    </AC>
+                    <VAL_OBJECT CURRENCY="NOK">80000000.00</VAL_OBJECT>
+                    <DATE_START>2023-11-01</DATE_START>
+                    <DATE_END>2025-10-31</DATE_END>
+                    <RENEWAL/>
+                    <RENEWAL_DESCR>
+                        <P>The contracting authority (the Customer) has the option to prolong the contract for an
+                            additional 1 + 1 year.
+                        </P>
+                    </RENEWAL_DESCR>
+                    <NB_MIN_LIMIT_CANDIDATE>6</NB_MIN_LIMIT_CANDIDATE>
+                    <NB_MAX_LIMIT_CANDIDATE>7</NB_MAX_LIMIT_CANDIDATE>
+                    <CRITERIA_CANDIDATE>
+                        <P>The selection of tenderers will be based on the degree of fulfilment of the qualification
+                            requirements for relevant experience from similar deliveries/assignments as stated in the
+                            Mercell portal.
+                        </P>
+                    </CRITERIA_CANDIDATE>
+                    <NO_ACCEPTED_VARIANTS/>
+                    <OPTIONS/>
+                    <OPTIONS_DESCR>
+                        <P>The contract is for the Norwegian Directorate of Labour and Welfare [Arbeids- og
+                            velferdsdirektoratet]. Other NAV entities (government part) have an option to use the
+                            contract. Entities exercising their option within a lot (area of expertise) are obligated to
+                            make a call-off on the framework agreements within the same lot (area of expertise) if
+                            additional needs for consultancy services arise during the term of the Contract.
+                        </P>
+                    </OPTIONS_DESCR>
+                    <NO_EU_PROGR_RELATED/>
+                </OBJECT_DESCR>
+            </OBJECT_CONTRACT>
+            <LEFTI>
+                <SUITABILITY>
+                    <P>Qualification Requirements: Tenderers are required to be a legally established company.</P>
+                    <P>Documentation requirement: Norwegian tenderers: Company registration certificate from the
+                        Brønnøysund Register Centre. Foreign Tenderers: Certificate for registration in the Register of
+                        Business Enterprises as prescribed in the legislation of the country in which the tenderer is
+                        established.
+                    </P>
+                    <P>Qualification requirement: Norwegian tenderers must have their tax and VAT payments in order.</P>
+                    <P>Documentation requirement: Norwegian tenderers: A Tax and VAT certificate from the tax
+                        authorities. The certificate shall not be older than 6 months from the deadline for requests to
+                        participate in the tender contest.
+                    </P>
+                </SUITABILITY>
+                <ECONOMIC_FINANCIAL_INFO>
+                    <P>Qualification requirement: The tenderer is required to have sufficient economic capacity to
+                        fulfil the contract.
+                    </P>
+                    <P>Documentation requirement: The contracting authority will obtain a credit rating carried out by
+                        Experian; see www.Experian.no. If a tenderer believes that the credit rating will not provide an
+                        accurate picture, supplementary information is to be attached to the request for qualification.
+                    </P>
+                </ECONOMIC_FINANCIAL_INFO>
+                <TECHNICAL_PROFESSIONAL_INFO>
+                    <P>Qualification requirement: Relevant experience from similar deliveries/assignments is required.
+                    </P>
+                    <P>Documentation requirement: The tenderer's 3 most important deliveries over the last 3 years,
+                        including a description of the assignments, their scope/value, date and recipients. The template
+                        in the qualification documentation, annex 2, must be used to document fulfilment of the
+                        requirement.
+                    </P>
+                </TECHNICAL_PROFESSIONAL_INFO>
+            </LEFTI>
+            <PROCEDURE>
+                <PT_RESTRICTED/>
+                <FRAMEWORK>
+                    <SEVERAL_OPERATORS/>
+                    <NB_PARTICIPANTS>55</NB_PARTICIPANTS>
+                </FRAMEWORK>
+                <CONTRACT_COVERED_GPA/>
+                <DATE_RECEIPT_TENDERS>2023-04-14</DATE_RECEIPT_TENDERS>
+                <TIME_RECEIPT_TENDERS>12:00</TIME_RECEIPT_TENDERS>
+                <LANGUAGES>
+                    <LANGUAGE VALUE="NO"/>
+                </LANGUAGES>
+                <DATE_TENDER_VALID>2023-12-15</DATE_TENDER_VALID>
+            </PROCEDURE>
+            <COMPLEMENTARY_INFO>
+                <NO_RECURRENT_PROCUREMENT/>
+                <EORDERING/>
+                <EINVOICING/>
+                <EPAYMENT/>
+                <ADDRESS_REVIEW_BODY>
+                    <OFFICIALNAME>Oslo Tingrett</OFFICIALNAME>
+                    <ADDRESS>Pb. 2106 Vika</ADDRESS>
+                    <TOWN>Oslo</TOWN>
+                    <POSTAL_CODE>0661</POSTAL_CODE>
+                    <COUNTRY VALUE="NO"/>
+                </ADDRESS_REVIEW_BODY>
+                <DATE_DISPATCH_NOTICE>2023-03-07</DATE_DISPATCH_NOTICE>
+            </COMPLEMENTARY_INFO>
+        </F02_2014>
+    </FORM_SECTION>
+</TED_EXPORT>

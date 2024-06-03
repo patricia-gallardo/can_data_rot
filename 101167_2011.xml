@@ -1,0 +1,1335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TED_EXPORT xmlns="http://publications.europa.eu/TED_schema/Export"
+            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink"
+            xsi:schemaLocation="http://publications.europa.eu/TED_schema/Export TED_EXPORT.xsd" DOC_ID="101167-2011"
+            EDITION="2011062">
+    <TECHNICAL_SECTION>
+        <RECEPTION_ID>11-078160-001</RECEPTION_ID>
+        <DELETION_DATE>20110502</DELETION_DATE>
+        <FORM_LG_LIST>EN</FORM_LG_LIST>
+        <COMMENTS>From Convertor</COMMENTS>
+        <OLD_HEADING>3320</OLD_HEADING>
+    </TECHNICAL_SECTION>
+    <LINKS_SECTION>
+        <XML_SCHEMA_DEFINITION_LINK xlink:title="TED WEBSITE" xlink:href="http://ted.europa.eu"
+                                    xlink:type="simple"></XML_SCHEMA_DEFINITION_LINK>
+        <OFFICIAL_FORMS_LINK xlink:href="http://ted.europa.eu" xlink:type="simple"></OFFICIAL_FORMS_LINK>
+        <FORMS_LABELS_LINK xlink:href="http://ted.europa.eu" xlink:type="simple"></FORMS_LABELS_LINK>
+        <ORIGINAL_CPV_LINK xlink:href="http://ted.europa.eu" xlink:type="simple "></ORIGINAL_CPV_LINK>
+        <ORIGINAL_NUTS_LINK xlink:href="http://ted.europa.eu" xlink:type="simple"></ORIGINAL_NUTS_LINK>
+    </LINKS_SECTION>
+    <CODED_DATA_SECTION>
+        <REF_OJS>
+            <COLL_OJ>S</COLL_OJ>
+            <NO_OJ>62</NO_OJ>
+            <DATE_PUB>20110330</DATE_PUB>
+        </REF_OJS>
+        <NOTICE_DATA>
+            <NO_DOC_OJS>2011/S 62-101167</NO_DOC_OJS>
+            <URI_LIST>
+                <URI_DOC LG="EN">http://ted.europa.eu/udl?uri=TED:NOTICE:101167-2011:TEXT:EN:HTML</URI_DOC>
+            </URI_LIST>
+            <LG_ORIG>EN</LG_ORIG>
+            <ISO_COUNTRY VALUE="NO"></ISO_COUNTRY>
+            <IA_URL_GENERAL>www.nav.no</IA_URL_GENERAL>
+            <ORIGINAL_CPV CODE="72224000">project management consultancy services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="71316000">telecommunication consultancy services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="72212213">operating system enhancement software development services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="72317000">data storage services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="72600000">computer support and consultancy services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="72212000">programming services of application software</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="72222000">information systems or technology strategic review and planning services
+            </ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="71600000">technical testing, analysis and consultancy services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="72514200">facilities management services for computer systems development</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="72315200">data network management services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="72212200">networking, Internet and intranet software development services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="72226000">system software acceptance testing consultancy services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="72227000">software integration consultancy services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="72228000">hardware integration consultancy services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="72266000">software consultancy services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="72590000">computer-related professional services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="72220000">systems and technical consultancy services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="72000000">IT services: consulting, software development, Internet and support
+            </ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="72130000">computer-site planning consultancy services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="72140000">computer hardware acceptance testing consultancy services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="72200000">software programming and consultancy services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="72212214">network operating system software development services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="72212600">database and operating software development services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="79415200">design consultancy services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="71220000">architectural design services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="72212941">pattern design software development services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="72421000">internet or intranet client application development services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="72422000">internet or intranet server application development services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="71243000">draft plans (systems and integration)</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="72246000">systems consultancy services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="72254000">software testing</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="72254100">systems testing services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="72800000">computer audit and testing services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="72820000">computer testing services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="73430000">test and evaluation</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="73431000">test and evaluation of security equipment</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="72211000">programming services of systems and user software</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="72243000">programming services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="72100000">hardware consultancy services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="79421000">project-management services other than for construction work</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="72514000">computer facilities management services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="72514100">facilities management services involving computer operation</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="72514300">facilities management services for computer systems maintenance</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="72212210">networking software development services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="72212215">networking developers software development services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="72212219">miscellaneous networking software development services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="72315100">data network support services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="71210000">advisory architectural services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="72212710">backup or recovery software development services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="72212730">security software development services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="72212732">data security software development services</ORIGINAL_CPV>
+            <VALUES_LIST>
+                <VALUES TYPE="GLOBAL">
+                    <RANGE_VALUE>
+                        <VALUE CURRENCY="NOK">704 000 000</VALUE>
+                        <VALUE CURRENCY="NOK">920 000 000</VALUE>
+                    </RANGE_VALUE>
+                </VALUES>
+                <VALUES TYPE="GLOBAL">
+                    <RANGE_VALUE>
+                        <VALUE CURRENCY="NOK">704 000 000</VALUE>
+                        <VALUE CURRENCY="NOK">920 000 000</VALUE>
+                    </RANGE_VALUE>
+                </VALUES>
+                <VALUES TYPE="PER_LOT">
+                    <RANGE_VALUE>
+                        <VALUE CURRENCY="NOK">12 000 000</VALUE>
+                        <VALUE CURRENCY="NOK">20 000 000</VALUE>
+                    </RANGE_VALUE>
+                </VALUES>
+                <VALUES TYPE="PER_LOT">
+                    <RANGE_VALUE>
+                        <VALUE CURRENCY="NOK">16 000 000</VALUE>
+                        <VALUE CURRENCY="NOK">32 000 000</VALUE>
+                    </RANGE_VALUE>
+                </VALUES>
+                <VALUES TYPE="PER_LOT">
+                    <RANGE_VALUE>
+                        <VALUE CURRENCY="NOK">5 600 000</VALUE>
+                        <VALUE CURRENCY="NOK">7 200 000</VALUE>
+                    </RANGE_VALUE>
+                </VALUES>
+                <VALUES TYPE="PER_LOT">
+                    <RANGE_VALUE>
+                        <VALUE CURRENCY="NOK">5 600 000</VALUE>
+                        <VALUE CURRENCY="NOK">7 200 000</VALUE>
+                    </RANGE_VALUE>
+                </VALUES>
+                <VALUES TYPE="PER_LOT">
+                    <RANGE_VALUE>
+                        <VALUE CURRENCY="NOK">16 000 000</VALUE>
+                        <VALUE CURRENCY="NOK">28 800 000</VALUE>
+                    </RANGE_VALUE>
+                </VALUES>
+                <VALUES TYPE="PER_LOT">
+                    <RANGE_VALUE>
+                        <VALUE CURRENCY="NOK">12 000 000</VALUE>
+                        <VALUE CURRENCY="NOK">16 000 000</VALUE>
+                    </RANGE_VALUE>
+                </VALUES>
+                <VALUES TYPE="PER_LOT">
+                    <RANGE_VALUE>
+                        <VALUE CURRENCY="NOK">8 000 000</VALUE>
+                        <VALUE CURRENCY="NOK">9 600 000</VALUE>
+                    </RANGE_VALUE>
+                </VALUES>
+                <VALUES TYPE="PER_LOT">
+                    <RANGE_VALUE>
+                        <VALUE CURRENCY="NOK">20 000 000</VALUE>
+                        <VALUE CURRENCY="NOK">32 000 000</VALUE>
+                    </RANGE_VALUE>
+                </VALUES>
+                <VALUES TYPE="PER_LOT">
+                    <RANGE_VALUE>
+                        <VALUE CURRENCY="NOK">5 600 000</VALUE>
+                        <VALUE CURRENCY="NOK">9 600 000</VALUE>
+                    </RANGE_VALUE>
+                </VALUES>
+                <VALUES TYPE="PER_LOT">
+                    <RANGE_VALUE>
+                        <VALUE CURRENCY="NOK">5 600 000</VALUE>
+                        <VALUE CURRENCY="NOK">9 600 000</VALUE>
+                    </RANGE_VALUE>
+                </VALUES>
+                <VALUES TYPE="PER_LOT">
+                    <RANGE_VALUE>
+                        <VALUE CURRENCY="NOK">120 000 000</VALUE>
+                        <VALUE CURRENCY="NOK">136 000 000</VALUE>
+                    </RANGE_VALUE>
+                </VALUES>
+                <VALUES TYPE="PER_LOT">
+                    <RANGE_VALUE>
+                        <VALUE CURRENCY="NOK">48 000 000</VALUE>
+                        <VALUE CURRENCY="NOK">64 000 000</VALUE>
+                    </RANGE_VALUE>
+                </VALUES>
+                <VALUES TYPE="PER_LOT">
+                    <RANGE_VALUE>
+                        <VALUE CURRENCY="NOK">280 000 000</VALUE>
+                        <VALUE CURRENCY="NOK">320 000 000</VALUE>
+                    </RANGE_VALUE>
+                </VALUES>
+                <VALUES TYPE="PER_LOT">
+                    <RANGE_VALUE>
+                        <VALUE CURRENCY="NOK">28 000 000</VALUE>
+                        <VALUE CURRENCY="NOK">56 000 000</VALUE>
+                    </RANGE_VALUE>
+                </VALUES>
+                <VALUES TYPE="PER_LOT">
+                    <RANGE_VALUE>
+                        <VALUE CURRENCY="NOK">24 000 000</VALUE>
+                        <VALUE CURRENCY="NOK">40 000 000</VALUE>
+                    </RANGE_VALUE>
+                </VALUES>
+                <VALUES TYPE="PER_LOT">
+                    <RANGE_VALUE>
+                        <VALUE CURRENCY="NOK">96 000 000</VALUE>
+                        <VALUE CURRENCY="NOK">128 000 000</VALUE>
+                    </RANGE_VALUE>
+                </VALUES>
+            </VALUES_LIST>
+        </NOTICE_DATA>
+        <CODIF_DATA>
+            <DS_DATE_DISPATCH>20110329</DS_DATE_DISPATCH>
+            <DD_DATE_REQUEST_DOCUMENT>20110502</DD_DATE_REQUEST_DOCUMENT>
+            <DT_DATE_FOR_SUBMISSION>20110502 12:00</DT_DATE_FOR_SUBMISSION>
+            <AA_AUTHORITY_TYPE CODE="1">Ministry or any other national or federal authority</AA_AUTHORITY_TYPE>
+            <TD_DOCUMENT_TYPE CODE="3">Contract notice</TD_DOCUMENT_TYPE>
+            <NC_CONTRACT_NATURE CODE="4">Service contract</NC_CONTRACT_NATURE>
+            <PR_PROC CODE="2">Restricted procedure</PR_PROC>
+            <RP_REGULATION CODE="B">European Economic Area (EEA), with participation by GPA countries</RP_REGULATION>
+            <TY_TYPE_BID CODE="3">Submission for one or more lots</TY_TYPE_BID>
+            <AC_AWARD_CRIT CODE="2">The most economic tender</AC_AWARD_CRIT>
+            <MA_MAIN_ACTIVITIES CODE="S">General public services</MA_MAIN_ACTIVITIES>
+            <HEADING>03322</HEADING>
+        </CODIF_DATA>
+    </CODED_DATA_SECTION>
+    <TRANSLATION_SECTION>
+        <ML_TITLES>
+            <ML_TI_DOC LG="BG">
+                <TI_CY>NO</TI_CY>
+                <TI_TOWN>Осло</TI_TOWN>
+                <TI_TEXT>Консултантски услуги по управление на компютърни проекти</TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="CS">
+                <TI_CY>NO</TI_CY>
+                <TI_TOWN>Oslo</TI_TOWN>
+                <TI_TEXT>Poradenské služby v oblasti řízení projektů</TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="DA">
+                <TI_CY>NO</TI_CY>
+                <TI_TOWN>Oslo</TI_TOWN>
+                <TI_TEXT>Konsulentvirksomhed i forbindelse med projektstyring</TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="DE">
+                <TI_CY>NO</TI_CY>
+                <TI_TOWN>Oslo</TI_TOWN>
+                <TI_TEXT>Beratung im Bereich Projektleitung</TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="ET">
+                <TI_CY>NO</TI_CY>
+                <TI_TOWN>Oslo</TI_TOWN>
+                <TI_TEXT>Projektijuhtimise nõustamisteenused</TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="EL">
+                <TI_CY>NO</TI_CY>
+                <TI_TOWN>Όσλο</TI_TOWN>
+                <TI_TEXT>Υπηρεσίες παροχής συμβουλών σε θέματα διαχείρισης έργων</TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="EN">
+                <TI_CY>NO</TI_CY>
+                <TI_TOWN>Oslo</TI_TOWN>
+                <TI_TEXT>project management consultancy services</TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="ES">
+                <TI_CY>NO</TI_CY>
+                <TI_TOWN>Oslo</TI_TOWN>
+                <TI_TEXT>Servicios de consultoría en gestión de proyectos</TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="FR">
+                <TI_CY>NO</TI_CY>
+                <TI_TOWN>Oslo</TI_TOWN>
+                <TI_TEXT>Services de conseil en gestion de projet</TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="IT">
+                <TI_CY>NO</TI_CY>
+                <TI_TOWN>Oslo</TI_TOWN>
+                <TI_TEXT>Servizi di consulenza per la gestione di progetti</TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="LV">
+                <TI_CY>NO</TI_CY>
+                <TI_TOWN>Oslo</TI_TOWN>
+                <TI_TEXT>Projektu vadības konsultāciju pakalpojumi</TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="LT">
+                <TI_CY>NO</TI_CY>
+                <TI_TOWN>Oslas</TI_TOWN>
+                <TI_TEXT>Projektų vadybos konsultacinės paslaugos</TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="GA">
+                <TI_CY>NO</TI_CY>
+                <TI_TOWN>Osló</TI_TOWN>
+                <TI_TEXT>Project management consultancy services</TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="HU">
+                <TI_CY>NO</TI_CY>
+                <TI_TOWN>Oslo</TI_TOWN>
+                <TI_TEXT>Projekt-ügyintézési tanácsadó szolgáltatások</TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="MT">
+                <TI_CY>NO</TI_CY>
+                <TI_TOWN>Oslo</TI_TOWN>
+                <TI_TEXT>Servizzi ta' konsulenza dwar l-amministrazzjoni ta' priġett</TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="NL">
+                <TI_CY>NO</TI_CY>
+                <TI_TOWN>Oslo</TI_TOWN>
+                <TI_TEXT>Advies over projectmanagement</TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="PL">
+                <TI_CY>NO</TI_CY>
+                <TI_TOWN>Oslo</TI_TOWN>
+                <TI_TEXT>Usługi doradcze w zakresie zarządzania projektem</TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="PT">
+                <TI_CY>NO</TI_CY>
+                <TI_TOWN>Oslo</TI_TOWN>
+                <TI_TEXT>Serviços de consultoria em gestão de projectos</TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="RO">
+                <TI_CY>NO</TI_CY>
+                <TI_TOWN>Oslo</TI_TOWN>
+                <TI_TEXT>Servicii de consultanţă privind gestionarea proiectelor</TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="SK">
+                <TI_CY>NO</TI_CY>
+                <TI_TOWN>Oslo</TI_TOWN>
+                <TI_TEXT>Poradenstvo pri riadení projektov</TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="SL">
+                <TI_CY>NO</TI_CY>
+                <TI_TOWN>Oslo</TI_TOWN>
+                <TI_TEXT>Storitve svetovanja na področju projektnega managementa</TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="FI">
+                <TI_CY>NO</TI_CY>
+                <TI_TOWN>Oslo</TI_TOWN>
+                <TI_TEXT>Projektinjohtoa koskevat konsulttipalvelut</TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="SV">
+                <TI_CY>NO</TI_CY>
+                <TI_TOWN>Oslo</TI_TOWN>
+                <TI_TEXT>Konsulttjänster för projektledning</TI_TEXT>
+            </ML_TI_DOC>
+        </ML_TITLES>
+        <ML_AA_NAMES>
+            <AA_NAME LG="EN">Arbeid og velferdsdirektoratet, NAV økonomi,anskaffelser og forretningsjuridisk avdeling
+            </AA_NAME>
+        </ML_AA_NAMES>
+    </TRANSLATION_SECTION>
+    <FORM_SECTION>
+        <CONTRACT CATEGORY="ORIGINAL" LG="EN" VERSION="R2.0.7.S03.E01" FORM="2">
+            <FD_CONTRACT CTYPE="SERVICES">
+                <CONTRACTING_AUTHORITY_INFORMATION>
+                    <NAME_ADDRESSES_CONTACT_CONTRACT>
+                        <CA_CE_CONCESSIONAIRE_PROFILE>
+                            <ORGANISATION>Arbeid og velferdsdirektoratet, NAV økonomi,anskaffelser og
+                                forretningsjuridisk avdeling
+                            </ORGANISATION>
+                            <ADDRESS>Postboks 5, St Olavs plass</ADDRESS>
+                            <TOWN>Oslo</TOWN>
+                            <POSTAL_CODE>0130</POSTAL_CODE>
+                            <COUNTRY VALUE="NO"></COUNTRY>
+                            <CONTACT_POINT>Anskaffelser og forretningsjuridisk</CONTACT_POINT>
+                            <ATTENTION>Jørgen Iversen</ATTENTION>
+                            <PHONE>+47 21070000</PHONE>
+                            <E_MAIL>nav.anskaffelser.ikt.konsulenttjenester@nav.no</E_MAIL>
+                            <FAX>+47 21071010</FAX>
+                        </CA_CE_CONCESSIONAIRE_PROFILE>
+                        <INTERNET_ADDRESSES_CONTRACT>
+                            <URL_GENERAL>www.nav.no</URL_GENERAL>
+                            <URL_BUYER>http://www.doffin.no//search/Search_AuthProfile.aspx?ID=AA0005</URL_BUYER>
+                        </INTERNET_ADDRESSES_CONTRACT>
+                        <FURTHER_INFORMATION>
+                            <IDEM></IDEM>
+                        </FURTHER_INFORMATION>
+                        <SPECIFICATIONS_AND_ADDITIONAL_DOCUMENTS>
+                            <IDEM></IDEM>
+                        </SPECIFICATIONS_AND_ADDITIONAL_DOCUMENTS>
+                        <TENDERS_REQUESTS_APPLICATIONS_MUST_BE_SENT_TO>
+                            <IDEM></IDEM>
+                        </TENDERS_REQUESTS_APPLICATIONS_MUST_BE_SENT_TO>
+                    </NAME_ADDRESSES_CONTACT_CONTRACT>
+                    <TYPE_AND_ACTIVITIES_AND_PURCHASING_ON_BEHALF>
+                        <TYPE_AND_ACTIVITIES>
+                            <TYPE_OF_CONTRACTING_AUTHORITY VALUE="MINISTRY"></TYPE_OF_CONTRACTING_AUTHORITY>
+                            <TYPE_OF_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"></TYPE_OF_ACTIVITY>
+                        </TYPE_AND_ACTIVITIES>
+                    </TYPE_AND_ACTIVITIES_AND_PURCHASING_ON_BEHALF>
+                </CONTRACTING_AUTHORITY_INFORMATION>
+                <OBJECT_CONTRACT_INFORMATION>
+                    <DESCRIPTION_CONTRACT_INFORMATION>
+                        <TITLE_CONTRACT>
+                            <P>Framework agreements for consultancy services within ICT.</P>
+                        </TITLE_CONTRACT>
+                        <TYPE_CONTRACT_LOCATION>
+                            <TYPE_CONTRACT VALUE="SERVICES"></TYPE_CONTRACT>
+                            <SERVICE_CATEGORY>7</SERVICE_CATEGORY>
+                        </TYPE_CONTRACT_LOCATION>
+                        <LOCATION_NUTS>
+                            <LOCATION>
+                                <P>Oslo, Norway.</P>
+                            </LOCATION>
+                        </LOCATION_NUTS>
+                        <NOTICE_INVOLVES VALUE="ESTABLISHMENT_FRAMEWORK_AGREEMENT"></NOTICE_INVOLVES>
+                        <F02_FRAMEWORK>
+                            <SEVERAL_OPERATORS>
+                                <MAX_NUMBER_PARTICIPANTS>120</MAX_NUMBER_PARTICIPANTS>
+                            </SEVERAL_OPERATORS>
+                            <DURATION_FRAMEWORK_YEAR>2</DURATION_FRAMEWORK_YEAR>
+                            <TOTAL_ESTIMATED>
+                                <COSTS_RANGE_AND_CURRENCY CURRENCY="NOK">
+                                    <RANGE_VALUE_COST>
+                                        <LOW_VALUE FMTVAL="704000000">704 000 000</LOW_VALUE>
+                                        <HIGH_VALUE FMTVAL="920000000">920 000 000</HIGH_VALUE>
+                                    </RANGE_VALUE_COST>
+                                </COSTS_RANGE_AND_CURRENCY>
+                            </TOTAL_ESTIMATED>
+                        </F02_FRAMEWORK>
+                        <SHORT_CONTRACT_DESCRIPTION>
+                            <P>NAV IKT would like to enter into framework agreements for consultancy services within
+                                ICT. The contracts shall cover the need for competence which the awarding authority does
+                                not have access to in its own department at a given time or where there is a separate
+                                need for the assignment to be solved externally. The contracts can also be used for
+                                extra capacity.
+                            </P>
+                            <P>The requested consultancy services are divided into the following areas of competence:
+                            </P>
+                            <P>— Project management/consultancy services,</P>
+                            <P>— Strategy planning/consultany services,</P>
+                            <P>— Architecture and system specifications,</P>
+                            <P>— Technical architecture (operation),</P>
+                            <P>— Testing and quality assurance,</P>
+                            <P>— Logistics, OeBs and e-commerce,</P>
+                            <P>— Agresso,</P>
+                            <P>— Electronic interaction,</P>
+                            <P>— System development/programming,</P>
+                            <P>— Operation of IT systems and platforms,</P>
+                            <P>— Data communication,</P>
+                            <P>— Telecommunications,</P>
+                            <P>— Operative systems,</P>
+                            <P>— Data storage,</P>
+                            <P>— Specialistics on databases,</P>
+                            <P>— Specialists on application integration.</P>
+                            <P>The awarding authority plans to carry out a comprehensive renewal/modernisation of ICT
+                                (the Modernisation Project). Because of this the consultancy services contracts within
+                                ICT can be somewhat different to the estimates given in this notice. See the
+                                qualification documents for further information.
+                            </P>
+                            <P>See the qualification documents for information on which units the contract is for.</P>
+                            <P>Note: to register your interest in this notice and obtain any additional information
+                                please visit the Doffin web site at
+                                http://www.doffin.no/Search/Search_Switch.aspx?ID=226849.
+                            </P>
+                        </SHORT_CONTRACT_DESCRIPTION>
+                        <CPV>
+                            <CPV_MAIN>
+                                <CPV_CODE CODE="72224000"></CPV_CODE>
+                            </CPV_MAIN>
+                            <CPV_ADDITIONAL>
+                                <CPV_CODE CODE="72226000"></CPV_CODE>
+                            </CPV_ADDITIONAL>
+                            <CPV_ADDITIONAL>
+                                <CPV_CODE CODE="72227000"></CPV_CODE>
+                            </CPV_ADDITIONAL>
+                            <CPV_ADDITIONAL>
+                                <CPV_CODE CODE="72228000"></CPV_CODE>
+                            </CPV_ADDITIONAL>
+                            <CPV_ADDITIONAL>
+                                <CPV_CODE CODE="72266000"></CPV_CODE>
+                            </CPV_ADDITIONAL>
+                            <CPV_ADDITIONAL>
+                                <CPV_CODE CODE="72600000"></CPV_CODE>
+                            </CPV_ADDITIONAL>
+                            <CPV_ADDITIONAL>
+                                <CPV_CODE CODE="72590000"></CPV_CODE>
+                            </CPV_ADDITIONAL>
+                            <CPV_ADDITIONAL>
+                                <CPV_CODE CODE="72220000"></CPV_CODE>
+                            </CPV_ADDITIONAL>
+                            <CPV_ADDITIONAL>
+                                <CPV_CODE CODE="72000000"></CPV_CODE>
+                            </CPV_ADDITIONAL>
+                            <CPV_ADDITIONAL>
+                                <CPV_CODE CODE="72130000"></CPV_CODE>
+                            </CPV_ADDITIONAL>
+                            <CPV_ADDITIONAL>
+                                <CPV_CODE CODE="72140000"></CPV_CODE>
+                            </CPV_ADDITIONAL>
+                            <CPV_ADDITIONAL>
+                                <CPV_CODE CODE="72200000"></CPV_CODE>
+                            </CPV_ADDITIONAL>
+                        </CPV>
+                        <CONTRACT_COVERED_GPA VALUE="YES"></CONTRACT_COVERED_GPA>
+                        <F02_DIVISION_INTO_LOTS>
+                            <F02_DIV_INTO_LOT_YES VALUE="ONE_OR_MORE_LOT">
+                                <F02_ANNEX_B ITEM="23050425">
+                                    <LOT_NUMBER>12</LOT_NUMBER>
+                                    <LOT_TITLE>Telecommunication</LOT_TITLE>
+                                    <LOT_DESCRIPTION>
+                                        <P>See the qualification documents for examples which can come under this lot.
+                                        </P>
+                                    </LOT_DESCRIPTION>
+                                    <CPV>
+                                        <CPV_MAIN>
+                                            <CPV_CODE CODE="71316000"></CPV_CODE>
+                                        </CPV_MAIN>
+                                        <CPV_ADDITIONAL>
+                                            <CPV_CODE CODE="72600000"></CPV_CODE>
+                                        </CPV_ADDITIONAL>
+                                    </CPV>
+                                    <NATURE_QUANTITY_SCOPE>
+                                        <TOTAL_QUANTITY_OR_SCOPE>
+                                            <P>The contract will be valid for 2 years from when it is signed.</P>
+                                            <P>The awarding authority (the customer) has an option for a contract
+                                                extension for a further 2 years with one year at a time (2+1+1).
+                                            </P>
+                                            <P>See the value below.</P>
+                                        </TOTAL_QUANTITY_OR_SCOPE>
+                                        <COSTS_RANGE_AND_CURRENCY CURRENCY="NOK">
+                                            <RANGE_VALUE_COST>
+                                                <LOW_VALUE FMTVAL="12000000">12 000 000</LOW_VALUE>
+                                                <HIGH_VALUE FMTVAL="20000000">20 000 000</HIGH_VALUE>
+                                            </RANGE_VALUE_COST>
+                                        </COSTS_RANGE_AND_CURRENCY>
+                                    </NATURE_QUANTITY_SCOPE>
+                                    <PERIOD_WORK_DATE_STARTING>
+                                        <MONTHS>24</MONTHS>
+                                    </PERIOD_WORK_DATE_STARTING>
+                                </F02_ANNEX_B>
+                                <F02_ANNEX_B ITEM="23050655">
+                                    <LOT_NUMBER>13</LOT_NUMBER>
+                                    <LOT_TITLE>Operative systems</LOT_TITLE>
+                                    <LOT_DESCRIPTION>
+                                        <P>See the qualification documents for examples which can come under this lot.
+                                        </P>
+                                    </LOT_DESCRIPTION>
+                                    <CPV>
+                                        <CPV_MAIN>
+                                            <CPV_CODE CODE="72212213"></CPV_CODE>
+                                        </CPV_MAIN>
+                                        <CPV_ADDITIONAL>
+                                            <CPV_CODE CODE="72212214"></CPV_CODE>
+                                        </CPV_ADDITIONAL>
+                                        <CPV_ADDITIONAL>
+                                            <CPV_CODE CODE="72212600"></CPV_CODE>
+                                        </CPV_ADDITIONAL>
+                                        <CPV_ADDITIONAL>
+                                            <CPV_CODE CODE="72600000"></CPV_CODE>
+                                        </CPV_ADDITIONAL>
+                                    </CPV>
+                                    <NATURE_QUANTITY_SCOPE>
+                                        <TOTAL_QUANTITY_OR_SCOPE>
+                                            <P>The contract will be valid for 2 years from when it is signed.</P>
+                                            <P>The awarding authority (the customer) has an option for a contract
+                                                extension for a further 2 years with one year at a time (2+1+1).
+                                            </P>
+                                            <P>See the value below.</P>
+                                        </TOTAL_QUANTITY_OR_SCOPE>
+                                        <COSTS_RANGE_AND_CURRENCY CURRENCY="NOK">
+                                            <RANGE_VALUE_COST>
+                                                <LOW_VALUE FMTVAL="16000000">16 000 000</LOW_VALUE>
+                                                <HIGH_VALUE FMTVAL="32000000">32 000 000</HIGH_VALUE>
+                                            </RANGE_VALUE_COST>
+                                        </COSTS_RANGE_AND_CURRENCY>
+                                    </NATURE_QUANTITY_SCOPE>
+                                    <ADDITIONAL_INFORMATION_ABOUT_LOTS>
+                                        <P>Check the value.</P>
+                                    </ADDITIONAL_INFORMATION_ABOUT_LOTS>
+                                </F02_ANNEX_B>
+                                <F02_ANNEX_B ITEM="23050940">
+                                    <LOT_NUMBER>14</LOT_NUMBER>
+                                    <LOT_TITLE>Data storage</LOT_TITLE>
+                                    <LOT_DESCRIPTION>
+                                        <P>See the qualification documents for examples which can come under this lot.
+                                        </P>
+                                    </LOT_DESCRIPTION>
+                                    <CPV>
+                                        <CPV_MAIN>
+                                            <CPV_CODE CODE="72317000"></CPV_CODE>
+                                        </CPV_MAIN>
+                                        <CPV_ADDITIONAL>
+                                            <CPV_CODE CODE="79415200"></CPV_CODE>
+                                        </CPV_ADDITIONAL>
+                                        <CPV_ADDITIONAL>
+                                            <CPV_CODE CODE="71220000"></CPV_CODE>
+                                        </CPV_ADDITIONAL>
+                                        <CPV_ADDITIONAL>
+                                            <CPV_CODE CODE="72212941"></CPV_CODE>
+                                        </CPV_ADDITIONAL>
+                                        <CPV_ADDITIONAL>
+                                            <CPV_CODE CODE="72600000"></CPV_CODE>
+                                        </CPV_ADDITIONAL>
+                                    </CPV>
+                                    <NATURE_QUANTITY_SCOPE>
+                                        <TOTAL_QUANTITY_OR_SCOPE>
+                                            <P>The contract will be valid for 2 years from when it is signed.</P>
+                                            <P>The awarding authority (the customer) has an option for a contract
+                                                extension for a further 2 years with one year at a time (2+1+1).
+                                            </P>
+                                            <P>See the value below.</P>
+                                        </TOTAL_QUANTITY_OR_SCOPE>
+                                        <COSTS_RANGE_AND_CURRENCY CURRENCY="NOK">
+                                            <RANGE_VALUE_COST>
+                                                <LOW_VALUE FMTVAL="5600000">5 600 000</LOW_VALUE>
+                                                <HIGH_VALUE FMTVAL="7200000">7 200 000</HIGH_VALUE>
+                                            </RANGE_VALUE_COST>
+                                        </COSTS_RANGE_AND_CURRENCY>
+                                    </NATURE_QUANTITY_SCOPE>
+                                    <PERIOD_WORK_DATE_STARTING>
+                                        <MONTHS>24</MONTHS>
+                                    </PERIOD_WORK_DATE_STARTING>
+                                </F02_ANNEX_B>
+                                <F02_ANNEX_B ITEM="23051209">
+                                    <LOT_NUMBER>15</LOT_NUMBER>
+                                    <LOT_TITLE>Specialists on databases</LOT_TITLE>
+                                    <LOT_DESCRIPTION>
+                                        <P>See the qualification documents for examples which can come under this lot.
+                                        </P>
+                                    </LOT_DESCRIPTION>
+                                    <CPV>
+                                        <CPV_MAIN>
+                                            <CPV_CODE CODE="72600000"></CPV_CODE>
+                                        </CPV_MAIN>
+                                    </CPV>
+                                    <NATURE_QUANTITY_SCOPE>
+                                        <TOTAL_QUANTITY_OR_SCOPE>
+                                            <P>The contract will be valid for 2 years from when it is signed.</P>
+                                            <P>The awarding authority (the customer) has an option for a contract
+                                                extension for a further 2 years with one year at a time (2+1+1).
+                                            </P>
+                                            <P>See the value below.</P>
+                                        </TOTAL_QUANTITY_OR_SCOPE>
+                                        <COSTS_RANGE_AND_CURRENCY CURRENCY="NOK">
+                                            <RANGE_VALUE_COST>
+                                                <LOW_VALUE FMTVAL="5600000">5 600 000</LOW_VALUE>
+                                                <HIGH_VALUE FMTVAL="7200000">7 200 000</HIGH_VALUE>
+                                            </RANGE_VALUE_COST>
+                                        </COSTS_RANGE_AND_CURRENCY>
+                                    </NATURE_QUANTITY_SCOPE>
+                                    <PERIOD_WORK_DATE_STARTING>
+                                        <MONTHS>24</MONTHS>
+                                    </PERIOD_WORK_DATE_STARTING>
+                                </F02_ANNEX_B>
+                                <F02_ANNEX_B ITEM="23051411">
+                                    <LOT_NUMBER>16</LOT_NUMBER>
+                                    <LOT_TITLE>Specialists on application integration</LOT_TITLE>
+                                    <LOT_DESCRIPTION>
+                                        <P>See the qualification documents for examples which can come under this lot.
+                                        </P>
+                                    </LOT_DESCRIPTION>
+                                    <CPV>
+                                        <CPV_MAIN>
+                                            <CPV_CODE CODE="72212000"></CPV_CODE>
+                                        </CPV_MAIN>
+                                        <CPV_ADDITIONAL>
+                                            <CPV_CODE CODE="72421000"></CPV_CODE>
+                                        </CPV_ADDITIONAL>
+                                        <CPV_ADDITIONAL>
+                                            <CPV_CODE CODE="72422000"></CPV_CODE>
+                                        </CPV_ADDITIONAL>
+                                        <CPV_ADDITIONAL>
+                                            <CPV_CODE CODE="72227000"></CPV_CODE>
+                                        </CPV_ADDITIONAL>
+                                        <CPV_ADDITIONAL>
+                                            <CPV_CODE CODE="72228000"></CPV_CODE>
+                                        </CPV_ADDITIONAL>
+                                        <CPV_ADDITIONAL>
+                                            <CPV_CODE CODE="71243000"></CPV_CODE>
+                                        </CPV_ADDITIONAL>
+                                        <CPV_ADDITIONAL>
+                                            <CPV_CODE CODE="72600000"></CPV_CODE>
+                                        </CPV_ADDITIONAL>
+                                    </CPV>
+                                    <NATURE_QUANTITY_SCOPE>
+                                        <TOTAL_QUANTITY_OR_SCOPE>
+                                            <P>The contract will be valid for 2 years from when it is signed.</P>
+                                            <P>The awarding authority (the customer) has an option for a contract
+                                                extension for a further 2 years with one year at a time (2+1+1).
+                                            </P>
+                                            <P>See the value below.</P>
+                                        </TOTAL_QUANTITY_OR_SCOPE>
+                                        <COSTS_RANGE_AND_CURRENCY CURRENCY="NOK">
+                                            <RANGE_VALUE_COST>
+                                                <LOW_VALUE FMTVAL="16000000">16 000 000</LOW_VALUE>
+                                                <HIGH_VALUE FMTVAL="28800000">28 800 000</HIGH_VALUE>
+                                            </RANGE_VALUE_COST>
+                                        </COSTS_RANGE_AND_CURRENCY>
+                                    </NATURE_QUANTITY_SCOPE>
+                                    <PERIOD_WORK_DATE_STARTING>
+                                        <MONTHS>24</MONTHS>
+                                    </PERIOD_WORK_DATE_STARTING>
+                                </F02_ANNEX_B>
+                                <F02_ANNEX_B ITEM="23041958">
+                                    <LOT_NUMBER>2</LOT_NUMBER>
+                                    <LOT_TITLE>Strategy planning/consultancy services</LOT_TITLE>
+                                    <LOT_DESCRIPTION>
+                                        <P>See the qualification documents for examples which can come under this lot.
+                                        </P>
+                                    </LOT_DESCRIPTION>
+                                    <CPV>
+                                        <CPV_MAIN>
+                                            <CPV_CODE CODE="72222000"></CPV_CODE>
+                                        </CPV_MAIN>
+                                        <CPV_ADDITIONAL>
+                                            <CPV_CODE CODE="72000000"></CPV_CODE>
+                                        </CPV_ADDITIONAL>
+                                        <CPV_ADDITIONAL>
+                                            <CPV_CODE CODE="72130000"></CPV_CODE>
+                                        </CPV_ADDITIONAL>
+                                        <CPV_ADDITIONAL>
+                                            <CPV_CODE CODE="72246000"></CPV_CODE>
+                                        </CPV_ADDITIONAL>
+                                        <CPV_ADDITIONAL>
+                                            <CPV_CODE CODE="72600000"></CPV_CODE>
+                                        </CPV_ADDITIONAL>
+                                    </CPV>
+                                    <NATURE_QUANTITY_SCOPE>
+                                        <TOTAL_QUANTITY_OR_SCOPE>
+                                            <P>The contract will be valid for 2 years from when it is signed.</P>
+                                            <P>The awarding authority (the customer) has an option for a contract
+                                                extension for a further 2 years with one year at a time (2+1+1).
+                                            </P>
+                                            <P>See the value below.</P>
+                                        </TOTAL_QUANTITY_OR_SCOPE>
+                                        <COSTS_RANGE_AND_CURRENCY CURRENCY="NOK">
+                                            <RANGE_VALUE_COST>
+                                                <LOW_VALUE FMTVAL="12000000">12 000 000</LOW_VALUE>
+                                                <HIGH_VALUE FMTVAL="16000000">16 000 000</HIGH_VALUE>
+                                            </RANGE_VALUE_COST>
+                                        </COSTS_RANGE_AND_CURRENCY>
+                                    </NATURE_QUANTITY_SCOPE>
+                                    <PERIOD_WORK_DATE_STARTING>
+                                        <MONTHS>24</MONTHS>
+                                    </PERIOD_WORK_DATE_STARTING>
+                                </F02_ANNEX_B>
+                                <F02_ANNEX_B ITEM="23043430">
+                                    <LOT_NUMBER>4</LOT_NUMBER>
+                                    <LOT_TITLE>Technical architecture (operation)</LOT_TITLE>
+                                    <LOT_DESCRIPTION>
+                                        <P>See the qualification documents for examples which can come under this lot.
+                                        </P>
+                                    </LOT_DESCRIPTION>
+                                    <CPV>
+                                        <CPV_MAIN>
+                                            <CPV_CODE CODE="72600000"></CPV_CODE>
+                                        </CPV_MAIN>
+                                    </CPV>
+                                    <NATURE_QUANTITY_SCOPE>
+                                        <TOTAL_QUANTITY_OR_SCOPE>
+                                            <P>The contract will be valid for 2 years from when it is signed.</P>
+                                            <P>The awarding authority (the customer) has an option for a contract
+                                                extension for a further 2 years with one year at a time (2+1+1).
+                                            </P>
+                                            <P>See the value below.</P>
+                                        </TOTAL_QUANTITY_OR_SCOPE>
+                                        <COSTS_RANGE_AND_CURRENCY CURRENCY="NOK">
+                                            <RANGE_VALUE_COST>
+                                                <LOW_VALUE FMTVAL="8000000">8 000 000</LOW_VALUE>
+                                                <HIGH_VALUE FMTVAL="9600000">9 600 000</HIGH_VALUE>
+                                            </RANGE_VALUE_COST>
+                                        </COSTS_RANGE_AND_CURRENCY>
+                                    </NATURE_QUANTITY_SCOPE>
+                                    <PERIOD_WORK_DATE_STARTING>
+                                        <MONTHS>24</MONTHS>
+                                    </PERIOD_WORK_DATE_STARTING>
+                                </F02_ANNEX_B>
+                                <F02_ANNEX_B ITEM="23043931">
+                                    <LOT_NUMBER>5</LOT_NUMBER>
+                                    <LOT_TITLE>Testing and quality assurance</LOT_TITLE>
+                                    <LOT_DESCRIPTION>
+                                        <P>See the qualification documents for examples which can come under this lot.
+                                        </P>
+                                    </LOT_DESCRIPTION>
+                                    <CPV>
+                                        <CPV_MAIN>
+                                            <CPV_CODE CODE="71600000"></CPV_CODE>
+                                        </CPV_MAIN>
+                                        <CPV_ADDITIONAL>
+                                            <CPV_CODE CODE="72254000"></CPV_CODE>
+                                        </CPV_ADDITIONAL>
+                                        <CPV_ADDITIONAL>
+                                            <CPV_CODE CODE="72254100"></CPV_CODE>
+                                        </CPV_ADDITIONAL>
+                                        <CPV_ADDITIONAL>
+                                            <CPV_CODE CODE="72800000"></CPV_CODE>
+                                        </CPV_ADDITIONAL>
+                                        <CPV_ADDITIONAL>
+                                            <CPV_CODE CODE="72820000"></CPV_CODE>
+                                        </CPV_ADDITIONAL>
+                                        <CPV_ADDITIONAL>
+                                            <CPV_CODE CODE="73430000"></CPV_CODE>
+                                        </CPV_ADDITIONAL>
+                                        <CPV_ADDITIONAL>
+                                            <CPV_CODE CODE="73431000"></CPV_CODE>
+                                        </CPV_ADDITIONAL>
+                                        <CPV_ADDITIONAL>
+                                            <CPV_CODE CODE="72600000"></CPV_CODE>
+                                        </CPV_ADDITIONAL>
+                                    </CPV>
+                                    <NATURE_QUANTITY_SCOPE>
+                                        <TOTAL_QUANTITY_OR_SCOPE>
+                                            <P>The contract will be valid for 2 years from when it is signed.</P>
+                                            <P>The awarding authority (the customer) has an option for a contract
+                                                extension for a further 2 years with one year at a time (2+1+1).
+                                            </P>
+                                            <P>See the value below.</P>
+                                        </TOTAL_QUANTITY_OR_SCOPE>
+                                        <COSTS_RANGE_AND_CURRENCY CURRENCY="NOK">
+                                            <RANGE_VALUE_COST>
+                                                <LOW_VALUE FMTVAL="20000000">20 000 000</LOW_VALUE>
+                                                <HIGH_VALUE FMTVAL="32000000">32 000 000</HIGH_VALUE>
+                                            </RANGE_VALUE_COST>
+                                        </COSTS_RANGE_AND_CURRENCY>
+                                    </NATURE_QUANTITY_SCOPE>
+                                    <PERIOD_WORK_DATE_STARTING>
+                                        <MONTHS>24</MONTHS>
+                                    </PERIOD_WORK_DATE_STARTING>
+                                </F02_ANNEX_B>
+                                <F02_ANNEX_B ITEM="23044236">
+                                    <LOT_NUMBER>6</LOT_NUMBER>
+                                    <LOT_TITLE>Logistics, OeBS and e-commerce</LOT_TITLE>
+                                    <LOT_DESCRIPTION>
+                                        <P>See the qualification documents for examples which can come under this lot.
+                                        </P>
+                                    </LOT_DESCRIPTION>
+                                    <CPV>
+                                        <CPV_MAIN>
+                                            <CPV_CODE CODE="72600000"></CPV_CODE>
+                                        </CPV_MAIN>
+                                    </CPV>
+                                    <NATURE_QUANTITY_SCOPE>
+                                        <TOTAL_QUANTITY_OR_SCOPE>
+                                            <P>The contract will be valid for 2 years from when it is signed.</P>
+                                            <P>The awarding authority (the customer) has an option for a contract
+                                                extension for a further 2 years with one year at a time (2+1+1).
+                                            </P>
+                                            <P>See the value below.</P>
+                                        </TOTAL_QUANTITY_OR_SCOPE>
+                                        <COSTS_RANGE_AND_CURRENCY CURRENCY="NOK">
+                                            <RANGE_VALUE_COST>
+                                                <LOW_VALUE FMTVAL="5600000">5 600 000</LOW_VALUE>
+                                                <HIGH_VALUE FMTVAL="9600000">9 600 000</HIGH_VALUE>
+                                            </RANGE_VALUE_COST>
+                                        </COSTS_RANGE_AND_CURRENCY>
+                                    </NATURE_QUANTITY_SCOPE>
+                                    <PERIOD_WORK_DATE_STARTING>
+                                        <MONTHS>24</MONTHS>
+                                    </PERIOD_WORK_DATE_STARTING>
+                                </F02_ANNEX_B>
+                                <F02_ANNEX_B ITEM="23044657">
+                                    <LOT_NUMBER>7</LOT_NUMBER>
+                                    <LOT_TITLE>Agresso</LOT_TITLE>
+                                    <LOT_DESCRIPTION>
+                                        <P>See the qualification documents for examples which can come under this lot.
+                                        </P>
+                                    </LOT_DESCRIPTION>
+                                    <CPV>
+                                        <CPV_MAIN>
+                                            <CPV_CODE CODE="72600000"></CPV_CODE>
+                                        </CPV_MAIN>
+                                    </CPV>
+                                    <NATURE_QUANTITY_SCOPE>
+                                        <TOTAL_QUANTITY_OR_SCOPE>
+                                            <P>The contract will be valid for 2 years from when it is signed.</P>
+                                            <P>The awarding authority (the customer) has an option for a contract
+                                                extension for a further 2 years with one year at a time (2+1+1).
+                                            </P>
+                                            <P>See the value below.</P>
+                                        </TOTAL_QUANTITY_OR_SCOPE>
+                                        <COSTS_RANGE_AND_CURRENCY CURRENCY="NOK">
+                                            <RANGE_VALUE_COST>
+                                                <LOW_VALUE FMTVAL="5600000">5 600 000</LOW_VALUE>
+                                                <HIGH_VALUE FMTVAL="9600000">9 600 000</HIGH_VALUE>
+                                            </RANGE_VALUE_COST>
+                                        </COSTS_RANGE_AND_CURRENCY>
+                                    </NATURE_QUANTITY_SCOPE>
+                                    <PERIOD_WORK_DATE_STARTING>
+                                        <MONTHS>24</MONTHS>
+                                    </PERIOD_WORK_DATE_STARTING>
+                                </F02_ANNEX_B>
+                                <F02_ANNEX_B ITEM="23044837">
+                                    <LOT_NUMBER>8</LOT_NUMBER>
+                                    <LOT_TITLE>Electronic interaction</LOT_TITLE>
+                                    <LOT_DESCRIPTION>
+                                        <P>See the qualification documents for examples which can come under this lot.
+                                        </P>
+                                    </LOT_DESCRIPTION>
+                                    <CPV>
+                                        <CPV_MAIN>
+                                            <CPV_CODE CODE="72600000"></CPV_CODE>
+                                        </CPV_MAIN>
+                                    </CPV>
+                                    <NATURE_QUANTITY_SCOPE>
+                                        <TOTAL_QUANTITY_OR_SCOPE>
+                                            <P>The contract will be valid for 2 years from when it is signed.</P>
+                                            <P>The awarding authority (the customer) has an option for a contract
+                                                extension for a further 2 years with one year at a time (2+1+1).
+                                            </P>
+                                            <P>See the value below.</P>
+                                        </TOTAL_QUANTITY_OR_SCOPE>
+                                        <COSTS_RANGE_AND_CURRENCY CURRENCY="NOK">
+                                            <RANGE_VALUE_COST>
+                                                <LOW_VALUE FMTVAL="120000000">120 000 000</LOW_VALUE>
+                                                <HIGH_VALUE FMTVAL="136000000">136 000 000</HIGH_VALUE>
+                                            </RANGE_VALUE_COST>
+                                        </COSTS_RANGE_AND_CURRENCY>
+                                    </NATURE_QUANTITY_SCOPE>
+                                    <PERIOD_WORK_DATE_STARTING>
+                                        <MONTHS>24</MONTHS>
+                                    </PERIOD_WORK_DATE_STARTING>
+                                </F02_ANNEX_B>
+                                <F02_ANNEX_B ITEM="23045115">
+                                    <LOT_NUMBER>9</LOT_NUMBER>
+                                    <LOT_TITLE>System development/programming</LOT_TITLE>
+                                    <LOT_DESCRIPTION>
+                                        <P>See the qualification documents for examples which can come under this lot.
+                                        </P>
+                                    </LOT_DESCRIPTION>
+                                    <CPV>
+                                        <CPV_MAIN>
+                                            <CPV_CODE CODE="72514200"></CPV_CODE>
+                                        </CPV_MAIN>
+                                        <CPV_ADDITIONAL>
+                                            <CPV_CODE CODE="72200000"></CPV_CODE>
+                                        </CPV_ADDITIONAL>
+                                        <CPV_ADDITIONAL>
+                                            <CPV_CODE CODE="72211000"></CPV_CODE>
+                                        </CPV_ADDITIONAL>
+                                        <CPV_ADDITIONAL>
+                                            <CPV_CODE CODE="72212000"></CPV_CODE>
+                                        </CPV_ADDITIONAL>
+                                        <CPV_ADDITIONAL>
+                                            <CPV_CODE CODE="72243000"></CPV_CODE>
+                                        </CPV_ADDITIONAL>
+                                        <CPV_ADDITIONAL>
+                                            <CPV_CODE CODE="72600000"></CPV_CODE>
+                                        </CPV_ADDITIONAL>
+                                    </CPV>
+                                    <NATURE_QUANTITY_SCOPE>
+                                        <TOTAL_QUANTITY_OR_SCOPE>
+                                            <P>The contract will be valid for 2 years from when it is signed.</P>
+                                            <P>The awarding authority (the customer) has an option for a contract
+                                                extension for a further 2 years with one year at a time (2+1+1).
+                                            </P>
+                                            <P>See the value below.</P>
+                                        </TOTAL_QUANTITY_OR_SCOPE>
+                                        <COSTS_RANGE_AND_CURRENCY CURRENCY="NOK">
+                                            <RANGE_VALUE_COST>
+                                                <LOW_VALUE FMTVAL="48000000">48 000 000</LOW_VALUE>
+                                                <HIGH_VALUE FMTVAL="64000000">64 000 000</HIGH_VALUE>
+                                            </RANGE_VALUE_COST>
+                                        </COSTS_RANGE_AND_CURRENCY>
+                                    </NATURE_QUANTITY_SCOPE>
+                                    <PERIOD_WORK_DATE_STARTING>
+                                        <MONTHS>24</MONTHS>
+                                    </PERIOD_WORK_DATE_STARTING>
+                                </F02_ANNEX_B>
+                                <F02_ANNEX_B ITEM="23035149">
+                                    <LOT_NUMBER>1</LOT_NUMBER>
+                                    <LOT_TITLE>Project management/consultancy services</LOT_TITLE>
+                                    <LOT_DESCRIPTION>
+                                        <P>See the qualification documents for examples which can come under this lot.
+                                        </P>
+                                    </LOT_DESCRIPTION>
+                                    <CPV>
+                                        <CPV_MAIN>
+                                            <CPV_CODE CODE="72600000"></CPV_CODE>
+                                        </CPV_MAIN>
+                                        <CPV_ADDITIONAL>
+                                            <CPV_CODE CODE="72000000"></CPV_CODE>
+                                        </CPV_ADDITIONAL>
+                                        <CPV_ADDITIONAL>
+                                            <CPV_CODE CODE="72100000"></CPV_CODE>
+                                        </CPV_ADDITIONAL>
+                                        <CPV_ADDITIONAL>
+                                            <CPV_CODE CODE="72130000"></CPV_CODE>
+                                        </CPV_ADDITIONAL>
+                                        <CPV_ADDITIONAL>
+                                            <CPV_CODE CODE="72246000"></CPV_CODE>
+                                        </CPV_ADDITIONAL>
+                                        <CPV_ADDITIONAL>
+                                            <CPV_CODE CODE="79421000"></CPV_CODE>
+                                        </CPV_ADDITIONAL>
+                                        <CPV_ADDITIONAL>
+                                            <CPV_CODE CODE="72224000"></CPV_CODE>
+                                        </CPV_ADDITIONAL>
+                                    </CPV>
+                                    <NATURE_QUANTITY_SCOPE>
+                                        <TOTAL_QUANTITY_OR_SCOPE>
+                                            <P>The contract will be valid for 2 years from when it is signed.</P>
+                                            <P>The awarding authority (the customer) has an option for a contract
+                                                extension for a further 2 years with one year at a time (2+1+1).
+                                            </P>
+                                            <P>See the value below.</P>
+                                        </TOTAL_QUANTITY_OR_SCOPE>
+                                        <COSTS_RANGE_AND_CURRENCY CURRENCY="NOK">
+                                            <RANGE_VALUE_COST>
+                                                <LOW_VALUE FMTVAL="280000000">280 000 000</LOW_VALUE>
+                                                <HIGH_VALUE FMTVAL="320000000">320 000 000</HIGH_VALUE>
+                                            </RANGE_VALUE_COST>
+                                        </COSTS_RANGE_AND_CURRENCY>
+                                    </NATURE_QUANTITY_SCOPE>
+                                    <PERIOD_WORK_DATE_STARTING>
+                                        <MONTHS>24</MONTHS>
+                                    </PERIOD_WORK_DATE_STARTING>
+                                </F02_ANNEX_B>
+                                <F02_ANNEX_B ITEM="23045442">
+                                    <LOT_NUMBER>10</LOT_NUMBER>
+                                    <LOT_TITLE>Operation of IT system and platforms</LOT_TITLE>
+                                    <LOT_DESCRIPTION>
+                                        <P>See the qualification documents for examples which can come under this lot.
+                                        </P>
+                                    </LOT_DESCRIPTION>
+                                    <CPV>
+                                        <CPV_MAIN>
+                                            <CPV_CODE CODE="72315200"></CPV_CODE>
+                                        </CPV_MAIN>
+                                        <CPV_ADDITIONAL>
+                                            <CPV_CODE CODE="72514000"></CPV_CODE>
+                                        </CPV_ADDITIONAL>
+                                        <CPV_ADDITIONAL>
+                                            <CPV_CODE CODE="72514100"></CPV_CODE>
+                                        </CPV_ADDITIONAL>
+                                        <CPV_ADDITIONAL>
+                                            <CPV_CODE CODE="72514200"></CPV_CODE>
+                                        </CPV_ADDITIONAL>
+                                        <CPV_ADDITIONAL>
+                                            <CPV_CODE CODE="72514300"></CPV_CODE>
+                                        </CPV_ADDITIONAL>
+                                        <CPV_ADDITIONAL>
+                                            <CPV_CODE CODE="72600000"></CPV_CODE>
+                                        </CPV_ADDITIONAL>
+                                    </CPV>
+                                    <NATURE_QUANTITY_SCOPE>
+                                        <TOTAL_QUANTITY_OR_SCOPE>
+                                            <P>The contract wil be valid for 2 years from when it is signed.</P>
+                                            <P>The awarding authority (the customer) has an option for a contract
+                                                extension for a further 2 years with one year at a time (2+1+1).
+                                            </P>
+                                            <P>See the value below.</P>
+                                        </TOTAL_QUANTITY_OR_SCOPE>
+                                        <COSTS_RANGE_AND_CURRENCY CURRENCY="NOK">
+                                            <RANGE_VALUE_COST>
+                                                <LOW_VALUE FMTVAL="28000000">28 000 000</LOW_VALUE>
+                                                <HIGH_VALUE FMTVAL="56000000">56 000 000</HIGH_VALUE>
+                                            </RANGE_VALUE_COST>
+                                        </COSTS_RANGE_AND_CURRENCY>
+                                    </NATURE_QUANTITY_SCOPE>
+                                    <PERIOD_WORK_DATE_STARTING>
+                                        <MONTHS>24</MONTHS>
+                                    </PERIOD_WORK_DATE_STARTING>
+                                    <ADDITIONAL_INFORMATION_ABOUT_LOTS>
+                                        <P>Check the amount.</P>
+                                    </ADDITIONAL_INFORMATION_ABOUT_LOTS>
+                                </F02_ANNEX_B>
+                                <F02_ANNEX_B ITEM="23045859">
+                                    <LOT_NUMBER>11</LOT_NUMBER>
+                                    <LOT_TITLE>Data communication</LOT_TITLE>
+                                    <LOT_DESCRIPTION>
+                                        <P>See the qualification documents for examples which can come under this lot.
+                                        </P>
+                                    </LOT_DESCRIPTION>
+                                    <CPV>
+                                        <CPV_MAIN>
+                                            <CPV_CODE CODE="72212200"></CPV_CODE>
+                                        </CPV_MAIN>
+                                        <CPV_ADDITIONAL>
+                                            <CPV_CODE CODE="72212210"></CPV_CODE>
+                                        </CPV_ADDITIONAL>
+                                        <CPV_ADDITIONAL>
+                                            <CPV_CODE CODE="72212214"></CPV_CODE>
+                                        </CPV_ADDITIONAL>
+                                        <CPV_ADDITIONAL>
+                                            <CPV_CODE CODE="72212215"></CPV_CODE>
+                                        </CPV_ADDITIONAL>
+                                        <CPV_ADDITIONAL>
+                                            <CPV_CODE CODE="72212219"></CPV_CODE>
+                                        </CPV_ADDITIONAL>
+                                        <CPV_ADDITIONAL>
+                                            <CPV_CODE CODE="72315100"></CPV_CODE>
+                                        </CPV_ADDITIONAL>
+                                        <CPV_ADDITIONAL>
+                                            <CPV_CODE CODE="72315200"></CPV_CODE>
+                                        </CPV_ADDITIONAL>
+                                        <CPV_ADDITIONAL>
+                                            <CPV_CODE CODE="72600000"></CPV_CODE>
+                                        </CPV_ADDITIONAL>
+                                    </CPV>
+                                    <NATURE_QUANTITY_SCOPE>
+                                        <TOTAL_QUANTITY_OR_SCOPE>
+                                            <P>The contract will be valid for 2 years from when it is signed.</P>
+                                            <P>The awarding authority (the customer) has an option for a contract
+                                                extension for a further 2 years with one year at a time (2+1+1).
+                                            </P>
+                                            <P>See the value below.</P>
+                                        </TOTAL_QUANTITY_OR_SCOPE>
+                                        <COSTS_RANGE_AND_CURRENCY CURRENCY="NOK">
+                                            <RANGE_VALUE_COST>
+                                                <LOW_VALUE FMTVAL="24000000">24 000 000</LOW_VALUE>
+                                                <HIGH_VALUE FMTVAL="40000000">40 000 000</HIGH_VALUE>
+                                            </RANGE_VALUE_COST>
+                                        </COSTS_RANGE_AND_CURRENCY>
+                                    </NATURE_QUANTITY_SCOPE>
+                                    <PERIOD_WORK_DATE_STARTING>
+                                        <MONTHS>24</MONTHS>
+                                    </PERIOD_WORK_DATE_STARTING>
+                                </F02_ANNEX_B>
+                                <F02_ANNEX_B ITEM="23042457">
+                                    <LOT_NUMBER>3</LOT_NUMBER>
+                                    <LOT_TITLE>Architecture and system specifications</LOT_TITLE>
+                                    <LOT_DESCRIPTION>
+                                        <P>See the qualification documents for examples which can come under this lot.
+                                        </P>
+                                    </LOT_DESCRIPTION>
+                                    <CPV>
+                                        <CPV_MAIN>
+                                            <CPV_CODE CODE="72600000"></CPV_CODE>
+                                        </CPV_MAIN>
+                                        <CPV_ADDITIONAL>
+                                            <CPV_CODE CODE="71210000"></CPV_CODE>
+                                        </CPV_ADDITIONAL>
+                                        <CPV_ADDITIONAL>
+                                            <CPV_CODE CODE="72000000"></CPV_CODE>
+                                        </CPV_ADDITIONAL>
+                                        <CPV_ADDITIONAL>
+                                            <CPV_CODE CODE="72130000"></CPV_CODE>
+                                        </CPV_ADDITIONAL>
+                                        <CPV_ADDITIONAL>
+                                            <CPV_CODE CODE="72212710"></CPV_CODE>
+                                        </CPV_ADDITIONAL>
+                                        <CPV_ADDITIONAL>
+                                            <CPV_CODE CODE="72212730"></CPV_CODE>
+                                        </CPV_ADDITIONAL>
+                                        <CPV_ADDITIONAL>
+                                            <CPV_CODE CODE="72212732"></CPV_CODE>
+                                        </CPV_ADDITIONAL>
+                                    </CPV>
+                                    <NATURE_QUANTITY_SCOPE>
+                                        <TOTAL_QUANTITY_OR_SCOPE>
+                                            <P>The contract will be valid for 2 years from when it is signed.</P>
+                                            <P>The awarding authority (the customer) has an option for a contract
+                                                extension for a further 2 years with one year at a time (2+1+1).
+                                            </P>
+                                            <P>See the value below.</P>
+                                        </TOTAL_QUANTITY_OR_SCOPE>
+                                        <COSTS_RANGE_AND_CURRENCY CURRENCY="NOK">
+                                            <RANGE_VALUE_COST>
+                                                <LOW_VALUE FMTVAL="96000000">96 000 000</LOW_VALUE>
+                                                <HIGH_VALUE FMTVAL="128000000">128 000 000</HIGH_VALUE>
+                                            </RANGE_VALUE_COST>
+                                        </COSTS_RANGE_AND_CURRENCY>
+                                    </NATURE_QUANTITY_SCOPE>
+                                    <PERIOD_WORK_DATE_STARTING>
+                                        <MONTHS>24</MONTHS>
+                                    </PERIOD_WORK_DATE_STARTING>
+                                </F02_ANNEX_B>
+                            </F02_DIV_INTO_LOT_YES>
+                        </F02_DIVISION_INTO_LOTS>
+                        <ACCEPTED_VARIANTS VALUE="NO"></ACCEPTED_VARIANTS>
+                    </DESCRIPTION_CONTRACT_INFORMATION>
+                    <QUANTITY_SCOPE>
+                        <NATURE_QUANTITY_SCOPE>
+                            <TOTAL_QUANTITY_OR_SCOPE>
+                                <P>The contract will be valid for 2 years from when it is signed.</P>
+                                <P>The awarding authority (the customer) has an option for a contract extension for a
+                                    further 2 years with one year at a time (2+1+1).
+                                </P>
+                            </TOTAL_QUANTITY_OR_SCOPE>
+                            <COSTS_RANGE_AND_CURRENCY CURRENCY="NOK">
+                                <RANGE_VALUE_COST>
+                                    <LOW_VALUE FMTVAL="704000000">704 000 000</LOW_VALUE>
+                                    <HIGH_VALUE FMTVAL="920000000">920 000 000</HIGH_VALUE>
+                                </RANGE_VALUE_COST>
+                            </COSTS_RANGE_AND_CURRENCY>
+                        </NATURE_QUANTITY_SCOPE>
+                        <OPTIONS>
+                            <OPTION_DESCRIPTION>
+                                <P>The contract will be valid for 2 years from when it is signed.</P>
+                                <P>The awarding authority (the customer) has an option for a contract extension for a
+                                    further 2 years with one year at a time (2+1+1).
+                                </P>
+                            </OPTION_DESCRIPTION>
+                            <NUMBER_POSSIBLE_RENEWALS>2</NUMBER_POSSIBLE_RENEWALS>
+                        </OPTIONS>
+                    </QUANTITY_SCOPE>
+                    <PERIOD_WORK_DATE_STARTING>
+                        <MONTHS>24</MONTHS>
+                    </PERIOD_WORK_DATE_STARTING>
+                </OBJECT_CONTRACT_INFORMATION>
+                <LEFTI_CONTRACT>
+                    <CONTRACT_RELATING_CONDITIONS>
+                        <NO_EXISTENCE_OTHER_PARTICULAR_CONDITIONS></NO_EXISTENCE_OTHER_PARTICULAR_CONDITIONS>
+                    </CONTRACT_RELATING_CONDITIONS>
+                    <F02_CONDITIONS_FOR_PARTICIPATION>
+                        <ECONOMIC_OPERATORS_PERSONAL_SITUATION>
+                            <P>(1) Value added tax certificate (national requirement);</P>
+                            <P>(2) Company tax certificate (national requirement);</P>
+                            <P>(3) Self-declaration in compliance with Appendix 2 (HSE) of the Norwegian procurement
+                                regulations (national requirement);
+                            </P>
+                            <P>(4) Other documentation required (please state below);</P>
+                            <P>The service provider is required to have a legally established company.</P>
+                            <P>Documentation requirement:</P>
+                            <P>Norwegian service providers: company registration certificate from the Brønnøysund
+                                Register Centre;
+                            </P>
+                            <P>Foreign service providers: certification of registration in a company register as
+                                described in the law in the country where the service provider is established.
+                            </P>
+                        </ECONOMIC_OPERATORS_PERSONAL_SITUATION>
+                        <F02_ECONOMIC_FINANCIAL_CAPACITY>
+                            <EAF_CAPACITY_INFORMATION>
+                                <P>(1) Other documentation required (please state below)</P>
+                                <P>The awarding authority will itself obtain an accounts analysis carried out by
+                                    Experian, see www.experian.no.
+                                </P>
+                                <P>If a tenderer believes that the analysis will not give a correct picture, further
+                                    information is to be enclosed with the tender.
+                                </P>
+                            </EAF_CAPACITY_INFORMATION>
+                            <EAF_CAPACITY_MIN_LEVEL>
+                                <P>The service provider is required to have good financial solidity. A credit rating of
+                                    "credit worthy" or better is required.
+                                </P>
+                            </EAF_CAPACITY_MIN_LEVEL>
+                        </F02_ECONOMIC_FINANCIAL_CAPACITY>
+                        <TECHNICAL_CAPACITY_LEFTI>
+                            <T_CAPACITY_INFORMATION>
+                                <P>(1) Other documentation required (please state below)</P>
+                                <P>Documentation requirement relevant experience:</P>
+                                <P>— The service provider’s most important contracts in the last 3 years (per competence
+                                    area that a request is sent for), including:
+                                </P>
+                                <P>— A short description of the assignment, including the service provider’s
+                                    contribution in the assignment,
+                                </P>
+                                <P>— Role,</P>
+                                <P>— Number of invoiced hours,</P>
+                                <P>— Date and length,</P>
+                                <P>— Awarding authority.</P>
+                                <P>The name and contact information of the contact person at the reference customer
+                                    shall be included so that NAV can make contact if needed.
+                                </P>
+                                <P>Form for relevant experience in annex 2 of the qualification documents. This shall be
+                                    used when answering this point.
+                                </P>
+                                <P>Documentation requirement quality assurance system:</P>
+                                <P>— Account of the company’s quality assurance system/control system, including the
+                                    system for insuring the development and maintenance of competence and any
+                                    certificates issued by independent bodies,
+                                </P>
+                                <P>— The request for participation must state if the service provider is enclosing an
+                                    account which is valid for all areas a request is given for,
+                                </P>
+                                <P>— If a service provider encloses accounts aimed at each competence area a request is
+                                    given for, they must be enclosed sorted per area and it must be clear which area the
+                                    account is for.
+                                </P>
+                            </T_CAPACITY_INFORMATION>
+                            <T_CAPACITY_MIN_LEVEL>
+                                <P>— Service providers are required to have relevant experience from similar
+                                    assignments,
+                                </P>
+                                <P>— A good and well functioning quality assurance system is required.</P>
+                            </T_CAPACITY_MIN_LEVEL>
+                        </TECHNICAL_CAPACITY_LEFTI>
+                    </F02_CONDITIONS_FOR_PARTICIPATION>
+                </LEFTI_CONTRACT>
+                <PROCEDURE_DEFINITION_CONTRACT_NOTICE>
+                    <TYPE_OF_PROCEDURE>
+                        <TYPE_OF_PROCEDURE_DETAIL_FOR_CONTRACT_NOTICE>
+                            <PT_RESTRICTED></PT_RESTRICTED>
+                        </TYPE_OF_PROCEDURE_DETAIL_FOR_CONTRACT_NOTICE>
+                        <MAXIMUM_NUMBER_INVITED>
+                            <OPE_MINIMUM_NUMBER>5</OPE_MINIMUM_NUMBER>
+                            <OPE_MAXIMUM_NUMBER>15</OPE_MAXIMUM_NUMBER>
+                            <OPE_OBJECTIVE_CRITERIA>
+                                <P>The awarding authority will invite at least 5 and a maximum of 15 of the qualified
+                                    service providers per area of competence to give a tender, provided that a
+                                    sufficient number of service providers are qualified.
+                                </P>
+                                <P>The selection of service providers will be based on the following criteria from the
+                                    qualification document’s point 2.4:
+                                </P>
+                                <P>Experience (weighted 80 %).</P>
+                                <P>Quality assurance system (weighted 20 %).</P>
+                                <P>Service providers will be evaluated in the following way: service providers will be
+                                    given a character for each qualification requirement on a points scale from 0 to 10,
+                                    with 10 being the best. Each of these characters will be multiplied with the
+                                    relevant weighting. This will give a ranking in each area which will form the basis
+                                    for the selection.
+                                </P>
+                            </OPE_OBJECTIVE_CRITERIA>
+                        </MAXIMUM_NUMBER_INVITED>
+                    </TYPE_OF_PROCEDURE>
+                    <AWARD_CRITERIA_CONTRACT_NOTICE_INFORMATION>
+                        <AWARD_CRITERIA_DETAIL>
+                            <MOST_ECONOMICALLY_ADVANTAGEOUS_TENDER>
+                                <CRITERIA_STATED_IN_OTHER_DOCUMENT></CRITERIA_STATED_IN_OTHER_DOCUMENT>
+                            </MOST_ECONOMICALLY_ADVANTAGEOUS_TENDER>
+                        </AWARD_CRITERIA_DETAIL>
+                        <IS_ELECTRONIC_AUCTION_USABLE>
+                            <NO_USE_ELECTRONIC_AUCTION></NO_USE_ELECTRONIC_AUCTION>
+                        </IS_ELECTRONIC_AUCTION_USABLE>
+                    </AWARD_CRITERIA_CONTRACT_NOTICE_INFORMATION>
+                    <ADMINISTRATIVE_INFORMATION_CONTRACT_NOTICE>
+                        <FILE_REFERENCE_NUMBER>
+                            <P>11/1944</P>
+                        </FILE_REFERENCE_NUMBER>
+                        <CONDITIONS_OBTAINING_SPECIFICATIONS>
+                            <TIME_LIMIT>
+                                <DAY>02</DAY>
+                                <MONTH>05</MONTH>
+                                <YEAR>2011</YEAR>
+                            </TIME_LIMIT>
+                        </CONDITIONS_OBTAINING_SPECIFICATIONS>
+                        <RECEIPT_LIMIT_DATE>
+                            <DAY>02</DAY>
+                            <MONTH>05</MONTH>
+                            <YEAR>2011</YEAR>
+                            <TIME>12:00</TIME>
+                        </RECEIPT_LIMIT_DATE>
+                        <DISPATCH_INVITATIONS_DATE>
+                            <DAY>19</DAY>
+                            <MONTH>05</MONTH>
+                            <YEAR>2011</YEAR>
+                        </DISPATCH_INVITATIONS_DATE>
+                        <LANGUAGE>
+                            <LANGUAGE_OTHER>
+                                <P>Norwegian.</P>
+                            </LANGUAGE_OTHER>
+                        </LANGUAGE>
+                    </ADMINISTRATIVE_INFORMATION_CONTRACT_NOTICE>
+                </PROCEDURE_DEFINITION_CONTRACT_NOTICE>
+                <COMPLEMENTARY_INFORMATION_CONTRACT_NOTICE>
+                    <ADDITIONAL_INFORMATION>
+                        <P>(NT Ref:227160).</P>
+                    </ADDITIONAL_INFORMATION>
+                    <NOTICE_DISPATCH_DATE>
+                        <DAY>29</DAY>
+                        <MONTH>03</MONTH>
+                        <YEAR>2011</YEAR>
+                    </NOTICE_DISPATCH_DATE>
+                </COMPLEMENTARY_INFORMATION_CONTRACT_NOTICE>
+            </FD_CONTRACT>
+        </CONTRACT>
+    </FORM_SECTION>
+</TED_EXPORT>

@@ -1,0 +1,1406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TED_EXPORT xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xmlns="http://publications.europa.eu/resource/schema/ted/R2.0.9/publication"
+            xmlns:n2016="http://publications.europa.eu/resource/schema/ted/2016/nuts"
+            xsi:schemaLocation="http://publications.europa.eu/resource/schema/ted/R2.0.9/publication TED_EXPORT.xsd"
+            VERSION="R2.0.9.S03.E01" DOC_ID="087031-2019" EDITION="2019038">
+    <TECHNICAL_SECTION>
+        <RECEPTION_ID>19-084242-001</RECEPTION_ID>
+        <DELETION_DATE>20190322</DELETION_DATE>
+        <FORM_LG_LIST>EN</FORM_LG_LIST>
+        <COMMENTS>From Convertor</COMMENTS>
+    </TECHNICAL_SECTION>
+    <LINKS_SECTION>
+        <XML_SCHEMA_DEFINITION_LINK xlink:type="simple" xlink:href="http://ted.europa.eu" xlink:title="TED WEBSITE"/>
+        <OFFICIAL_FORMS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+        <FORMS_LABELS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+        <ORIGINAL_CPV_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+        <ORIGINAL_NUTS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+    </LINKS_SECTION>
+    <CODED_DATA_SECTION>
+        <REF_OJS>
+            <COLL_OJ>S</COLL_OJ>
+            <NO_OJ>38</NO_OJ>
+            <DATE_PUB>20190222</DATE_PUB>
+        </REF_OJS>
+        <NOTICE_DATA>
+            <NO_DOC_OJS>2019/S 038-087031</NO_DOC_OJS>
+            <URI_LIST>
+                <URI_DOC LG="EN">http://ted.europa.eu/udl?uri=TED:NOTICE:087031-2019:TEXT:EN:HTML</URI_DOC>
+            </URI_LIST>
+            <LG_ORIG>EN</LG_ORIG>
+            <ISO_COUNTRY VALUE="NO"/>
+            <IA_URL_GENERAL>https://permalink.mercell.com/99883201.aspx</IA_URL_GENERAL>
+            <IA_URL_ETENDERING>https://permalink.mercell.com/99883201.aspx</IA_URL_ETENDERING>
+            <ORIGINAL_CPV CODE="72224000">Project management consultancy services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="79600000">Recruitment services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="79420000">Management-related services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="79414000">Human resources management consultancy services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="79400000">Business and management consultancy and related services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="79000000">Business services: law, marketing, consulting, recruitment, printing and
+                security
+            </ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="79415200">Design consultancy services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="79411100">Business development consultancy services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="72223000">Information technology requirements review services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="79412000">Financial management consultancy services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="79419000">Evaluation consultancy services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="90711100">Risk or hazard assessment other than for construction</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="72221000">Business analysis consultancy services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="79421000">Project-management services other than for construction work</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="79418000">Procurement consultancy services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="79421100">Project-supervision services other than for construction work</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="79421200">Project-design services other than for construction work</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="72225000">System quality assurance assessment and review services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="72000000">IT services: consulting, software development, Internet and support
+            </ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="79417000">Safety consultancy services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="72227000">Software integration consultancy services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="72413000">World wide web (www) site design services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="48000000">Software package and information systems</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="72200000">Software programming and consultancy services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="72212220">Internet and intranet software development services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="72421000">Internet or intranet client application development services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="72212732">Data security software development services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="72220000">Systems and technical consultancy services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="71600000">Technical testing, analysis and consultancy services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="72212984">Program testing software development services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="72226000">System software acceptance testing consultancy services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="72254000">Software testing</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="72254100">Systems testing services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="73430000">Test and evaluation</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="72212211">Platform interconnectivity software development services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="72212620">Mainframe operating system software development services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="64216000">Electronic message and information services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="64216200">Electronic information services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="79140000">Legal advisory and information services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="48810000">Information systems</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="72320000">Database services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="48620000">Operating systems</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="72510000">Computer-related management services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="50324100">System maintenance services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="72267100">Maintenance of information technology software</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="72600000">Computer support and consultancy services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="64212000">Mobile-telephone services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="72317000">Data storage services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="72212985">Debugging software development services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="48611000">Database software package</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="48600000">Database and operating software package</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="72720000">Wide area network services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="72700000">Computer network services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="48730000">Security software package</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="48732000">Data security software package</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="73431000">Test and evaluation of security equipment</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="72710000">Local area network services</ORIGINAL_CPV>
+            <n2016:PERFORMANCE_NUTS CODE="NO">NORGE</n2016:PERFORMANCE_NUTS>
+            <n2016:CA_CE_NUTS CODE="NO">NORGE</n2016:CA_CE_NUTS>
+        </NOTICE_DATA>
+        <CODIF_DATA>
+            <DS_DATE_DISPATCH>20190219</DS_DATE_DISPATCH>
+            <DT_DATE_FOR_SUBMISSION>20190322 12:00</DT_DATE_FOR_SUBMISSION>
+            <AA_AUTHORITY_TYPE CODE="1">Ministry or any other national or federal authority</AA_AUTHORITY_TYPE>
+            <TD_DOCUMENT_TYPE CODE="3">Contract notice</TD_DOCUMENT_TYPE>
+            <NC_CONTRACT_NATURE CODE="4">Services</NC_CONTRACT_NATURE>
+            <PR_PROC CODE="2">Restricted procedure</PR_PROC>
+            <RP_REGULATION CODE="B">European Economic Area (EEA), with participation by GPA countries</RP_REGULATION>
+            <TY_TYPE_BID CODE="1">Submission for all lots</TY_TYPE_BID>
+            <AC_AWARD_CRIT CODE="2">The most economic tender</AC_AWARD_CRIT>
+            <MA_MAIN_ACTIVITIES CODE="S">General public services</MA_MAIN_ACTIVITIES>
+            <HEADING>03C02</HEADING>
+            <INITIATOR>03</INITIATOR>
+        </CODIF_DATA>
+    </CODED_DATA_SECTION>
+    <TRANSLATION_SECTION>
+        <ML_TITLES>
+            <ML_TI_DOC LG="BG">
+                <TI_CY>Норвегия</TI_CY>
+                <TI_TOWN>Осло</TI_TOWN>
+                <TI_TEXT>
+                    <P>Консултантски услуги по управление на компютърни проекти</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="CS">
+                <TI_CY>Norsko</TI_CY>
+                <TI_TOWN>Oslo</TI_TOWN>
+                <TI_TEXT>
+                    <P>Poradenské služby v oblasti řízení projektů</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="DA">
+                <TI_CY>Norge</TI_CY>
+                <TI_TOWN>Oslo</TI_TOWN>
+                <TI_TEXT>
+                    <P>Konsulentvirksomhed i forbindelse med projektstyring</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="DE">
+                <TI_CY>Norwegen</TI_CY>
+                <TI_TOWN>Oslo</TI_TOWN>
+                <TI_TEXT>
+                    <P>Beratung im Bereich Projektleitung</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="EL">
+                <TI_CY>Νορβηγία</TI_CY>
+                <TI_TOWN>Όσλο</TI_TOWN>
+                <TI_TEXT>
+                    <P>Υπηρεσίες παροχής συμβουλών σε θέματα διαχείρισης έργων</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="EN">
+                <TI_CY>Norway</TI_CY>
+                <TI_TOWN>Oslo</TI_TOWN>
+                <TI_TEXT>
+                    <P>Project management consultancy services</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="ES">
+                <TI_CY>Noruega</TI_CY>
+                <TI_TOWN>Oslo</TI_TOWN>
+                <TI_TEXT>
+                    <P>Servicios de consultoría en gestión de proyectos</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="ET">
+                <TI_CY>Norra</TI_CY>
+                <TI_TOWN>Oslo</TI_TOWN>
+                <TI_TEXT>
+                    <P>Projektijuhtimise nõustamisteenused</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="FI">
+                <TI_CY>Norja</TI_CY>
+                <TI_TOWN>Oslo</TI_TOWN>
+                <TI_TEXT>
+                    <P>Projektinjohtoa koskevat konsulttipalvelut</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="FR">
+                <TI_CY>Norvège</TI_CY>
+                <TI_TOWN>Oslo</TI_TOWN>
+                <TI_TEXT>
+                    <P>Services de conseil en gestion de projet</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="GA">
+                <TI_CY>Iorua, an</TI_CY>
+                <TI_TOWN>Osló</TI_TOWN>
+                <TI_TEXT>
+                    <P>Project management consultancy services</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="HR">
+                <TI_CY>Norveška</TI_CY>
+                <TI_TOWN>Oslo</TI_TOWN>
+                <TI_TEXT>
+                    <P>Usluge savjetovanja na području vođenja projekta</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="HU">
+                <TI_CY>Norvégia</TI_CY>
+                <TI_TOWN>Oslo</TI_TOWN>
+                <TI_TEXT>
+                    <P>Projekt-ügyintézési tanácsadó szolgáltatások</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="IT">
+                <TI_CY>Norvegia</TI_CY>
+                <TI_TOWN>Oslo</TI_TOWN>
+                <TI_TEXT>
+                    <P>Servizi di consulenza per la gestione di progetti</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="LT">
+                <TI_CY>Norvegija</TI_CY>
+                <TI_TOWN>Oslas</TI_TOWN>
+                <TI_TEXT>
+                    <P>Projektų vadybos konsultacinės paslaugos</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="LV">
+                <TI_CY>Norvēģija</TI_CY>
+                <TI_TOWN>Oslo</TI_TOWN>
+                <TI_TEXT>
+                    <P>Projektu vadības konsultāciju pakalpojumi</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="MT">
+                <TI_CY>in-Norveġja</TI_CY>
+                <TI_TOWN>Oslo</TI_TOWN>
+                <TI_TEXT>
+                    <P>Servizzi ta' konsulenza dwar l-amministrazzjoni ta' priġett</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="NL">
+                <TI_CY>Noorwegen</TI_CY>
+                <TI_TOWN>Oslo</TI_TOWN>
+                <TI_TEXT>
+                    <P>Advies over projectmanagement</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="PL">
+                <TI_CY>Norwegia</TI_CY>
+                <TI_TOWN>Oslo</TI_TOWN>
+                <TI_TEXT>
+                    <P>Usługi doradcze w zakresie zarządzania projektem</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="PT">
+                <TI_CY>Noruega</TI_CY>
+                <TI_TOWN>Oslo</TI_TOWN>
+                <TI_TEXT>
+                    <P>Serviços de consultoria em gestão de projectos</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="RO">
+                <TI_CY>Norvegia</TI_CY>
+                <TI_TOWN>Oslo</TI_TOWN>
+                <TI_TEXT>
+                    <P>Servicii de consultanţă privind gestionarea proiectelor</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="SK">
+                <TI_CY>Nórsko</TI_CY>
+                <TI_TOWN>Oslo</TI_TOWN>
+                <TI_TEXT>
+                    <P>Poradenstvo pri riadení projektov</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="SL">
+                <TI_CY>Norveška</TI_CY>
+                <TI_TOWN>Oslo</TI_TOWN>
+                <TI_TEXT>
+                    <P>Storitve svetovanja na področju projektnega managementa</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="SV">
+                <TI_CY>Norge</TI_CY>
+                <TI_TOWN>Oslo</TI_TOWN>
+                <TI_TEXT>
+                    <P>Konsulttjänster för projektledning</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+        </ML_TITLES>
+        <ML_AA_NAMES>
+            <AA_NAME LG="EN">Arbeids- OG Velferdsetaten (NAV)</AA_NAME>
+        </ML_AA_NAMES>
+    </TRANSLATION_SECTION>
+    <FORM_SECTION>
+        <F02_2014 CATEGORY="ORIGINAL" FORM="F02" LG="EN">
+            <LEGAL_BASIS VALUE="32014L0024"/>
+            <CONTRACTING_BODY>
+                <ADDRESS_CONTRACTING_BODY>
+                    <OFFICIALNAME>Arbeids- OG Velferdsetaten (NAV)</OFFICIALNAME>
+                    <NATIONALID>889640782</NATIONALID>
+                    <ADDRESS>Postboks 5, St Olavs plass</ADDRESS>
+                    <TOWN>Oslo</TOWN>
+                    <POSTAL_CODE>0130</POSTAL_CODE>
+                    <COUNTRY VALUE="NO"/>
+                    <CONTACT_POINT>Else Marie Molden</CONTACT_POINT>
+                    <E_MAIL>else.marie.molden@nav.no</E_MAIL>
+                    <n2016:NUTS CODE="NO"/>
+                    <URL_GENERAL>https://permalink.mercell.com/99883201.aspx</URL_GENERAL>
+                    <URL_BUYER>http://www.nav.no/</URL_BUYER>
+                </ADDRESS_CONTRACTING_BODY>
+                <DOCUMENT_FULL/>
+                <URL_DOCUMENT>https://permalink.mercell.com/99883201.aspx</URL_DOCUMENT>
+                <ADDRESS_FURTHER_INFO_IDEM/>
+                <URL_PARTICIPATION>https://permalink.mercell.com/99883201.aspx</URL_PARTICIPATION>
+                <CA_TYPE VALUE="MINISTRY"/>
+                <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+            </CONTRACTING_BODY>
+            <OBJECT_CONTRACT>
+                <TITLE>
+                    <P>Procurement of Parallel Framework Agreements for Consultancy Services for NAV</P>
+                </TITLE>
+                <REFERENCE_NUMBER>18-3445</REFERENCE_NUMBER>
+                <CPV_MAIN>
+                    <CPV_CODE CODE="72224000"/>
+                </CPV_MAIN>
+                <TYPE_CONTRACT CTYPE="SERVICES"/>
+                <SHORT_DESCR>
+                    <P>The Directorate of Labour and Welfare, hereafter called the Contracting Authority, invites
+                        tenderers to a restricted tender contest for the procurement of parallel Framework Agreements
+                        for consultancy services. This is a procurement procedure where the Contracting Authority
+                        chooses which tenderers can submit a tender from those who fulfil the requirements in the
+                        qualification documentation.
+                    </P>
+                    <P>The contracts must cover the need for competence that the Contracting Authority does not have
+                        access to in its own department on a given day, or where there is a need for extra capacity. The
+                        contracts can also be used for external quality assurance. The requested consultancy services
+                        are divided into competence areas, and independent tender contests will be held for each
+                        competence area.
+                    </P>
+                    <P>The requested consultancy services are divided into 14 sub-contests/competence areas, and
+                        independent tender contests will be held for each competence area.
+                    </P>
+                    <P>Click here https://permalink.mercell.com/99883201.aspx</P>
+                </SHORT_DESCR>
+                <LOT_DIVISION>
+                    <LOT_ALL/>
+                </LOT_DIVISION>
+                <OBJECT_DESCR ITEM="1">
+                    <TITLE>
+                        <P>Procurement of Parallel Framework Agreements for Consultancy Services for NAV &#x8d;—
+                            Recruitment Assistance
+                        </P>
+                    </TITLE>
+                    <LOT_NO>1</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="79600000"/>
+                    </CPV_ADDITIONAL>
+                    <n2016:NUTS CODE="NO"/>
+                    <MAIN_SITE>
+                        <P>Oslo</P>
+                    </MAIN_SITE>
+                    <SHORT_DESCR>
+                        <P>Recruitment assistance</P>
+                        <P>Examples are:</P>
+                        <P>Full recruitment process of key personnel and managers from office manager level and higher
+                            levels.
+                        </P>
+                        <P>Parts of the recruitment process of key personnel and of managers from office manager level
+                            and higher levels, such as:
+                        </P>
+                        <P>— needs analyse,</P>
+                        <P>— announcement,</P>
+                        <P>— search, interview, testing and recommendations.</P>
+                        <P>Consultancy services for the recruitment process.</P>
+                        <P>Assistance with process improvements and quality assurance for recruitment.</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PROCUREMENT_DOC/>
+                    </AC>
+                    <VAL_OBJECT CURRENCY="NOK">12000000.00</VAL_OBJECT>
+                    <DATE_START>2019-11-01</DATE_START>
+                    <DATE_END>2021-10-31</DATE_END>
+                    <RENEWAL/>
+                    <RENEWAL_DESCR>
+                        <P>Option for an extension for 1+1 year.</P>
+                    </RENEWAL_DESCR>
+                    <NB_MIN_LIMIT_CANDIDATE>8</NB_MIN_LIMIT_CANDIDATE>
+                    <NB_MAX_LIMIT_CANDIDATE>12</NB_MAX_LIMIT_CANDIDATE>
+                    <CRITERIA_CANDIDATE>
+                        <P>The selection of tenderers must be based on the degree of fulfilment of the following
+                            qualification requirements, with the stated weighting:
+                        </P>
+                        <P>— relevant experience from similar deliveries, weighted 80 %,</P>
+                        <P>— a good and well-functioning quality assurance system, weighted 20 %.</P>
+                    </CRITERIA_CANDIDATE>
+                    <NO_ACCEPTED_VARIANTS/>
+                    <OPTIONS/>
+                    <OPTIONS_DESCR>
+                        <P>Option for other NAV units (government part) to use the Framework Agreements.</P>
+                    </OPTIONS_DESCR>
+                    <NO_EU_PROGR_RELATED/>
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="2">
+                    <TITLE>
+                        <P>Procurement of Parallel Framework Agreements for Consultancy Services for NAV — Management
+                            Support/Development
+                        </P>
+                    </TITLE>
+                    <LOT_NO>2</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="79420000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="79414000"/>
+                    </CPV_ADDITIONAL>
+                    <n2016:NUTS CODE="NO"/>
+                    <MAIN_SITE>
+                        <P>Oslo</P>
+                    </MAIN_SITE>
+                    <SHORT_DESCR>
+                        <P>Management support/development</P>
+                        <P>Examples are:</P>
+                        <P>— coaching,</P>
+                        <P>— career guidance,</P>
+                        <P>— mentor support,</P>
+                        <P>— change management,</P>
+                        <P>— competence management,</P>
+                        <P>— product and process management,</P>
+                        <P>— development of management groups and teams,</P>
+                        <P>— measuring/following-up managers, including systems, tools and methods,</P>
+                        <P>— advice on strategic management development with particular emphasis on digital
+                            transformation,
+                        </P>
+                        <P>— support for the use of digital learning forms in management development.</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PROCUREMENT_DOC/>
+                    </AC>
+                    <VAL_OBJECT CURRENCY="NOK">40000000.00</VAL_OBJECT>
+                    <DATE_START>2019-11-01</DATE_START>
+                    <DATE_END>2021-10-31</DATE_END>
+                    <RENEWAL/>
+                    <RENEWAL_DESCR>
+                        <P>Option for an extension for 1+1 year.</P>
+                    </RENEWAL_DESCR>
+                    <NB_MIN_LIMIT_CANDIDATE>8</NB_MIN_LIMIT_CANDIDATE>
+                    <NB_MAX_LIMIT_CANDIDATE>12</NB_MAX_LIMIT_CANDIDATE>
+                    <CRITERIA_CANDIDATE>
+                        <P>The selection of tenderers must be based on the degree of fulfilment of the following
+                            qualification requirements, with the stated weighting:
+                        </P>
+                        <P>— relevant experience from similar deliveries, weighted 80 %,</P>
+                        <P>— a good and well-functioning quality assurance system, weighted 20 %.</P>
+                    </CRITERIA_CANDIDATE>
+                    <NO_ACCEPTED_VARIANTS/>
+                    <OPTIONS/>
+                    <OPTIONS_DESCR>
+                        <P>Option for other NAV units (government part) to use the Framework Agreements.</P>
+                    </OPTIONS_DESCR>
+                    <NO_EU_PROGR_RELATED/>
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="3">
+                    <TITLE>
+                        <P>Procurement of Parallel Framework Agreements for Consultancy Services for NAV — Business and
+                            Organisation Development
+                        </P>
+                    </TITLE>
+                    <LOT_NO>3</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="79400000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="79000000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="79415200"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="79411100"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="79414000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72223000"/>
+                    </CPV_ADDITIONAL>
+                    <n2016:NUTS CODE="NO"/>
+                    <MAIN_SITE>
+                        <P>Oslo</P>
+                    </MAIN_SITE>
+                    <SHORT_DESCR>
+                        <P>Business and organisation development</P>
+                        <P>Examples are:</P>
+                        <P>Advice, process management and process support for:</P>
+                        <P>— strategy development and consultancy services,</P>
+                        <P>— business and service development,</P>
+                        <P>— product innovation,</P>
+                        <P>— business development and continual improvements (including methods and tools),</P>
+                        <P>— restructuring and changes processes,</P>
+                        <P>— organisation culture and diversity analysis/review and evaluation of the organisation,</P>
+                        <P>— improving efficiency and service development,</P>
+                        <P>— organisation design, work processes, roles and responsibility,</P>
+                        <P>— methods and tools within strategic competence work, development, management and mapping,
+                        </P>
+                        <P>— strategic staffing management, including the use of and interaction between recruitment,
+                            development, restructuring and discontinuation,
+                        </P>
+                        <P>— organisation and personnel analyses, including obtaining and comparing data, analyses and
+                            decision bases,
+                        </P>
+                        <P>— agile methods, such as design sprint, hypothesis-driven development, value measurements,
+                            team development, etc,
+                        </P>
+                        <P>— technical advice on technological trends, how technology will renew NAV with technologies
+                            such as artificial intelligence, automation and data-driven decision support.
+                        </P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PROCUREMENT_DOC/>
+                    </AC>
+                    <VAL_OBJECT CURRENCY="NOK">56000000.00</VAL_OBJECT>
+                    <DATE_START>2019-11-01</DATE_START>
+                    <DATE_END>2021-10-31</DATE_END>
+                    <RENEWAL/>
+                    <RENEWAL_DESCR>
+                        <P>Option for an extension for 1+1 year.</P>
+                    </RENEWAL_DESCR>
+                    <NB_MIN_LIMIT_CANDIDATE>12</NB_MIN_LIMIT_CANDIDATE>
+                    <NB_MAX_LIMIT_CANDIDATE>15</NB_MAX_LIMIT_CANDIDATE>
+                    <CRITERIA_CANDIDATE>
+                        <P>The selection of tenderers must be based on the degree of fulfilment of the following
+                            qualification requirements, with the stated weighting:
+                        </P>
+                        <P>— relevant experience from similar deliveries, weighted 80 %,</P>
+                        <P>— a good and well-functioning quality assurance system, weighted 20 %.</P>
+                    </CRITERIA_CANDIDATE>
+                    <NO_ACCEPTED_VARIANTS/>
+                    <OPTIONS/>
+                    <OPTIONS_DESCR>
+                        <P>Option for other NAV units (government part) to use the Framework Agreements.</P>
+                    </OPTIONS_DESCR>
+                    <NO_EU_PROGR_RELATED/>
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="4">
+                    <TITLE>
+                        <P>Procurement of Parallel Framework Agreements for Consultancy Services for NAV — Business and
+                            Financial Management
+                        </P>
+                    </TITLE>
+                    <LOT_NO>4</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="79400000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="79000000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="79412000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="79419000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="90711100"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72221000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="79411100"/>
+                    </CPV_ADDITIONAL>
+                    <n2016:NUTS CODE="NO"/>
+                    <MAIN_SITE>
+                        <P>Oslo</P>
+                    </MAIN_SITE>
+                    <SHORT_DESCR>
+                        <P>Business and financial management</P>
+                        <P>Examples are:</P>
+                        <P>Consultancy services, methods and tools for:</P>
+                        <P>— development of effect-based business and financial management,</P>
+                        <P>— management that supports product development,</P>
+                        <P>— flexible business management,</P>
+                        <P>— quality/challenges, accounting processes,</P>
+                        <P>— self-service and automatised finance and management processes (standard systems),</P>
+                        <P>— digitalisation of management information (simple services and standard systems),</P>
+                        <P>— expertise on the development of management information,</P>
+                        <P>— analyses and insight as a basis for decisions and management signals,</P>
+                        <P>— evaluations,</P>
+                        <P>— gains estimation and gains realisation,</P>
+                        <P>— portfolio management,</P>
+                        <P>— risk management and handling risk,</P>
+                        <P>— quality assurance,</P>
+                        <P>— information security and personal protection on a business level.</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PROCUREMENT_DOC/>
+                    </AC>
+                    <VAL_OBJECT CURRENCY="NOK">32000000.00</VAL_OBJECT>
+                    <DATE_START>2019-11-01</DATE_START>
+                    <DATE_END>2021-10-31</DATE_END>
+                    <RENEWAL/>
+                    <RENEWAL_DESCR>
+                        <P>Option for an extension for 1+1 year.</P>
+                    </RENEWAL_DESCR>
+                    <NB_MIN_LIMIT_CANDIDATE>8</NB_MIN_LIMIT_CANDIDATE>
+                    <NB_MAX_LIMIT_CANDIDATE>12</NB_MAX_LIMIT_CANDIDATE>
+                    <CRITERIA_CANDIDATE>
+                        <P>The selection of tenderers must be based on the degree of fulfilment of the following
+                            qualification requirements, with the stated weighting:
+                        </P>
+                        <P>— relevant experience from similar deliveries, weighted 80 %,</P>
+                        <P>— a good and well-functioning quality assurance system, weighted 20 %.</P>
+                    </CRITERIA_CANDIDATE>
+                    <NO_ACCEPTED_VARIANTS/>
+                    <OPTIONS/>
+                    <OPTIONS_DESCR>
+                        <P>Option for other NAV units (government part) to use the Framework Agreements.</P>
+                    </OPTIONS_DESCR>
+                    <NO_EU_PROGR_RELATED/>
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="5">
+                    <TITLE>
+                        <P>Procurement of Parallel Framework Agreements for Consultancy Services for NAV — Project
+                            Management/Consultancy Services
+                        </P>
+                    </TITLE>
+                    <LOT_NO>5</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="79421000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="79418000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="79421100"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="79421200"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="79412000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72224000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72225000"/>
+                    </CPV_ADDITIONAL>
+                    <n2016:NUTS CODE="NO"/>
+                    <MAIN_SITE>
+                        <P>Oslo</P>
+                    </MAIN_SITE>
+                    <SHORT_DESCR>
+                        <P>Project management/consultancy services</P>
+                        <P>Examples are:</P>
+                        <P>— assistance related to contract management, public procurements and technology,</P>
+                        <P>— assistance with the implementation of projects,</P>
+                        <P>— assistance for project managers, team leaders in fields such as:</P>
+                        <P>—— planning and follow-up,</P>
+                        <P>—— mapping,</P>
+                        <P>—— quality assurance,</P>
+                        <P>—— estimations,</P>
+                        <P>—— risk handling,</P>
+                        <P>—— plans for gains.</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PROCUREMENT_DOC/>
+                    </AC>
+                    <VAL_OBJECT CURRENCY="NOK">64000000.00</VAL_OBJECT>
+                    <DATE_START>2019-11-01</DATE_START>
+                    <DATE_END>2021-10-31</DATE_END>
+                    <RENEWAL/>
+                    <RENEWAL_DESCR>
+                        <P>Option for an extension for 1+1 year.</P>
+                    </RENEWAL_DESCR>
+                    <NB_MIN_LIMIT_CANDIDATE>10</NB_MIN_LIMIT_CANDIDATE>
+                    <NB_MAX_LIMIT_CANDIDATE>14</NB_MAX_LIMIT_CANDIDATE>
+                    <CRITERIA_CANDIDATE>
+                        <P>The selection of tenderers must be based on the degree of fulfilment of the following
+                            qualification requirements, with the stated weighting:
+                        </P>
+                        <P>— relevant experience from similar deliveries, weighted 80 %,</P>
+                        <P>— a good and well-functioning quality assurance system, weighted 20 %.</P>
+                    </CRITERIA_CANDIDATE>
+                    <NO_ACCEPTED_VARIANTS/>
+                    <OPTIONS/>
+                    <OPTIONS_DESCR>
+                        <P>Option for other NAV units (government part) to use the Framework Agreements.</P>
+                    </OPTIONS_DESCR>
+                    <NO_EU_PROGR_RELATED/>
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="6">
+                    <TITLE>
+                        <P>Procurement of Parallel Framework Agreements for Consultancy Services for NAV — Business and
+                            System Architecture
+                        </P>
+                    </TITLE>
+                    <LOT_NO>6</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72000000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="79000000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="79417000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72227000"/>
+                    </CPV_ADDITIONAL>
+                    <n2016:NUTS CODE="NO"/>
+                    <MAIN_SITE>
+                        <P>Oslo</P>
+                    </MAIN_SITE>
+                    <SHORT_DESCR>
+                        <P>Business and system architecture</P>
+                        <P>Examples are:</P>
+                        <P>— enterprise architecture,</P>
+                        <P>— business architecture and innovation,</P>
+                        <P>— system architecture,</P>
+                        <P>— information architecture, data architecture, data modelling,</P>
+                        <P>— application architecture,</P>
+                        <P>— integration architecture and electronic interaction,</P>
+                        <P>— technical infrastructure and operations architecture,</P>
+                        <P>— security architecture and security in cloud services,</P>
+                        <P>— architecture for SaaS, PaaS and IaaS,</P>
+                        <P>— quality requirements, including scaleability and performance,</P>
+                        <P>— architecture tool (competence in the tool and experience of use),</P>
+                        <P>— personal protection consequence assessments and data processor contracts.</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PROCUREMENT_DOC/>
+                    </AC>
+                    <VAL_OBJECT CURRENCY="NOK">88000000.00</VAL_OBJECT>
+                    <DATE_START>2019-11-01</DATE_START>
+                    <DATE_END>2021-10-31</DATE_END>
+                    <RENEWAL/>
+                    <RENEWAL_DESCR>
+                        <P>Option for an extension for 1+1 year.</P>
+                    </RENEWAL_DESCR>
+                    <NB_MIN_LIMIT_CANDIDATE>12</NB_MIN_LIMIT_CANDIDATE>
+                    <NB_MAX_LIMIT_CANDIDATE>16</NB_MAX_LIMIT_CANDIDATE>
+                    <CRITERIA_CANDIDATE>
+                        <P>The selection of tenderers must be based on the degree of fulfilment of the following
+                            qualification requirements, with the stated weighting:
+                        </P>
+                        <P>— relevant experience from similar deliveries, weighted 80 %,</P>
+                        <P>— a good and well-functioning quality assurance system, weighted 20 %.</P>
+                    </CRITERIA_CANDIDATE>
+                    <NO_ACCEPTED_VARIANTS/>
+                    <OPTIONS/>
+                    <OPTIONS_DESCR>
+                        <P>Option for other NAV units (government part) to use the Framework Agreements.</P>
+                    </OPTIONS_DESCR>
+                    <NO_EU_PROGR_RELATED/>
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="7">
+                    <TITLE>
+                        <P>Procurement of Parallel Framework Agreements for Consultancy Services for NAV — Design
+                            Services
+                        </P>
+                    </TITLE>
+                    <LOT_NO>7</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72413000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="79415200"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72000000"/>
+                    </CPV_ADDITIONAL>
+                    <n2016:NUTS CODE="NO"/>
+                    <MAIN_SITE>
+                        <P>Oslo</P>
+                    </MAIN_SITE>
+                    <SHORT_DESCR>
+                        <P>Design services</P>
+                        <P>Examples are:</P>
+                        <P>Competence within design services:</P>
+                        <P>— product (Aka UX),</P>
+                        <P>— interaction design,</P>
+                        <P>— visual design,</P>
+                        <P>— service design,</P>
+                        <P>— content production and design/scriptwriters,</P>
+                        <P>— strategic and business design,</P>
+                        <P>— user research.</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PROCUREMENT_DOC/>
+                    </AC>
+                    <VAL_OBJECT CURRENCY="NOK">88000000.00</VAL_OBJECT>
+                    <DATE_START>2019-11-01</DATE_START>
+                    <DATE_END>2021-10-31</DATE_END>
+                    <RENEWAL/>
+                    <RENEWAL_DESCR>
+                        <P>Option for an extension for 1+1 year.</P>
+                    </RENEWAL_DESCR>
+                    <NB_MIN_LIMIT_CANDIDATE>12</NB_MIN_LIMIT_CANDIDATE>
+                    <NB_MAX_LIMIT_CANDIDATE>15</NB_MAX_LIMIT_CANDIDATE>
+                    <CRITERIA_CANDIDATE>
+                        <P>The selection of tenderers must be based on the degree of fulfilment of the following
+                            qualification requirements, with the stated weighting:
+                        </P>
+                        <P>— relevant experience from similar deliveries, weighted 80 %,</P>
+                        <P>— a good and well-functioning quality assurance system, weighted 20 %.</P>
+                    </CRITERIA_CANDIDATE>
+                    <NO_ACCEPTED_VARIANTS/>
+                    <OPTIONS/>
+                    <OPTIONS_DESCR>
+                        <P>Option for other NAV units (government part) to use the Framework Agreements.</P>
+                    </OPTIONS_DESCR>
+                    <NO_EU_PROGR_RELATED/>
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="8">
+                    <TITLE>
+                        <P>Procurement of Parallel Framework Agreements for Consultancy Services for NAV — Product
+                            Development
+                        </P>
+                    </TITLE>
+                    <LOT_NO>8</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72000000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="48000000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72200000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72212220"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72421000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72212732"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72220000"/>
+                    </CPV_ADDITIONAL>
+                    <n2016:NUTS CODE="NO"/>
+                    <MAIN_SITE>
+                        <P>Oslo</P>
+                    </MAIN_SITE>
+                    <SHORT_DESCR>
+                        <P>Product development</P>
+                        <P>Examples are:</P>
+                        <P>— roles within technical management and development, with experience from continual
+                            deliveries,
+                        </P>
+                        <P>— front end and back end,</P>
+                        <P>— examples of current technology are Java, Kotlin, React, Kafka, Elm, Azure/GCP, etc.,</P>
+                        <P>— monitoring application specific metrics, automated testing and focus on the final user,</P>
+                        <P>— data-driven development that works for continual improvements and insight,</P>
+                        <P>— application security, built-in personal protection.</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PROCUREMENT_DOC/>
+                    </AC>
+                    <VAL_OBJECT CURRENCY="NOK">68000000.00</VAL_OBJECT>
+                    <DATE_START>2019-11-01</DATE_START>
+                    <DATE_END>2021-10-31</DATE_END>
+                    <RENEWAL/>
+                    <RENEWAL_DESCR>
+                        <P>Option for an extension for 1+1 year.</P>
+                    </RENEWAL_DESCR>
+                    <NB_MIN_LIMIT_CANDIDATE>12</NB_MIN_LIMIT_CANDIDATE>
+                    <NB_MAX_LIMIT_CANDIDATE>15</NB_MAX_LIMIT_CANDIDATE>
+                    <CRITERIA_CANDIDATE>
+                        <P>The selection of tenderers must be based on the degree of fulfilment of the following
+                            qualification requirements, with the stated weighting:
+                        </P>
+                        <P>— relevant experience from similar deliveries, weighted 80 %,</P>
+                        <P>— a good and well-functioning quality assurance system, weighted 20 %.</P>
+                    </CRITERIA_CANDIDATE>
+                    <NO_ACCEPTED_VARIANTS/>
+                    <OPTIONS/>
+                    <OPTIONS_DESCR>
+                        <P>Option for other NAV units (government part) to use the Framework Agreements.</P>
+                    </OPTIONS_DESCR>
+                    <NO_EU_PROGR_RELATED/>
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="9">
+                    <TITLE>
+                        <P>Procurement of Parallel Framework Agreements for Consultancy Services for NAV — Further
+                            Development of Existing Applications
+                        </P>
+                    </TITLE>
+                    <LOT_NO>9</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="71600000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72212984"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72226000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72254000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72254100"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="73430000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72000000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72200000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72212211"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72212620"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72220000"/>
+                    </CPV_ADDITIONAL>
+                    <n2016:NUTS CODE="NO"/>
+                    <MAIN_SITE>
+                        <P>Oslo</P>
+                    </MAIN_SITE>
+                    <SHORT_DESCR>
+                        <P>Further development of existing applications.</P>
+                        <P>Examples are:</P>
+                        <P>— further development and migration within technology such as Cobol, C/C++, Visual Basic,
+                            Oracle PL/SQL,
+                        </P>
+                        <P>— test competence within, amongst other things,</P>
+                        <P>— test data,</P>
+                        <P>— performance test,</P>
+                        <P>— security test,</P>
+                        <P>— interruption test,</P>
+                        <P>— RPA-development,</P>
+                        <P>— decision rule management system such as Blaze Advisor and equivalent, as well as knowledge
+                            of secure communication within the health sector.
+                        </P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PROCUREMENT_DOC/>
+                    </AC>
+                    <VAL_OBJECT CURRENCY="NOK">48000000.00</VAL_OBJECT>
+                    <DATE_START>2019-11-01</DATE_START>
+                    <DATE_END>2021-10-31</DATE_END>
+                    <RENEWAL/>
+                    <RENEWAL_DESCR>
+                        <P>Option for an extension for 1+1 year.</P>
+                    </RENEWAL_DESCR>
+                    <NB_MIN_LIMIT_CANDIDATE>10</NB_MIN_LIMIT_CANDIDATE>
+                    <NB_MAX_LIMIT_CANDIDATE>14</NB_MAX_LIMIT_CANDIDATE>
+                    <CRITERIA_CANDIDATE>
+                        <P>The selection of tenderers must be based on the degree of fulfilment of the following
+                            qualification requirements, with the stated weighting:
+                        </P>
+                        <P>— relevant experience from similar deliveries, weighted 80 %,</P>
+                        <P>— a good and well-functioning quality assurance system, weighted 20 %.</P>
+                    </CRITERIA_CANDIDATE>
+                    <NO_ACCEPTED_VARIANTS/>
+                    <OPTIONS/>
+                    <OPTIONS_DESCR>
+                        <P>Option for other NAV units (government part) to use the Framework Agreements.</P>
+                    </OPTIONS_DESCR>
+                    <NO_EU_PROGR_RELATED/>
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="10">
+                    <TITLE>
+                        <P>Procurement of Parallel Framework Agreements for Consultancy Services for NAV &#x8d;—
+                            Information Management
+                        </P>
+                    </TITLE>
+                    <LOT_NO>10</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="64216000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="64216200"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="79140000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="48810000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72000000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72320000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72220000"/>
+                    </CPV_ADDITIONAL>
+                    <n2016:NUTS CODE="NO"/>
+                    <MAIN_SITE>
+                        <P>Oslo</P>
+                    </MAIN_SITE>
+                    <SHORT_DESCR>
+                        <P>Information management</P>
+                        <P>Examples are:</P>
+                        <P>— advice, assistance and hiring within,</P>
+                        <P>— design and prototyping of visualisation systems,</P>
+                        <P>— graphical presentations, dashboards, table reports, 'what-if' analyses, etc.,</P>
+                        <P>— data processing and preparation for visualisation,</P>
+                        <P>— data connection of various data sources,</P>
+                        <P>— construction and deployment of visualisation systems,</P>
+                        <P>— production, development and administration of management information,</P>
+                        <P>— user support for management tools,</P>
+                        <P>— database extraction,</P>
+                        <P>— expertise and development capacity within the use of big data, advanced analysis and
+                            AI/machine learning,
+                        </P>
+                        <P>— personal protection competence connected to information management.</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PROCUREMENT_DOC/>
+                    </AC>
+                    <VAL_OBJECT CURRENCY="NOK">48000000.00</VAL_OBJECT>
+                    <DATE_START>2019-11-01</DATE_START>
+                    <DATE_END>2021-10-31</DATE_END>
+                    <RENEWAL/>
+                    <RENEWAL_DESCR>
+                        <P>Option for an extension for 1+1 year.</P>
+                    </RENEWAL_DESCR>
+                    <NB_MIN_LIMIT_CANDIDATE>10</NB_MIN_LIMIT_CANDIDATE>
+                    <NB_MAX_LIMIT_CANDIDATE>12</NB_MAX_LIMIT_CANDIDATE>
+                    <CRITERIA_CANDIDATE>
+                        <P>The selection of tenderers must be based on the degree of fulfilment of the following
+                            qualification requirements, with the stated weighting:
+                        </P>
+                        <P>— relevant experience from similar deliveries, weighted 80 %,</P>
+                        <P>— a good and well-functioning quality assurance system, weighted 20 %.</P>
+                    </CRITERIA_CANDIDATE>
+                    <NO_ACCEPTED_VARIANTS/>
+                    <OPTIONS/>
+                    <OPTIONS_DESCR>
+                        <P>Option for other NAV units (government part) to use the Framework Agreements.</P>
+                    </OPTIONS_DESCR>
+                    <NO_EU_PROGR_RELATED/>
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="11">
+                    <TITLE>
+                        <P>Procurement of Parallel Framework Agreements for Consultancy Services for NAV — Microsoft
+                            Systems
+                        </P>
+                    </TITLE>
+                    <LOT_NO>11</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72000000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="48620000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72220000"/>
+                    </CPV_ADDITIONAL>
+                    <n2016:NUTS CODE="NO"/>
+                    <MAIN_SITE>
+                        <P>Oslo</P>
+                    </MAIN_SITE>
+                    <SHORT_DESCR>
+                        <P>Microsoft systems</P>
+                        <P>Examples are:</P>
+                        <P>Specialist competence in Microsoft systems, including, amongst other things:</P>
+                        <P>— cloud services from Microsoft (O365, Azure, SharePoint, OneDrive),</P>
+                        <P>— MS Windows client and server/DataCenter technology and administration.</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PROCUREMENT_DOC/>
+                    </AC>
+                    <VAL_OBJECT CURRENCY="NOK">24000000.00</VAL_OBJECT>
+                    <DATE_START>2019-11-01</DATE_START>
+                    <DATE_END>2021-10-31</DATE_END>
+                    <RENEWAL/>
+                    <RENEWAL_DESCR>
+                        <P>Option for an extension for 1+1 year.</P>
+                    </RENEWAL_DESCR>
+                    <NB_MIN_LIMIT_CANDIDATE>8</NB_MIN_LIMIT_CANDIDATE>
+                    <NB_MAX_LIMIT_CANDIDATE>10</NB_MAX_LIMIT_CANDIDATE>
+                    <CRITERIA_CANDIDATE>
+                        <P>The selection of tenderers must be based on the degree of fulfilment of the following
+                            qualification requirements, with the stated weighting:
+                        </P>
+                        <P>— relevant experience from similar deliveries, weighted 80 %,</P>
+                        <P>— a good and well-functioning quality assurance system, weighted 20 %.</P>
+                    </CRITERIA_CANDIDATE>
+                    <NO_ACCEPTED_VARIANTS/>
+                    <OPTIONS/>
+                    <OPTIONS_DESCR>
+                        <P>Option for other NAV units (government part) to use the Framework Agreements.</P>
+                    </OPTIONS_DESCR>
+                    <NO_EU_PROGR_RELATED/>
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="12">
+                    <TITLE>
+                        <P>Procurement of Parallel Framework Agreements for Consultancy Services for NAV — Business
+                            Systems
+                        </P>
+                    </TITLE>
+                    <LOT_NO>12</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72510000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="50324100"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72267100"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72000000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72220000"/>
+                    </CPV_ADDITIONAL>
+                    <n2016:NUTS CODE="NO"/>
+                    <MAIN_SITE>
+                        <P>Oslo</P>
+                    </MAIN_SITE>
+                    <SHORT_DESCR>
+                        <P>Business systems</P>
+                        <P>Examples are:</P>
+                        <P>— operation and management of Oracle eBusiness Suite,</P>
+                        <P>— reporting using Oracle Discoverer,</P>
+                        <P>— set up of system, functional and technical competence,</P>
+                        <P>— invoice system integrated with OeBS,</P>
+                        <P>— interface, for example, for handling invoices,</P>
+                        <P>— digitalisation/automation of logistics systems and processes,</P>
+                        <P>— advice and assistance with SaaS systems, such as:</P>
+                        <P>—— CRM,</P>
+                        <P>—— RPA,</P>
+                        <P>—— Chatbots,</P>
+                        <P>—— HR Core,</P>
+                        <P>—— HR systems,</P>
+                        <P>—— ID systems,</P>
+                        <P>—— archive systems,</P>
+                        <P>—— learning portals,</P>
+                        <P>—— recruitment systems,</P>
+                        <P>—— interaction systems,</P>
+                        <P>—— ERP,</P>
+                        <P>—— activity management,</P>
+                        <P>—— logistics and eCommerce.</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PROCUREMENT_DOC/>
+                    </AC>
+                    <VAL_OBJECT CURRENCY="NOK">24000000.00</VAL_OBJECT>
+                    <DATE_START>2019-11-01</DATE_START>
+                    <DATE_END>2021-10-31</DATE_END>
+                    <RENEWAL/>
+                    <RENEWAL_DESCR>
+                        <P>Option for an extension for 1+1 year.</P>
+                    </RENEWAL_DESCR>
+                    <NB_MIN_LIMIT_CANDIDATE>5</NB_MIN_LIMIT_CANDIDATE>
+                    <NB_MAX_LIMIT_CANDIDATE>8</NB_MAX_LIMIT_CANDIDATE>
+                    <CRITERIA_CANDIDATE>
+                        <P>The selection of tenderers must be based on the degree of fulfilment of the following
+                            qualification requirements, with the stated weighting:
+                        </P>
+                        <P>— relevant experience from similar deliveries, weighted 80 %,</P>
+                        <P>— a good and well-functioning quality assurance system, weighted 20 %.</P>
+                    </CRITERIA_CANDIDATE>
+                    <NO_ACCEPTED_VARIANTS/>
+                    <OPTIONS/>
+                    <OPTIONS_DESCR>
+                        <P>Option for other NAV units (government part) to use the Framework Agreements.</P>
+                    </OPTIONS_DESCR>
+                    <NO_EU_PROGR_RELATED/>
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="13">
+                    <TITLE>
+                        <P>Procurement of Parallel Framework Agreements for Consultancy Services for NAV — Platforms</P>
+                    </TITLE>
+                    <LOT_NO>13</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72000000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72600000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="64212000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72317000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72212985"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="48611000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="48600000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72510000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72220000"/>
+                    </CPV_ADDITIONAL>
+                    <n2016:NUTS CODE="NO"/>
+                    <MAIN_SITE>
+                        <P>Oslo</P>
+                    </MAIN_SITE>
+                    <SHORT_DESCR>
+                        <P>Platforms</P>
+                        <P>Examples are:</P>
+                        <P>— operation, production and troubleshooting, for example,</P>
+                        <P>— VMWare, HPUX, Red Hat Linux, Z/OS, Cisco, Oracle, DB2 for Z/OS, DL/1, VSAM, ARS-Remedy,
+                            IBMs TWS, PostgreSQL,
+                        </P>
+                        <P>— operation competence and specialist competence within IN-services and mobile telephone and
+                            video systems,
+                        </P>
+                        <P>— specialist competence in Citrix, CoreOS, Container technology and Kubernetes,</P>
+                        <P>— specialist competence within design and architecture for data storage,</P>
+                        <P>— specialist competence within platform analysis and database tuning, for example,</P>
+                        <P>— DB2 for z/OS, DL/1, VSAM, Oracle, Elk-stack,</P>
+                        <P>— operation competence and specialist competence within middleware, for example,</P>
+                        <P>— MQSeries, CICS, WebSphere Application server, BPM and DataPower, WebLogic Application
+                            server, XML, J2EE/JCA/CTG/JMS/JAAS, JMX, LDAP, JBoss Application server, Oracle FORMS,
+                            SonicMQ,
+                        </P>
+                        <P>— specialist competence in service management systems and framework,</P>
+                        <P>— technology advice.</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PROCUREMENT_DOC/>
+                    </AC>
+                    <VAL_OBJECT CURRENCY="NOK">36000000.00</VAL_OBJECT>
+                    <DATE_START>2019-11-01</DATE_START>
+                    <DATE_END>2021-10-31</DATE_END>
+                    <RENEWAL/>
+                    <RENEWAL_DESCR>
+                        <P>Option for an extension for 1+1 year.</P>
+                    </RENEWAL_DESCR>
+                    <NB_MIN_LIMIT_CANDIDATE>8</NB_MIN_LIMIT_CANDIDATE>
+                    <NB_MAX_LIMIT_CANDIDATE>10</NB_MAX_LIMIT_CANDIDATE>
+                    <CRITERIA_CANDIDATE>
+                        <P>The selection of tenderers must be based on the degree of fulfilment of the following
+                            qualification requirements, with the stated weighting:
+                        </P>
+                        <P>— relevant experience from similar deliveries, weighted 80 %,</P>
+                        <P>— a good and well-functioning quality assurance system, weighted 20 %.</P>
+                    </CRITERIA_CANDIDATE>
+                    <NO_ACCEPTED_VARIANTS/>
+                    <OPTIONS/>
+                    <OPTIONS_DESCR>
+                        <P>Option for other NAV units (government part) to use the Framework Agreements.</P>
+                    </OPTIONS_DESCR>
+                    <NO_EU_PROGR_RELATED/>
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="14">
+                    <TITLE>
+                        <P>Procurement of Parallel Framework Agreements for Consultancy Services for NAV —
+                            Data-communication
+                        </P>
+                    </TITLE>
+                    <LOT_NO>14</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72000000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72720000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72700000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72212732"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="48730000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="48732000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="73431000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="79417000"/>
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="72710000"/>
+                    </CPV_ADDITIONAL>
+                    <n2016:NUTS CODE="NO"/>
+                    <MAIN_SITE>
+                        <P>Oslo</P>
+                    </MAIN_SITE>
+                    <SHORT_DESCR>
+                        <P>Data-communication</P>
+                        <P>Examples are:</P>
+                        <P>Specialist competence within LAN, WAN and network security:</P>
+                        <P>— cisco Nexus N7K, N5K and N2k (environment with, amongst other things, FabricPath, MPLS,
+                            FCoE and OTV), Cisco ACI, Fiberchannel and Ficon Wireless and DNA,
+                        </P>
+                        <P>— checkpoint, F5 (LTM, APM, WAF, ASM), Cisco ESA, Mcafee Web Gateway, DNS, Certificate
+                            management,
+                        </P>
+                        <P>— general technical/architecture competence within network and network security, including
+                            cloud and hybrid topology,
+                        </P>
+                        <P>— competence in automation within the field, penetration testing, Federated Identity
+                            Management and CASB technology, as well as technology within migration from On-prem to
+                            Public Cloud.
+                        </P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PROCUREMENT_DOC/>
+                    </AC>
+                    <VAL_OBJECT CURRENCY="NOK">12000000.00</VAL_OBJECT>
+                    <DATE_START>2019-11-01</DATE_START>
+                    <DATE_END>2021-10-31</DATE_END>
+                    <RENEWAL/>
+                    <RENEWAL_DESCR>
+                        <P>Option for an extension for 1+1 year.</P>
+                    </RENEWAL_DESCR>
+                    <NB_MIN_LIMIT_CANDIDATE>5</NB_MIN_LIMIT_CANDIDATE>
+                    <NB_MAX_LIMIT_CANDIDATE>8</NB_MAX_LIMIT_CANDIDATE>
+                    <CRITERIA_CANDIDATE>
+                        <P>The selection of tenderers must be based on the degree of fulfilment of the following
+                            qualification requirements, with the stated weighting:
+                        </P>
+                        <P>— relevant experience from similar deliveries, weighted 80 %,</P>
+                        <P>— a good and well-functioning quality assurance system, weighted 20 %.</P>
+                    </CRITERIA_CANDIDATE>
+                    <NO_ACCEPTED_VARIANTS/>
+                    <OPTIONS/>
+                    <OPTIONS_DESCR>
+                        <P>Option for other NAV units (government part) to use the Framework Agreements.</P>
+                    </OPTIONS_DESCR>
+                    <NO_EU_PROGR_RELATED/>
+                </OBJECT_DESCR>
+            </OBJECT_CONTRACT>
+            <LEFTI>
+                <SUITABILITY>
+                    <P>Requirement: Tenderers are required to have a legally established company.</P>
+                    <P>Documentation requirement:</P>
+                    <P>— Norwegian tenderers: company registration certificate from the Brønnøysund Register Centre,</P>
+                    <P>— Foreign tenderers: certificate for registration in the enterprise register as prescribed in the
+                        legislation of the state in which the tenderer is established.
+                    </P>
+                </SUITABILITY>
+                <ECONOMIC_FINANCIAL_INFO>
+                    <P>1) Requirement: Norwegian tenderers must have their tax and VAT payments in order.</P>
+                    <P>Documentation requirements: Norwegian tenderers: A tax and VAT certificate from the tax
+                        authorities, not older than 6 months calculated from the expiry of the deadline for requesting
+                        participation in the competition.
+                    </P>
+                    <P>2) Requirement: Tenderers are required to have good financial solidity. The requirement is
+                        fulfilled with a credit rating of “Good credit worthiness” or higher.
+                    </P>
+                    <P>Documentation requirement: The Contracting Authority will obtain a credit rating carried out by
+                        Experian; see www.Experian.no
+                    </P>
+                </ECONOMIC_FINANCIAL_INFO>
+                <TECHNICAL_PROFESSIONAL_INFO>
+                    <P>1) Relevant experience from similar assignments is required.</P>
+                    <P>Documentation requirement: the tenderer's 3 most important deliveries over the last 3 years,
+                        including a description of the assignments, their scope/value, date and recipients. The template
+                        in the qualification documentation, annex 2, must be used to document fulfilment of the
+                        requirement.
+                    </P>
+                    <P>2) A good and well-functioning quality assurance system is required.</P>
+                    <P>Documentation requirement:</P>
+                    <P>— an account of the company's quality assurance system, including a system for the development
+                        and maintenance of competence,
+                    </P>
+                    <P>— any certificates issued by independent bodies.</P>
+                </TECHNICAL_PROFESSIONAL_INFO>
+            </LEFTI>
+            <PROCEDURE>
+                <PT_RESTRICTED/>
+                <CONTRACT_COVERED_GPA/>
+                <DATE_RECEIPT_TENDERS>2019-03-22</DATE_RECEIPT_TENDERS>
+                <TIME_RECEIPT_TENDERS>12:00</TIME_RECEIPT_TENDERS>
+                <LANGUAGES>
+                    <LANGUAGE VALUE="NO"/>
+                </LANGUAGES>
+                <DATE_TENDER_VALID>2019-12-16</DATE_TENDER_VALID>
+            </PROCEDURE>
+            <COMPLEMENTARY_INFO>
+                <NO_RECURRENT_PROCUREMENT/>
+                <EORDERING/>
+                <EINVOICING/>
+                <EPAYMENT/>
+                <INFO_ADD>
+                    <P>Re point VI.2) Electronic orders will be used: Mini-competitions will be held through the
+                        Contracting Authority's tool for competition management, which is currently delivered through
+                        Mercell.
+                    </P>
+                </INFO_ADD>
+                <ADDRESS_REVIEW_BODY>
+                    <OFFICIALNAME>Arbeids- OG Velferdsdirektoratet</OFFICIALNAME>
+                    <ADDRESS>Pb. 5 St Olavs plass</ADDRESS>
+                    <TOWN>Oslo</TOWN>
+                    <POSTAL_CODE>0130</POSTAL_CODE>
+                    <COUNTRY VALUE="NO"/>
+                    <E_MAIL>direktoratet@nav.no</E_MAIL>
+                </ADDRESS_REVIEW_BODY>
+                <DATE_DISPATCH_NOTICE>2019-02-19</DATE_DISPATCH_NOTICE>
+            </COMPLEMENTARY_INFO>
+        </F02_2014>
+    </FORM_SECTION>
+</TED_EXPORT>
