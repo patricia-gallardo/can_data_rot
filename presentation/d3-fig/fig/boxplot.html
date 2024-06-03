@@ -55,7 +55,8 @@
         "color": "#5302a3" + alpha,
     }];
 
-    const context = makeBoxplotContext(items);
+    const margins = {top: 300, right: 100, bottom: 200, left: 200};
+    const context = makeBoxplotContext(items, margins);
     var _transitions = [
         {
             transitionForward: () => hideAll(context),

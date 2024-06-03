@@ -1,3 +1,5 @@
+document.body.style.overflow = 'hidden';
+
 function makeBubblesContext(_graph) {
     // Set the dimensions and margins of the diagram
     const margin = {top: 0, right: 90, bottom: 30, left: 90};

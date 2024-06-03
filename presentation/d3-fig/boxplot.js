@@ -1,5 +1,7 @@
-function makeBoxplotContext(items) {
-    const margin = {top: 200, right: 100, bottom: 200, left: 200};
+document.body.style.overflow = 'hidden';
+
+function makeBoxplotContext(items, margins) {
+    const margin = margins ? margins : {top: 200, right: 100, bottom: 200, left: 200};
     const padding = {top: 0, right: 100, bottom: 0, left: 200};
     const width = window.innerWidth - margin.left - margin.right;
     const height = Math.min(860, window.innerHeight - margin.top - margin.bottom);

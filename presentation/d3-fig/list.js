@@ -1,3 +1,5 @@
+document.body.style.overflow = 'hidden';
+
 function makeListContext(items, color, margins, fontSize) {
     let tree = makeTree(items);
 

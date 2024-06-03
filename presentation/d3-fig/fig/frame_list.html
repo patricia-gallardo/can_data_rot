@@ -33,7 +33,8 @@
     // bcbd22
     // 17becf
 
-    const listContext = makeListContext(items, color);
+    const margin = {top: 0, right: 100, bottom: 30, left: 90};
+    const listContext = makeListContext(items, color, margin);
 
     const last = items[items.length-1]
     var _transitions = [
