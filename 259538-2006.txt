@@ -1,0 +1,200 @@
+1.0/025145
+TI: NO-Oslo: management-related services
+PD: 20061220
+ND: 259538-2006
+OJ: 242/2006
+DR: 20061218
+DS: 20061218
+DD: 20070209
+DT: 20070212  12 00
+HD: 3310
+TD: 3 - Contract notice
+NC: 4 - Service contract
+PR: 1 - Open procedure
+RP: 6 - European Economic Area (EEA)
+AA: 1 - Ministry or any other national or federal authority
+TY: 1 - Global tender
+AC: 2 - The most economic tender
+PC: 72220000
+    72520000
+    74142000
+PN: Systems and technical consultancy services
+    Computer support and consultancy services
+    Management-related services
+CY: NO
+OL: EN
+AU: NAV DRIFT OG UTVIKLING, KONTRAKT OG INNKJOEP
+TW: OSLO
+IA: www.nav.no
+AB: Title attributed to the contract by the contracting authority: Framework
+    agreement in connection with ICT management consultancy, etc.
+    The Labour and Welfare Department, fao/ the awarding authority wishes to
+    enter into a framework agreement for ICT management counselling, etc. The
+    agreement shall cover the requirement for ICT counselling etc. for the
+    department’s managers and other essential co-workers. The agreement shall
+    ensure that the department is, at any time, updated in trends for the ICT
+    area and ensure the awarding authority independent counselling within
+    strategic ICT management. The awarding authority requests services for the
+    following areas:
+    1. Access to independent counselling and information in connection with
+    ICT trends and ICT market.
+    2. Access to independent counselling and information in connection with
+    ICT organisation.
+    3. Access to independent counselling and information of ICT
+    sourcing/outsourcing and supplier control.
+    5. Access to independent counselling and information in connection with
+    ICT procurements.
+    6. Access to independent individual counselling and support in connection
+    with the development of the ICT manager function.
+    7. Access to independent analysts and access to study/research materials
+    for the areas stated in point 1-6.
+    8. Access to independent ICT conferences and theme meetings for various
+    spheres within ICT.
+    NOTE: Further information relating to this notice may be available on the
+    Doffin Web Site at http://www.doffin.no/Search/
+    Search_Switch.aspx?ID=83091.
+    CPV: 74142000, 72520000, 72220000.
+TX: CONTRACT NOTICE
+    Services
+    SECTION I: CONTRACTING AUTHORITY
+    I.1)  NAME, ADDRESSES AND CONTACT POINT(S): NAV Drift og utvikling,
+    Kontrakt og innkjøp, Sannergata 2, Postboks 5200 Nydalen, Attn: Heidi
+    Elise Rygg, N-0426 Oslo. Tel. 21 07 00 00. E-mail:
+    heidi.elise.rygg@nav.no. Fax 21 07 10 00.
+    Internet address(es):
+    General address of the contracting authority: www.nav.no.
+    Further information can be obtained at: As in above-mentioned contact
+    point(s).
+    Specifications and additional documents (including documents for
+    competitive dialogue and a dynamic purchasing system) can be obtained at:
+    As in above-mentioned contact point(s).
+    Tenders or requests to participate must be sent to: As in above-mentioned
+    contact point(s).
+    I.2)  TYPE OF THE CONTRACTING AUTHORITY AND MAIN ACTIVITY OR ACTIVITIES:
+    Ministry or any other national or federal authority, including their
+    regional or local sub-divisions.
+    SECTION II: OBJECT OF THE CONTRACT
+    II.1)  DESCRIPTION
+    II.1.1)  Title attributed to the contract by the contracting authority:
+    Framework agreement in connection with ICT management consultancy, etc.
+    II.1.2)  Type of contract and location of works, place of delivery or of
+    performance: Services.
+    Service category: No 7.
+    Main place of performance: Oslo, Norway.
+    II.1.5)  Short description of the contract or purchase(s): The Labour and
+    Welfare Department, fao/ the awarding authority wishes to enter into a
+    framework agreement for ICT management counselling, etc. The agreement
+    shall cover the requirement for ICT counselling etc. for the department’s
+    managers and other essential co-workers. The agreement shall ensure that
+    the department is, at any time, updated in trends for the ICT area and
+    ensure the awarding authority independent counselling within strategic ICT
+    management. The awarding authority requests services for the following
+    areas:
+    1. Access to independent counselling and information in connection with
+    ICT trends and ICT market.
+    2. Access to independent counselling and information in connection with
+    ICT organisation.
+    3. Access to independent counselling and information of ICT
+    sourcing/outsourcing and supplier control.
+    5. Access to independent counselling and information in connection with
+    ICT procurements.
+    6. Access to independent individual counselling and support in connection
+    with the development of the ICT manager function.
+    7. Access to independent analysts and access to study/research materials
+    for the areas stated in point 1-6.
+    8. Access to independent ICT conferences and theme meetings for various
+    spheres within ICT.
+    NOTE: Further information relating to this notice may be available on the
+    Doffin Web Site at http://www.doffin.no/Search/
+    Search_Switch.aspx?ID=83091.
+    II.1.6)  Common procurement vocabulary (CPV): 74142000, 72520000,
+    72220000.
+    II.1.7)  Contract covered by the Government Procurement Agreement (GPA):
+    Yes.
+    II.1.8)  Division into lots: No.
+    II.1.9)  Variants will be accepted: Yes.
+    II.2)  QUANTITY OR SCOPE OF THE CONTRACT
+    II.2.1)  Total quantity or scope: Extent: The awarding authority wishes to
+    enter into a framework agreement with one supplier. The agreement is for 2
+    years. The agreement shall apply for the following units in the
+    department: - The Norwegian Directorate for Labour and Welfare. - The
+    Norwegian Labour and Welfare Organisation, Operation and development. -
+    Other central units established during the agreement period, if any.
+    II.2.2)  Options: Yes.
+    Description of these options: Option for 1+1 year prolongation.
+    II.3)  DURATION OF THE CONTRACT OR TIME-LIMIT FOR COMPLETION: Starting:
+    16.3.2007. Completion: 15.3.2009.
+    SECTION III: LEGAL, ECONOMIC, FINANCIAL AND TECHNICAL INFORMATION
+    III.1)  CONDITIONS RELATING TO THE CONTRACT
+    III.1.2)  Main financing conditions and payment arrangements and/or
+    reference to the relevant provisions regulating them: See the tender
+    documents.
+    III.2)  CONDITIONS FOR PARTICIPATION
+    III.2.1)  Personal situation of economic operators, including requirements
+    relating to enrolment on professional or trade registers: Information and
+    formalities necessary for evaluating if requirements are met: - It is
+    required that the supplier has a legally established company. - Sufficient
+    economic / financial ability in order to carry out the relevant contract
+    is required. - It is required considerable and relevant experience with
+    equivalent assignments. - It is required an efficient and well-functioning
+    quality assurance system.
+    Legal position - means of proof required:
+    (1) Company Registration Certificate
+    (2) HSE - For work being carried out in Norway, the authority shall
+    request that all suppliers produce a statement that the supplier fulfils,
+    or at the time of the contract award, will fulfil, legal requirements in
+    Norway within health, safety and security (HSE). This requirement is not
+    present for supplies contract and direct purchases.
+    (3) VAT Certificate.
+    (4) Tax Certificate.
+    III.2.2)  Economic and financial capacity: Information and formalities
+    necessary for evaluating if requirements are met: A copy of the company
+    yearly accounts or extracts thereof.
+    III.2.3)  Technical capacity: Information and formalities necessary for
+    evaluating if requirements are met: (1) Statement regarding bidder's
+    quality assurance systems/guidance systems.
+    (2) Supplies and Service contracts. List of the principal deliveries
+    effectuated in the previous three years including the values, dates and
+    recipients.
+    III.3)  CONDITIONS SPECIFIC TO SERVICES CONTRACTS
+    III.3.1)  Execution of the service is reserved to a particular profession:
+    No.
+    III.3.2)  Legal entities should indicate the names and professional
+    qualifications of the staff responsible for the execution of the service:
+    No.
+    SECTION IV: PROCEDURE
+    IV.1)  TYPE OF PROCEDURE
+    IV.1.1)  Type of procedure: Open.
+    IV.2)  AWARD CRITERIA
+    IV.2.1)  Award criteria: The most economically advantageous tender in
+    terms of the criteria stated in the specifications, in the invitation to
+    tender or to negotiate or in the descriptive document.
+    IV.3)  ADMINISTRATIVE INFORMATION
+    IV.3.1)  File reference number attributed by the contracting authority:
+    06/12256.
+    IV.3.2)  Previous publication(s) concerning the same contract:
+    IV.3.3)  Conditions for obtaining specifications and additional documents
+    or descriptive documentTime limit for receipt of requests for documents or
+    for accessing documents: 9.2.2007.
+    Payable documents:
+    IV.3.4)  Time-limit for receipt of tenders or requests to participate:
+    12.2.2007 - 12:00.
+    IV.3.6)  Language(s) in which tenders or requests to participate may be
+    drawn up: Other: Norwegian.
+    IV.3.7)  Minimum time frame during which the tenderer must maintain the
+    tender: Until: 1.6.2007.
+    IV.3.8)  Conditions for opening tenders: 12.2.2007 - 13:00.
+    Place: Nav Drift og utvikling, Sannergata 2, 0557 Oslo, Norway
+    Persons authorised to be present at the opening of tenders: yes.
+    Not open to the public.
+    SECTION VI: COMPLEMENTARY INFORMATION
+    VI.1)  THIS IS A RECURRENT PROCUREMENT: Yes.
+    Estimated timing for further notices to be published:
+    VI.2)  CONTRACT RELATED TO A PROJECT AND/OR PROGRAMME FINANCED BY EU
+    FUNDS: No.
+    VI.3)  ADDITIONAL INFORMATION: Framework agreement: Yes.
+    Non-mandatory notice: No.
+    Additional information: supplier’s financial and economic position.
+    (NT Ref: 83520).
+    Candidates already selected: No.
+    VI.5)  DATE OF DISPATCH OF THIS NOTICE: 18.12.2006.
