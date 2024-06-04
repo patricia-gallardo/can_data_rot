@@ -25,16 +25,31 @@
         "color": "#E5E4E2FF",
         "name": "  ?"
     }, {
-        "min": "2007",
+        "min": "2012",
         "max": "2024",
-        "label": "TED XML",
+        "label": "TED",
         "id": "TED XML",
         "color": "#fde725",
-        "name": "XML: TED archive"
+        "name": "XML with schemas: TED_EXPORT and eForms"
+    }, {
+        "min": "2007",
+        "max": "2012",
+        "label": "TED",
+        "id": "XML",
+        "color": "#FCF55F",
+        "name": "XML no schema"
+    }, {
+        "min": "2003",
+        "max": "2007",
+        "label": "TED",
+        "id": "Text files",
+        "color": "#FFFAA0",
+        "name": "Text files"
     }];
 
-    const margins = {top: 70, right: 0, bottom: 70, left: 200};
-    const context = makeBoxplotContext(items, margins);
+    const margins = {top: 0, right: 0, bottom: 0, left: 0};
+    const paddings = {top: 50, right: 100, bottom: 50, left: 300};
+    const context = makeBoxplotContext(items, margins, paddings);
     var _transitions = [
         {
             transitionForward: () => hideAll(context),
@@ -51,9 +66,19 @@
             index: 4
         },
         {
-            transitionForward: () => showAll(context),
+            transitionForward: () => addItem(items[2].id, context),
             transitionBackward: () => removeItem(items[2].id, context),
             index: 5
+        },
+        {
+            transitionForward: () => addItem(items[3].id, context),
+            transitionBackward: () => removeItem(items[3].id, context),
+            index: 6
+        },
+        {
+            transitionForward: () => showAll(context),
+            transitionBackward: () => removeItem(items[4].id, context),
+            index: 7
         },
     ]
 </script>

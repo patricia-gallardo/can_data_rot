@@ -47,8 +47,9 @@
         "name": "XML: Classic Doffin \"API\""
     }];
 
-    const margins = {top: 200, right: 0, bottom: 200, left: 200};
-    const context = makeBoxplotContext(items, margins);
+    const margins = {top: 0, right: 0, bottom: 0, left: 0};
+    const paddings = {top: 50, right: 100, bottom: 0, left: 300};
+    const context = makeBoxplotContext(items, margins, paddings);
     var _transitions = [
         {
             transitionForward: () => hideAll(context),

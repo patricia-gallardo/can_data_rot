@@ -1,8 +1,8 @@
 document.body.style.overflow = 'hidden';
 
-function makeBoxplotContext(items, margins) {
-    const margin = margins ? margins : {top: 200, right: 100, bottom: 200, left: 200};
-    const padding = {top: 0, right: 100, bottom: 0, left: 300};
+function makeBoxplotContext(items, margins, paddings) {
+    const margin = margins ? margins : {top: 0, right: 0, bottom: 0, left: 0};
+    const padding = paddings ? paddings : {top: 0, right: 0, bottom: 0, left: 300};
     const width = window.innerWidth - margin.left - margin.right;
     const height = Math.min(860, window.innerHeight - margin.top - margin.bottom);
 
@@ -191,7 +191,7 @@ function fillRect(d, fill) {
 
 function strokeRect(d) {
     let color = d.color;
-    return d.isGray ? "#E5E4E2FF" : color;
+    return d.isGray ? "#000" : color;
 }
 function gray(col)
 {
