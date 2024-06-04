@@ -96,7 +96,7 @@ function getXaxis(xDomain, width, padding) {
         .domain(xDomain)
         .range([padding.left, width - (padding.left + padding.right)]);
 
-    const xAxis = d3.axisBottom(xScale).tickFormat((d) => d);
+    const xAxis = d3.axisBottom(xScale).ticks(sizeOfDomain(xDomain)).tickFormat((d) => d);
     return {xScale, xAxis};
 }
 
@@ -200,13 +200,18 @@ function gray(col)
         return "#E5E4E2bb"
 }
 
+function sizeOfDomain(xDomain) {
+    let last = xDomain[xDomain.length - 1];
+    let first = xDomain[0];
+    let sizeOfDomain = last - first;
+    return sizeOfDomain;
+}
+
 function getColumnWidth(context) {
     let availableWidth = context.width - context.padding.left - context.padding.right;
-    let last = context.xDomain[context.xDomain.length - 1];
-    let first = context.xDomain[0];
-    let sizeOfDomain = last - first;
+    let size = sizeOfDomain(context.xDomain);
     let scaleFactorIncludingSpace = 1.4;
-    return availableWidth / (sizeOfDomain * scaleFactorIncludingSpace);
+    return availableWidth / (size * scaleFactorIncludingSpace);
 }
 
 function renderRect(node, nodeEnter, context, {left, right, fill}) {
