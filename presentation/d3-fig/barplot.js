@@ -1,6 +1,6 @@
 document.body.style.overflow = 'hidden';
 
-function makeBarplotContext(items) {
+function makeBarplotContext(items, color) {
     const margin = {top: 50, right: 100, bottom: 150, left: 200};
     const padding = {top: 50, right: 50, bottom: 50, left: 50};
     const width = window.innerWidth - margin.left - margin.right;
@@ -19,6 +19,7 @@ function makeBarplotContext(items) {
         svg: svg,
         margin: margin,
         padding: padding,
+        color: color,
         xScale: xScale,
         yScale: yScale,
         width: width,
@@ -189,11 +190,6 @@ function grayOut(ids, context) {
     renderBoxplot(context)
 }
 
-function fillRect(d, fill) {
-    let color = fill(d);
-    return d.isGray ? gray(color) : color;
-}
-
 function strokeRect(d) {
     let color = d.color;
     return d.isGray ? "#E5E4E2FF" : color;
@@ -241,7 +237,7 @@ function renderRect(node, nodeEnter, context, {left, right, fill}) {
 
     // Update the node attributes and style
     nodeUpdate
-        .attr("fill", (d) => fillRect(d, fill))
+        .attr("fill", (d) => d.isGray ? gray(fill(d)) : context.color ? context.color(d.year) : fill(d))
         .attr("stroke", (d) => strokeRect(d));
 }
 

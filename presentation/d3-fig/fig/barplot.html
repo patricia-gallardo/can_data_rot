@@ -31,5 +31,6 @@
         {"num": "1", "year": "2022"},
     ]
 
-    const context = makeBarplotContext(items);
+    const color = d3.scaleOrdinal(d3.schemeCategory10)
+    const context = makeBarplotContext(items, color);
 </script>
