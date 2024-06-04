@@ -42,8 +42,6 @@ function makeBarplotContext(items, color) {
         renderBoxplot(context)
     });
 
-    showAll(context)
-
     return context;
 }
 
@@ -192,11 +190,11 @@ function grayOut(ids, context) {
 
 function strokeRect(d) {
     let color = d.color;
-    return d.isGray ? "#E5E4E2FF" : color;
+    return d.isGray ? "#000" : color;
 }
 function gray(col)
 {
-    if (col.length === 9)
+    if (col && col.length === 9)
         return "#E5E4E244"
     else
         return "#E5E4E2bb"

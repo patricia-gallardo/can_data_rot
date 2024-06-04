@@ -8,29 +8,50 @@
 <script>
     // https://waldyrious.net/viridis-palette-generator/
     const items = [
-        {"num": "0", "year": "2002"},
-        {"num": "0", "year": "2003"},
-        {"num": "0", "year": "2004"},
-        {"num": "0", "year": "2005"},
-        {"num": "15", "year": "2006"},
-        {"num": "15", "year": "2007"},
-        {"num": "15", "year": "2008"},
-        {"num": "15", "year": "2009"},
-        {"num": "15", "year": "2010"},
-        {"num": "15", "year": "2011"},
-        {"num": "15", "year": "2012"},
-        {"num": "7", "year": "2013"},
-        {"num": "1", "year": "2014"},
-        {"num": "0", "year": "2015"},
-        {"num": "0", "year": "2016"},
-        {"num": "0", "year": "2017"},
-        {"num": "0", "year": "2018"},
-        {"num": "1", "year": "2019"},
-        {"num": "1", "year": "2020"},
-        {"num": "6", "year": "2021"}, // 4 canceled
-        {"num": "1", "year": "2022"},
+        {"num": "0", "year": "2002", "id": "2002"},
+        {"num": "0", "year": "2003", "id": "2003"},
+        {"num": "0", "year": "2004", "id": "2004"},
+        {"num": "0", "year": "2005", "id": "2005"},
+        {"num": "15", "year": "2006", "id": "2006"},
+        {"num": "15", "year": "2007", "id": "2007"},
+        {"num": "15", "year": "2008", "id": "2008"},
+        {"num": "15", "year": "2009", "id": "2009"},
+        {"num": "15", "year": "2010", "id": "2010"},
+        {"num": "15", "year": "2011", "id": "2011"},
+        {"num": "15", "year": "2012", "id": "2012"},
+        {"num": "7", "year": "2013", "id": "2013"},
+        {"num": "1", "year": "2014", "id": "2014"},
+        {"num": "0", "year": "2015", "id": "2015"},
+        {"num": "0", "year": "2016", "id": "2016"},
+        {"num": "0", "year": "2017", "id": "2017"},
+        {"num": "0", "year": "2018", "id": "2018"},
+        {"num": "1", "year": "2019", "id": "2019"},
+        {"num": "1", "year": "2020", "id": "2020"},
+        {"num": "6", "year": "2021", "id": "2021"}, // 4 canceled
+        {"num": "1", "year": "2022", "id": "2022"},
     ]
 
     const color = d3.scaleOrdinal(d3.schemeCategory10)
     const context = makeBarplotContext(items, color);
+    var _transitions = [
+        {
+            transitionForward: () => hideAll(context),
+            index: "onSlideChange"
+        },
+        {
+            transitionForward: () => addItems(["2017", "2018", "2019", "2020", "2021", "2022"], context),
+            transitionBackward: () => removeItems(["2017", "2018", "2019", "2020", "2021", "2022"], context),
+            index: 0
+        },
+        {
+            transitionForward: () => addItems(["2006", "2007", "2008", "2009", "2010", "2011", "2012", "2013", "2014", "2015", "2016"], context),
+            transitionBackward: () => removeItems(["2006", "2007", "2008", "2009", "2010", "2011", "2012", "2013", "2014", "2015", "2016"], context),
+            index: 1
+        },
+        {
+            transitionForward: () => grayOut(["2006", "2007", "2008", "2009", "2010", "2011", "2012", "2013", "2014", "2015", "2016"], context),
+            transitionBackward: () => showAll(context),
+            index: 2
+        },
+    ]
 </script>
