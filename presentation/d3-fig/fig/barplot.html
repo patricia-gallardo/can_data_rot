@@ -28,7 +28,8 @@
     ]
 
     const color = d3.scaleOrdinal(d3.schemeCategory10)
-    const context = makeBarplotContext(items, color);
+    const margins = {top: 150, right: 100, bottom: 250, left: 200};
+    const context = makeBarplotContext(items, color, margins);
     var _transitions = [
         {
             transitionForward: () => hideAll(context),
