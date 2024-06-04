@@ -1,0 +1,234 @@
+1.0/009365
+TI: NO-Oslo: computer and related services
+PD: 20050122
+ND: 14828-2005
+OJ: 16/2005
+DR: 20050121
+DS: 20050121
+RN: 115783-2004
+HD: 3380
+TD: 7 - Contract award
+NC: 4 - Service contract
+PR: 7 - Contract awards
+RP: 6 - European Economic Area (EEA)
+AA: 1 - Central government
+TY: 8 - Not defined
+AC: 2 - The most economic tender
+PC: 72000000
+PN: Computer and related services
+CY: NO
+OL: EN
+AU: RIKSTRYGDEVERKET
+TW: OSLO
+CO: Name and address of successful supplier, contractor or service provider:
+    Ementor Norge AS, N-.
+    Promis AS, N-.
+    Capgemini Norge AS, N-.
+    Ciber Norge AS, N-.
+    Bekk Consulting AS, N-.
+    HM Rådgivning og IT teknologi AS, N-.
+    Software Innovation, N-.
+    Tieto Enator, N-.
+    Kristin Wilhelmsen AS, N-.
+    Steria AS, N-.
+    Accenture ANS, N-.
+    daVinci Consulting AS, N-.
+    IBM Global Services, N-.
+    EdiSys AS, N-.
+    KonsensIT AS, N-.
+    Opus One, N-.
+    Manage IT AS, N-.
+    Egroup ASA, N-.
+    Smartnet AS, N-.
+    Visma Unique AS, N-.
+    Deloitte Consulting, N-.
+    Oracle Norge AS, N-.
+    OKB Consulting AS, N-.
+    Computas AS, N-.
+    Abeo, N-.
+    EDB IT Drift, N-.
+    Hewlett-Packard Norge AS, N-.
+    Classic IT Datakonsulenter, N-.
+    Commercial Data Servers AS, N-.
+    NinetechGruppen, N-.
+    Norske Systemarkitekter, N-.
+    IT Invest AS, N-.
+    Hamar DataKonsult AS, N-.
+AB: CPV: 72000000.
+    Framework agreement for consultancy services for trygdeetatens IT
+    services.
+    The framework agreement covers 16 competence areas within IT.
+TX: CONTRACT AWARD NOTICE
+    Services
+    SECTION I: CONTRACTING AUTHORITY
+    I.1)  Official name and address of the contracting authority:
+    Rikstrygdeverket, Att: Terje Hanssen (fakturareferanse tha 2900),
+    Sannergaten 2, Postboks 5200, Nydalen, N-0426 Oslo. Tel.: 22 92 73 45.
+    Fax: 22 92 73 69. E-mail: terje.hanssen@trygdeetaten.no.
+    I.2)  Type of contracting authority: Central level.
+    SECTION II: OBJECT OF THE CONTRACT
+    II.1)  Type of contract: Services.
+    II.2)  Framework agreement: Yes.
+    II.3)  Nomenclature
+    II.3.1)  Common Procurement Vocabulary (CPV): 72000000.
+    II.4)  Title attributed to the contract by the contracting authority:
+    Framework agreement for consultancy services for trygdeetatens IT
+    services.
+    II.5)  Short description: The framework agreement covers 16 competence
+    areas within IT.
+    SECTION IV: PROCEDURE
+    IV.1)  Type of procedure: Negotiated with a call for competition.
+    IV.1.1)  Justification for the choice of negotiated procedure without call
+    for competition:
+    IV.1.1.1)  Negotiated procedure with prior publication The nature of the
+    service is such that the contract specifications cannot be established
+    with sufficient precision to permit the award of the contract according to
+    the rules governing open or restricted procedures.
+    IV.2)  Award criteria: The most economically advantageous tender in terms
+    of:
+    Criteria as stated in contract documents.
+    SECTION V: AWARD OF CONTRACT
+    Contract No: 1
+    V.1)  Award and contract value
+    V.1.1)  Name and address of successful supplier, contractor or service
+    provider: Ementor Norge AS, N-.
+    Contract No: 2
+    V.1)  Award and contract value
+    V.1.1)  Name and address of successful supplier, contractor or service
+    provider: Promis AS, N-.
+    Contract No: 3
+    V.1)  Award and contract value
+    V.1.1)  Name and address of successful supplier, contractor or service
+    provider: Capgemini Norge AS, N-.
+    Contract No: 4
+    V.1)  Award and contract value
+    V.1.1)  Name and address of successful supplier, contractor or service
+    provider: Ciber Norge AS, N-.
+    Contract No: 5
+    V.1)  Award and contract value
+    V.1.1)  Name and address of successful supplier, contractor or service
+    provider: Bekk Consulting AS, N-.
+    Contract No: 6
+    V.1)  Award and contract value
+    V.1.1)  Name and address of successful supplier, contractor or service
+    provider: HM Rådgivning og IT teknologi AS, N-.
+    Contract No: 7
+    V.1)  Award and contract value
+    V.1.1)  Name and address of successful supplier, contractor or service
+    provider: Software Innovation, N-.
+    Contract No: 8
+    V.1)  Award and contract value
+    V.1.1)  Name and address of successful supplier, contractor or service
+    provider: Tieto Enator, N-.
+    Contract No: 9
+    V.1)  Award and contract value
+    V.1.1)  Name and address of successful supplier, contractor or service
+    provider: Kristin Wilhelmsen AS, N-.
+    Contract No: 10
+    V.1)  Award and contract value
+    V.1.1)  Name and address of successful supplier, contractor or service
+    provider: Steria AS, N-.
+    Contract No: 11
+    V.1)  Award and contract value
+    V.1.1)  Name and address of successful supplier, contractor or service
+    provider: Accenture ANS, N-.
+    Contract No: 12
+    V.1)  Award and contract value
+    V.1.1)  Name and address of successful supplier, contractor or service
+    provider: daVinci Consulting AS, N-.
+    Contract No: 13
+    V.1)  Award and contract value
+    V.1.1)  Name and address of successful supplier, contractor or service
+    provider: IBM Global Services, N-.
+    Contract No: 14
+    V.1)  Award and contract value
+    V.1.1)  Name and address of successful supplier, contractor or service
+    provider: EdiSys AS, N-.
+    Contract No: 15
+    V.1)  Award and contract value
+    V.1.1)  Name and address of successful supplier, contractor or service
+    provider: KonsensIT AS, N-.
+    Contract No: 16
+    V.1)  Award and contract value
+    V.1.1)  Name and address of successful supplier, contractor or service
+    provider: Opus One, N-.
+    Contract No: 17
+    V.1)  Award and contract value
+    V.1.1)  Name and address of successful supplier, contractor or service
+    provider: Manage IT AS, N-.
+    Contract No: 18
+    V.1)  Award and contract value
+    V.1.1)  Name and address of successful supplier, contractor or service
+    provider: Egroup ASA, N-.
+    Contract No: 19
+    V.1)  Award and contract value
+    V.1.1)  Name and address of successful supplier, contractor or service
+    provider: Smartnet AS, N-.
+    Contract No: 20
+    V.1)  Award and contract value
+    V.1.1)  Name and address of successful supplier, contractor or service
+    provider: Visma Unique AS, N-.
+    Contract No: 21
+    V.1)  Award and contract value
+    V.1.1)  Name and address of successful supplier, contractor or service
+    provider: Deloitte Consulting, N-.
+    Contract No: 22
+    V.1)  Award and contract value
+    V.1.1)  Name and address of successful supplier, contractor or service
+    provider: Oracle Norge AS, N-.
+    Contract No: 23
+    V.1)  Award and contract value
+    V.1.1)  Name and address of successful supplier, contractor or service
+    provider: OKB Consulting AS, N-.
+    Contract No: 24
+    V.1)  Award and contract value
+    V.1.1)  Name and address of successful supplier, contractor or service
+    provider: Computas AS, N-.
+    Contract No: 25
+    V.1)  Award and contract value
+    V.1.1)  Name and address of successful supplier, contractor or service
+    provider: Abeo, N-.
+    Contract No: 26
+    V.1)  Award and contract value
+    V.1.1)  Name and address of successful supplier, contractor or service
+    provider: EDB IT Drift, N-.
+    Contract No: 27
+    V.1)  Award and contract value
+    V.1.1)  Name and address of successful supplier, contractor or service
+    provider: Hewlett-Packard Norge AS, N-.
+    Contract No: 28
+    V.1)  Award and contract value
+    V.1.1)  Name and address of successful supplier, contractor or service
+    provider: Classic IT Datakonsulenter, N-.
+    Contract No: 29
+    V.1)  Award and contract value
+    V.1.1)  Name and address of successful supplier, contractor or service
+    provider: Commercial Data Servers AS, N-.
+    Contract No: 30
+    V.1)  Award and contract value
+    V.1.1)  Name and address of successful supplier, contractor or service
+    provider: NinetechGruppen, N-.
+    Contract No: 31
+    V.1)  Award and contract value
+    V.1.1)  Name and address of successful supplier, contractor or service
+    provider: Norske Systemarkitekter, N-.
+    Contract No: 32
+    V.1)  Award and contract value
+    V.1.1)  Name and address of successful supplier, contractor or service
+    provider: IT Invest AS, N-.
+    Contract No: 33
+    V.1)  Award and contract value
+    V.1.1)  Name and address of successful supplier, contractor or service
+    provider: Hamar DataKonsult AS, N-.
+    SECTION VI: OTHER INFORMATION
+    VI.1)  Non-mandatory notice: No.
+    VI.2)  Reference number attributed to the file by the contracting
+    authority: 2004/04315.
+    VI.4)  Number of tenders received: 69.
+    VI.5)  This contract was subject to a notice in the OJ: Yes.
+    Notice number in OJ contents list: 2004/S 135-115783.
+    Of: 14.7.2004.
+    VI.6)  This contract relates to a project/programme financed by EU funds:
+    No.
+    VI.7)  Other information: Norsk lysingsblad's reference: 2005-01047.
+    VI.8)  Date of dispatch of this notice: 21.1.2005.
