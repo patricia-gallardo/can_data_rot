@@ -359,7 +359,8 @@
                  style="display: flex; flex-direction: column; justify-content: center;">
             <div style="width: 1920px; height: 980px; display: flex; flex-direction: column; align-content: flex-start; justify-content: flex-start; align-items: flex-start">
                 <h2>Norwegian public pension procurements</h2>
-                <h3>BTW: The expected level below was 30</h3>
+                <h3>After Classic Doffin was shut down, most of this data is no longer online</h3>
+                <h4>BTW: EFTA expected the yearly procurement rate to be 30</h4>
             </div>
         </section>
 
@@ -367,7 +368,8 @@
         </section>
 
         <section style="display: flex; flex-direction: column;">
-            <h2 class="fragment">How hard can it be?</h2>
+            <h3 class="fragment">Seriously, though...</h3>
+            <h1 class="fragment">How hard can it be?</h1>
         </section>
 
 <!--        <section class="fig-container" data-file="d3-fig/fig/years_list.html" data-preload-->
@@ -434,12 +436,13 @@
         </section>
 
         <section style="text-align: left; display: flex; flex-direction: column;">
-            <h2 class="fragment">Within the R.X.X.X series</h2>
+            <h4 class="fragment">As I have hinted at...</h4>
+            <h2 class="fragment">Within each R.X.0.0 version (major and minor)</h2>
             <h2 class="fragment">There are variation "families"</h2>
             <h3 class="fragment">TED_EXPORT: Used by TED as far back as 2007, up to 2023</h3>
             <h3 class="fragment">DOFFIN_ESENDERS: Used by Doffin, including NAV IT 2014-23</h3>
             <h3 class="fragment">TED_ESENDERS: Used by Doffin, including NAV IT 2012-13</h3>
-            <h3 class="fragment">INTERNAL_OJS: Ignoring, not visible in public data</h3>
+            <h3 class="fragment">INTERNAL_OJS: Not present in public data I've seen yet</h3>
         </section>
 
         <section style="display: flex; flex-direction: column;">
@@ -451,53 +454,71 @@
 
         <section style="display: flex; flex-direction: column;">
             <h2 class="fragment">The XML versions I have schemas for</h2>
+            <h4 class="fragment">Remember that most XML before 2011/2012 I don't have any XML schemas for</h4>
+            <h4 class="fragment">So the following diagram is for 2012-2023</h4>
         </section>
 
         <section class="fig-container" data-file="d3-fig/fig/schemas.html" data-preload style="">
         </section>
 
         <section style="display: flex; flex-direction: column;">
-            <h2 class="fragment">Attempt number 1</h2>
-            <h3 class="fragment">I did what I think most people would do</h3>
-            <h3 class="fragment">What I think my predecessors did</h3>
+            <h2 class="fragment">So my attempt number 1 was</h2>
+            <h3 class="fragment">what I think most people would do</h3>
+            <h3 class="fragment">what I think my predecessors did</h3>
+            <h3 class="fragment">in all those Doffin teams</h3>
             <h3 class="fragment">I went backwards in time</h3>
+            <h3 class="fragment">I started with TED_EXPORT R2.0.9, TED_EXPORT R2.0.8 and eForms</h3>
         </section>
 
         <section style="display: flex; flex-direction: column;">
-            <h2 class="fragment">How many types are we talking about?</h2>
+            <h2 class="fragment">And it sucked</h2>
+        </section>
+
+        <section style="display: flex; flex-direction: column;">
+            <h2 class="fragment">How many generated types are we talking about?</h2>
             <h3 class="fragment">Each schema is a collection of forms</h3>
             <h3 class="fragment">R.2.0.9 versions have 18-19 different forms</h3>
             <h3 class="fragment">Late R.2.0.8 versions, which were only for defense, have only 7 different forms</h3>
             <h3 class="fragment">However, early R.2.0.8 versions, only for defense, have 23 different forms</h3>
-            <h3 class="fragment">How similar are these?</h3>
-            <h3 class="fragment">How often is one specific form used?</h3>
-        </section>
-
-        <!-- Add pie chart -->
-        <section>
-            <h2>Pie charts</h2>
         </section>
 
         <section style="display: flex; flex-direction: column;">
-            <h2 class="fragment">For this to scale I needed to share code</h2>
             <h3 class="fragment">When you multiply up the number of versions in use with all the different forms we have</h3>
             <h3 class="fragment">Number of schema versions: ~30</h3>
             <h3 class="fragment">Number of forms per schema version: ~20</h3>
             <h3 class="fragment">We possibly have around 600 different forms</h3>
+            <h3 class="fragment">For each minor version of R.X.0.0, JAXB generated around 1,500 Java classes</h3>
+            <h3 class="fragment">That differed in what seemed like random ways</h3>
+        </section>
+
+        <section style="display: flex; flex-direction: column;">
             <h3 class="fragment">From which we need to extract pretty much the same information</h3>
             <h3 class="fragment">From forms that are very similar but not the same</h3>
             <h3 class="fragment">And the generated types for them, that are very similar, but not the same</h3>
         </section>
 
+        <!-- Add pie chart -->
+        <section>
+            <h2>Pie charts</h2>
+            <h3 class="fragment">How similar are these?</h3>
+            <h3 class="fragment">How often is one specific form used?</h3>
+        </section>
+
+        <section style="display: flex; flex-direction: column;">
+            <h2 class="fragment">For this to scale I needed to share code</h2>
+            <h3 class="fragment">I can't write Almost The Same code 600 times</h3>
+        </section>
+
         <section style="display: flex; flex-direction: column;">
             <h2 class="fragment">I desperately wanted C++ templates</h2>
-            <h3 class="fragment">To write templated functions that I could use with similar types accross "all" the forms</h3>
-            <h3 class="fragment">As long as the types had the specific features I needed</h3>
-            <h3 class="fragment">I wanted compile-time "duck typing" like in C++</h3>
-            <h3 class="fragment">“If it walks like a duck, and it quacks like a duck, then it must be a duck.”</h3>
+            <h4 class="fragment">For Python people: Statically Typed Duck Typing</h4>
+            <h3 class="fragment">Then I could use templated functions with "similar" types across the forms</h3>
+            <h4 class="fragment">As long as the types had the specific features I needed</h4>
+<!--            <h3 class="fragment">I wanted compile-time "duck typing" like in C++</h3>-->
+            <h5 class="fragment">“If it walks like a duck, and it quacks like a duck, then it must be a duck.”</h5>
             <h3 class="fragment">Kotlin/Java generics can't do that</h3>
-            <h3 class="fragment">But this is not a C++ talk, so never mind</h3>
-            <h3 class="fragment">I explored options for Kotlin</h3>
+            <h4 class="fragment">But this is not a C++ talk, so never mind</h4>
+            <h4 class="fragment">I explored options for Kotlin</h4>
             <h3 class="fragment">They were all varying degrees of bad</h3>
         </section>
 
@@ -507,6 +528,9 @@
             <h3 class="fragment">I can add functions to someone else's type</h3>
             <h3 class="fragment">And I have a lot of those, each schema generates thousands of classes</h3>
             <h3 class="fragment">But extension functions are attached to a single type</h3>
+        </section>
+
+        <section style="display: flex; flex-direction: column;">
             <h3 class="fragment">However, this time, I'm starting from the beginning</h3>
             <h3 class="fragment">I don't have any schemas, that is something I need to figure out</h3>
             <h3 class="fragment">Maybe I could write a new schema set that I can use across many versions?</h3>
