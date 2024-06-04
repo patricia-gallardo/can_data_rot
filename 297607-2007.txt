@@ -1,0 +1,194 @@
+1.0/025697
+TI: NO-Oslo: computer and related services
+PD: 20071219
+ND: 297607-2007
+OJ: 244/2007
+DR: 20071217
+DS: 20071217
+DD: 20080125
+DT: 20080125  12 00
+HD: 3340
+TD: 3 - Contract notice
+NC: 4 - Service contract
+PR: 4 - Negotiated procedure
+RP: B - European Economic Area (EEA), with participation by GPA countries
+AA: 1 - Ministry or any other national or federal authority
+TY: 1 - Global tender
+AC: 2 - The most economic tender
+MA: S - General public/services
+PC: 72000000
+PN: Computer and related services
+CY: NO
+OL: EN
+AU: NAV DRIFT OG UTVIKLING
+TW: OSLO
+IA: www.nav.no
+AB: Title attributed to the contract by the contracting authority: Procurement
+    of maintenance and further development agreement for Arena case-handling
+    system.
+    Arena is one of the Awarding Authority‘s core systems and constitutes a
+    comprehensive and flexible case-handling system which will support up to 6
+    000 users/case-handlers in their daily works within year 2010. The system
+    is based on Oracle database, Oracle development system, Java based
+    development system and FrameSolution, a framework delivered by Computas.
+    Arena is created in order to contribute to a well functioning labour
+    market through support for communication, recruiting and measures, as well
+    as support for administration of services during unemployment, vocational
+    occupational rehabilitation and measures participation.
+    CPV: 72000000.
+TX: CONTRACT NOTICE
+    Services
+    SECTION I: CONTRACTING AUTHORITY
+    I.1)  NAME, ADDRESSES AND CONTACT POINT(S): NAV Drift og utvikling,
+    Sannergata 2, Postboks 5200 Nydalen, Contact: Anskaffelser og økonomi,
+    Attn: Heidi E. Rygg, N-0426 Oslo. Tel. (47) 21 07 10 00. E-mail:
+    heidi.elise.rygg@nav.no. Fax 21 07 10 10.
+    Internet address(es):
+    General address of the contracting authority: www.nav.no.
+    Address of the buyer profile: http://www.doffin.no/search/
+    Search_AuthProfile.aspx?ID=AA0005.
+    Further information can be obtained at: As in above-mentioned contact
+    point(s).
+    Specifications and additional documents (including documents for
+    competitive dialogue and a dynamic purchasing system) can be obtained at:
+    As in above-mentioned contact point(s).
+    Tenders or requests to participate must be sent to: As in above-mentioned
+    contact point(s).
+    I.2)  TYPE OF THE CONTRACTING AUTHORITY AND MAIN ACTIVITY OR ACTIVITIES:
+    Ministry or any other national or federal authority, including their
+    regional or local sub-divisions.
+    General public services.
+    SECTION II: OBJECT OF THE CONTRACT
+    II.1)  DESCRIPTION
+    II.1.1)  Title attributed to the contract by the contracting authority:
+    Procurement of maintenance and further development agreement for Arena
+    case-handling system.
+    II.1.2)  Type of contract and location of works, place of delivery or of
+    performance: Services.
+    Service category: No 7.
+    Main place of performance: Oslo, Norway.
+    II.1.3)  The notice involves: The establishment of a framework agreement.
+    II.1.4)  Information on framework agreement: Framework agreement with a
+    single operator.
+    Duration of the framework agreement: Duration in year(s): 5
+    Justification for a framework agreement, the duration of which exceeds
+    four years: Compare paragraph 15-1 no. 4. Due to the system‘s importance
+    and criticality, complexity, and commercial conditions and costs in
+    connection with replacement of supplier.
+    Estimated total value of purchases for the entire duration of the
+    framework agreement:
+    Estimated value excluding VAT:
+    Range: between 150 000 000 and 200 000 000 NOK.
+    II.1.5)  Short description of the contract or purchase(s): Arena is one of
+    the Awarding Authority‘s core systems and constitutes a comprehensive and
+    flexible case-handling system which will support up to 6 000
+    users/case-handlers in their daily works within year 2010. The system is
+    based on Oracle database, Oracle development system, Java based
+    development system and FrameSolution, a framework delivered by Computas.
+    Arena is created in order to contribute to a well functioning labour
+    market through support for communication, recruiting and measures, as well
+    as support for administration of services during unemployment, vocational
+    occupational rehabilitation and measures participation.
+    II.1.6)  Common procurement vocabulary (CPV): 72000000.
+    II.1.7)  Contract covered by the Government Procurement Agreement (GPA):
+    Yes.
+    II.1.8)  Division into lots: No.
+    II.2)  QUANTITY OR SCOPE OF THE CONTRACT
+    II.2.1)  Total quantity or scope: The annual value of the agreements will
+    vary but the extent is normally within 30 000 000 – 40 000 000 NOK per
+    annum.
+    II.2.2)  Options: Yes.
+    Description of these options: The framework agreement is for four years
+    with option for 1 year prolongation for the Awarding Authority.
+    II.3)  DURATION OF THE CONTRACT OR TIME-LIMIT FOR COMPLETION: Duration in
+    months: 60 (from the award of the contract).
+    SECTION III: LEGAL, ECONOMIC, FINANCIAL AND TECHNICAL INFORMATION
+    III.1)  CONDITIONS RELATING TO THE CONTRACT
+    III.1.1)  Deposits and guarantees required: See the tender documents.
+    III.1.2)  Main financing conditions and payment arrangements and/or
+    reference to the relevant provisions regulating them: See the tender
+    documents.
+    III.1.3)  Legal form to be taken by the group of economic operators to
+    whom the contract is to be awarded: See the qualification documents.
+    III.1.4)  Other particular conditions to which the performance of the
+    contract is subject: No.
+    III.2)  CONDITIONS FOR PARTICIPATION
+    III.2.1)  Personal situation of economic operators, including requirements
+    relating to enrolment on professional or trade registers: Information and
+    formalities necessary for evaluating if requirements are met: Company
+    registration certificate. Value added tax certificate (National
+    requirement). Company tax certificate (National requirement).
+    Self-declaration in compliance with Appendix 2 (HSE) of the Norwegian
+    procurement regulations (National requirement). Other documentation
+    required: Requirements: 1. Mandatory and invariable requirements. 2. It is
+    required that the supplier has a legally established company.
+    Documentation: - Description of the organisation and ownership structure.
+    III.2.2)  Economic and financial capacity: Information and formalities
+    necessary for evaluating if requirements are met: The company’s most
+    recent annual report including new information of relevance to the
+    company’s accounting figures. Statement of the company’s turnover, of
+    relevance to this contract, for previous years. Other documentation
+    required: Documentation: The company´s annual accounts for the previous 3
+    years with notes and auditor´s reports.
+    Minimum level(s) of standards possibly required: Requirement: 1. It is
+    required that the supplier has good solvency and is worthy of credit.
+    III.2.3)  Technical capacity: Information and formalities necessary for
+    evaluating if requirements are met: A list of the principal deliveries
+    effected, or main services provided, by the company, in the past three
+    years, with the values, dates and recipients (for supply and service
+    contracts). Documentation: - It is required that the supplier includes
+    references which shows use of pliable methodology. – Minimum 3 relevant
+    references with names and contact information. – Manpower for this
+    assignment with names and CVs for the most relevant resource personnel as
+    well as filled in table in accordance with qualification documents’ annex.
+    The CVs must display technology and competence as described in the
+    qualification documents. – The supplier must prove that he has necessary
+    capacity and qualifications for execute the assignment. – Description of
+    use of sub-suppliers, if any. – Short statement of the supplier’s
+    tools/methodology in connection with the implementation of the contract. –
+    Processes for service management shall be documented/described. –
+    Statement of the company’s quality assurance system/control system, if
+    possible, certificates issued by independent organs which confirms that
+    the supplier meet the requirement in relation to the quality assurance
+    system.
+    Minimum level(s) of standards possibly required: Requirements: 1.
+    Considerable and relevant experience from corresponding assignments is
+    required. 2. Substantial professional competence is required. 3. Very good
+    implementation ability, established implementation methodology and
+    method/tools for flexible system development are required. 4. It is
+    required that processes for service management is based on ITIL or
+    corresponding framework. 5. A good and efficient quality assurance system
+    (ISO 9000 or equivalent) is required.
+    SECTION IV: PROCEDURE
+    IV.1)  TYPE OF PROCEDURE
+    IV.1.1)  Type of procedure: Negotiated.
+    Candidates have already been selected: no.
+    IV.1.2)  Limitations on the number of operators who will be invited to
+    tender or to participate: Envisaged minimum number: 3. Maximum number: 6
+    Objective criteria for choosing the limited number of candidates: The
+    Awarding Authority will invite 3 to 6 qualified suppliers to submit
+    tenders. The selection of suppliers will be carried based on the best
+    qualified suppliers in accordance with qualifications weighted as follows:
+    - Experience 25 %. – Competence 25 %. – Capacity 25 %. – Method and
+    quality assurance system.
+    IV.1.3)  Reduction of the number of operators during the negotiation or
+    dialogue: Recourse to staged procedure to gradually reduce the number of
+    solutions to be discussed or tenders to be negotiated yes.
+    IV.2)  AWARD CRITERIA
+    IV.2.1)  Award criteria: The most economically advantageous tender in
+    terms of the criteria stated in the specifications, in the invitation to
+    tender or to negotiate or in the descriptive document.
+    IV.2.2)  An electronic auction will be used: No.
+    IV.3)  ADMINISTRATIVE INFORMATION
+    IV.3.3)  Conditions for obtaining specifications and additional documents
+    or descriptive documentTime limit for receipt of requests for documents or
+    for accessing documents: 25.1.2008.
+    IV.3.4)  Time-limit for receipt of tenders or requests to participate:
+    25.1.2008 - 12:00.
+    IV.3.5)  Date of dispatch of invitations to tender or to participate to
+    selected candidates: 20.2.2008.
+    IV.3.6)  Language(s) in which tenders or requests to participate may be
+    drawn up: Other: Norwegian.
+    SECTION VI: COMPLEMENTARY INFORMATION
+    VI.3)  ADDITIONAL INFORMATION: (NT Ref:109109).
+    VI.5)  DATE OF DISPATCH OF THIS NOTICE: 17.12.2007.

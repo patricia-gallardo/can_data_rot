@@ -1,0 +1,109 @@
+1.0/008930
+TI: NO-Oslo: maintenance of information technology software
+PD: 20071228
+ND: 304743-2007
+OJ: 249/2007
+DR: 20071224
+DS: 20071224
+RN: 146432-2007
+HD: 3380
+TD: 7 - Contract award
+NC: 4 - Service contract
+PR: 7 - Contract awards
+RP: B - European Economic Area (EEA), with participation by GPA countries
+AA: 1 - Ministry or any other national or federal authority
+TY: 9 - Not applicable
+AC: 2 - The most economic tender
+MA: S - General public/services
+PC: 50312510
+    72262000
+PN: Maintenance of information technology software
+    Software development services
+CY: NO
+OL: EN
+AU: NAV DRIFT OG UTVIKLING
+TW: OSLO
+IA: www.nav.no
+CO: NAME AND ADDRESS OF ECONOMIC OPERATOR TO WHOM THE CONTRACT HAS BEEN
+    AWARDED: Bekk Consulting, P.O.Box 134 Sentrum, N-0102 Oslo.
+AB: Title attributed to the contract by the contracting authority: Maintenance
+    and further development contract for portals and self-service systems for
+    NAV.
+    The aim of the competition is to sign a contract with 1 service provider
+    for services connected to portals and self-service systems.
+    The Labour and Welfare Department has developed portals and self-service
+    systems so as to provide better services for the public and employees. It
+    is important for the department that there is a focus on user friendliness
+    and efficiency in the service production so that imposed assignments can
+    be carried out. Users and executive officers have ever increasing
+    expectations and needs for well-functioning and available portals with
+    accompanying self-service systems. The awarding authority prioritises this
+    area and it is seen in connection with the execution of legally imposed
+    reforms.
+    CPV: 50312510, 72262000.
+TX: CONTRACT AWARD NOTICE
+    Services
+    SECTION I: CONTRACTING AUTHORITY
+    I.1)  NAME, ADDRESSES AND CONTACT POINT(S): NAV Drift og utvikling,
+    Sannergata 2, Postboks 5200 Nydalen, Contact: Anskaffelser og økonomi,
+    Attn: Heidi E. Rygg, N-0426 Oslo. Tel. 21 07 10 00. E-mail:
+    heidi.elise.rygg@nav.no. Fax 21 07 10 10.
+    Internet address(es):
+    General address of the contracting authority: www.nav.no.
+    Address of the buyer profile: http://www.doffin.no/notice/
+    AuthProfile.aspx?ID=AA0005.
+    I.2)  TYPE OF THE CONTRACTING AUTHORITY AND MAIN ACTIVITY OR ACTIVITIES:
+    Ministry or any other national or federal authority, including their
+    regional or local sub-divisions.
+    General public services.
+    SECTION II: OBJECT OF THE CONTRACT
+    II.1)  DESCRIPTION
+    II.1.1)  Title attributed to the contract by the contracting authority:
+    Maintenance and further development contract for portals and self-service
+    systems for NAV.
+    II.1.2)  Type of contract and location of works, place of delivery or of
+    performance: Services.
+    Service category No 7.
+    Main place of performance: Oslo, Norway.
+    II.1.4)  Short description of the contract or purchase(s): The aim of the
+    competition is to sign a contract with 1 service provider for services
+    connected to portals and self-service systems.
+    The Labour and Welfare Department has developed portals and self-service
+    systems so as to provide better services for the public and employees. It
+    is important for the department that there is a focus on user friendliness
+    and efficiency in the service production so that imposed assignments can
+    be carried out. Users and executive officers have ever increasing
+    expectations and needs for well-functioning and available portals with
+    accompanying self-service systems. The awarding authority prioritises this
+    area and it is seen in connection with the execution of legally imposed
+    reforms.
+    II.1.5)  Common procurement vocabulary (CPV): 50312510, 72262000.
+    II.1.6)  Contract covered by the Government Procurement Agreement (GPA):
+    Yes.
+    II.2)  TOTAL FINAL VALUE OF CONTRACT(S)
+    II.2.1)  Total final value of contract(s):
+    SECTION IV: PROCEDURE
+    IV.1)  TYPE OF PROCEDURE
+    IV.1.1)  Type of procedure: Negotiated with a call for competition.
+    IV.2)  AWARD CRITERIA
+    IV.2.1)  Award criteria: The most economically advantageous tender in
+    terms of
+    1. Total cost. Weighting: 40 %.
+    2. Quality of the service. Weighting: 60 %.
+    IV.3)  ADMINISTRATIVE INFORMATION
+    IV.3.1)  File reference number attributed by the Contracting Authority:
+    IV.3.2)  Previous publication(s) concerning the same contract: Contract
+    notice
+    Notice number in OJ: 2007/S 119-146432 of 23.6.2007.
+    SECTION V: AWARD OF CONTRACT
+    CONTRACT NO:
+    TITLE: Maintenance and further development contract for portals and
+    self-service systems.
+    V.1)  DATE OF CONTRACT AWARD: 20.12.2007.
+    V.2)  NUMBER OF OFFERS RECEIVED: 4.
+    V.3)  NAME AND ADDRESS OF ECONOMIC OPERATOR TO WHOM THE CONTRACT HAS BEEN
+    AWARDED: Bekk Consulting, P.O.Box 134 Sentrum, N-0102 Oslo.
+    V.4)  INFORMATION ON VALUE OF CONTRACT If annual or monthly value:
+    SECTION VI: COMPLEMENTARY INFORMATION
+    VI.2)  ADDITIONAL INFORMATION: (NT Ref:109585).
+    VI.4)  DATE OF DISPATCH OF THIS NOTICE: 24.12.2007.
