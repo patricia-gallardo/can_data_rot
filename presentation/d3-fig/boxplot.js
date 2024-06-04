@@ -2,7 +2,7 @@ document.body.style.overflow = 'hidden';
 
 function makeBoxplotContext(items, margins) {
     const margin = margins ? margins : {top: 200, right: 100, bottom: 200, left: 200};
-    const padding = {top: 0, right: 100, bottom: 0, left: 200};
+    const padding = {top: 0, right: 100, bottom: 0, left: 300};
     const width = window.innerWidth - margin.left - margin.right;
     const height = Math.min(860, window.innerHeight - margin.top - margin.bottom);
 
@@ -52,27 +52,27 @@ function makeSvg(width, height, margin) {
 function renderAxes(svg, xDomain, yDomain, width, height, padding) {
     const {yScale, yAxis} = getYaxis(yDomain, height, padding);
     const {xScale, xAxis} = getXaxis(xDomain, width, padding);
-    renderYaxis(svg, yAxis, padding);
-    renderXaxis(svg, xAxis, padding, height);
+    renderYaxis(svg, yAxis, padding, yScale);
+    renderXaxis(svg, xAxis, padding, height, yScale);
     return {yScale, xScale};
 }
 
-function renderYaxis(svg, yAxis, padding) {
+function renderYaxis(svg, yAxis, padding, yScale) {
     svg.append("g")
         .attr('class', 'yaxis')
-        .style('font-size', '20px')
+        .style('font-size', fontSize(yScale))
         .style('font-family', '"Fira Sans", sans-serif')
-        .style('font-weight', '400')
+        .style('font-weight', '300')
         .attr("transform", "translate(" + padding.left + "," + 0 + ")")
         .call(yAxis);
 }
 
-function renderXaxis(svg, xAxis, padding, height) {
+function renderXaxis(svg, xAxis, padding, height, yScale) {
     svg.append("g")
         .attr('class', 'xaxis')
-        .style('font-size', '20px')
+        .style('font-size', fontSize(yScale))
         .style('font-family', '"Fira Sans", sans-serif')
-        .style('font-weight', '400')
+        .style('font-weight', '300')
         .attr("transform", "translate(" + 0 + "," + (height - (padding.top + padding.bottom)) + ")")
         .call(xAxis);
 }
@@ -201,6 +201,10 @@ function gray(col)
         return "#E5E4E2bb"
 }
 
+function fontSize(yScale) {
+    return (yScale.bandwidth() * 0.4) + 'px';
+}
+
 function renderRect(node, nodeEnter, context, {left, right, fill}) {
     // Add Box for the nodes
     nodeEnter.append('rect')
@@ -225,9 +229,9 @@ function renderRect(node, nodeEnter, context, {left, right, fill}) {
         .attr("text-anchor", (d) => "start")
         .attr("fill", "black")
         .attr("stroke", "black")
-        .style('font-size', context.fontSize ? context.fontSize : (context.yScale.bandwidth() * 0.5) + 'px')
+        .style('font-size', fontSize(context.yScale))
         .style('font-family', '"Fira Sans", sans-serif')
-        .style('font-weight', '400')
+        .style('font-weight', '300')
         .attr("alignment-baseline", 'auto')
         .attr("stroke-width", '0')
         .text(function (d) {
