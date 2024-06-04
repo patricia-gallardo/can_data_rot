@@ -1,5 +1,9 @@
 document.body.style.overflow = 'hidden';
 
+function minX(items) { return Math.min.apply(0, items.map((item) => item.year)) - 1; }
+function maxX(items) { return Math.max.apply(0, items.map((item) => item.year)) + 1; }
+function maxY(items) { return Math.max.apply(0, items.map((item) => item.num)) + 1; }
+
 function makeBarplotContext(items, color) {
     const margin = {top: 50, right: 100, bottom: 150, left: 200};
     const padding = {top: 50, right: 50, bottom: 50, left: 50};
@@ -8,8 +12,8 @@ function makeBarplotContext(items, color) {
 
     const svg = makeSvg(width, height, margin, padding)
 
-    let xDomain = [2002, 2025];
-    let yDomain = [35, 0];
+    let xDomain = [minX(items), maxX(items)];
+    let yDomain = [maxY(items), 0];
 
     const {yScale, xScale} = renderAxes(svg, xDomain, yDomain, width, height, padding);
 
