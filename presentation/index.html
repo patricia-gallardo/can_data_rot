@@ -475,6 +475,38 @@
         </section>
 
         <section style="display: flex; flex-direction: column;">
+            <h2 class="fragment">Maybe we could use XSLT?</h2>
+            <h2 class="fragment">To transform the XMLs to a common format?</h2>
+            <h3 class="fragment">Firstly, I am bad at XSLT, also kids today have never even heard of it</h3>
+            <h3 class="fragment">TED has an attempt going for R2.0.9 to eForms</h3>
+            <h3 class="fragment">It's in development, and it's a whole project, for just 1 transformation</h3>
+            <h3 class="fragment">Also, it can't ever fully work</h3>
+            <h3 class="fragment">the semantics and fields are very different between R2.0.9 and eForms</h3>
+            <h3 class="fragment">I think this is what Doffin is using for R2.0.9</h3>
+            <h3 class="fragment">And why that support is patchy and there is no support for R2.0.8</h3>
+        </section>
+
+        <section style="display: flex; flex-direction: column;">
+            <h2>Why does it matter that you only support the past 7 years?</h2>
+            <p class="fragment">First of all it isn't 7 years of support</p>
+            <h3 class="fragment">R.2.0.8 isn't supported</h3>
+            <p class="fragment">It was used by the defense sector all the way to 2023</p>
+            <h2 class="fragment">So all defense procurements are gone</h2>
+            <h3 class="fragment">Secondly...</h3>
+        </section>
+
+        <section style="display: flex; flex-direction: column;">
+            <h2 class="fragment">This is the world's slowest social network</h2>
+            <h3 class="fragment">Interactions between companies are often 4-8 years apart</h3>
+            <h3 class="fragment">Without a long timespan, you won't see anything</h3>
+            <h3 class="fragment">Like watching starfish</h3>
+            <h3 class="fragment">It will look like they're standing still</h3>
+            <h3 class="fragment">So...</h3>
+            <h3 class="fragment">I wasn't giving up</h3>
+            <h3 class="fragment">Not yet</h3>
+        </section>
+
+        <section style="display: flex; flex-direction: column;">
             <h2 class="fragment">How many generated types are we talking about?</h2>
             <h3 class="fragment">Each schema is a collection of forms</h3>
             <h3 class="fragment">R.2.0.9 versions have 18-19 different forms</h3>
@@ -528,6 +560,38 @@
             <h3 class="fragment">I can add functions to someone else's type</h3>
             <h3 class="fragment">And I have a lot of those, each schema generates thousands of classes</h3>
             <h3 class="fragment">But extension functions are attached to a single type</h3>
+        </section>
+
+        <section style="display: flex; flex-direction: column;">
+            <h1 class="fragment">TODO</h1>
+        </section>
+
+        <section style="display: flex; flex-direction: column;">
+            <h2 class="fragment">I had done a lot of TED_EXPORT</h2>
+            <h2 class="fragment">But I still had to do all the DOFFIN and TED ESENDER versions</h2>
+            <h3 class="fragment">Even with ADHD and hyperfocus</h3>
+            <h3 class="fragment">I couldn't do it</h3>
+            <h3 class="fragment">Not true</h3>
+            <h3 class="fragment">I started with DOFFIN_ESENDERS</h3>
+            <h3 class="fragment">And died inside</h3>
+        </section>
+
+        <section style="display: flex; flex-direction: column;">
+            <h2 class="fragment">And I didn't even have all the schemas</h2>
+            <h3 class="fragment">With TED_EXPORT I could only read from early-2012 to 2023</h3>
+            <h3 class="fragment">With Doffin I wouldn't be able to generate parsers for before 2010</h3>
+            <h3 class="fragment">Because I had no schemas from before then</h3>
+            <h3 class="fragment">As an act of procrastination</h3>
+            <h3 class="fragment">I started from the beginning</h3>
+        </section>
+
+        <section style="display: flex; flex-direction: column;">
+            <h2 class="fragment">Attempt number 2</h2>
+            <h3 class="fragment">Starting from the beginning: 2003</h3>
+            <h3 class="fragment">I have no schemas</h3>
+            <h3 class="fragment">There probably weren't any anyway</h3>
+            <h3 class="fragment">Some of it might be DTD based</h3>
+            <h3 class="fragment">But I don't have those either</h3>
         </section>
 
         <section style="display: flex; flex-direction: column;">
@@ -619,77 +683,60 @@
             </pre>
         </section>
 
-        <section style="display: flex; flex-direction: column;">
-            <h2 class="fragment">Maybe we could use XSLT?</h2>
-            <h2 class="fragment">To transform the XMLs to a common format?</h2>
-            <h3 class="fragment">Firstly, I am bad at XSLT, also kids today have never even heard of it</h3>
-            <h3 class="fragment">TED has an attempt going for R2.0.9 to eForms</h3>
-            <h3 class="fragment">It's in development, and it's a whole project, for just 1 transformation</h3>
-            <h3 class="fragment">Also, it can't ever fully work</h3>
-            <h3 class="fragment">the semantics and fields are very different between R2.0.9 and eForms</h3>
-            <h3 class="fragment">I think this is what Doffin is using for R2.0.9</h3>
-            <h3 class="fragment">And why that support is patchy and there is no support for R2.0.8</h3>
+        <section style="display: flex; flex-direction: row; flex-wrap: nowrap; justify-content: flex-start">
+            <img src="images/street-art-7885964_1920.jpg" alt=""
+                 style="width: 600px; height: 900px; object-fit: cover; filter: drop-shadow(0 0 0.55rem black);"/>
+            <div style="padding-left: 40px; text-align: left; display: flex; flex-direction: column; justify-content: center;">
+                <h2 class="fragment">Data Driven?</h2>
+                <p class="fragment">To be "data driven" we have to be able to read the data</p>
+                <p class="fragment">Data analysis is always after, it needs to be staffed with devs that have it as their priority</p>
+                <p class="fragment">Otherwise, "now" will always win</p>
+                <p class="fragment">Operational concerns will win, because the needs they serve are here and now and often external</p>
+                <p class="fragment">Data can't be the leftovers at the table once operational concerns are done</p>
+                <p class="fragment">The quality of the data will suffer</p>
+                <p class="fragment">There often isn't an operational feedback loop for data quality - it's somebody else's problem</p>
+                <p class="fragment">To dogfood data you have to make a feedback loop</p>
+                <p class="fragment">Communicate why do we need this data</p>
+            </div>
+        </section>
+
+        <section style="display: flex; flex-direction: row; flex-wrap: nowrap; justify-content: flex-start">
+            <img src="images/modern-3226522_1920.jpg" alt=""
+                 style="width: 700px; height: 900px; object-fit: cover; filter: drop-shadow(0 0 0.55rem black);"/>
+            <div style="padding-left: 40px; text-align: left; display: flex; flex-direction: column; justify-content: center;">
+                <h2 class="fragment">NullPointerException</h2>
+                <p class="fragment">What happens if central information is stored off the public record?</p>
+                <p class="fragment">What happens when that site is deleted?</p>
+                <p class="fragment">https://kgv.doffin.no/ctm/Supplier/Documents/Folder/</p>
+                <p class="fragment">Additional information: Norsk lysingsblad's reference: 2004-00239.</p>
+                <p class="fragment">5</p>
+                <p class="fragment">6</p>
+                <p class="fragment">7</p>
+                <p class="fragment">8</p>
+            </div>
         </section>
 
         <section style="display: flex; flex-direction: column;">
-            <h2>Why does it matter that you only support the past 7 years?</h2>
-            <p class="fragment">First of all it isn't 7 years of support</p>
-            <h3 class="fragment">R.2.0.8 isn't supported</h3>
-            <p class="fragment">It was used by the defense sector all the way to 2023</p>
-            <h2 class="fragment">So all defense procurements are gone</h2>
-            <h3 class="fragment">Secondly...</h3>
+            <h2 class="fragment">Remote Team Ambassador</h2>
         </section>
 
         <section style="display: flex; flex-direction: column;">
-            <h2 class="fragment">This is the world's slowest social network</h2>
-            <h3 class="fragment">Interactions between companies are often 4-8 years apart</h3>
-            <h3 class="fragment">Without a long timespan, you won't see anything</h3>
-            <h3 class="fragment">Like watching starfish</h3>
-            <h3 class="fragment">It will look like they're standing still</h3>
-            <h3 class="fragment">So...</h3>
-            <h3 class="fragment">I wasn't giving up</h3>
-            <h3 class="fragment">Not yet</h3>
+            <h2 class="fragment">Have a Data person in all operational teams</h2>
+        </section>
+
+        <section>
+            <header style="text-align: left;">
+                <h1 class="fragment">Can Data Rot?</h1>
+                <h2 class="fragment">Forgetting History</h2>
+                <h3 class="fragment">Patricia Aas</h3>
+                <h3 class="fragment">Thank you!</h3>
+            </header>
         </section>
 
         <section style="display: flex; flex-direction: column;">
-            <h2 class="fragment">I had done a lot of TED_EXPORT</h2>
-            <h2 class="fragment">But I still had to do all the DOFFIN and TED ESENDER versions</h2>
-            <h3 class="fragment">Even with ADHD and hyperfocus</h3>
-            <h3 class="fragment">I couldn't do it</h3>
-            <h3 class="fragment">Not true</h3>
-            <h3 class="fragment">I started with DOFFIN_ESENDERS</h3>
-            <h3 class="fragment">And died inside</h3>
+            <h2><a href="https://www.eftasurv.int/cms/sites/default/files/documents/gopro/Complaint%20-%20breach%20of%20the%20EEA%20rules%20on%20public%20procurement%20200623.pdf.pdf">Storebrand complaint</a></h2>
+            <h2><a href="https://www.eftasurv.int/cms/sites/default/files/documents/gopro/Pre-Article_31_letter_-_Complaint_against_Norway_regarding_breaches_of_public_procuremen_Redacted.pdf">EFTA response</a></h2>
         </section>
-
-        <section style="display: flex; flex-direction: column;">
-            <h2 class="fragment">And I didn't even have all the schemas</h2>
-            <h3 class="fragment">With TED_EXPORT I could only read from early-2012 to 2023</h3>
-            <h3 class="fragment">With Doffin I wouldn't be able to generate parsers for before 2010</h3>
-            <h3 class="fragment">Because I had no schemas from before then</h3>
-            <h3 class="fragment">As an act of procrastination</h3>
-            <h3 class="fragment">I started from the beginning</h3>
-        </section>
-
-        <section style="display: flex; flex-direction: column;">
-            <h2 class="fragment">Attempt number 2</h2>
-            <h3 class="fragment">Starting from the beginning: 2003</h3>
-            <h3 class="fragment">I have no schemas</h3>
-            <h3 class="fragment">There probably weren't any anyway</h3>
-            <h3 class="fragment">Some of it might be DTD based</h3>
-            <h3 class="fragment">But I don't have those either</h3>
-        </section>
-
-<!--        <section style="display: flex; flex-direction: column; justify-content: center;">-->
-<!--            <h2>TREE TEST DFS</h2>-->
-<!--            <div class="fig-container" data-file="d3-fig/tree.html" data-preload-->
-<!--                 style=""></div>-->
-<!--        </section>-->
-
-<!--        <section style="display: flex; flex-direction: column; justify-content: center;">-->
-<!--            <h2>TREE TEST BFS</h2>-->
-<!--            <div class="fig-container" data-file="d3-fig/tree_breadth_first.html" data-preload-->
-<!--                 style=""></div>-->
-<!--        </section>-->
 
         <section style="display: flex; flex-direction: column;">
             <h2 class="fragment">I scraped all the Classic Doffin HTML</h2>
@@ -713,19 +760,18 @@
         </section>
 
         <section style="display: flex; flex-direction: row; flex-wrap: nowrap; justify-content: flex-start">
-            <img src="images/street-art-7885964_1920.jpg" alt=""
-                 style="width: 600px; height: 900px; object-fit: cover; filter: drop-shadow(0 0 0.55rem black);"/>
+            <img src="images/graffiti-3610348_1920.jpg" alt=""
+                 style="width: 700px; height: 900px; object-fit: cover; filter: drop-shadow(0 0 0.55rem black);"/>
             <div style="padding-left: 40px; text-align: left; display: flex; flex-direction: column; justify-content: center;">
-                <h2 class="fragment">Data Driven?</h2>
-                <p class="fragment">To be "data driven" we have to be able to read the data</p>
-                <p class="fragment">Data analysis is always after, it needs to be staffed with devs that have it as their priority</p>
-                <p class="fragment">Otherwise, "now" will always win</p>
-                <p class="fragment">Operational concerns will win, because the needs they serve are here and now and often external</p>
-                <p class="fragment">Data can't be the leftovers at the table once operational concerns are done</p>
-                <p class="fragment">The quality of the data will suffer</p>
-                <p class="fragment">There often isn't an operational feedback loop for data quality - it's somebody else's problem</p>
-                <p class="fragment">To dogfood data you have to make a feedback loop</p>
-                <p class="fragment">Communicate why do we need this data</p>
+                <h2 class="fragment">Why NAV IT</h2>
+                <p class="fragment">You asked me to come :P</p>
+                <p class="fragment">I was already modelling NAV IT</p>
+                <p class="fragment">It's business relevant</p>
+                <p class="fragment">NAV IT uses all the features of this system</p>
+                <p class="fragment">The frame agreements are big, both in money and in lots</p>
+                <p class="fragment">The "org" has gone under a dozen names</p>
+                <p class="fragment">How can we even find them and connect them?</p>
+                <p class="fragment">If I can find these, then I can handle any data in the set</p>
             </div>
         </section>
 
@@ -759,106 +805,51 @@
             </div>
         </section>
 
-        <section style="display: flex; flex-direction: row; justify-content: center;">
-            <h2>GRAPH TEST miserables</h2>
-            <div class="fig-container" data-file="d3-fig/graph_miserables.html" data-preload
-                 style=""></div>
-        </section>
+<!--        <section style="display: flex; flex-direction: row; justify-content: center;">-->
+<!--            <h2>GRAPH TEST miserables</h2>-->
+<!--            <div class="fig-container" data-file="d3-fig/graph_miserables.html" data-preload-->
+<!--                 style=""></div>-->
+<!--        </section>-->
 
-        <section style="display: flex; flex-direction: row; justify-content: center;">
-            <h2>GRAPH TEST data_network</h2>
-            <div class="fig-container" data-file="d3-fig/graph_data_network.html" data-preload
-                 style=""></div>
-        </section>
+<!--        <section style="display: flex; flex-direction: row; justify-content: center;">-->
+<!--            <h2>GRAPH TEST data_network</h2>-->
+<!--            <div class="fig-container" data-file="d3-fig/graph_data_network.html" data-preload-->
+<!--                 style=""></div>-->
+<!--        </section>-->
 
-        <section style="display: flex; flex-direction: column; justify-content: center;">
-            <h2>GRAPH TEST 3</h2>
-            <div class="fig-container" data-file="d3-fig/graph3.html" data-preload
-                 style=""></div>
-        </section>
+<!--        <section style="display: flex; flex-direction: column; justify-content: center;">-->
+<!--            <h2>GRAPH TEST 3</h2>-->
+<!--            <div class="fig-container" data-file="d3-fig/graph3.html" data-preload-->
+<!--                 style=""></div>-->
+<!--        </section>-->
 
-        <section style="display: flex; flex-direction: row; flex-wrap: nowrap; justify-content: flex-start">
-            <img src="images/modern-3226522_1920.jpg" alt=""
-                 style="width: 700px; height: 900px; object-fit: cover; filter: drop-shadow(0 0 0.55rem black);"/>
-            <div style="padding-left: 40px; text-align: left; display: flex; flex-direction: column; justify-content: center;">
-                <h2 class="fragment">NullPointerException</h2>
-                <p class="fragment">What happens if central information is stored off the public record?</p>
-                <p class="fragment">What happens when that site is deleted?</p>
-                <p class="fragment">https://kgv.doffin.no/ctm/Supplier/Documents/Folder/</p>
-                <p class="fragment">Additional information: Norsk lysingsblad's reference: 2004-00239.</p>
-                <p class="fragment">5</p>
-                <p class="fragment">6</p>
-                <p class="fragment">7</p>
-                <p class="fragment">8</p>
-            </div>
-        </section>
+<!--        <section style="display: flex; flex-direction: row; justify-content: center;">-->
+<!--            <h2>BUBBLES</h2>-->
+<!--            <div class="fig-container" data-file="d3-fig/bubbles.html" data-preload-->
+<!--                 style=""></div>-->
+<!--        </section>-->
 
-        <section style="display: flex; flex-direction: column;">
-            <h2 class="fragment">Remote Team Ambassador</h2>
-        </section>
+<!--        <section style="display: flex; flex-direction: row; justify-content: center;">-->
+<!--            <h2>BUBBLES OLD</h2>-->
+<!--            <div class="fig-container" data-file="d3-fig/collision-detection.html" data-preload-->
+<!--                 style=""></div>-->
+<!--        </section>-->
 
-        <section style="display: flex; flex-direction: column;">
-            <h2 class="fragment">Have a Data person in all operational teams</h2>
-        </section>
+<!--        <section style="display: flex; flex-direction: row; justify-content: center;">-->
+<!--            <h3>Interaction with other elements</h3>-->
 
-        <section style="display: flex; flex-direction: row; justify-content: center;">
-            <h2>BUBBLES</h2>
-            <div class="fig-container" data-file="d3-fig/bubbles.html" data-preload
-                 style=""></div>
-        </section>
-
-        <section style="display: flex; flex-direction: row; justify-content: center;">
-            <h2>BUBBLES OLD</h2>
-            <div class="fig-container" data-file="d3-fig/collision-detection.html" data-preload
-                 style=""></div>
-        </section>
-
-        <section style="display: flex; flex-direction: row; justify-content: center;">
-            <h3>Interaction with other elements</h3>
-
-            <div class="row">
-                <div class="col-50 left">
-                    <p class="small">You can interact with the embedded visualization using elements from the slide.</p>
-                    <p class="small">Click on the button to change the color of the nodes to yellow</p>
-                    <button class="btn-large btn-warning" id="recolorButton">Recolorize</button>
-                    <p class="small">Note: the staged transitions are still active (press right arrow or space)</p>
-                </div>
-                <div class="col-50">
-                    <div class="fig-container" data-file="d3-fig/collision-detection.html"></div>
-                </div>
-            </div>
-        </section>
-
-        <section style="display: flex; flex-direction: row; flex-wrap: nowrap; justify-content: flex-start">
-            <img src="images/graffiti-3610348_1920.jpg" alt=""
-                 style="width: 700px; height: 900px; object-fit: cover; filter: drop-shadow(0 0 0.55rem black);"/>
-            <div style="padding-left: 40px; text-align: left; display: flex; flex-direction: column; justify-content: center;">
-                <h2 class="fragment">Why NAV IT</h2>
-                <p class="fragment">You asked me to come :P</p>
-                <p class="fragment">I was already modelling NAV IT</p>
-                <p class="fragment">It's business relevant</p>
-                <p class="fragment">NAV IT uses all the features of this system</p>
-                <p class="fragment">The frame agreements are big, both in money and in lots</p>
-                <p class="fragment">The "org" has gone under a dozen names</p>
-                <p class="fragment">How can we even find them and connect them?</p>
-                <p class="fragment">If I can find these, then I can handle any data in the set</p>
-            </div>
-        </section>
-
-        <section>
-            <header style="text-align: left;">
-                <h1 class="fragment">Can Data Rot?</h1>
-                <h2 class="fragment">Forgetting History</h2>
-                <h3 class="fragment">Patricia Aas</h3>
-                <h3 class="fragment">Thank you!</h3>
-            </header>
-        </section>
-
-        <section style="display: flex; flex-direction: column;">
-            <h2><a href="https://www.eftasurv.int/cms/sites/default/files/documents/gopro/Complaint%20-%20breach%20of%20the%20EEA%20rules%20on%20public%20procurement%20200623.pdf.pdf">Storebrand complaint</a></h2>
-            <h2><a href="https://www.eftasurv.int/cms/sites/default/files/documents/gopro/Pre-Article_31_letter_-_Complaint_against_Norway_regarding_breaches_of_public_procuremen_Redacted.pdf">EFTA response</a></h2>
-        </section>
-
+<!--            <div class="row">-->
+<!--                <div class="col-50 left">-->
+<!--                    <p class="small">You can interact with the embedded visualization using elements from the slide.</p>-->
+<!--                    <p class="small">Click on the button to change the color of the nodes to yellow</p>-->
+<!--                    <button class="btn-large btn-warning" id="recolorButton">Recolorize</button>-->
+<!--                    <p class="small">Note: the staged transitions are still active (press right arrow or space)</p>-->
+<!--                </div>-->
+<!--                <div class="col-50">-->
+<!--                    <div class="fig-container" data-file="d3-fig/collision-detection.html"></div>-->
+<!--                </div>-->
+<!--            </div>-->
+<!--        </section>-->
 
     </div> <!-- slides -->
 
