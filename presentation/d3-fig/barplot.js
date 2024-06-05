@@ -4,9 +4,9 @@ function minX(items) { return Math.min.apply(0, items.map((item) => item.year)) 
 function maxX(items) { return Math.max.apply(0, items.map((item) => item.year)) + 1; }
 function maxY(items) { return Math.max.apply(0, items.map((item) => item.num)) + 1; }
 
-function makeBarplotContext(items, color, margins) {
-    const margin = margins ? margins : {top: 50, right: 100, bottom: 150, left: 200};
-    const padding = {top: 50, right: 50, bottom: 50, left: 50};
+function makeBarplotContext(items, color, margins, paddings) {
+    const margin = margins ? margins : {top: 0, right: 0, bottom: 0, left: 0};
+    const padding = paddings ? paddings : {top: 0, right: 0, bottom: 0, left: 0};
     const width = window.innerWidth - margin.left - margin.right;
     const height = Math.min(860, window.innerHeight - margin.top - margin.bottom);
 

@@ -78,33 +78,33 @@
             index: 3
         },
         {
+            transitionForward: () => removeItem(items[0].id, context),
+            transitionBackward: () => addItem(items[0].id, context),
+            index: 4
+        },
+        {
             transitionForward: () => addItem(items[3].id, context),
             transitionBackward: () => removeItem(items[3].id, context),
-            index: 4
+            index: 5
         },
         {
             transitionForward: () => addItem(items[4].id, context),
             transitionBackward: () => removeItem(items[4].id, context),
-            index: 5
-        },
-        {
-            transitionForward: () => addItem(items[5].id, context),
-            transitionBackward: () => removeItem(items[5].id, context),
             index: 6
-        },
-        {
-            transitionForward: () => addItem(items[6].id, context),
-            transitionBackward: () => removeItem(items[6].id, context),
-            index: 7
-        },
-        {
-            transitionForward: () => removeItem(items[0].id, context),
-            transitionBackward: () => addItem(items[0].id, context),
-            index: 8
         },
         {
             transitionForward: () => removeItems([items[1].id, items[2].id], context),
             transitionBackward: () => addItems([items[1].id, items[2].id], context),
+            index: 7
+        },
+        {
+            transitionForward: () => addItem(items[5].id, context),
+            transitionBackward: () => removeItem(items[5].id, context),
+            index: 8
+        },
+        {
+            transitionForward: () => addItem(items[6].id, context),
+            transitionBackward: () => removeItem(items[6].id, context),
             index: 9
         },
         {

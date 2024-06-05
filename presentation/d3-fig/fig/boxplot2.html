@@ -17,18 +17,18 @@
         "id": "TED XML",
         "color": "#fde725",
     }, {
-        "min": "2003",
-        "max": "2024",
-        "label": "Classic Doffin XML",
-        "id": "Doffin XML",
-        "color": "#7ad151",
-    }, {
-        "min": "2006",
-        "max": "2023",
-        "label": "Classic Doffin HTML",
-        "id": "Classic Doffin HTML",
-        "color": "#22a884",
-    }, {
+    //     "min": "2003",
+    //     "max": "2024",
+    //     "label": "Classic Doffin XML",
+    //     "id": "Doffin XML",
+    //     "color": "#7ad151",
+    // }, {
+    //     "min": "2006",
+    //     "max": "2023",
+    //     "label": "Classic Doffin HTML",
+    //     "id": "Classic Doffin HTML",
+    //     "color": "#22a884",
+    // }, {
         "min": "2017",
         "max": "2024",
         "label": "New Doffin XML",
@@ -48,52 +48,52 @@
         "color": "#440154",
     }];
 
-    const margins = {top: 200, right: 100, bottom: 200, left: 200};
+    const margins = {top: 250, right: 0, bottom: 200, left: 100};
     const context = makeBoxplotContext(items, margins);
     var _transitions = [
         {
             transitionForward: () => hideAll(context),
             index: "onSlideChange"
         },
-        {
-            transitionForward: () => addItem(items[0].id, context),
-            transitionBackward: () => removeItem(items[0].id, context),
-            index: 1
-        },
-        {
-            transitionForward: () => addItem(items[1].id, context),
-            transitionBackward: () => removeItem(items[1].id, context),
-            index: 2
-        },
-        {
-            transitionForward: () => addItem(items[2].id, context),
-            transitionBackward: () => removeItem(items[2].id, context),
-            index: 3
-        },
-        {
-            transitionForward: () => addItem(items[3].id, context),
-            transitionBackward: () => removeItem(items[3].id, context),
-            index: 4
-        },
-        {
-            transitionForward: () => addItem(items[4].id, context),
-            transitionBackward: () => removeItem(items[4].id, context),
-            index: 5
-        },
+        // {
+        //     transitionForward: () => addItem(items[0].id, context),
+        //     transitionBackward: () => removeItem(items[0].id, context),
+        //     index: 1
+        // },
+        // {
+        //     transitionForward: () => addItem(items[1].id, context),
+        //     transitionBackward: () => removeItem(items[1].id, context),
+        //     index: 2
+        // },
+        // {
+        //     transitionForward: () => addItem(items[2].id, context),
+        //     transitionBackward: () => removeItem(items[2].id, context),
+        //     index: 3
+        // },
+        // {
+        //     transitionForward: () => addItem(items[3].id, context),
+        //     transitionBackward: () => removeItem(items[3].id, context),
+        //     index: 4
+        // },
+        // {
+        //     transitionForward: () => addItem(items[4].id, context),
+        //     transitionBackward: () => removeItem(items[4].id, context),
+        //     index: 5
+        // },
         {
             transitionForward: () => showAll(context),
-            transitionBackward: () => removeItem(items[5].id, context),
-            index: 6
+            transitionBackward: () => hideAll(context),
+            index: 0
         },
-        {
-            transitionForward: () => removeItems([items[1].id, items[2].id], context),
-            transitionBackward: () => addItems([items[1].id, items[2].id], context),
-            index: 7
-        },
-        {
-            transitionForward: () => grayOut([items[1].id, items[2].id], context),
-            transitionBackward: () => removeItems([items[1].id, items[2].id], context, true),
-            index: 8
-        },
+        // {
+        //     transitionForward: () => removeItems([items[1].id, items[2].id], context),
+        //     transitionBackward: () => addItems([items[1].id, items[2].id], context),
+        //     index: 7
+        // },
+        // {
+        //     transitionForward: () => grayOut([items[1].id, items[2].id], context),
+        //     transitionBackward: () => removeItems([items[1].id, items[2].id], context, true),
+        //     index: 8
+        // },
     ]
 </script>
