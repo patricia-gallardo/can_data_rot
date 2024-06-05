@@ -194,10 +194,50 @@ function initializeDisplay(context) {
         .data(context.graph.nodes)
         .join("circle")
         .attr("r", 5)
-        .attr("fill", d => color(d.group));
+        .attr("fill", d => color(d.group))
+        .on("mouseenter", mouseEnter)
+        .on("mouseleave", mouseLeave)
 
-    context.node.append("title")
-        .text(d => d.id);
+    const tooltipBackground = context.svg.append("g")
+        .insert("rect", "text")
+        .style("stroke", "black")
+        .style("fill", "white");
+
+    const tooltip = context.svg.append("g")
+        .append("text")
+        .attr("class", "text")
+        .attr("fill", "black")
+        .style('font-size', '30px')
+        .style('font-family', '"Fira Sans", sans-serif')
+        .style('font-weight', '300')
+        .style("pointer-events", "none")
+
+    function mouseEnter(event, d) {
+        let padding = 10
+        tooltip
+            .attr("x", d.x + (padding/2))
+            .attr("y", d.y)
+            .text(d.id)
+
+        let textBoundingBox = tooltip.node().getBBox()
+        tooltipBackground
+            .attr("x", d.x)
+            .attr("y", d.y - textBoundingBox.height)
+            .attr("width", textBoundingBox.width + padding)
+            .attr("height", textBoundingBox.height + padding)
+            .transition()
+            .duration(2)
+            .attr("opacity", 1)
+    }
+
+    function mouseLeave(d) {
+        tooltip
+            .text("")
+        tooltipBackground
+            .transition()
+            .duration(2)
+            .attr("opacity", 0)
+    }
 
     // Add a drag behavior.
     context.node.call(d3.drag()
