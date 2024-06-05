@@ -48,8 +48,15 @@
 
         <section class="fig-container" data-file="d3-fig/fig/nav_winners.html" data-preload
                  style="display: flex; flex-direction: column;">
-            <h2 style="align-self: flex-start">Or like this?</h2>
+<!--            <h2 style="align-self: flex-start">Or like this?</h2>-->
         </section>
+
+<!--        <section style="display: flex; flex-direction: column;">-->
+<!--            <div class="fragment fig-container" data-file="d3-fig/fig/nav_winners.html" data-preload-->
+<!--                 style="width: 1920px; height: 1080px; ">-->
+<!--            <h2>Or like this?</h2>-->
+<!--            </div>-->
+<!--        </section>-->
 
         <section class="fig-container" data-file="d3-fig/fig/nav_winners2.html" data-preload
                  style="display: flex; flex-direction: column;">
@@ -702,12 +709,39 @@
         </section>
 
         <section data-auto-animate style="display: flex; flex-direction: column; justify-content: center;">
-            <h2 data-id="code-title" class="fragment">Extension functions could work, if we have common types</h2>
-            <pre data-id="code-animation" class="fragment">
-                <code class="hljs kotlin" data-trim data-line-numbers="1|1-3">
+            <h3 class="fragment" data-id="code-title">Turns out that during these 13-20 years</h3>
+            <h3 class="fragment" data-id="code-title">there only were a handful of ways to express the ContactPoint of a notice</h3>
+            <h4 class="fragment" data-id="code-title">Over the years some fields were added, some became optional, some became mandatory</h4>
+            <pre class="fragment" data-id="code-animation">
+                <code class="hljs kotlin" data-trim data-line-numbers="|1-8|10-18|20-28">
                     <script type="text/template">
-                        private fun CONTRACT.getFormType(): FormType {
-                            return NoticeFormType.CONTRACT_NOTICE.toFormType()
+                        fun ADDRESSAUTHORITY.contactPoint(): ContactPoint {
+                            return ContactPoint(
+                                name = this.attention?.value,
+                                email = this.email?.value,
+                                telephone = this.phone?.value,
+                                fax = this.fax?.value
+                            )
+                        }
+
+                        fun CONTACTDATA.contactPoint(): ContactPoint {
+                            val email = this.email?.value ?: this.emails?.emails()?.firstOrNull()
+                            return ContactPoint(
+                                name = this.attention?.value,
+                                email = email,
+                                telephone = this.phone?.value,
+                                fax = this.fax?.value
+                            )
+                        }
+
+                        fun CACECONCESSIONAIREPROFILE.contactPoint(): ContactPoint {
+                            val email = this.email?.value ?: this.emails?.emails()?.firstOrNull()
+                            return ContactPoint(
+                                name = this.attention?.value,
+                                email = email,
+                                telephone = this.phone?.value,
+                                fax = this.fax?.value
+                            )
                         }
                     </script>
                 </code>
@@ -715,114 +749,222 @@
         </section>
 
         <section data-auto-animate style="display: flex; flex-direction: column; justify-content: center;">
-            <h2 data-id="code-title">We could write each function once for each common type</h2>
-            <pre data-id="code-animation">
-                <code class="hljs kotlin" data-trim data-line-numbers="|1-3|5-13|11|15-22">
+            <h3 data-id="code-title">Turns out that during these 13-20 years</h3>
+            <h3 data-id="code-title">there only were a handful of ways to express the ContactPoint of a notice</h3>
+            <h4 data-id="code-title">Over the years some fields were added, some became optional, some became mandatory</h4>
+            <pre class="fragment" data-id="code-animation">
+                <code class="hljs xml" data-trim data-line-numbers="|1-11|13-28|30-41">
                     <script type="text/template">
-                        private fun CONTRACT.getFormType(): FormType {
-                            return NoticeFormType.CONTRACT_NOTICE.toFormType()
-                        }
+                        <ADDRESS_AUTHORITY>
+                            <ORGANISATION>Rikstrygdeverket</ORGANISATION>
+                            <ATTENTION>Terje Hanssen( fakturareferanse tha2900)</ATTENTION>
+                            <ADDRESS>Sannergaten 2, Postboks5200 Nydalen</ADDRESS>
+                            <POSTAL_CODE>0426</POSTAL_CODE>
+                            <TOWN>Oslo</TOWN>
+                            <COUNTRY VALUE="NO"/>
+                            <PHONE>22927345</PHONE>
+                            <FAX>22927369</FAX>
+                            <E_MAIL>terje.hanssen@trygdeetaten.no</E_MAIL>
+                        </ADDRESS_AUTHORITY>
 
-                        private fun CONTRACT.getContractType(): ContractType {
-                            val ctype = this.fdcontract.ctype ?: return ContractType(code = "UNKNOWN", label = "UNKNOWN")
-                            return when (ctype) {
-                                "WORKS"    -> ContractType(code = "1", label = "Works")
-                                "SUPPLIES" -> ContractType(code = "2", label = "Supplies")
-                                "SERVICES" -> ContractType(code = "4", label = "Services")
-                                else       -> TODO("Unknown ContractType : $ctype")
-                            }
-                        }
+                        <CONTACT_DATA>
+                            <ORGANISATION>
+                                <OFFICIALNAME>Arbeids- og velferdsdirektoratet</OFFICIALNAME>
+                            </ORGANISATION>
+                            <ADDRESS>Sannergaten 2</ADDRESS>
+                            <TOWN>Oslo</TOWN>
+                            <POSTAL_CODE>0130</POSTAL_CODE>
+                            <COUNTRY VALUE="NO"/>
+                            <CONTACT_POINT>Anskaffelsesseksjonen</CONTACT_POINT>
+                            <ATTENTION>Gunnar Helge Wiik</ATTENTION>
+                            <PHONE>+47 2107000</PHONE>
+                            <E_MAILS>
+                                <E_MAIL>nav.anskaffelser.eis@nav.no</E_MAIL>
+                            </E_MAILS>
+                            <URL>www.nav.no</URL>
+                        </CONTACT_DATA>
 
-                        private fun CONTRACT.getProcedureType(): ProcedureType {
-                            val cproc = this.fdcontract.cproc ?: return ProcedureType(code = "UNKNOWN", label = "UNKNOWN")
-                            return when (cproc) {
-                                "OPEN"       -> ProcedureType(code = "1", label = "Open procedure")
-                                "RESTRICTED" -> ProcedureType(code = "2", label = "Restricted procedure")
-                                else         -> TODO("Unknown ProcedureType : $cproc")
-                            }
-                        }
+                        <CA_CE_CONCESSIONAIRE_PROFILE>
+                            <ORGANISATION>NAV Drift og utvikling</ORGANISATION>
+                            <ADDRESS>Sannergata 2, Postboks 5200 Nydalen</ADDRESS>
+                            <TOWN>OSLO</TOWN>
+                            <POSTAL_CODE>0426</POSTAL_CODE>
+                            <COUNTRY VALUE="NO"/>
+                            <CONTACT_POINT>Anskaffelser og økonomi</CONTACT_POINT>
+                            <ATTENTION>Tone Karlsen</ATTENTION>
+                            <PHONE>21 07 00 00</PHONE>
+                            <E_MAIL>tone.karlsen@nav.no</E_MAIL>
+                            <FAX>21 07 10 00</FAX>
+                        </CA_CE_CONCESSIONAIRE_PROFILE>
                     </script>
                 </code>
             </pre>
         </section>
 
         <section data-auto-animate style="display: flex; flex-direction: column; justify-content: center;">
-            <h2 data-id="code-title">With Animations</h2>
-            <pre data-id="code-animation">
-                <code class="hljs javascript" data-trim data-line-numbers="|4,8-11|17|22-24">
+            <h2 class="fragment" data-id="code-title">I could write extraction code per type that was interesting to me</h2>
+            <h3 class="fragment" data-id="code-title">And reuse it across different forms and versions</h3>
+            <pre class="fragment" data-id="code-animation" class="fragment">
+                <code class="hljs kotlin" data-trim data-line-numbers="1-10|12-16|18-22|24-28|30-34">
                     <script type="text/template">
-                        import React, { useState } from 'react';
-
-                        function Example() {
-                          const [count, setCount] = useState(0);
-
-                          return (
-                            <div>
-                              <p>You clicked {count} times</p>
-                              <button onClick={() => setCount(count + 1)}>
-                                Click me
-                              </button>
-                            </div>
-                          );
+                        fun LOCATIONNUTS.toNutsCodeList(): List<NutsCode> {
+                            return this.nutsList?.map { nuts ->
+                                when (nuts) {
+                                    is no.doffin.classic.common.NUTS   -> nuts.toNutsCode()
+                                    is no.doffin.classic.nuts2016.NUTS -> nuts.toNutsCode()
+                                    is no.doffin.classic.nuts2021.NUTS -> nuts.toNutsCode()
+                                    else                               -> TODO()
+                                }
+                            } ?: listOf()
                         }
 
-                        function SecondExample() {
-                          const [count, setCount] = useState(0);
+                        fun CONTRACT.nutsList(): NutsContext? {
+                            // ...
+                            val codes = description.locationnuts?.toNutsCodeList()
+                            // ...
+                        }
 
-                          return (
-                            <div>
-                              <p>You clicked {count} times</p>
-                              <button onClick={() => setCount(count + 1)}>
-                                Click me
-                              </button>
-                            </div>
-                          );
+                        fun CONTRACTAWARD.nutsList(): NutsContext? {
+                            // ...
+                            val codes = locationNuts?.toNutsCodeList()
+                            // ...
+                        }
+
+                        fun CONTRACTAWARDUTILITIES.nutsList(): NutsContext? {
+                            // ...
+                            val codes = locationnuts?.toNutsCodeList()
+                            // ...
+                        }
+
+                        fun CONTRACTUTILITIES.nutsList(): NutsContext? {
+                            // ...
+                            val codes = description?.locationnuts?.toNutsCodeList()
+                            // ...
                         }
                     </script>
                 </code>
             </pre>
         </section>
 
-        <section style="display: flex; flex-direction: row; flex-wrap: nowrap; justify-content: flex-start">
-            <img src="images/street-art-7885964_1920.jpg" alt=""
-                 style="width: 600px; height: 900px; object-fit: cover; filter: drop-shadow(0 0 0.55rem black);"/>
-            <div style="padding-left: 40px; text-align: left; display: flex; flex-direction: column; justify-content: center;">
-                <h2 class="fragment">Data Driven?</h2>
-                <p class="fragment">To be "data driven" we have to be able to read the data</p>
-                <p class="fragment">Data analysis is always after, it needs to be staffed with devs that have it as their priority</p>
-                <p class="fragment">Otherwise, "now" will always win</p>
-                <p class="fragment">Operational concerns will win, because the needs they serve are here and now and often external</p>
-                <p class="fragment">Data can't be the leftovers at the table once operational concerns are done</p>
-                <p class="fragment">The quality of the data will suffer</p>
-                <p class="fragment">There often isn't an operational feedback loop for data quality - it's somebody else's problem</p>
-                <p class="fragment">To dogfood data you have to make a feedback loop</p>
-                <p class="fragment">Communicate why do we need this data</p>
-            </div>
+        <section style="display: flex; flex-direction: column;">
+            <h3 class="fragment">My extraction code became composable</h3>
+            <h2 class="fragment">My parser became easily extendable</h2>
+            <h3 class="fragment">And I fell in love with Kotlin</h3>
         </section>
 
-        <section style="display: flex; flex-direction: row; flex-wrap: nowrap; justify-content: flex-start">
-            <img src="images/modern-3226522_1920.jpg" alt=""
-                 style="width: 700px; height: 900px; object-fit: cover; filter: drop-shadow(0 0 0.55rem black);"/>
-            <div style="padding-left: 40px; text-align: left; display: flex; flex-direction: column; justify-content: center;">
-                <h2 class="fragment">NullPointerException</h2>
-                <p class="fragment">What happens if central information is stored off the public record?</p>
-                <p class="fragment">What happens when that site is deleted?</p>
-                <p class="fragment">https://kgv.doffin.no/ctm/Supplier/Documents/Folder/</p>
-                <p class="fragment">Additional information: Norsk lysingsblad's reference: 2004-00239.</p>
-                <p class="fragment">5</p>
-                <p class="fragment">6</p>
-                <p class="fragment">7</p>
-                <p class="fragment">8</p>
-            </div>
+        <section data-auto-animate style="display: flex; flex-direction: column; justify-content: center;">
+            <h2 class="fragment" data-id="code-title">It had neat data classes, pragmatic functional programming,</h2>
+            <h3 class="fragment" data-id="code-title">when expressions, optional and "elvis" operators</h3>
+            <h4 class="fragment" data-id="code-title">But for this: it has seamless support for mature libraries originally made for Java</h4>
+            <pre class="fragment" data-id="code-animation" class="fragment">
+                <code class="hljs kotlin" data-trim data-line-numbers="1-5|7-15|17-28|30-38">
+                    <script type="text/template">
+                        // Neat data classes
+                        data class ContractType(
+                            val code: String,
+                            val label: String
+                        )
+
+                        // Practical functional programming
+                        fun cleanNoSpace(input: String?): String? {
+                            if (input == null) return null
+                            return input.split(" ")
+                                .joinToString("")
+                                .split(" ")
+                                .joinToString("")
+                                .trim()
+                        }
+
+                        // When expressions
+                        private fun Attention.attention(): String? {
+                            this.content.map {
+                                when (it) {
+                                    is String  -> return it
+                                    is Txurl   -> return it.value
+                                    is Txemail -> return it.value
+                                    else       -> TODO()
+                                }
+                            }
+                            return null
+                        }
+
+                        // Mature (sometimes old) libraries for everything: XML/HTML parsing, email parsing
+                        // But so much less verbose than Java
+                        // So much more eloquent
+                        fun readNoticeFromStream(noticeID: String, inputStreamReader: InputStreamReader): HtmlNotice {
+                            val html = BufferedReader(inputStreamReader).lines()
+                                .collect(Collectors.joining("\n"))
+                            val doc = Jsoup.parse(html)
+                            return HtmlNotice(noticeID, doc)
+                        }
+                    </script>
+                </code>
+            </pre>
         </section>
 
         <section style="display: flex; flex-direction: column;">
-            <h2 class="fragment">Remote Team Ambassador</h2>
+            <h3 class="fragment">I wrote so much code</h3>
+            <h2 class="fragment">So much of it bad</h2>
+            <h3 class="fragment">Some of it even here on slides</h3>
+            <h3 class="fragment">I haven't had this fun programming in years</h3>
         </section>
 
         <section style="display: flex; flex-direction: column;">
-            <h2 class="fragment">Have a Data person in all operational teams</h2>
+            <h2 class="fragment">What did I learn though?</h2>
+            <h3 class="fragment">Data and Dev are siloed</h3>
+            <h3 class="fragment">Unless that wall is broken, "Data Driven" is a joke</h3>
+            <h3 class="fragment">History makes so much more sense in chronological order</h3>
+            <h3 class="fragment">Data that you can't analyse, does it even exist?</h3>
+            <h3 class="fragment">If Devs don't dogfood data, data quality will suffer</h3>
         </section>
+
+        <section style="display: flex; flex-direction: column;">
+            <h3 class="fragment">So how can we do Dev/Data?</h3>
+            <h2 class="fragment">Have Data people in operational Dev teams</h2>
+            <h3 class="fragment">Remote team ambassadors</h3>
+            <h3 class="fragment">Dogfood: Use historical Data in the product</h3>
+        </section>
+
+<!--        <section style="display: flex; flex-direction: row; flex-wrap: nowrap; justify-content: flex-start">-->
+<!--            <img src="images/street-art-7885964_1920.jpg" alt=""-->
+<!--                 style="width: 600px; height: 900px; object-fit: cover; filter: drop-shadow(0 0 0.55rem black);"/>-->
+<!--            <div style="padding-left: 40px; text-align: left; display: flex; flex-direction: column; justify-content: center;">-->
+<!--                <h2 class="fragment">Data Driven?</h2>-->
+<!--                <p class="fragment">To be "data driven" we have to be able to read the data</p>-->
+<!--                <p class="fragment">Data analysis is always after, it needs to be staffed with devs that have it as their priority</p>-->
+<!--                <p class="fragment">Otherwise, "now" will always win</p>-->
+<!--                <p class="fragment">Operational concerns will win, because the needs they serve are here and now and often external</p>-->
+<!--                <p class="fragment">Data can't be the leftovers at the table once operational concerns are done</p>-->
+<!--                <p class="fragment">The quality of the data will suffer</p>-->
+<!--                <p class="fragment">There often isn't an operational feedback loop for data quality - it's somebody else's problem</p>-->
+<!--                <p class="fragment">To dogfood data you have to make a feedback loop</p>-->
+<!--                <p class="fragment">Communicate why do we need this data</p>-->
+<!--            </div>-->
+<!--        </section>-->
+
+<!--        <section style="display: flex; flex-direction: row; flex-wrap: nowrap; justify-content: flex-start">-->
+<!--            <img src="images/modern-3226522_1920.jpg" alt=""-->
+<!--                 style="width: 700px; height: 900px; object-fit: cover; filter: drop-shadow(0 0 0.55rem black);"/>-->
+<!--            <div style="padding-left: 40px; text-align: left; display: flex; flex-direction: column; justify-content: center;">-->
+<!--                <h2 class="fragment">NullPointerException</h2>-->
+<!--                <p class="fragment">What happens if central information is stored off the public record?</p>-->
+<!--                <p class="fragment">What happens when that site is deleted?</p>-->
+<!--                <p class="fragment">https://kgv.doffin.no/ctm/Supplier/Documents/Folder/</p>-->
+<!--                <p class="fragment">Additional information: Norsk lysingsblad's reference: 2004-00239.</p>-->
+<!--                <p class="fragment">5</p>-->
+<!--                <p class="fragment">6</p>-->
+<!--                <p class="fragment">7</p>-->
+<!--                <p class="fragment">8</p>-->
+<!--            </div>-->
+<!--        </section>-->
+
+<!--        <section style="display: flex; flex-direction: column;">-->
+<!--            <h2 class="fragment">Remote Team Ambassador</h2>-->
+<!--        </section>-->
+
+<!--        <section style="display: flex; flex-direction: column;">-->
+<!--            <h2 class="fragment">Have a Data person in all operational teams</h2>-->
+<!--        </section>-->
 
         <section>
             <header style="text-align: left;">
