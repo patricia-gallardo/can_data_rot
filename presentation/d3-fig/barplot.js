@@ -207,8 +207,7 @@ function gray(col)
 function sizeOfDomain(xDomain) {
     let last = xDomain[xDomain.length - 1];
     let first = xDomain[0];
-    let sizeOfDomain = last - first;
-    return sizeOfDomain;
+    return last - first;
 }
 
 function getColumnWidth(context) {
