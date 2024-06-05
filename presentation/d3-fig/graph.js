@@ -106,7 +106,7 @@ function initializeSimulation(context) {
 
     // Set the position attributes of links and nodes each time the simulation ticks.
     function ticked() {
-        console.log("Tick2")
+        // console.log("Tick2")
         context.link
             .attr("x1", d => d.source.x)
             .attr("y1", d => d.source.y)
