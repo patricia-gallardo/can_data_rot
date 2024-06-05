@@ -2,7 +2,7 @@ document.body.style.overflow = 'hidden';
 
 function makeGraphContext(_graph) {
     // Set the dimensions and margins of the diagram
-    const margin = {top: 0, right: 90, bottom: 0, left: 90};
+    const margin = {top: 0, right: 0, bottom: 0, left: 0};
     const width = window.innerWidth - margin.left - margin.right;
     const height = window.innerHeight - margin.top - margin.bottom;
 
