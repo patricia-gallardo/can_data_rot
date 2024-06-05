@@ -188,13 +188,13 @@ function initializeDisplay(context) {
         .attr("stroke-width", d => Math.sqrt(d.value));
 
     context.node = context.svg.append("g")
-        .attr("stroke", "#fff")
+        .attr("stroke", "#000")
         .attr("stroke-width", 1.5)
         .selectAll()
         .data(context.graph.nodes)
         .join("circle")
         .attr("r", 5)
-        .attr("fill", d => color(d.group))
+        .attr("fill", d => d.color ? d.color : color(d.group))
         .on("mouseenter", mouseEnter)
         .on("mouseleave", mouseLeave)
 
@@ -215,13 +215,13 @@ function initializeDisplay(context) {
     function mouseEnter(event, d) {
         let padding = 10
         tooltip
-            .attr("x", d.x + (padding/2))
+            .attr("x", d.x + padding)
             .attr("y", d.y)
             .text(d.id)
 
         let textBoundingBox = tooltip.node().getBBox()
         tooltipBackground
-            .attr("x", d.x)
+            .attr("x", d.x + (padding/2))
             .attr("y", d.y - textBoundingBox.height)
             .attr("width", textBoundingBox.width + padding)
             .attr("height", textBoundingBox.height + padding)
@@ -231,12 +231,7 @@ function initializeDisplay(context) {
     }
 
     function mouseLeave(d) {
-        tooltip
-            .text("")
-        tooltipBackground
-            .transition()
-            .duration(2)
-            .attr("opacity", 0)
+        // TODO?
     }
 
     // Add a drag behavior.
@@ -247,6 +242,7 @@ function initializeDisplay(context) {
 
     // Reheat the simulation when drag starts, and fix the subject position.
     function dragstarted(event) {
+        console.log("Drag Start")
         if (!event.active) context.simulation.alphaTarget(0.3).restart();
         event.subject.fx = event.subject.x;
         event.subject.fy = event.subject.y;
@@ -261,6 +257,7 @@ function initializeDisplay(context) {
     // Restore the target alpha so the simulation cools after dragging ends.
     // Unfix the subject position now that it’s no longer being dragged.
     function dragended(event) {
+        console.log("Drag Stopped")
         if (!event.active) context.simulation.alphaTarget(0);
         event.subject.fx = null;
         event.subject.fy = null;
