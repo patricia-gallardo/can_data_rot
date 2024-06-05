@@ -30,11 +30,12 @@
         "label": "Classic Doffin HTML",
         "id": "Classic Doffin HTML",
         "color": "#22a884",
-        "name": "Classic Doffin was static html"
+        "name": "Classic Doffin was static html and easy to scrape"
     }];
 
-    const margins = {top: 70, right: 0, bottom: 70, left: 200};
-    const context = makeBoxplotContext(items, margins);
+    const margins = {top: 70, right: 0, bottom: 70, left: 0};
+    const paddings = {top: 0, right: 0, bottom: 0, left: 400};
+    const context = makeBoxplotContext(items, margins, paddings);
     var _transitions = [
         {
             transitionForward: () => hideAll(context),

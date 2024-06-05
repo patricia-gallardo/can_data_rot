@@ -23,7 +23,7 @@
             <header style="text-align: left;">
                 <h1 class="fragment">Can Data Rot?</h1>
                 <h2 class="fragment">Forgetting History</h2>
-                <h3 class="fragment">Patricia Aas</h3>
+                <h3 class="fragment">Patricia Aas, TurtleSec AS</h3>
                 <h3 class="fragment">NAV 2024</h3>
             </header>
         </section>
@@ -72,29 +72,62 @@
             <img src="images/graffiti-8671035_1280.jpg" alt=""
                  style="width: 700px; height: 900px; object-fit: cover; filter: drop-shadow(0 0 0.55rem black);"/>
             <div style="padding-left: 40px; text-align: left; display: flex; flex-direction: column; justify-content: center;">
-<!--                <h2 class="fragment">Background</h2>-->
-                <p class="fragment">Last year the consultancy market dried up</p>
-                <p class="fragment">TurtleSec is a small consultancy</p>
-                <p class="fragment">To try to understand and navigate the public procurement market</p>
-                <p class="fragment">I wrote some terrible JavaScript and Python</p>
+                <h2 class="fragment">Background</h2>
+                <p class="fragment">Last year the IT consultancy market dried up</p>
+                <p class="fragment">TurtleSec is a small IT consultancy</p>
+                <p class="fragment">I needed to find folks assignments</p>
+                <p class="fragment">I needed to understand Norwegian public procurement</p>
+            </div>
+        </section>
+
+        <section style="display: flex; flex-direction: row; flex-wrap: nowrap; justify-content: flex-start">
+            <img src="images/graffiti-3654806_640.jpg" alt=""
+                 style="width: 700px; height: 900px; object-fit: cover; filter: drop-shadow(0 0 0.55rem black);"/>
+            <div style="padding-left: 40px; text-align: left; display: flex; flex-direction: column; justify-content: center;">
+                <h2 class="fragment">Where can you find public tenders?</h2>
+                <h2 class="fragment">doffin.no</h2>
+                <h2 class="fragment">ted.europa.eu</h2>
+            </div>
+        </section>
+
+        <section style="display: flex; flex-direction: row; flex-wrap: nowrap; justify-content: flex-start">
+            <img src="images/graffiti-7010116_1920.jpg" alt=""
+                 style="width: 700px; height: 900px; object-fit: cover; filter: drop-shadow(0 0 0.55rem black);"/>
+            <div style="padding-left: 40px; text-align: left; display: flex; flex-direction: column; justify-content: center;">
+                <h3 class="fragment">I started manually going through Doffin</h3>
+                <h3 class="fragment">I'm a programmer, though</h3>
+                <h2 class="fragment">DFØ has open data as CSVs</h2>
+                <h3 class="fragment">But it's buggy, and lagging behind</h3>
             </div>
         </section>
 
         <section style="display: flex; flex-direction: column;">
-            <h3 class="fragment">For that I needed data</h3>
-            <h2 class="fragment">Luckily DFØ has open data as CSVs</h2>
-            <h3 class="fragment">But only for 2018-2022</h3>
-            <h3 class="fragment">It also has mistakes in it</h3>
-            <h3 class="fragment">And missing data</h3>
-            <!-- https://dfo.no/nokkeltall-og-statistikk/innkjop-i-offentlig-sektor/kunngjoringer-av-konkurranse-pa-doffin#anchorTOC_Last_ned_datasettene_for_de_ulike_%C3%A5rene%3A_8 -->
+            <h2 class="fragment">I wrote some terrible JavaScript and Python</h2>
+            <h3 class="fragment">Before long I was scraping the Doffin website with Python and Beautiful Soup</h3>
+            <h3 class="fragment">And running batch jobs using Google Apps Scrips</h3>
+
+<!--            <h3 class="fragment">For that I needed data</h3>-->
+<!--            <h2 class="fragment">Norwegian public tenders have to be published on Doffin</h2>-->
+<!--            <h3 class="fragment">Many of these also have to be published on the EU version: TED</h3>-->
+<!--            <h3 class="fragment">I started manually going through Doffin</h3>-->
+<!--            <h3 class="fragment">I'm a programmer, though</h3>-->
         </section>
+
+<!--        <section style="display: flex; flex-direction: column;">-->
+<!--            <h3 class="fragment">But I needed data</h3>-->
+<!--            <h2 class="fragment">Luckily DFØ has open data as CSVs</h2>-->
+<!--            <h3 class="fragment">But only for 2018-2022</h3>-->
+<!--            <h3 class="fragment">It also has mistakes in it</h3>-->
+<!--            <h3 class="fragment">And missing data</h3>-->
+<!--            &lt;!&ndash; https://dfo.no/nokkeltall-og-statistikk/innkjop-i-offentlig-sektor/kunngjoringer-av-konkurranse-pa-doffin#anchorTOC_Last_ned_datasettene_for_de_ulike_%C3%A5rene%3A_8 &ndash;&gt;-->
+<!--        </section>-->
 
         <section style="display: flex; flex-direction: column;">
             <h2>Hoarding Data Part I</h2>
-            <h3 class="fragment">The mysteriously absent CSV data for 2023</h3>
-            <h4 class="fragment">Scraping Classic Doffin with Python and Google Apps Scripts</h4>
+            <h3 class="fragment">I started scraping since I needed things from 2017</h3>
+<!--            <h4 class="fragment">Scraping the Classic Doffin website with Python and Google Apps Scripts</h4>-->
             <div class="fragment fig-container" data-file="d3-fig/fig/data_hoarding.html" data-preload
-                 style="width: 1920px; height: 400px; "></div>
+                 style="width: 1920px; height: 500px; "></div>
         </section>
 
         <section style="display: flex; flex-direction: column;">
@@ -108,9 +141,9 @@
             <img src="images/graffiti-8671035_1280.jpg" alt=""
                  style="width: 700px; height: 900px; object-fit: cover; filter: drop-shadow(0 0 0.55rem black);"/>
             <div style="padding-left: 40px; text-align: left; display: flex; flex-direction: column; justify-content: center;">
-                <p class="fragment">Then a few of us were between assignments</p>
-                <p class="fragment">So we decided to make a better version of my terrible scripts</p>
-                <p class="fragment">This time in Kotlin and React on Kubernetes</p>
+                <h3 class="fragment">Then a few of us were between assignments</h3>
+                <h3 class="fragment">So we made a better version of my scripts</h3>
+                <h3 class="fragment">This time in Kotlin and React on Kubernetes</h3>
             </div>
         </section>
 
@@ -119,25 +152,26 @@
             <h3 class="fragment">Scraping HTML felt so unprofessional</h3>
             <h4 class="fragment">Enter TED and it's ftp server</h4>
             <div class="fragment fig-container" data-file="d3-fig/fig/data_hoarding2.html" data-preload
-                 style="width: 1920px; height: 400px; "></div>
+                 style="width: 1920px; height: 500px; "></div>
         </section>
 
         <section style="display: flex; flex-direction: column;">
             <h3 class="fragment">The TED XML archives are written to each month</h3>
-            <h3 class="fragment">The XMLs inside are the ones processed at that time</h3>
+            <h3 class="fragment">The XMLs inside are stored at that time</h3>
             <h3 class="fragment">From April 2012 until the fall 2023</h3>
             <h3 class="fragment">they were of the type TED_EXPORT</h3>
             <h2 class="fragment">Two major versions: R2.0.9.X and R2.0.8.X</h2>
             <h3 class="fragment">and a whole slew of minor versions</h3>
             <h3 class="fragment">I found XML schemas for 4 minor versions of R2.0.8</h3>
             <h3 class="fragment">and 7 minor versions of R2.0.9</h3>
-            <h3 class="fragment">and for the new hotness: eForms</h3>
+            <h2 class="fragment">and for the new hotness: eForms</h2>
         </section>
 
         <section style="display: flex; flex-direction: column; justify-content: center;">
             <h3>I used JAXB to generate parsing code in Java from the XML schemas</h3>
             <div class="fragment fig-container" data-file="d3-fig/fig/attempt1.html" data-preload style="width: 1920px; height: 200px; "></div>
-            <h2 class="fragment">It was terrible</h2>
+            <h2 class="fragment">JAXB was fine</h2>
+            <h2 class="fragment">But the resulting code on my end was terrible</h2>
             <h3 class="fragment">The generated types and XMLs were very similar within each major version</h3>
             <h2 class="fragment">But subtly different</h2>
             <h3 class="fragment">I couldn't reuse code</h3>
@@ -149,7 +183,7 @@
             <h3>R2.0.9.X and R2.0.8.X were underwhelming</h3>
             <div class="fragment fig-container" data-file="d3-fig/fig/attempt1.html" data-preload style="width: 1920px; height: 200px; "></div>
             <h2 class="fragment">But eForms was pretty good</h2>
-            <h3 class="fragment">Based on the XML schemas standardized in UBL 2.3</h3>
+            <h3 class="fragment">Based on XML schemas standardized in UBL 2.3</h3>
             <h4 class="fragment">Universal Business Language Version 2.3</h4>
             <h2 class="fragment">Solid good types for most things</h2>
             <h4 class="fragment">It would turn out that the worst parts of eForms</h4>
@@ -158,6 +192,7 @@
         </section>
 
         <section style="display: flex; flex-direction: column;">
+            <h2 class="fragment">TED was not enough</h2>
             <h3 class="fragment">I didn't have a link from the TED notice to the Doffin notice</h3>
             <h3 class="fragment">But a link to TED was often present on the Classic Doffin webpage for the notice</h3>
             <h2 class="fragment">So I started trying to scrape the Classic Doffin website again</h2>
@@ -165,11 +200,17 @@
             <h3 class="fragment">instead of Python and Beautiful Soup</h3>
         </section>
 
+        <section data-background-transition="fade-in fade-out" data-background="images/graffiti-1282291_1920.jpg"
+                 style="display: flex; flex-direction: row;">
+            <div class="col-50" style="background-color: white; padding: 20px; filter: drop-shadow(0 0 0.55rem black);">
+                <h3 class="fragment">I had forgotten how slow the site was</h3>
+                <h3 class="fragment">Parsing the page took no time at all</h3>
+                <h3 class="fragment">Loading the page took forever</h3>
+            </div>
+        </section>
+
         <section style="display: flex; flex-direction: column;">
-            <h3 class="fragment">I had apparently repressed how slow the site was</h3>
-            <h3 class="fragment">Parsing the page took no time at all</h3>
-            <h3 class="fragment">Loading the page took forever</h3>
-            <h3 class="fragment">I decided to download the static HTML and parse it locally</h3>
+            <h2 class="fragment">I decided to download the static HTML and parse it locally</h2>
         </section>
 
         <section style="display: flex; flex-direction: column;">
@@ -182,14 +223,26 @@
             <h3 class="fragment">I saw it because it broke my scraping logic</h3>
         </section>
 
-        <section style="display: flex; flex-direction: column;">
-            <h2 class="fragment">"Gammel versjon.</h2>
-            <h3 class="fragment">Kunngjøringsformatet er gammelt</h3>
-            <h3 class="fragment">og et fullt visningprogram er ikke støttet av Doffin.</h3>
-            <h3 class="fragment">Du kan få data ved å laste ned kunngjøringen i råformat; xml</h3>
-            <h3 class="fragment">Last ned xml for [DOFFIN_ID]"</h3>
-            <h2 class="fragment">AND IT HAD A LINK</h2>
+        <section data-background-transition="fade-in fade-out" data-background="images/mural-7111292_1920.jpg"
+                 style="display: flex; flex-direction: row; justify-content: center;">
+            <div style="align-self: center; background-color: #8cd3ffbb; padding: 20px; filter: drop-shadow(0 0 0.55rem black);">
+                <h2 class="fragment">"Gammel versjon.</h2>
+                <h3 class="fragment">Kunngjøringsformatet er gammelt</h3>
+                <h3 class="fragment">og et fullt visningprogram er ikke støttet av Doffin.</h3>
+                <h3 class="fragment">Du kan få data ved å laste ned kunngjøringen i råformat; xml</h3>
+                <h3 class="fragment">Last ned xml for [DOFFIN_ID]"</h3>
+                <h2 class="fragment">AND IT HAD A LINK</h2>
+            </div>
         </section>
+
+<!--        <section style="display: flex; flex-direction: column;">-->
+<!--            <h2 class="fragment">"Gammel versjon.</h2>-->
+<!--            <h3 class="fragment">Kunngjøringsformatet er gammelt</h3>-->
+<!--            <h3 class="fragment">og et fullt visningprogram er ikke støttet av Doffin.</h3>-->
+<!--            <h3 class="fragment">Du kan få data ved å laste ned kunngjøringen i råformat; xml</h3>-->
+<!--            <h3 class="fragment">Last ned xml for [DOFFIN_ID]"</h3>-->
+<!--            <h2 class="fragment">AND IT HAD A LINK</h2>-->
+<!--        </section>-->
 
         <section style="display: flex; flex-direction: column;">
             <h3 class="fragment">Wait, what?</h3>
@@ -230,16 +283,6 @@
         </section>
 
         <section style="display: flex; flex-direction: column; justify-content: center;">
-            <h2>Remember these?</h2>
-            <div class="fragment fig-container" data-file="d3-fig/fig/frame_list.html" data-preload style="width: 1920px; height: 150px; "></div>
-            <h3 class="fragment">Well, as New Doffin ramped up.</h3>
-            <h3 class="fragment">Classic Doffin very suddenly shut itself off.</h3>
-            <h4 class="fragment">I thought for a while I might've crashed it...</h4>
-            <h4 class="fragment">The colors above indicate where you can/could see these on different versions of Doffin</h4>
-            <h4 class="fragment">&#128993; Norsk Lysingsblad &#128308; Old Doffin &#x1F7E0; Classic Doffin &#128994; New Doffin but buggy &#128309; New Doffin</h4>
-        </section>
-
-        <section style="display: flex; flex-direction: column; justify-content: center;">
             <h2>Also what was up with the graphs?</h2>
             <h4 class="fragment">We'll get back to that</h4>
             <div style="display: flex; flex-direction: row; justify-content: center;">
@@ -250,6 +293,16 @@
                     <div class="fig-container" data-file="d3-fig/fig/nav_winners2.html"></div>
                 </div>
             </div>
+        </section>
+
+        <section style="display: flex; flex-direction: column; justify-content: center;">
+            <h2>Remember these?</h2>
+            <div class="fragment fig-container" data-file="d3-fig/fig/frame_list.html" data-preload style="width: 1920px; height: 150px; "></div>
+            <h3 class="fragment">Well, as New Doffin ramped up.</h3>
+            <h3 class="fragment">Classic Doffin (the old site) very suddenly shut itself off.</h3>
+            <h4 class="fragment">I thought for a while I might've crashed it...</h4>
+            <h4 class="fragment">The colors above indicate where you can/could see these on different versions of Doffin</h4>
+            <h4 class="fragment">&#128993; Norsk Lysingsblad &#128308; Old Doffin &#x1F7E0; Classic Doffin &#128994; New Doffin but buggy &#128309; New Doffin</h4>
         </section>
 
         <section style="display: flex; flex-direction: column; justify-content: center; text-align: left">
