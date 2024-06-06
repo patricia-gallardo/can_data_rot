@@ -1,6 +1,6 @@
 document.body.style.overflow = 'hidden';
 
-function makeGraphContext(_graph) {
+function makeGraphContext(_graph, darkmode) {
     // Set the dimensions and margins of the diagram
     const margin = {top: 0, right: 0, bottom: 0, left: 0};
     const width = window.innerWidth - margin.left - margin.right;
@@ -64,6 +64,7 @@ function makeGraphContext(_graph) {
         margin: margin,
         width: width,
         height: height,
+        darkmode: !!darkmode
         // // svg objects
         // link: {},
         // node: {}
@@ -180,23 +181,23 @@ function initializeDisplay(context) {
 
     // Add a line for each link, and a circle for each node.
     context.link = context.svg.append("g")
-        .attr("stroke", "#999")
-        .attr("stroke-opacity", 0.6)
+        .attr("stroke", context.darkmode ? "#FFF" : "#999")
+        .attr("stroke-opacity", context.darkmode ? 2 : 0.6)
         .selectAll()
         .data(context.graph.links)
         .join("line")
         .attr("stroke-width", d => Math.sqrt(d.value));
 
     context.node = context.svg.append("g")
-        .attr("stroke", "#000")
-        .attr("stroke-width", 1.5)
+        .attr("stroke", context.darkmode ? "#FFF" : "#000")
+        .attr("stroke-width", context.darkmode ? 2 : 1.5)
         .selectAll()
         .data(context.graph.nodes)
         .join("circle")
         .attr("r", 5)
         .attr("fill", d => d.color ? d.color : color(d.group))
-        .on("mouseenter", mouseEnter)
-        .on("mouseleave", mouseLeave)
+        .on("mouseover", mouseover)
+        .on("mouseout", mouseout);
 
     const tooltipBackground = context.svg.append("g")
         .insert("rect", "text")
@@ -212,7 +213,7 @@ function initializeDisplay(context) {
         .style('font-weight', '300')
         .style("pointer-events", "none")
 
-    function mouseEnter(event, d) {
+    function showTooltip(d) {
         let padding = 10
         tooltip
             .attr("x", d.x + padding)
@@ -221,37 +222,51 @@ function initializeDisplay(context) {
 
         let textBoundingBox = tooltip.node().getBBox()
         tooltipBackground
-            .attr("x", d.x + (padding/2))
+            .attr("opacity", 1)
+            .attr("x", d.x + (padding / 2))
             .attr("y", d.y - textBoundingBox.height)
             .attr("width", textBoundingBox.width + padding)
             .attr("height", textBoundingBox.height + padding)
-            .transition()
-            .duration(2)
-            .attr("opacity", 1)
+    }
+    function hideTooltip() {
+        console.log("hideTooltip")
+        let padding = 10
+        tooltip
+            .text("")
+        tooltipBackground
+            .attr("opacity", 0)
     }
 
-    function mouseLeave(d) {
-        // TODO?
+    function mouseover(event, d) {
+        showTooltip(d)
+    }
+
+    function mouseout(event, d) {
+        console.log("mouseout")
+        hideTooltip()
     }
 
     // Add a drag behavior.
-    context.node.call(d3.drag()
+    context.node
+        .call(d3.drag()
         .on("start", dragstarted)
         .on("drag", dragged)
         .on("end", dragended));
 
     // Reheat the simulation when drag starts, and fix the subject position.
     function dragstarted(event) {
-        console.log("Drag Start")
+        console.log("Drag Start " + JSON.stringify(event.subject))
         if (!event.active) context.simulation.alphaTarget(0.3).restart();
         event.subject.fx = event.subject.x;
         event.subject.fy = event.subject.y;
+        showTooltip(event.subject)
     }
 
     // Update the subject (dragged node) position during drag.
     function dragged(event) {
         event.subject.fx = event.x;
         event.subject.fy = event.y;
+        showTooltip(event.subject)
     }
 
     // Restore the target alpha so the simulation cools after dragging ends.
@@ -261,6 +276,7 @@ function initializeDisplay(context) {
         if (!event.active) context.simulation.alphaTarget(0);
         event.subject.fx = null;
         event.subject.fy = null;
+        hideTooltip(event.subject)
     }
 
     // visualize the graph
