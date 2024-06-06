@@ -1,0 +1,9 @@
+{
+  "nodes": [
+    {"name": "NAV", "id": "NAV", "group": 0, "color":  "#FF00FF"},
+    {"name": "2024-100693 (eForms)", "id": "2024-100693", "group": 1, "NOK": 4600000000, "color":  "#1f77b4"}
+  ],
+  "links": [
+    {"source": "NAV", "target": "2024-100693", "value": 10}
+  ]
+}

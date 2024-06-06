@@ -177,7 +177,7 @@ function initializeDisplay(context) {
     console.log("[initializeDisplay]")
 
     // Specify the color scale.
-    const color = d3.scaleOrdinal(d3.schemeCategory10);
+    // const color = d3.scaleOrdinal(d3.schemeCategory20);
 
     // Add a line for each link, and a circle for each node.
     context.link = context.svg.append("g")
@@ -195,7 +195,7 @@ function initializeDisplay(context) {
         .data(context.graph.nodes)
         .join("circle")
         .attr("r", 5)
-        .attr("fill", d => d.color ? d.color : color(d.group))
+        .attr("fill", d => d.color ? d.color : "lightgray")
         .on("mouseover", mouseover)
         .on("mouseout", mouseout);
 
@@ -218,7 +218,7 @@ function initializeDisplay(context) {
         tooltip
             .attr("x", d.x + padding)
             .attr("y", d.y)
-            .text(d.id)
+            .text(d.name ? d.name : d.id)
 
         let textBoundingBox = tooltip.node().getBBox()
         tooltipBackground
