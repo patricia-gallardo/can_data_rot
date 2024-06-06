@@ -48,7 +48,7 @@
 
         <section class="fig-container" data-file="d3-fig/fig/nav_winners.html" data-preload
                  style="display: flex; flex-direction: column;">
-<!--            <h2 style="align-self: flex-start">Or like this?</h2>-->
+            <h2 style="align-self: flex-start">Or like this?</h2>
         </section>
 
 <!--        <section style="display: flex; flex-direction: column;">-->
@@ -112,6 +112,7 @@
             <h3 class="fragment">Before long I was scraping the Doffin website with Python and Beautiful Soup</h3>
             <h3 class="fragment">And running batch jobs using Google Apps Scrips</h3>
             <h2 class="fragment">I wrote some terrible JavaScript and Python</h2>
+            <h3 class="fragment">It worked surprisingly well</h3>
 
 <!--            <h3 class="fragment">For that I needed data</h3>-->
 <!--            <h2 class="fragment">Norwegian public tenders have to be published on Doffin</h2>-->
@@ -138,7 +139,7 @@
         </section>
 
         <section style="display: flex; flex-direction: column;">
-            <h3 class="fragment">But Classic Doffin is so slow</h3>
+            <h3 class="fragment">But Classic Doffin was so slow</h3>
             <h3 class="fragment">Loading 1 procurement notice could easily take 20-30 seconds</h3>
             <h3 class="fragment">A single year has 10.000-20.000 for Norway</h3>
             <h3 class="fragment">Scraping a year often took a week</h3>
@@ -178,7 +179,7 @@
             <h3>I used JAXB to generate parsing code in Java from the XML schemas</h3>
             <div class="fragment fig-container" data-file="d3-fig/fig/attempt1.html" data-preload style="width: 1920px; height: 200px; "></div>
             <h2 class="fragment">JAXB was fine</h2>
-            <h2 class="fragment">But the resulting code on my end was terrible</h2>
+            <h3 class="fragment">But the resulting code on my end was terrible</h3>
             <h3 class="fragment">The generated types and XMLs were very similar within each major version</h3>
             <h2 class="fragment">But subtly different</h2>
             <h3 class="fragment">I couldn't reuse code</h3>
@@ -223,8 +224,9 @@
         <section style="display: flex; flex-direction: column;">
             <h3 class="fragment">Remember the hoarding problem?</h3>
             <h2 class="fragment">I suddenly felt the need to have All Of Them</h2>
-            <h3 class="fragment">I had jobs that went through all possible Doffin IDs and downloaded the HTML</h3>
-            <h2 class="fragment">Turned out the Classic Doffin wesite had notices going back to 2003</h2>
+            <h3 class="fragment">Before you knew it I had jobs that went through all possible Doffin IDs</h3>
+            <h3 class="fragment">and downloaded the HTMLs for Everything</h3>
+            <h3 class="fragment">Turned out the Classic Doffin wesite had notices going back to 2003</h3>
             <h3 class="fragment">But from around 2011</h3>
             <h2 class="fragment">the HTML sometimes contained an error message</h2>
             <h3 class="fragment">I saw it because it broke my scraping logic</h3>
@@ -254,6 +256,7 @@
         <section style="display: flex; flex-direction: column;">
             <h3 class="fragment">Wait, what?</h3>
             <h2 class="fragment">Doffin has XML too???</h2>
+            <h3 class="fragment">I went through every single Doffin ID and tried to get the corresponding XML</h3>
         </section>
 
         <section style="display: flex; flex-direction: column;">
@@ -344,13 +347,8 @@
         </section>
 
         <section style="display: flex; flex-direction: column;">
-            <h2 class="fragment">Does it matter?</h2>
-            <h2 class="fragment">What do we want history for?</h2>
-        </section>
-
-        <section style="display: flex; flex-direction: column;">
             <h2 class="fragment">Why have public procurements anyway?</h2>
-            <h3 class="fragment">Competition to keep public costs down and have a fair market</h3>
+            <h3 class="fragment">Competition to keep public costs down, and have a fair market</h3>
             <h3 class="fragment">To prevent corruption, through a transparent process</h3>
         </section>
 
@@ -365,7 +363,7 @@
 
         <section style="display: flex; flex-direction: column;">
 <!--            <h2 class="fragment">The Unibuss Corruption Scandal</h2>-->
-            <h4 class="fragment">In 2014 6 people were sentenced to between 6 months and 5.5 years in prison for corruption</h4>
+            <h4 class="fragment">In 2014, 6 people were sentenced to between 6 months and 5.5 years in prison for corruption</h4>
             <h4 class="fragment">The corruption spanned more than a decade</h4>
 <!--            <h4 class="fragment">The board and leadership had been warned about the practice since the late nineties</h4>-->
 <!--            <h4 class="fragment">The employee representative to the board was later joined by others in warning about the practice</h4>-->
@@ -546,10 +544,11 @@
 
         <section style="display: flex; flex-direction: column;">
             <h2 class="fragment">Maybe we could use XSLT?</h2>
-            <h2 class="fragment">To transform the XMLs to a common format?</h2>
-            <h3 class="fragment">Firstly, I am bad at XSLT, also kids today have never even heard of it</h3>
+            <h2 class="fragment">Transform the XMLs to a common format?</h2>
+            <h3 class="fragment">Firstly, I'm bad at XSLT</h3>
+            <h4 class="fragment">also kids today have never even heard of it</h4>
             <h3 class="fragment">TED has an attempt going for R2.0.9 to eForms</h3>
-            <h3 class="fragment">It's in development, and it's a whole project, for just 1 transformation</h3>
+            <h3 class="fragment">It's in development, it's a whole project and that's just for 1 transformation</h3>
             <h3 class="fragment">Also, it can't ever fully work</h3>
             <h3 class="fragment">the semantics and fields are very different between R2.0.9 and eForms</h3>
             <h3 class="fragment">I think this is what Doffin is using for R2.0.9</h3>
@@ -558,9 +557,9 @@
 
         <section style="display: flex; flex-direction: column;">
             <h2>Why does it matter that you only support the past 7 years?</h2>
-            <p class="fragment">First of all it isn't 7 years of support</p>
-            <h3 class="fragment">R.2.0.8 isn't supported</h3>
-            <p class="fragment">It was used by the defense sector all the way to 2023</p>
+            <h3 class="fragment">First of all, it isn't 7 years of support</h3>
+            <h2 class="fragment">R.2.0.8 isn't supported</h2>
+            <h3 class="fragment">It was used by the defense sector all the way to 2023</h3>
             <h2 class="fragment">So all defense procurements are gone</h2>
             <h3 class="fragment">Secondly...</h3>
         </section>
@@ -679,6 +678,7 @@
             <h2 class="fragment">So how do I parse XML I have no schemas for?</h2>
             <h3 class="fragment">I decided to make my own schema</h3>
             <h3 class="fragment">I used an online tool</h3>
+            <h3 class="fragment">To generate a schema from sample XMLs</h3>
             <h3 class="fragment">https://www.freeformatter.com/xsd-generator.html</h3>
             <h3 class="fragment">And added new types when parsing failed</h3>
         </section>
@@ -710,50 +710,11 @@
 
         <section data-auto-animate style="display: flex; flex-direction: column; justify-content: center;">
             <h3 class="fragment" data-id="code-title">Turns out that during these 13-20 years</h3>
-            <h3 class="fragment" data-id="code-title">there only were a handful of ways to express the ContactPoint of a notice</h3>
+            <h3 class="fragment" data-id="code-title">there only were a handful of ways to express one kind of information</h3>
+            <h3 class="fragment" data-id="code-title">Like the ContactPoint of a notice</h3>
             <h4 class="fragment" data-id="code-title">Over the years some fields were added, some became optional, some became mandatory</h4>
             <pre class="fragment" data-id="code-animation">
-                <code class="hljs kotlin" data-trim data-line-numbers="|1-8|10-18|20-28">
-                    <script type="text/template">
-                        fun ADDRESSAUTHORITY.contactPoint(): ContactPoint {
-                            return ContactPoint(
-                                name = this.attention?.value,
-                                email = this.email?.value,
-                                telephone = this.phone?.value,
-                                fax = this.fax?.value
-                            )
-                        }
-
-                        fun CONTACTDATA.contactPoint(): ContactPoint {
-                            val email = this.email?.value ?: this.emails?.emails()?.firstOrNull()
-                            return ContactPoint(
-                                name = this.attention?.value,
-                                email = email,
-                                telephone = this.phone?.value,
-                                fax = this.fax?.value
-                            )
-                        }
-
-                        fun CACECONCESSIONAIREPROFILE.contactPoint(): ContactPoint {
-                            val email = this.email?.value ?: this.emails?.emails()?.firstOrNull()
-                            return ContactPoint(
-                                name = this.attention?.value,
-                                email = email,
-                                telephone = this.phone?.value,
-                                fax = this.fax?.value
-                            )
-                        }
-                    </script>
-                </code>
-            </pre>
-        </section>
-
-        <section data-auto-animate style="display: flex; flex-direction: column; justify-content: center;">
-            <h3 data-id="code-title">Turns out that during these 13-20 years</h3>
-            <h3 data-id="code-title">there only were a handful of ways to express the ContactPoint of a notice</h3>
-            <h4 data-id="code-title">Over the years some fields were added, some became optional, some became mandatory</h4>
-            <pre class="fragment" data-id="code-animation">
-                <code class="hljs xml" data-trim data-line-numbers="|1-11|13-28|30-41">
+                <code class="hljs xml" data-trim data-line-numbers="|1-11|3|10|8|9|13-28|22|24-26|23|30-41|37|39|38|40">
                     <script type="text/template">
                         <ADDRESS_AUTHORITY>
                             <ORGANISATION>Rikstrygdeverket</ORGANISATION>
@@ -802,12 +763,57 @@
         </section>
 
         <section data-auto-animate style="display: flex; flex-direction: column; justify-content: center;">
-            <h2 class="fragment" data-id="code-title">I could write extraction code per type that was interesting to me</h2>
-            <h3 class="fragment" data-id="code-title">And reuse it across different forms and versions</h3>
-            <pre class="fragment" data-id="code-animation" class="fragment">
+            <h3 data-id="code-title">Turns out that during these 13-20 years</h3>
+            <h3 data-id="code-title">there only were a handful of ways to express one kind of information</h3>
+            <h3 data-id="code-title">Like the ContactPoint of a notice</h3>
+            <h4 data-id="code-title">Over the years some fields were added, some became optional, some became mandatory</h4>
+            <pre class="fragment" data-id="code-animation">
+                <code class="hljs kotlin" data-trim data-line-numbers="|1-8|3|4|5|6|10-18|20-28">
+                    <script type="text/template">
+                        fun ADDRESSAUTHORITY.contactPoint(): ContactPoint {
+                            return ContactPoint(
+                                name = this.attention?.value,
+                                email = this.email?.value,
+                                telephone = this.phone?.value,
+                                fax = this.fax?.value
+                            )
+                        }
+
+                        fun CONTACTDATA.contactPoint(): ContactPoint {
+                            val email = this.email?.value ?: this.emails?.emails()?.firstOrNull()
+                            return ContactPoint(
+                                name = this.attention?.value,
+                                email = email,
+                                telephone = this.phone?.value,
+                                fax = this.fax?.value
+                            )
+                        }
+
+                        fun CACECONCESSIONAIREPROFILE.contactPoint(): ContactPoint {
+                            val email = this.email?.value ?: this.emails?.emails()?.firstOrNull()
+                            return ContactPoint(
+                                name = this.attention?.value,
+                                email = email,
+                                telephone = this.phone?.value,
+                                fax = this.fax?.value
+                            )
+                        }
+                    </script>
+                </code>
+            </pre>
+        </section>
+
+        <section style="display: flex; flex-direction: column;">
+            <h3 class="fragment">I could write extraction code per type that was interesting to me</h3>
+            <h2 class="fragment">And reuse it across different forms and versions</h2>
+        </section>
+
+        <section data-auto-animate style="display: flex; flex-direction: column; justify-content: center;">
+            <h3 data-id="code-title">One function for a leaf data type could be used in many contexts</h3>
+            <pre class="fragment" data-id="code-animation">
                 <code class="hljs kotlin" data-trim data-line-numbers="1-10|12-16|18-22|24-28|30-34">
                     <script type="text/template">
-                        fun LOCATIONNUTS.toNutsCodeList(): List<NutsCode> {
+                        fun LOCATIONNUTS.toNutsCodeList(): List <NutsCode> {
                             return this.nutsList?.map { nuts ->
                                 when (nuts) {
                                     is no.doffin.classic.common.NUTS   -> nuts.toNutsCode()
@@ -853,9 +859,8 @@
         </section>
 
         <section data-auto-animate style="display: flex; flex-direction: column; justify-content: center;">
-            <h2 class="fragment" data-id="code-title">It had neat data classes, pragmatic functional programming,</h2>
-            <h3 class="fragment" data-id="code-title">when expressions, optional and "elvis" operators</h3>
-            <h4 class="fragment" data-id="code-title">But for this: it has seamless support for mature libraries originally made for Java</h4>
+            <h4 class="fragment" data-id="code-title">It had data classes, functional programming, when expressions, optional and "elvis" operators</h4>
+            <h3 class="fragment" data-id="code-title">Kotlin has seamless support for mature/old libraries originally made for Java</h3>
             <pre class="fragment" data-id="code-animation" class="fragment">
                 <code class="hljs kotlin" data-trim data-line-numbers="1-5|7-15|17-28|30-38">
                     <script type="text/template">
@@ -906,7 +911,7 @@
             <h3 class="fragment">I wrote so much code</h3>
             <h2 class="fragment">So much of it bad</h2>
             <h3 class="fragment">Some of it even here on slides</h3>
-            <h3 class="fragment">I haven't had this fun programming in years</h3>
+            <h3 class="fragment">I hadn't had this much fun programming in years</h3>
         </section>
 
         <section style="display: flex; flex-direction: column;">
@@ -921,8 +926,17 @@
         <section style="display: flex; flex-direction: column;">
             <h3 class="fragment">So how can we do Dev/Data?</h3>
             <h2 class="fragment">Have Data people in operational Dev teams</h2>
-            <h3 class="fragment">Remote team ambassadors</h3>
+            <h3 class="fragment">And vice versa</h3>
+            <h2 class="fragment">This isn't new: Remote team ambassadors</h2>
             <h3 class="fragment">Dogfood: Use historical Data in the product</h3>
+        </section>
+
+        <section style="display: flex; flex-direction: column;">
+            <h2 class="fragment">As for Doffin</h2>
+            <h3 class="fragment">What should all of those teams have done?</h3>
+            <h2 class="fragment">Put the data in a relational database as it came in</h2>
+            <h3 class="fragment">Adapt the database schema as new needs arose</h3>
+            <h3 class="fragment">Then we'd be able to run SQL queries against all of it</h3>
         </section>
 
 <!--        <section style="display: flex; flex-direction: row; flex-wrap: nowrap; justify-content: flex-start">-->
@@ -966,6 +980,13 @@
 <!--            <h2 class="fragment">Have a Data person in all operational teams</h2>-->
 <!--        </section>-->
 
+        <section style="display: flex; flex-direction: column;">
+            <h2 class="fragment">So... Can Data Rot?</h2>
+            <h1 class="fragment">Yes</h1>
+            <h2 class="fragment">Should you care?</h2>
+            <h2 class="fragment">Depends on whether your history matters</h2>
+        </section>
+
         <section>
             <header style="text-align: left;">
                 <h1 class="fragment">Can Data Rot?</h1>
@@ -975,77 +996,80 @@
             </header>
         </section>
 
-        <section style="display: flex; flex-direction: column;">
-            <h2><a href="https://www.eftasurv.int/cms/sites/default/files/documents/gopro/Complaint%20-%20breach%20of%20the%20EEA%20rules%20on%20public%20procurement%20200623.pdf.pdf">Storebrand complaint</a></h2>
-            <h2><a href="https://www.eftasurv.int/cms/sites/default/files/documents/gopro/Pre-Article_31_letter_-_Complaint_against_Norway_regarding_breaches_of_public_procuremen_Redacted.pdf">EFTA response</a></h2>
+        <section data-background-transition="fade-in fade-out" data-background="images/graffiti-6756282_1920.jpg" class="fig-container" data-file="d3-fig/fig/nav_winners.html" data-preload>
         </section>
 
-        <section style="display: flex; flex-direction: column;">
-            <h2 class="fragment">I scraped all the Classic Doffin HTML</h2>
-            <h3 class="fragment">But can I republish it?</h3>
-            <h3 class="fragment">The data is public</h3>
-            <h3 class="fragment">But is the HTML tag structure?</h3>
-        </section>
+<!--        <section style="display: flex; flex-direction: column;">-->
+<!--            <h2><a href="https://www.eftasurv.int/cms/sites/default/files/documents/gopro/Complaint%20-%20breach%20of%20the%20EEA%20rules%20on%20public%20procurement%20200623.pdf.pdf">Storebrand complaint</a></h2>-->
+<!--            <h2><a href="https://www.eftasurv.int/cms/sites/default/files/documents/gopro/Pre-Article_31_letter_-_Complaint_against_Norway_regarding_breaches_of_public_procuremen_Redacted.pdf">EFTA response</a></h2>-->
+<!--        </section>-->
 
-        <section style="display: flex; flex-direction: column;">
-            <h2>Spoilers: Since we're a mixed crowd</h2>
-            <h3 class="fragment">The case study: NAV IT procurements</h3>
-            <p class="fragment">The data: 2003-2024 public procurement data from Doffin/TED</p>
-            <p class="fragment">Observations: The stewardship of Doffin as seen from the data</p>
-            <p class="fragment">Why should we care?</p>
-            <p class="fragment">Retro development: XML on the JVM</p>
-            <p class="fragment">What didn't work, what did and how Kotlin helped</p>
-            <p class="fragment">Data/Dev silos are hurting what we build</p>
-            <p class="fragment">Data isn't only in the present tense</p>
-            <h3 class="fragment">Data that cannot be analyzed, does it even exist?</h3>
-<!--            <p class="fragment">Should you care?</p>-->
-        </section>
+<!--        <section style="display: flex; flex-direction: column;">-->
+<!--            <h2 class="fragment">I scraped all the Classic Doffin HTML</h2>-->
+<!--            <h3 class="fragment">But can I republish it?</h3>-->
+<!--            <h3 class="fragment">The data is public</h3>-->
+<!--            <h3 class="fragment">But is the HTML tag structure?</h3>-->
+<!--        </section>-->
 
-        <section style="display: flex; flex-direction: row; flex-wrap: nowrap; justify-content: flex-start">
-            <img src="images/graffiti-3610348_1920.jpg" alt=""
-                 style="width: 700px; height: 900px; object-fit: cover; filter: drop-shadow(0 0 0.55rem black);"/>
-            <div style="padding-left: 40px; text-align: left; display: flex; flex-direction: column; justify-content: center;">
-                <h2 class="fragment">Why NAV IT</h2>
-                <p class="fragment">You asked me to come :P</p>
-                <p class="fragment">I was already modelling NAV IT</p>
-                <p class="fragment">It's business relevant</p>
-                <p class="fragment">NAV IT uses all the features of this system</p>
-                <p class="fragment">The frame agreements are big, both in money and in lots</p>
-                <p class="fragment">The "org" has gone under a dozen names</p>
-                <p class="fragment">How can we even find them and connect them?</p>
-                <p class="fragment">If I can find these, then I can handle any data in the set</p>
-            </div>
-        </section>
+<!--        <section style="display: flex; flex-direction: column;">-->
+<!--            <h2>Spoilers: Since we're a mixed crowd</h2>-->
+<!--            <h3 class="fragment">The case study: NAV IT procurements</h3>-->
+<!--            <p class="fragment">The data: 2003-2024 public procurement data from Doffin/TED</p>-->
+<!--            <p class="fragment">Observations: The stewardship of Doffin as seen from the data</p>-->
+<!--            <p class="fragment">Why should we care?</p>-->
+<!--            <p class="fragment">Retro development: XML on the JVM</p>-->
+<!--            <p class="fragment">What didn't work, what did and how Kotlin helped</p>-->
+<!--            <p class="fragment">Data/Dev silos are hurting what we build</p>-->
+<!--            <p class="fragment">Data isn't only in the present tense</p>-->
+<!--            <h3 class="fragment">Data that cannot be analyzed, does it even exist?</h3>-->
+<!--&lt;!&ndash;            <p class="fragment">Should you care?</p>&ndash;&gt;-->
+<!--        </section>-->
 
-        <section style="display: flex; flex-direction: row; justify-content: center;">
-            <div style="text-align: left">
-                <h2>Meta</h2>
-                <p class="fragment">Since we're going to talk about data</p>
-                <p class="fragment">Some data visualization seems in order</p>
-                <p class="fragment">The slides are in Reveal.js</p>
-                <p class="fragment">The visualizations are written in d3.js</p>
-                <h3 class="fragment">All the data viz is custom for this talk</h3>
-                <p class="fragment">I will not take any questions on whether that was a good idea</p>
-            </div>
-            <div class="fig-container" data-file="d3-fig/bubbles.html" data-preload
-                 style=""></div>
-        </section>
+<!--        <section style="display: flex; flex-direction: row; flex-wrap: nowrap; justify-content: flex-start">-->
+<!--            <img src="images/graffiti-3610348_1920.jpg" alt=""-->
+<!--                 style="width: 700px; height: 900px; object-fit: cover; filter: drop-shadow(0 0 0.55rem black);"/>-->
+<!--            <div style="padding-left: 40px; text-align: left; display: flex; flex-direction: column; justify-content: center;">-->
+<!--                <h2 class="fragment">Why NAV IT</h2>-->
+<!--                <p class="fragment">You asked me to come :P</p>-->
+<!--                <p class="fragment">I was already modelling NAV IT</p>-->
+<!--                <p class="fragment">It's business relevant</p>-->
+<!--                <p class="fragment">NAV IT uses all the features of this system</p>-->
+<!--                <p class="fragment">The frame agreements are big, both in money and in lots</p>-->
+<!--                <p class="fragment">The "org" has gone under a dozen names</p>-->
+<!--                <p class="fragment">How can we even find them and connect them?</p>-->
+<!--                <p class="fragment">If I can find these, then I can handle any data in the set</p>-->
+<!--            </div>-->
+<!--        </section>-->
 
-        <section style="display: flex; flex-direction: row; flex-wrap: nowrap; justify-content: flex-start">
-            <img src="images/graffiti-6908374_1280.jpg" alt=""
-                 style="width: 600px; height: 900px; object-fit: cover; filter: drop-shadow(0 0 0.55rem black);"/>
-            <div style="padding-left: 40px; text-align: left; display: flex; flex-direction: column; justify-content: center;">
-                <h2 class="fragment">Doffin</h2>
-                <p class="fragment">1</p>
-                <p class="fragment">2</p>
-                <p class="fragment">3</p>
-                <p class="fragment">4</p>
-                <p class="fragment">5</p>
-                <p class="fragment">6</p>
-                <p class="fragment">7</p>
-                <p class="fragment">8</p>
-            </div>
-        </section>
+<!--        <section style="display: flex; flex-direction: row; justify-content: center;">-->
+<!--            <div style="text-align: left">-->
+<!--                <h2>Meta</h2>-->
+<!--                <p class="fragment">Since we're going to talk about data</p>-->
+<!--                <p class="fragment">Some data visualization seems in order</p>-->
+<!--                <p class="fragment">The slides are in Reveal.js</p>-->
+<!--                <p class="fragment">The visualizations are written in d3.js</p>-->
+<!--                <h3 class="fragment">All the data viz is custom for this talk</h3>-->
+<!--                <p class="fragment">I will not take any questions on whether that was a good idea</p>-->
+<!--            </div>-->
+<!--            <div class="fig-container" data-file="d3-fig/bubbles.html" data-preload-->
+<!--                 style=""></div>-->
+<!--        </section>-->
+
+<!--        <section style="display: flex; flex-direction: row; flex-wrap: nowrap; justify-content: flex-start">-->
+<!--            <img src="images/graffiti-6908374_1280.jpg" alt=""-->
+<!--                 style="width: 600px; height: 900px; object-fit: cover; filter: drop-shadow(0 0 0.55rem black);"/>-->
+<!--            <div style="padding-left: 40px; text-align: left; display: flex; flex-direction: column; justify-content: center;">-->
+<!--                <h2 class="fragment">Doffin</h2>-->
+<!--                <p class="fragment">1</p>-->
+<!--                <p class="fragment">2</p>-->
+<!--                <p class="fragment">3</p>-->
+<!--                <p class="fragment">4</p>-->
+<!--                <p class="fragment">5</p>-->
+<!--                <p class="fragment">6</p>-->
+<!--                <p class="fragment">7</p>-->
+<!--                <p class="fragment">8</p>-->
+<!--            </div>-->
+<!--        </section>-->
 
 <!--        <section style="display: flex; flex-direction: column;">-->
 <!--            <h2 class="fragment">How many generated types are we talking about?</h2>-->
@@ -1104,7 +1128,7 @@
     </div> <!-- slides -->
 
     <footer>
-        <div class="slide-number" style="width: 200px; position: absolute; bottom: 10px; left: 10px; font-family: Pacifico; font-size: 40px">
+        <div class="slide-number" style="width: 200px; position: absolute; bottom: 10px; left: 10px; font-family: Pacifico; font-size: 40px" onClick="history.go();">
             TurtleSec
         </div>
     </footer>

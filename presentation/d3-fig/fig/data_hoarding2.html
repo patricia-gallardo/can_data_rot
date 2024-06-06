@@ -60,25 +60,25 @@
             transitionBackward: () => removeItems([items[0].id, items[1].id], context),
             index: 3
         },
-        {
-            transitionForward: () => addItem(items[1].id, context),
-            transitionBackward: () => removeItem(items[1].id, context),
-            index: 4
-        },
+        // {
+        //     transitionForward: () => addItem(items[1].id, context),
+        //     transitionBackward: () => removeItem(items[1].id, context),
+        //     index: 4
+        // },
         {
             transitionForward: () => addItem(items[2].id, context),
             transitionBackward: () => removeItem(items[2].id, context),
-            index: 5
+            index: 4
         },
         {
             transitionForward: () => addItem(items[3].id, context),
             transitionBackward: () => removeItem(items[3].id, context),
-            index: 6
+            index: 5
         },
         {
             transitionForward: () => showAll(context),
             transitionBackward: () => removeItem(items[4].id, context),
-            index: 7
+            index: 6
         },
     ]
 </script>
