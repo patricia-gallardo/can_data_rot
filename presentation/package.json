@@ -7,11 +7,6 @@
   "main": "dist/reveal.js",
   "module": "dist/reveal.esm.js",
   "license": "MIT",
-  "scripts": {
-    "test": "gulp test",
-    "start": "gulp serve",
-    "build": "gulp build"
-  },
   "author": {
     "name": "Hakim El Hattab",
     "email": "hakim.elhattab@gmail.com",
@@ -42,14 +37,6 @@
     "core-js": "^3.33.1",
     "fitty": "^2.3.7",
     "glob": "^10.3.10",
-    "gulp": "^5.0.0",
-    "gulp-autoprefixer": "^9.0.0",
-    "gulp-clean-css": "^4.3.0",
-    "gulp-connect": "^5.7.0",
-    "gulp-eslint": "^6.0.0",
-    "gulp-header": "^2.0.9",
-    "gulp-tap": "^2.0.0",
-    "gulp-zip": "^6.0.0",
     "highlight.js": "^11.9.0",
     "marked": "^12.0.2",
     "node-qunit-puppeteer": "^2.1.2",
