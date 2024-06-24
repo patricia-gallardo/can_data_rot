@@ -45,13 +45,13 @@
     "id" : "329920-2010",
     "name" : "329920-2010 (Contract award)",
     "group" : 1,
-    "color" : "#4caf50",
+    "color" : "#2a788e",
     "nok" : null
   }, {
     "id" : "101167-2011",
     "name" : "101167-2011 (Contract notice)",
     "group" : 1,
-    "color" : "#f0f921",
+    "color" : "#ff7f0e",
     "nok" : 920000000
   }, {
     "id" : "2005-403461",
@@ -93,13 +93,13 @@
     "id" : "330718-2009",
     "name" : "330718-2009 (Contract notice)",
     "group" : 1,
-    "color" : "#f0f921",
+    "color" : "#ff7f0e",
     "nok" : 120000000
   }, {
     "id" : "107172-2015",
     "name" : "107172-2015 (Contract notice)",
     "group" : 1,
-    "color" : "#f0f921",
+    "color" : "#ff7f0e",
     "nok" : 1473600000
   }, {
     "id" : "2005-656943",
@@ -135,13 +135,13 @@
     "id" : "2016-573035",
     "name" : "2016-573035 (Additional information)",
     "group" : 1,
-    "color" : "#f48849",
+    "color" : "#1f77b4",
     "nok" : null
   }, {
     "id" : "343149-2011",
     "name" : "343149-2011 (Contract notice)",
     "group" : 1,
-    "color" : "#f0f921",
+    "color" : "#ff7f0e",
     "nok" : 300000000
   }, {
     "id" : "2005-728398",
@@ -177,13 +177,13 @@
     "id" : "366644-2010",
     "name" : "366644-2010 (Contract award)",
     "group" : 1,
-    "color" : "#4caf50",
+    "color" : "#2a788e",
     "nok" : null
   }, {
     "id" : "184820-2010",
     "name" : "184820-2010 (Additional information)",
     "group" : 1,
-    "color" : "#f48849",
+    "color" : "#1f77b4",
     "nok" : null
   }, {
     "id" : "2005-939340",
@@ -225,7 +225,7 @@
     "id" : "239395-2010",
     "name" : "239395-2010 (Contract award)",
     "group" : 1,
-    "color" : "#4caf50",
+    "color" : "#2a788e",
     "nok" : null
   }, {
     "id" : "2003-224157",
@@ -273,7 +273,7 @@
     "id" : "255337-2010",
     "name" : "255337-2010 (Contract notice)",
     "group" : 1,
-    "color" : "#f0f921",
+    "color" : "#ff7f0e",
     "nok" : 495000
   }, {
     "id" : "2003-412524",
@@ -321,7 +321,7 @@
     "id" : "285326-2009",
     "name" : "285326-2009 (Contract notice)",
     "group" : 1,
-    "color" : "#f0f921",
+    "color" : "#ff7f0e",
     "nok" : 102000000
   }, {
     "id" : "2003-433664",
@@ -363,7 +363,7 @@
     "id" : "327963-2009",
     "name" : "327963-2009 (Contract notice)",
     "group" : 1,
-    "color" : "#f0f921",
+    "color" : "#ff7f0e",
     "nok" : 420000000
   }, {
     "id" : "2003-688176",
@@ -405,7 +405,7 @@
     "id" : "329262-2009",
     "name" : "329262-2009 (Contract notice)",
     "group" : 1,
-    "color" : "#f0f921",
+    "color" : "#ff7f0e",
     "nok" : 210000000
   }, {
     "id" : "2004-482951",
@@ -447,7 +447,7 @@
     "id" : "329263-2009",
     "name" : "329263-2009 (Contract notice)",
     "group" : 1,
-    "color" : "#f0f921",
+    "color" : "#ff7f0e",
     "nok" : 240000000
   }, {
     "id" : "2004-632638",
@@ -489,7 +489,7 @@
     "id" : "329264-2009",
     "name" : "329264-2009 (Contract notice)",
     "group" : 1,
-    "color" : "#f0f921",
+    "color" : "#ff7f0e",
     "nok" : 120000000
   }, {
     "id" : "SIRIUS IT",
