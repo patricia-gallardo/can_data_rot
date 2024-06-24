@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<body>
+<!-- load the d3.js library -->
+<!-- https://observablehq.com/@d3/force-directed-graph/2 -->
+<script src="https://d3js.org/d3.v6.min.js"></script>
+<script src="../js/graph.js"></script>
+<script>
+    console.log("Init graph nav_winners.json")
+    let graphfile = "./nav_everything.json";
+
+    let context = null
+
+    d3.json(graphfile).then(function (_graph) {
+        console.log("Read file 3");
+        context = makeGraphContext(_graph);
+    })
+
+    // When this cell is re-run, stop the previous simulation. (This doesn’t
+    // really matter since the target alpha is zero and the simulation will
+    // stop naturally, but it’s a good practice.)
+    // invalidation.then(() => simulation.stop());
+
+    var _transitions = [
+        {
+            transitionForward: () => context.simulation.alpha(1).restart(),
+            index: "onSlideChange"
+        },
+        {
+            transitionForward: () => context.simulation.alpha(1).restart(),
+            transitionBackward: () => context.simulation.alpha(1).restart(),
+            index: 0
+        },
+        // {
+        //     transitionForward: () => addItem('RR', listContext),
+        //     transitionBackward: () => removeItem('RR', listContext),
+        //     index: 1
+        // },
+        // {
+        //     transitionForward: () => showAll('LL', listContext),
+        //     transitionBackward: () => removeItem('LL', listContext),
+        //     index: 2
+        // }
+    ]
+</script>
