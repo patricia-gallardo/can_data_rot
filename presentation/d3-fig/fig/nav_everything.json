@@ -2127,86 +2127,86 @@
   }, {
     "source" : "2011-777247",
     "target" : "101167-2011",
-    "value" : 4
+    "value" : 10
   }, {
     "source" : "101167-2011",
     "target" : "101167-2011",
-    "value" : 4
+    "value" : 10
   }, {
     "source" : "2015-103735",
     "target" : "107172-2015",
-    "value" : 4
+    "value" : 10
   }, {
     "source" : "2015-103735",
     "target" : "2015-340383",
-    "value" : 4
+    "value" : 10
   }, {
     "source" : "2016-404263",
     "target" : "2016-082071",
-    "value" : 4
+    "value" : 10
   }, {
     "source" : "107172-2015",
     "target" : "107172-2015",
-    "value" : 4
+    "value" : 10
   }, {
     "source" : "2012-255539",
     "target" : "343149-2011",
-    "value" : 4
+    "value" : 10
   }, {
     "source" : "2016-573035",
     "target" : "2016-665571",
-    "value" : 4
+    "value" : 10
   }, {
     "source" : "343149-2011",
     "target" : "343149-2011",
-    "value" : 4
+    "value" : 10
   }, {
     "source" : "2010-362225",
     "target" : "327963-2009",
-    "value" : 4
+    "value" : 10
   }, {
     "source" : "2010-565374",
     "target" : "330718-2009",
-    "value" : 4
+    "value" : 10
   }, {
     "source" : "2016-701898",
     "target" : "2015-307826",
-    "value" : 4
+    "value" : 10
   }, {
     "source" : "2015-322128",
     "target" : "2014-398870",
-    "value" : 4
+    "value" : 10
   }, {
     "source" : "2016-781698",
     "target" : "2016-344436",
-    "value" : 4
+    "value" : 10
   }, {
     "source" : "2010-751604",
     "target" : "329262-2009",
-    "value" : 4
+    "value" : 10
   }, {
     "source" : "2016-826862",
     "target" : "2015-113743",
-    "value" : 4
+    "value" : 10
   }, {
     "source" : "2015-512386",
     "target" : "2014-888660",
-    "value" : 4
+    "value" : 10
   }, {
     "source" : "2010-937025",
     "target" : "329263-2009",
-    "value" : 4
+    "value" : 10
   }, {
     "source" : "2015-661253",
     "target" : "2014-410278",
-    "value" : 4
+    "value" : 10
   }, {
     "source" : "2010-956101",
     "target" : "329264-2009",
-    "value" : 4
+    "value" : 10
   }, {
     "source" : "2014-607651",
     "target" : "2013-307839",
-    "value" : 4
+    "value" : 10
   } ]
 }
