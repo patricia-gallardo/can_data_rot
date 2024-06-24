@@ -498,6 +498,84 @@
     "color" : "#1f77b4",
     "nok" : null
   }, {
+    "id" : "327962-2009",
+    "name" : "327962-2009 (Contract notice)",
+    "group" : 1,
+    "color" : "#ff7f0e",
+    "nok" : 102000000
+  }, {
+    "id" : "246258-2012",
+    "name" : "246258-2012 (Contract notice)",
+    "group" : 1,
+    "color" : "#ff7f0e",
+    "nok" : 32000000
+  }, {
+    "id" : "264548-2012",
+    "name" : "264548-2012 (Prior information notice without call for competition)",
+    "group" : 1,
+    "color" : "#1f77b4",
+    "nok" : null
+  }, {
+    "id" : "274297-2012",
+    "name" : "274297-2012 (Contract notice)",
+    "group" : 1,
+    "color" : "#ff7f0e",
+    "nok" : 12000000
+  }, {
+    "id" : "170406-2014",
+    "name" : "170406-2014 (Contract notice)",
+    "group" : 1,
+    "color" : "#ff7f0e",
+    "nok" : 600000000
+  }, {
+    "id" : "214426-2014",
+    "name" : "214426-2014 (Contract notice)",
+    "group" : 1,
+    "color" : "#ff7f0e",
+    "nok" : null
+  }, {
+    "id" : "286805-2014",
+    "name" : "286805-2014 (Contract notice)",
+    "group" : 1,
+    "color" : "#ff7f0e",
+    "nok" : 220000000
+  }, {
+    "id" : "174732-2015",
+    "name" : "174732-2015 (Contract notice)",
+    "group" : 1,
+    "color" : "#ff7f0e",
+    "nok" : 152000000
+  }, {
+    "id" : "431381-2015",
+    "name" : "431381-2015 (Contract notice)",
+    "group" : 1,
+    "color" : "#ff7f0e",
+    "nok" : null
+  }, {
+    "id" : "020995-2016",
+    "name" : "020995-2016 (Contract notice)",
+    "group" : 1,
+    "color" : "#ff7f0e",
+    "nok" : 280000000
+  }, {
+    "id" : "021001-2016",
+    "name" : "021001-2016 (Contract notice)",
+    "group" : 1,
+    "color" : "#ff7f0e",
+    "nok" : 640000000
+  }, {
+    "id" : "026763-2016",
+    "name" : "026763-2016 (Contract notice)",
+    "group" : 1,
+    "color" : "#ff7f0e",
+    "nok" : 280000000
+  }, {
+    "id" : "297607-2007",
+    "name" : "297607-2007 (Contract notice)",
+    "group" : 1,
+    "color" : "#ff7f0e",
+    "nok" : 200000000
+  }, {
     "id" : "SIRIUS IT",
     "name" : "SIRIUS IT",
     "group" : 2,
@@ -1309,6 +1387,54 @@
   }, {
     "source" : "NAV",
     "target" : "329264-2009",
+    "value" : 10
+  }, {
+    "source" : "NAV",
+    "target" : "327962-2009",
+    "value" : 10
+  }, {
+    "source" : "NAV",
+    "target" : "246258-2012",
+    "value" : 10
+  }, {
+    "source" : "NAV",
+    "target" : "274297-2012",
+    "value" : 10
+  }, {
+    "source" : "NAV",
+    "target" : "170406-2014",
+    "value" : 10
+  }, {
+    "source" : "NAV",
+    "target" : "214426-2014",
+    "value" : 10
+  }, {
+    "source" : "NAV",
+    "target" : "286805-2014",
+    "value" : 10
+  }, {
+    "source" : "NAV",
+    "target" : "174732-2015",
+    "value" : 10
+  }, {
+    "source" : "NAV",
+    "target" : "431381-2015",
+    "value" : 10
+  }, {
+    "source" : "NAV",
+    "target" : "020995-2016",
+    "value" : 10
+  }, {
+    "source" : "NAV",
+    "target" : "021001-2016",
+    "value" : 10
+  }, {
+    "source" : "NAV",
+    "target" : "026763-2016",
+    "value" : 10
+  }, {
+    "source" : "NAV",
+    "target" : "297607-2007",
     "value" : 10
   }, {
     "source" : "SIRIUS IT",
@@ -2131,6 +2257,10 @@
     "target" : "2014-607651",
     "value" : 10
   }, {
+    "source" : "2008-306918",
+    "target" : "297607-2007",
+    "value" : 10
+  }, {
     "source" : "2009-564426",
     "target" : "161942-2009",
     "value" : 10
@@ -2156,6 +2286,10 @@
     "value" : 10
   }, {
     "source" : "2016-404263",
+    "target" : "021001-2016",
+    "value" : 10
+  }, {
+    "source" : "2016-404263",
     "target" : "2016-082071",
     "value" : 10
   }, {
@@ -2173,6 +2307,10 @@
   }, {
     "source" : "2012-255539",
     "target" : "343149-2011",
+    "value" : 10
+  }, {
+    "source" : "2016-573035",
+    "target" : "020995-2016",
     "value" : 10
   }, {
     "source" : "2016-573035",
@@ -2203,6 +2341,14 @@
     "target" : "330718-2009",
     "value" : 10
   }, {
+    "source" : "2012-266032",
+    "target" : "264548-2012",
+    "value" : 10
+  }, {
+    "source" : "2016-701898",
+    "target" : "174732-2015",
+    "value" : 10
+  }, {
     "source" : "2016-701898",
     "target" : "2015-307826",
     "value" : 10
@@ -2211,8 +2357,20 @@
     "target" : "161942-2009",
     "value" : 10
   }, {
+    "source" : "2013-281148",
+    "target" : "246258-2012",
+    "value" : 10
+  }, {
+    "source" : "2015-322128",
+    "target" : "214426-2014",
+    "value" : 10
+  }, {
     "source" : "2015-322128",
     "target" : "2014-398870",
+    "value" : 10
+  }, {
+    "source" : "2016-781698",
+    "target" : "026763-2016",
     "value" : 10
   }, {
     "source" : "2016-781698",
@@ -2227,8 +2385,24 @@
     "target" : "329262-2009",
     "value" : 10
   }, {
+    "source" : "2013-281292",
+    "target" : "274297-2012",
+    "value" : 10
+  }, {
+    "source" : "2016-826862",
+    "target" : "431381-2015",
+    "value" : 10
+  }, {
     "source" : "2016-826862",
     "target" : "2015-113743",
+    "value" : 10
+  }, {
+    "source" : "2010-872701",
+    "target" : "327962-2009",
+    "value" : 10
+  }, {
+    "source" : "2015-512386",
+    "target" : "170406-2014",
     "value" : 10
   }, {
     "source" : "2015-512386",
@@ -2241,6 +2415,10 @@
   }, {
     "source" : "2010-937025",
     "target" : "329263-2009",
+    "value" : 10
+  }, {
+    "source" : "2015-661253",
+    "target" : "286805-2014",
     "value" : 10
   }, {
     "source" : "2015-661253",
@@ -2261,6 +2439,58 @@
   }, {
     "source" : "2014-607651",
     "target" : "2013-307839",
+    "value" : 10
+  }, {
+    "source" : "246258-2012",
+    "target" : "246258-2012",
+    "value" : 10
+  }, {
+    "source" : "264548-2012",
+    "target" : "264548-2012",
+    "value" : 10
+  }, {
+    "source" : "274297-2012",
+    "target" : "264548-2012",
+    "value" : 10
+  }, {
+    "source" : "274297-2012",
+    "target" : "264548-2012",
+    "value" : 10
+  }, {
+    "source" : "274297-2012",
+    "target" : "274297-2012",
+    "value" : 10
+  }, {
+    "source" : "170406-2014",
+    "target" : "170406-2014",
+    "value" : 10
+  }, {
+    "source" : "214426-2014",
+    "target" : "214426-2014",
+    "value" : 10
+  }, {
+    "source" : "286805-2014",
+    "target" : "286805-2014",
+    "value" : 10
+  }, {
+    "source" : "174732-2015",
+    "target" : "174732-2015",
+    "value" : 10
+  }, {
+    "source" : "431381-2015",
+    "target" : "431381-2015",
+    "value" : 10
+  }, {
+    "source" : "020995-2016",
+    "target" : "020995-2016",
+    "value" : 10
+  }, {
+    "source" : "021001-2016",
+    "target" : "021001-2016",
+    "value" : 10
+  }, {
+    "source" : "026763-2016",
+    "target" : "026763-2016",
     "value" : 10
   } ]
 }
