@@ -6,12 +6,6 @@
     "color" : "#FF00FF",
     "nok" : null
   }, {
-    "id" : "087031-2019",
-    "name" : "087031-2019 (null)",
-    "group" : 1,
-    "color" : "#d62728",
-    "nok" : null
-  }, {
     "id" : "2004-758811",
     "name" : "2004-758811 (Contract notice)",
     "group" : 1,
@@ -47,18 +41,6 @@
     "group" : 1,
     "color" : "#f0f921",
     "nok" : 280000000
-  }, {
-    "id" : "2019-345499",
-    "name" : "2019-345499 (null)",
-    "group" : 1,
-    "color" : "#d62728",
-    "nok" : null
-  }, {
-    "id" : "2021-393666",
-    "name" : "2021-393666 (null)",
-    "group" : 1,
-    "color" : "#d62728",
-    "nok" : null
   }, {
     "id" : "329920-2010",
     "name" : "329920-2010 (Contract award)",
@@ -108,18 +90,6 @@
     "color" : "#4caf50",
     "nok" : 641099270
   }, {
-    "id" : "2019-372687",
-    "name" : "2019-372687 (null)",
-    "group" : 1,
-    "color" : "#d62728",
-    "nok" : null
-  }, {
-    "id" : "2023-601022",
-    "name" : "2023-601022 (null)",
-    "group" : 1,
-    "color" : "#d62728",
-    "nok" : null
-  }, {
     "id" : "330718-2009",
     "name" : "330718-2009 (Contract notice)",
     "group" : 1,
@@ -168,29 +138,11 @@
     "color" : "#f48849",
     "nok" : null
   }, {
-    "id" : "2019-391203",
-    "name" : "2019-391203 (null)",
-    "group" : 1,
-    "color" : "#d62728",
-    "nok" : null
-  }, {
-    "id" : "2023-668270",
-    "name" : "2023-668270 (null)",
-    "group" : 1,
-    "color" : "#d62728",
-    "nok" : null
-  }, {
     "id" : "343149-2011",
     "name" : "343149-2011 (Contract notice)",
     "group" : 1,
     "color" : "#f0f921",
     "nok" : 300000000
-  }, {
-    "id" : "149049-2023",
-    "name" : "149049-2023 (null)",
-    "group" : 1,
-    "color" : "#d62728",
-    "nok" : null
   }, {
     "id" : "2005-728398",
     "name" : "2005-728398 (Contract award)",
@@ -216,29 +168,11 @@
     "color" : "#f0f921",
     "nok" : 32000000
   }, {
-    "id" : "2015-156895",
-    "name" : "2015-156895 (null)",
-    "group" : 1,
-    "color" : "#d62728",
-    "nok" : null
-  }, {
     "id" : "2016-665571",
     "name" : "2016-665571 (Contract notice)",
     "group" : 1,
     "color" : "#f0f921",
     "nok" : 280000000
-  }, {
-    "id" : "2020-308774",
-    "name" : "2020-308774 (null)",
-    "group" : 1,
-    "color" : "#d62728",
-    "nok" : null
-  }, {
-    "id" : "2024-100693",
-    "name" : "2024-100693 (null)",
-    "group" : 1,
-    "color" : "#d62728",
-    "nok" : null
   }, {
     "id" : "366644-2010",
     "name" : "366644-2010 (Contract award)",
@@ -288,22 +222,10 @@
     "color" : "#4caf50",
     "nok" : null
   }, {
-    "id" : "2020-315257",
-    "name" : "2020-315257 (null)",
-    "group" : 1,
-    "color" : "#d62728",
-    "nok" : null
-  }, {
     "id" : "239395-2010",
     "name" : "239395-2010 (Contract award)",
     "group" : 1,
     "color" : "#4caf50",
-    "nok" : null
-  }, {
-    "id" : "454995-2020",
-    "name" : "454995-2020 (null)",
-    "group" : 1,
-    "color" : "#d62728",
     "nok" : null
   }, {
     "id" : "2003-224157",
@@ -346,12 +268,6 @@
     "name" : "2016-781698 (Contract award)",
     "group" : 1,
     "color" : "#4caf50",
-    "nok" : null
-  }, {
-    "id" : "2020-334071",
-    "name" : "2020-334071 (null)",
-    "group" : 1,
-    "color" : "#d62728",
     "nok" : null
   }, {
     "id" : "255337-2010",
@@ -402,12 +318,6 @@
     "color" : "#4caf50",
     "nok" : 498355652
   }, {
-    "id" : "2020-337261",
-    "name" : "2020-337261 (null)",
-    "group" : 1,
-    "color" : "#d62728",
-    "nok" : null
-  }, {
     "id" : "285326-2009",
     "name" : "285326-2009 (Contract notice)",
     "group" : 1,
@@ -449,18 +359,6 @@
     "group" : 1,
     "color" : "#4caf50",
     "nok" : 750000000
-  }, {
-    "id" : "2017-171484",
-    "name" : "2017-171484 (null)",
-    "group" : 1,
-    "color" : "#d62728",
-    "nok" : null
-  }, {
-    "id" : "2020-384325",
-    "name" : "2020-384325 (null)",
-    "group" : 1,
-    "color" : "#d62728",
-    "nok" : null
   }, {
     "id" : "327963-2009",
     "name" : "327963-2009 (Contract notice)",
@@ -504,18 +402,6 @@
     "color" : "#4caf50",
     "nok" : 220000000
   }, {
-    "id" : "2017-211563",
-    "name" : "2017-211563 (null)",
-    "group" : 1,
-    "color" : "#d62728",
-    "nok" : null
-  }, {
-    "id" : "2021-331250",
-    "name" : "2021-331250 (null)",
-    "group" : 1,
-    "color" : "#d62728",
-    "nok" : null
-  }, {
     "id" : "329262-2009",
     "name" : "329262-2009 (Contract notice)",
     "group" : 1,
@@ -556,18 +442,6 @@
     "name" : "2016-070892 (Contract notice)",
     "group" : 1,
     "color" : "#f0f921",
-    "nok" : null
-  }, {
-    "id" : "2017-543695",
-    "name" : "2017-543695 (null)",
-    "group" : 1,
-    "color" : "#d62728",
-    "nok" : null
-  }, {
-    "id" : "2021-359337",
-    "name" : "2021-359337 (null)",
-    "group" : 1,
-    "color" : "#d62728",
     "nok" : null
   }, {
     "id" : "329263-2009",
@@ -611,18 +485,6 @@
     "group" : 1,
     "color" : "#f0f921",
     "nok" : 640000000
-  }, {
-    "id" : "2018-307274",
-    "name" : "2018-307274 (null)",
-    "group" : 1,
-    "color" : "#d62728",
-    "nok" : null
-  }, {
-    "id" : "2021-366193",
-    "name" : "2021-366193 (null)",
-    "group" : 1,
-    "color" : "#d62728",
-    "nok" : null
   }, {
     "id" : "329264-2009",
     "name" : "329264-2009 (Contract notice)",
@@ -1256,10 +1118,6 @@
   } ],
   "links" : [ {
     "source" : "NAV",
-    "target" : "087031-2019",
-    "value" : 10
-  }, {
-    "source" : "NAV",
     "target" : "2004-758811",
     "value" : 10
   }, {
@@ -1281,14 +1139,6 @@
   }, {
     "source" : "NAV",
     "target" : "2016-344436",
-    "value" : 10
-  }, {
-    "source" : "NAV",
-    "target" : "2019-345499",
-    "value" : 10
-  }, {
-    "source" : "NAV",
-    "target" : "2021-393666",
     "value" : 10
   }, {
     "source" : "NAV",
@@ -1324,14 +1174,6 @@
     "value" : 10
   }, {
     "source" : "NAV",
-    "target" : "2019-372687",
-    "value" : 10
-  }, {
-    "source" : "NAV",
-    "target" : "2023-601022",
-    "value" : 10
-  }, {
-    "source" : "NAV",
     "target" : "330718-2009",
     "value" : 10
   }, {
@@ -1364,19 +1206,7 @@
     "value" : 10
   }, {
     "source" : "NAV",
-    "target" : "2019-391203",
-    "value" : 10
-  }, {
-    "source" : "NAV",
-    "target" : "2023-668270",
-    "value" : 10
-  }, {
-    "source" : "NAV",
     "target" : "343149-2011",
-    "value" : 10
-  }, {
-    "source" : "NAV",
-    "target" : "149049-2023",
     "value" : 10
   }, {
     "source" : "NAV",
@@ -1396,19 +1226,7 @@
     "value" : 10
   }, {
     "source" : "NAV",
-    "target" : "2015-156895",
-    "value" : 10
-  }, {
-    "source" : "NAV",
     "target" : "2016-665571",
-    "value" : 10
-  }, {
-    "source" : "NAV",
-    "target" : "2020-308774",
-    "value" : 10
-  }, {
-    "source" : "NAV",
-    "target" : "2024-100693",
     "value" : 10
   }, {
     "source" : "NAV",
@@ -1444,15 +1262,7 @@
     "value" : 10
   }, {
     "source" : "NAV",
-    "target" : "2020-315257",
-    "value" : 10
-  }, {
-    "source" : "NAV",
     "target" : "239395-2010",
-    "value" : 10
-  }, {
-    "source" : "NAV",
-    "target" : "454995-2020",
     "value" : 10
   }, {
     "source" : "NAV",
@@ -1481,10 +1291,6 @@
   }, {
     "source" : "NAV",
     "target" : "2016-781698",
-    "value" : 10
-  }, {
-    "source" : "NAV",
-    "target" : "2020-334071",
     "value" : 10
   }, {
     "source" : "NAV",
@@ -1520,10 +1326,6 @@
     "value" : 10
   }, {
     "source" : "NAV",
-    "target" : "2020-337261",
-    "value" : 10
-  }, {
-    "source" : "NAV",
     "target" : "285326-2009",
     "value" : 10
   }, {
@@ -1549,14 +1351,6 @@
   }, {
     "source" : "NAV",
     "target" : "2015-512386",
-    "value" : 10
-  }, {
-    "source" : "NAV",
-    "target" : "2017-171484",
-    "value" : 10
-  }, {
-    "source" : "NAV",
-    "target" : "2020-384325",
     "value" : 10
   }, {
     "source" : "NAV",
@@ -1588,14 +1382,6 @@
     "value" : 10
   }, {
     "source" : "NAV",
-    "target" : "2017-211563",
-    "value" : 10
-  }, {
-    "source" : "NAV",
-    "target" : "2021-331250",
-    "value" : 10
-  }, {
-    "source" : "NAV",
     "target" : "329262-2009",
     "value" : 10
   }, {
@@ -1624,14 +1410,6 @@
     "value" : 10
   }, {
     "source" : "NAV",
-    "target" : "2017-543695",
-    "value" : 10
-  }, {
-    "source" : "NAV",
-    "target" : "2021-359337",
-    "value" : 10
-  }, {
-    "source" : "NAV",
     "target" : "329263-2009",
     "value" : 10
   }, {
@@ -1657,14 +1435,6 @@
   }, {
     "source" : "NAV",
     "target" : "2016-082071",
-    "value" : 10
-  }, {
-    "source" : "NAV",
-    "target" : "2018-307274",
-    "value" : 10
-  }, {
-    "source" : "NAV",
-    "target" : "2021-366193",
     "value" : 10
   }, {
     "source" : "NAV",
