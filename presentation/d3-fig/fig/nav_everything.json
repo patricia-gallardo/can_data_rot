@@ -6,29 +6,53 @@
     "color" : "#FF00FF",
     "nok" : null
   }, {
-    "id" : "2004-758811",
-    "name" : "2004-758811 (Contract notice)",
+    "id" : "2013-307839",
+    "name" : "2013-307839 (Contract notice)",
     "group" : 1,
     "color" : "#f0f921",
-    "nok" : null
+    "nok" : 432000000
   }, {
-    "id" : "2008-306918",
-    "name" : "2008-306918 (Contract award)",
+    "id" : "2013-281292",
+    "name" : "2013-281292 (Contract award)",
     "group" : 1,
     "color" : "#4caf50",
     "nok" : null
   }, {
-    "id" : "2009-564426",
-    "name" : "2009-564426 (Contract notice)",
+    "id" : "350607-2013",
+    "name" : "350607-2013 (Contract notice)",
     "group" : 1,
-    "color" : "#f0f921",
-    "nok" : 120000000
+    "color" : "#ff7f0e",
+    "nok" : 432000000
   }, {
-    "id" : "2011-777247",
-    "name" : "2011-777247 (Contract award)",
+    "id" : "2013-321081",
+    "name" : "2013-321081 (Additional information)",
+    "group" : 1,
+    "color" : "#1f77b4",
+    "nok" : null
+  }, {
+    "id" : "039829-2013",
+    "name" : "039829-2013 (Contract award)",
+    "group" : 1,
+    "color" : "#2a788e",
+    "nok" : null
+  }, {
+    "id" : "039828-2013",
+    "name" : "039828-2013 (Contract award)",
+    "group" : 1,
+    "color" : "#2a788e",
+    "nok" : 40000000
+  }, {
+    "id" : "2013-281148",
+    "name" : "2013-281148 (Contract award)",
     "group" : 1,
     "color" : "#4caf50",
-    "nok" : 920000000
+    "nok" : 40000000
+  }, {
+    "id" : "286805-2014",
+    "name" : "286805-2014 (Contract notice)",
+    "group" : 1,
+    "color" : "#ff7f0e",
+    "nok" : 220000000
   }, {
     "id" : "2014-888660",
     "name" : "2014-888660 (Contract notice)",
@@ -36,179 +60,41 @@
     "color" : "#f0f921",
     "nok" : 600000000
   }, {
-    "id" : "2016-344436",
-    "name" : "2016-344436 (Contract notice)",
-    "group" : 1,
-    "color" : "#f0f921",
-    "nok" : 280000000
-  }, {
-    "id" : "329920-2010",
-    "name" : "329920-2010 (Contract award)",
+    "id" : "193354-2014",
+    "name" : "193354-2014 (Contract award)",
     "group" : 1,
     "color" : "#2a788e",
+    "nok" : 404238932
+  }, {
+    "id" : "2014-398870",
+    "name" : "2014-398870 (Contract notice)",
+    "group" : 1,
+    "color" : "#f0f921",
     "nok" : null
   }, {
-    "id" : "101167-2011",
-    "name" : "101167-2011 (Contract notice)",
+    "id" : "2014-410278",
+    "name" : "2014-410278 (Contract notice)",
+    "group" : 1,
+    "color" : "#f0f921",
+    "nok" : 220000000
+  }, {
+    "id" : "2014-607651",
+    "name" : "2014-607651 (Contract award)",
+    "group" : 1,
+    "color" : "#4caf50",
+    "nok" : 404238932
+  }, {
+    "id" : "214426-2014",
+    "name" : "214426-2014 (Contract notice)",
     "group" : 1,
     "color" : "#ff7f0e",
-    "nok" : 920000000
-  }, {
-    "id" : "2005-403461",
-    "name" : "2005-403461 (Contract award)",
-    "group" : 1,
-    "color" : "#4caf50",
     "nok" : null
   }, {
-    "id" : "2008-525251",
-    "name" : "2008-525251 (Contract award)",
-    "group" : 1,
-    "color" : "#4caf50",
-    "nok" : null
-  }, {
-    "id" : "2009-928327",
-    "name" : "2009-928327 (Contract notice)",
-    "group" : 1,
-    "color" : "#f0f921",
-    "nok" : 420000000
-  }, {
-    "id" : "2011-910767",
-    "name" : "2011-910767 (Contract notice)",
-    "group" : 1,
-    "color" : "#f0f921",
-    "nok" : 300000000
-  }, {
-    "id" : "2015-103735",
-    "name" : "2015-103735 (Contract award)",
-    "group" : 1,
-    "color" : "#4caf50",
-    "nok" : null
-  }, {
-    "id" : "2016-404263",
-    "name" : "2016-404263 (Contract award)",
-    "group" : 1,
-    "color" : "#4caf50",
-    "nok" : 641099270
-  }, {
-    "id" : "330718-2009",
-    "name" : "330718-2009 (Contract notice)",
+    "id" : "170406-2014",
+    "name" : "170406-2014 (Contract notice)",
     "group" : 1,
     "color" : "#ff7f0e",
-    "nok" : 120000000
-  }, {
-    "id" : "107172-2015",
-    "name" : "107172-2015 (Contract notice)",
-    "group" : 1,
-    "color" : "#ff7f0e",
-    "nok" : 1473600000
-  }, {
-    "id" : "2005-656943",
-    "name" : "2005-656943 (Contract notice)",
-    "group" : 1,
-    "color" : "#f0f921",
-    "nok" : null
-  }, {
-    "id" : "2009-104423",
-    "name" : "2009-104423 (Contract notice)",
-    "group" : 1,
-    "color" : "#f0f921",
-    "nok" : 120000000
-  }, {
-    "id" : "2009-960559",
-    "name" : "2009-960559 (Contract notice)",
-    "group" : 1,
-    "color" : "#f0f921",
-    "nok" : 102000000
-  }, {
-    "id" : "2012-255539",
-    "name" : "2012-255539 (Contract award)",
-    "group" : 1,
-    "color" : "#4caf50",
-    "nok" : null
-  }, {
-    "id" : "2015-113743",
-    "name" : "2015-113743 (Contract notice)",
-    "group" : 1,
-    "color" : "#f0f921",
-    "nok" : null
-  }, {
-    "id" : "2016-573035",
-    "name" : "2016-573035 (Additional information)",
-    "group" : 1,
-    "color" : "#1f77b4",
-    "nok" : null
-  }, {
-    "id" : "343149-2011",
-    "name" : "343149-2011 (Contract notice)",
-    "group" : 1,
-    "color" : "#ff7f0e",
-    "nok" : 300000000
-  }, {
-    "id" : "2005-728398",
-    "name" : "2005-728398 (Contract award)",
-    "group" : 1,
-    "color" : "#4caf50",
-    "nok" : null
-  }, {
-    "id" : "2009-105937",
-    "name" : "2009-105937 (Contract notice)",
-    "group" : 1,
-    "color" : "#f0f921",
-    "nok" : 102000000
-  }, {
-    "id" : "2010-362225",
-    "name" : "2010-362225 (Contract award)",
-    "group" : 1,
-    "color" : "#4caf50",
-    "nok" : 330000000
-  }, {
-    "id" : "2012-264355",
-    "name" : "2012-264355 (Contract notice)",
-    "group" : 1,
-    "color" : "#f0f921",
-    "nok" : 32000000
-  }, {
-    "id" : "2016-665571",
-    "name" : "2016-665571 (Contract notice)",
-    "group" : 1,
-    "color" : "#f0f921",
-    "nok" : 280000000
-  }, {
-    "id" : "366644-2010",
-    "name" : "366644-2010 (Contract award)",
-    "group" : 1,
-    "color" : "#2a788e",
-    "nok" : null
-  }, {
-    "id" : "184820-2010",
-    "name" : "184820-2010 (Additional information)",
-    "group" : 1,
-    "color" : "#1f77b4",
-    "nok" : null
-  }, {
-    "id" : "2005-939340",
-    "name" : "2005-939340 (Contract notice)",
-    "group" : 1,
-    "color" : "#f0f921",
-    "nok" : null
-  }, {
-    "id" : "2009-228412",
-    "name" : "2009-228412 (Contract notice)",
-    "group" : 1,
-    "color" : "#f0f921",
-    "nok" : 240000000
-  }, {
-    "id" : "2010-565374",
-    "name" : "2010-565374 (Contract award)",
-    "group" : 1,
-    "color" : "#4caf50",
-    "nok" : null
-  }, {
-    "id" : "2012-266032",
-    "name" : "2012-266032 (Contract notice)",
-    "group" : 1,
-    "color" : "#f0f921",
-    "nok" : 12000000
+    "nok" : 600000000
   }, {
     "id" : "2015-307826",
     "name" : "2015-307826 (Contract notice)",
@@ -216,20 +102,170 @@
     "color" : "#f0f921",
     "nok" : 152000000
   }, {
-    "id" : "2016-701898",
-    "name" : "2016-701898 (Contract award)",
+    "id" : "2015-113743",
+    "name" : "2015-113743 (Contract notice)",
+    "group" : 1,
+    "color" : "#f0f921",
+    "nok" : null
+  }, {
+    "id" : "2015-103735",
+    "name" : "2015-103735 (Contract award)",
     "group" : 1,
     "color" : "#4caf50",
     "nok" : null
   }, {
-    "id" : "239395-2010",
-    "name" : "239395-2010 (Contract award)",
+    "id" : "2015-512386",
+    "name" : "2015-512386 (Contract award)",
+    "group" : 1,
+    "color" : "#4caf50",
+    "nok" : 750000000
+  }, {
+    "id" : "2015-828848",
+    "name" : "2015-828848 (Additional information)",
+    "group" : 1,
+    "color" : "#1f77b4",
+    "nok" : null
+  }, {
+    "id" : "174732-2015",
+    "name" : "174732-2015 (Contract notice)",
+    "group" : 1,
+    "color" : "#ff7f0e",
+    "nok" : 152000000
+  }, {
+    "id" : "107172-2015",
+    "name" : "107172-2015 (Contract notice)",
+    "group" : 1,
+    "color" : "#ff7f0e",
+    "nok" : 1473600000
+  }, {
+    "id" : "431381-2015",
+    "name" : "431381-2015 (Contract notice)",
+    "group" : 1,
+    "color" : "#ff7f0e",
+    "nok" : null
+  }, {
+    "id" : "2015-661253",
+    "name" : "2015-661253 (Contract award)",
+    "group" : 1,
+    "color" : "#4caf50",
+    "nok" : 220000000
+  }, {
+    "id" : "2015-322128",
+    "name" : "2015-322128 (Contract award)",
+    "group" : 1,
+    "color" : "#4caf50",
+    "nok" : 211864477
+  }, {
+    "id" : "2015-340383",
+    "name" : "2015-340383 (Contract notice)",
+    "group" : 1,
+    "color" : "#f0f921",
+    "nok" : 1473600000
+  }, {
+    "id" : "274297-2012",
+    "name" : "274297-2012 (Contract notice)",
+    "group" : 1,
+    "color" : "#ff7f0e",
+    "nok" : 12000000
+  }, {
+    "id" : "2012-409953",
+    "name" : "2012-409953 (Additional information)",
+    "group" : 1,
+    "color" : "#1f77b4",
+    "nok" : null
+  }, {
+    "id" : "303163-2012",
+    "name" : "303163-2012 (Contract notice)",
+    "group" : 1,
+    "color" : "#ff7f0e",
+    "nok" : 30000000
+  }, {
+    "id" : "2012-266882",
+    "name" : "2012-266882 (Contract notice)",
+    "group" : 1,
+    "color" : "#f0f921",
+    "nok" : 12000000
+  }, {
+    "id" : "119079-2012",
+    "name" : "119079-2012 (Contract award)",
     "group" : 1,
     "color" : "#2a788e",
     "nok" : null
   }, {
-    "id" : "2003-224157",
-    "name" : "2003-224157 (Contract award)",
+    "id" : "2012-267534",
+    "name" : "2012-267534 (Contract notice)",
+    "group" : 1,
+    "color" : "#f0f921",
+    "nok" : 12000000
+  }, {
+    "id" : "291864-2012",
+    "name" : "291864-2012 (Contract notice)",
+    "group" : 1,
+    "color" : "#ff7f0e",
+    "nok" : 12000000
+  }, {
+    "id" : "2012-264355",
+    "name" : "2012-264355 (Contract notice)",
+    "group" : 1,
+    "color" : "#f0f921",
+    "nok" : 32000000
+  }, {
+    "id" : "2012-266032",
+    "name" : "2012-266032 (Contract notice)",
+    "group" : 1,
+    "color" : "#f0f921",
+    "nok" : 12000000
+  }, {
+    "id" : "264548-2012",
+    "name" : "264548-2012 (Prior information notice without call for competition)",
+    "group" : 1,
+    "color" : "#1f77b4",
+    "nok" : null
+  }, {
+    "id" : "2012-102241",
+    "name" : "2012-102241 (Additional information)",
+    "group" : 1,
+    "color" : "#1f77b4",
+    "nok" : null
+  }, {
+    "id" : "246258-2012",
+    "name" : "246258-2012 (Contract notice)",
+    "group" : 1,
+    "color" : "#ff7f0e",
+    "nok" : 32000000
+  }, {
+    "id" : "2012-265312",
+    "name" : "2012-265312 (Prior information notice without call for competition)",
+    "group" : 1,
+    "color" : "#1f77b4",
+    "nok" : null
+  }, {
+    "id" : "2012-255539",
+    "name" : "2012-255539 (Contract award)",
+    "group" : 1,
+    "color" : "#4caf50",
+    "nok" : null
+  }, {
+    "id" : "287834-2012",
+    "name" : "287834-2012 (Contract notice)",
+    "group" : 1,
+    "color" : "#ff7f0e",
+    "nok" : 12000000
+  }, {
+    "id" : "2012-268087",
+    "name" : "2012-268087 (Contract notice)",
+    "group" : 1,
+    "color" : "#f0f921",
+    "nok" : 30000000
+  }, {
+    "id" : "2008-525251",
+    "name" : "2008-525251 (Contract award)",
+    "group" : 1,
+    "color" : "#4caf50",
+    "nok" : null
+  }, {
+    "id" : "2008-306918",
+    "name" : "2008-306918 (Contract award)",
     "group" : 1,
     "color" : "#4caf50",
     "nok" : null
@@ -240,94 +276,16 @@
     "color" : "#4caf50",
     "nok" : null
   }, {
-    "id" : "2009-266589",
-    "name" : "2009-266589 (Contract notice)",
-    "group" : 1,
-    "color" : "#f0f921",
-    "nok" : 240000000
-  }, {
-    "id" : "2010-661038",
-    "name" : "2010-661038 (Contract notice)",
-    "group" : 1,
-    "color" : "#f0f921",
-    "nok" : 495000
-  }, {
-    "id" : "2013-281148",
-    "name" : "2013-281148 (Contract award)",
-    "group" : 1,
-    "color" : "#4caf50",
-    "nok" : 40000000
-  }, {
-    "id" : "2015-322128",
-    "name" : "2015-322128 (Contract award)",
-    "group" : 1,
-    "color" : "#4caf50",
-    "nok" : 211864477
-  }, {
-    "id" : "2016-781698",
-    "name" : "2016-781698 (Contract award)",
-    "group" : 1,
-    "color" : "#4caf50",
-    "nok" : null
-  }, {
-    "id" : "255337-2010",
-    "name" : "255337-2010 (Contract notice)",
-    "group" : 1,
-    "color" : "#ff7f0e",
-    "nok" : 495000
-  }, {
-    "id" : "2003-412524",
-    "name" : "2003-412524 (Contract award)",
-    "group" : 1,
-    "color" : "#4caf50",
-    "nok" : null
-  }, {
     "id" : "2006-814012",
     "name" : "2006-814012 (Contract notice)",
     "group" : 1,
     "color" : "#f0f921",
     "nok" : null
   }, {
-    "id" : "2009-332068",
-    "name" : "2009-332068 (Contract notice)",
+    "id" : "2007-828229",
+    "name" : "2007-828229 (Additional information)",
     "group" : 1,
-    "color" : "#f0f921",
-    "nok" : 210000000
-  }, {
-    "id" : "2010-751604",
-    "name" : "2010-751604 (Contract award)",
-    "group" : 1,
-    "color" : "#4caf50",
-    "nok" : 200000000
-  }, {
-    "id" : "2013-281292",
-    "name" : "2013-281292 (Contract award)",
-    "group" : 1,
-    "color" : "#4caf50",
-    "nok" : null
-  }, {
-    "id" : "2015-340383",
-    "name" : "2015-340383 (Contract notice)",
-    "group" : 1,
-    "color" : "#f0f921",
-    "nok" : 1473600000
-  }, {
-    "id" : "2016-826862",
-    "name" : "2016-826862 (Contract award)",
-    "group" : 1,
-    "color" : "#4caf50",
-    "nok" : 498355652
-  }, {
-    "id" : "285326-2009",
-    "name" : "285326-2009 (Contract notice)",
-    "group" : 1,
-    "color" : "#ff7f0e",
-    "nok" : 102000000
-  }, {
-    "id" : "2003-433664",
-    "name" : "2003-433664 (Contract award)",
-    "group" : 1,
-    "color" : "#4caf50",
+    "color" : "#1f77b4",
     "nok" : null
   }, {
     "id" : "2007-561299",
@@ -336,83 +294,11 @@
     "color" : "#f0f921",
     "nok" : 20000000
   }, {
-    "id" : "2009-431850",
-    "name" : "2009-431850 (Contract notice)",
-    "group" : 1,
-    "color" : "#f0f921",
-    "nok" : 102000000
-  }, {
-    "id" : "2010-872701",
-    "name" : "2010-872701 (Contract award)",
-    "group" : 1,
-    "color" : "#4caf50",
-    "nok" : 90000000
-  }, {
-    "id" : "2013-307839",
-    "name" : "2013-307839 (Contract notice)",
-    "group" : 1,
-    "color" : "#f0f921",
-    "nok" : 432000000
-  }, {
-    "id" : "2015-512386",
-    "name" : "2015-512386 (Contract award)",
-    "group" : 1,
-    "color" : "#4caf50",
-    "nok" : 750000000
-  }, {
-    "id" : "327963-2009",
-    "name" : "327963-2009 (Contract notice)",
-    "group" : 1,
-    "color" : "#ff7f0e",
-    "nok" : 420000000
-  }, {
-    "id" : "2003-688176",
-    "name" : "2003-688176 (Contract notice)",
-    "group" : 1,
-    "color" : "#f0f921",
-    "nok" : null
-  }, {
     "id" : "2007-596014",
     "name" : "2007-596014 (Contract notice)",
     "group" : 1,
     "color" : "#f0f921",
     "nok" : 200000000
-  }, {
-    "id" : "2009-472406",
-    "name" : "2009-472406 (Contract notice)",
-    "group" : 1,
-    "color" : "#f0f921",
-    "nok" : 120000000
-  }, {
-    "id" : "2010-937025",
-    "name" : "2010-937025 (Contract award)",
-    "group" : 1,
-    "color" : "#4caf50",
-    "nok" : 190000000
-  }, {
-    "id" : "2014-398870",
-    "name" : "2014-398870 (Contract notice)",
-    "group" : 1,
-    "color" : "#f0f921",
-    "nok" : null
-  }, {
-    "id" : "2015-661253",
-    "name" : "2015-661253 (Contract award)",
-    "group" : 1,
-    "color" : "#4caf50",
-    "nok" : 220000000
-  }, {
-    "id" : "329262-2009",
-    "name" : "329262-2009 (Contract notice)",
-    "group" : 1,
-    "color" : "#ff7f0e",
-    "nok" : 210000000
-  }, {
-    "id" : "2004-482951",
-    "name" : "2004-482951 (Contract award)",
-    "group" : 1,
-    "color" : "#4caf50",
-    "nok" : null
   }, {
     "id" : "2007-910896",
     "name" : "2007-910896 (Contract notice)",
@@ -420,40 +306,22 @@
     "color" : "#f0f921",
     "nok" : null
   }, {
-    "id" : "2009-529000",
-    "name" : "2009-529000 (Contract notice)",
+    "id" : "2007-461550",
+    "name" : "2007-461550 (Additional information)",
     "group" : 1,
-    "color" : "#f0f921",
-    "nok" : 420000000
-  }, {
-    "id" : "2010-956101",
-    "name" : "2010-956101 (Contract award)",
-    "group" : 1,
-    "color" : "#4caf50",
-    "nok" : 150000000
-  }, {
-    "id" : "2014-410278",
-    "name" : "2014-410278 (Contract notice)",
-    "group" : 1,
-    "color" : "#f0f921",
-    "nok" : 220000000
-  }, {
-    "id" : "2016-070892",
-    "name" : "2016-070892 (Contract notice)",
-    "group" : 1,
-    "color" : "#f0f921",
+    "color" : "#1f77b4",
     "nok" : null
   }, {
-    "id" : "329263-2009",
-    "name" : "329263-2009 (Contract notice)",
+    "id" : "2007-441251",
+    "name" : "2007-441251 (Additional information)",
     "group" : 1,
-    "color" : "#ff7f0e",
-    "nok" : 240000000
+    "color" : "#1f77b4",
+    "nok" : null
   }, {
-    "id" : "2004-632638",
-    "name" : "2004-632638 (Contract notice)",
+    "id" : "2007-521466",
+    "name" : "2007-521466 (Additional information)",
     "group" : 1,
-    "color" : "#f0f921",
+    "color" : "#1f77b4",
     "nok" : null
   }, {
     "id" : "2007-958909",
@@ -462,38 +330,50 @@
     "color" : "#4caf50",
     "nok" : null
   }, {
-    "id" : "2009-563552",
-    "name" : "2009-563552 (Contract notice)",
+    "id" : "297607-2007",
+    "name" : "297607-2007 (Contract notice)",
+    "group" : 1,
+    "color" : "#ff7f0e",
+    "nok" : 200000000
+  }, {
+    "id" : "2007-100659",
+    "name" : "2007-100659 (Additional information)",
+    "group" : 1,
+    "color" : "#1f77b4",
+    "nok" : null
+  }, {
+    "id" : "2009-432740",
+    "name" : "2009-432740 (Additional information)",
+    "group" : 1,
+    "color" : "#1f77b4",
+    "nok" : null
+  }, {
+    "id" : "302292-2009",
+    "name" : "302292-2009 (Contract notice)",
+    "group" : 1,
+    "color" : "#ff7f0e",
+    "nok" : 210000000
+  }, {
+    "id" : "2009-901066",
+    "name" : "2009-901066 (Additional information)",
+    "group" : 1,
+    "color" : "#1f77b4",
+    "nok" : null
+  }, {
+    "id" : "2009-332068",
+    "name" : "2009-332068 (Contract notice)",
     "group" : 1,
     "color" : "#f0f921",
     "nok" : 210000000
   }, {
-    "id" : "2011-240721",
-    "name" : "2011-240721 (Contract notice)",
-    "group" : 1,
-    "color" : "#f0f921",
-    "nok" : 920000000
-  }, {
-    "id" : "2014-607651",
-    "name" : "2014-607651 (Contract award)",
-    "group" : 1,
-    "color" : "#4caf50",
-    "nok" : 404238932
-  }, {
-    "id" : "2016-082071",
-    "name" : "2016-082071 (Contract notice)",
-    "group" : 1,
-    "color" : "#f0f921",
-    "nok" : 640000000
-  }, {
-    "id" : "329264-2009",
-    "name" : "329264-2009 (Contract notice)",
+    "id" : "289873-2009",
+    "name" : "289873-2009 (Contract notice)",
     "group" : 1,
     "color" : "#ff7f0e",
-    "nok" : 120000000
+    "nok" : 102000000
   }, {
-    "id" : "161942-2009",
-    "name" : "161942-2009 (Prior information notice without call for competition)",
+    "id" : "2009-506747",
+    "name" : "2009-506747 (Additional information)",
     "group" : 1,
     "color" : "#1f77b4",
     "nok" : null
@@ -504,59 +384,545 @@
     "color" : "#ff7f0e",
     "nok" : 102000000
   }, {
-    "id" : "246258-2012",
-    "name" : "246258-2012 (Contract notice)",
-    "group" : 1,
-    "color" : "#ff7f0e",
-    "nok" : 32000000
-  }, {
-    "id" : "264548-2012",
-    "name" : "264548-2012 (Prior information notice without call for competition)",
+    "id" : "2009-880381",
+    "name" : "2009-880381 (Additional information)",
     "group" : 1,
     "color" : "#1f77b4",
     "nok" : null
   }, {
-    "id" : "274297-2012",
-    "name" : "274297-2012 (Contract notice)",
+    "id" : "2009-529000",
+    "name" : "2009-529000 (Contract notice)",
     "group" : 1,
-    "color" : "#ff7f0e",
-    "nok" : 12000000
+    "color" : "#f0f921",
+    "nok" : 420000000
   }, {
-    "id" : "170406-2014",
-    "name" : "170406-2014 (Contract notice)",
+    "id" : "2009-673942",
+    "name" : "2009-673942 (Prior information notice without call for competition)",
     "group" : 1,
-    "color" : "#ff7f0e",
-    "nok" : 600000000
-  }, {
-    "id" : "214426-2014",
-    "name" : "214426-2014 (Contract notice)",
-    "group" : 1,
-    "color" : "#ff7f0e",
+    "color" : "#1f77b4",
     "nok" : null
   }, {
-    "id" : "286805-2014",
-    "name" : "286805-2014 (Contract notice)",
+    "id" : "2009-464110",
+    "name" : "2009-464110 (Additional information)",
     "group" : 1,
-    "color" : "#ff7f0e",
-    "nok" : 220000000
-  }, {
-    "id" : "174732-2015",
-    "name" : "174732-2015 (Contract notice)",
-    "group" : 1,
-    "color" : "#ff7f0e",
-    "nok" : 152000000
-  }, {
-    "id" : "431381-2015",
-    "name" : "431381-2015 (Contract notice)",
-    "group" : 1,
-    "color" : "#ff7f0e",
+    "color" : "#1f77b4",
     "nok" : null
   }, {
-    "id" : "020995-2016",
-    "name" : "020995-2016 (Contract notice)",
+    "id" : "2009-431850",
+    "name" : "2009-431850 (Contract notice)",
+    "group" : 1,
+    "color" : "#f0f921",
+    "nok" : 102000000
+  }, {
+    "id" : "2009-738364",
+    "name" : "2009-738364 (Additional information)",
+    "group" : 1,
+    "color" : "#1f77b4",
+    "nok" : null
+  }, {
+    "id" : "2009-266589",
+    "name" : "2009-266589 (Contract notice)",
+    "group" : 1,
+    "color" : "#f0f921",
+    "nok" : 240000000
+  }, {
+    "id" : "2009-316085",
+    "name" : "2009-316085 (Additional information)",
+    "group" : 1,
+    "color" : "#1f77b4",
+    "nok" : null
+  }, {
+    "id" : "2009-472406",
+    "name" : "2009-472406 (Contract notice)",
+    "group" : 1,
+    "color" : "#f0f921",
+    "nok" : 120000000
+  }, {
+    "id" : "335293-2009",
+    "name" : "335293-2009 (Contract notice)",
     "group" : 1,
     "color" : "#ff7f0e",
+    "nok" : 150000000
+  }, {
+    "id" : "2009-613225",
+    "name" : "2009-613225 (Additional information)",
+    "group" : 1,
+    "color" : "#1f77b4",
+    "nok" : null
+  }, {
+    "id" : "2009-965224",
+    "name" : "2009-965224 (Additional information)",
+    "group" : 1,
+    "color" : "#1f77b4",
+    "nok" : null
+  }, {
+    "id" : "2009-710908",
+    "name" : "2009-710908 (Additional information)",
+    "group" : 1,
+    "color" : "#1f77b4",
+    "nok" : null
+  }, {
+    "id" : "2009-960559",
+    "name" : "2009-960559 (Contract notice)",
+    "group" : 1,
+    "color" : "#f0f921",
+    "nok" : 102000000
+  }, {
+    "id" : "2009-928327",
+    "name" : "2009-928327 (Contract notice)",
+    "group" : 1,
+    "color" : "#f0f921",
+    "nok" : 420000000
+  }, {
+    "id" : "2009-563552",
+    "name" : "2009-563552 (Contract notice)",
+    "group" : 1,
+    "color" : "#f0f921",
+    "nok" : 210000000
+  }, {
+    "id" : "2009-156040",
+    "name" : "2009-156040 (Additional information)",
+    "group" : 1,
+    "color" : "#1f77b4",
+    "nok" : null
+  }, {
+    "id" : "2009-672437",
+    "name" : "2009-672437 (Additional information)",
+    "group" : 1,
+    "color" : "#1f77b4",
+    "nok" : null
+  }, {
+    "id" : "2009-485629",
+    "name" : "2009-485629 (Additional information)",
+    "group" : 1,
+    "color" : "#1f77b4",
+    "nok" : null
+  }, {
+    "id" : "2009-521959",
+    "name" : "2009-521959 (Additional information)",
+    "group" : 1,
+    "color" : "#1f77b4",
+    "nok" : null
+  }, {
+    "id" : "327963-2009",
+    "name" : "327963-2009 (Contract notice)",
+    "group" : 1,
+    "color" : "#ff7f0e",
+    "nok" : 420000000
+  }, {
+    "id" : "2009-180018",
+    "name" : "2009-180018 (Contract notice)",
+    "group" : 1,
+    "color" : "#f0f921",
+    "nok" : 150000000
+  }, {
+    "id" : "310295-2009",
+    "name" : "310295-2009 (Contract notice)",
+    "group" : 1,
+    "color" : "#ff7f0e",
+    "nok" : 120000000
+  }, {
+    "id" : "2009-775394",
+    "name" : "2009-775394 (Additional information)",
+    "group" : 1,
+    "color" : "#1f77b4",
+    "nok" : null
+  }, {
+    "id" : "2009-564426",
+    "name" : "2009-564426 (Contract notice)",
+    "group" : 1,
+    "color" : "#f0f921",
+    "nok" : 120000000
+  }, {
+    "id" : "2009-741150",
+    "name" : "2009-741150 (Additional information)",
+    "group" : 1,
+    "color" : "#1f77b4",
+    "nok" : null
+  }, {
+    "id" : "329263-2009",
+    "name" : "329263-2009 (Contract notice)",
+    "group" : 1,
+    "color" : "#ff7f0e",
+    "nok" : 240000000
+  }, {
+    "id" : "329262-2009",
+    "name" : "329262-2009 (Contract notice)",
+    "group" : 1,
+    "color" : "#ff7f0e",
+    "nok" : 210000000
+  }, {
+    "id" : "2009-183073",
+    "name" : "2009-183073 (Additional information)",
+    "group" : 1,
+    "color" : "#1f77b4",
+    "nok" : null
+  }, {
+    "id" : "2009-789303",
+    "name" : "2009-789303 (Additional information)",
+    "group" : 1,
+    "color" : "#1f77b4",
+    "nok" : null
+  }, {
+    "id" : "312096-2009",
+    "name" : "312096-2009 (Contract notice)",
+    "group" : 1,
+    "color" : "#ff7f0e",
+    "nok" : 240000000
+  }, {
+    "id" : "2009-832953",
+    "name" : "2009-832953 (Additional information)",
+    "group" : 1,
+    "color" : "#1f77b4",
+    "nok" : null
+  }, {
+    "id" : "161942-2009",
+    "name" : "161942-2009 (Prior information notice without call for competition)",
+    "group" : 1,
+    "color" : "#1f77b4",
+    "nok" : null
+  }, {
+    "id" : "2009-982589",
+    "name" : "2009-982589 (Additional information)",
+    "group" : 1,
+    "color" : "#1f77b4",
+    "nok" : null
+  }, {
+    "id" : "329264-2009",
+    "name" : "329264-2009 (Contract notice)",
+    "group" : 1,
+    "color" : "#ff7f0e",
+    "nok" : 120000000
+  }, {
+    "id" : "2009-394908",
+    "name" : "2009-394908 (Additional information)",
+    "group" : 1,
+    "color" : "#1f77b4",
+    "nok" : null
+  }, {
+    "id" : "285326-2009",
+    "name" : "285326-2009 (Contract notice)",
+    "group" : 1,
+    "color" : "#ff7f0e",
+    "nok" : 102000000
+  }, {
+    "id" : "2009-151018",
+    "name" : "2009-151018 (Additional information)",
+    "group" : 1,
+    "color" : "#1f77b4",
+    "nok" : null
+  }, {
+    "id" : "2009-104423",
+    "name" : "2009-104423 (Contract notice)",
+    "group" : 1,
+    "color" : "#f0f921",
+    "nok" : 120000000
+  }, {
+    "id" : "2009-636026",
+    "name" : "2009-636026 (Additional information)",
+    "group" : 1,
+    "color" : "#1f77b4",
+    "nok" : null
+  }, {
+    "id" : "330718-2009",
+    "name" : "330718-2009 (Contract notice)",
+    "group" : 1,
+    "color" : "#ff7f0e",
+    "nok" : 120000000
+  }, {
+    "id" : "2009-621016",
+    "name" : "2009-621016 (Additional information)",
+    "group" : 1,
+    "color" : "#1f77b4",
+    "nok" : null
+  }, {
+    "id" : "296701-2009",
+    "name" : "296701-2009 (Contract notice)",
+    "group" : 1,
+    "color" : "#ff7f0e",
+    "nok" : 420000000
+  }, {
+    "id" : "2009-105937",
+    "name" : "2009-105937 (Contract notice)",
+    "group" : 1,
+    "color" : "#f0f921",
+    "nok" : 102000000
+  }, {
+    "id" : "2009-733577",
+    "name" : "2009-733577 (Additional information)",
+    "group" : 1,
+    "color" : "#1f77b4",
+    "nok" : null
+  }, {
+    "id" : "2009-321812",
+    "name" : "2009-321812 (Additional information)",
+    "group" : 1,
+    "color" : "#1f77b4",
+    "nok" : null
+  }, {
+    "id" : "2009-228412",
+    "name" : "2009-228412 (Contract notice)",
+    "group" : 1,
+    "color" : "#f0f921",
+    "nok" : 240000000
+  }, {
+    "id" : "2009-267259",
+    "name" : "2009-267259 (Additional information)",
+    "group" : 1,
+    "color" : "#1f77b4",
+    "nok" : null
+  }, {
+    "id" : "200541-2010",
+    "name" : "200541-2010 (Contract award)",
+    "group" : 1,
+    "color" : "#2a788e",
+    "nok" : null
+  }, {
+    "id" : "2010-661038",
+    "name" : "2010-661038 (Contract notice)",
+    "group" : 1,
+    "color" : "#f0f921",
+    "nok" : 495000
+  }, {
+    "id" : "255337-2010",
+    "name" : "255337-2010 (Contract notice)",
+    "group" : 1,
+    "color" : "#ff7f0e",
+    "nok" : 495000
+  }, {
+    "id" : "2010-872701",
+    "name" : "2010-872701 (Contract award)",
+    "group" : 1,
+    "color" : "#4caf50",
+    "nok" : 90000000
+  }, {
+    "id" : "184820-2010",
+    "name" : "184820-2010 (Additional information)",
+    "group" : 1,
+    "color" : "#1f77b4",
+    "nok" : null
+  }, {
+    "id" : "2010-956101",
+    "name" : "2010-956101 (Contract award)",
+    "group" : 1,
+    "color" : "#4caf50",
+    "nok" : 150000000
+  }, {
+    "id" : "236418-2010",
+    "name" : "236418-2010 (Contract award)",
+    "group" : 1,
+    "color" : "#2a788e",
+    "nok" : null
+  }, {
+    "id" : "2010-751604",
+    "name" : "2010-751604 (Contract award)",
+    "group" : 1,
+    "color" : "#4caf50",
+    "nok" : 200000000
+  }, {
+    "id" : "329920-2010",
+    "name" : "329920-2010 (Contract award)",
+    "group" : 1,
+    "color" : "#2a788e",
+    "nok" : null
+  }, {
+    "id" : "237835-2010",
+    "name" : "237835-2010 (Contract award)",
+    "group" : 1,
+    "color" : "#2a788e",
+    "nok" : null
+  }, {
+    "id" : "2010-362225",
+    "name" : "2010-362225 (Contract award)",
+    "group" : 1,
+    "color" : "#4caf50",
+    "nok" : 330000000
+  }, {
+    "id" : "2010-937025",
+    "name" : "2010-937025 (Contract award)",
+    "group" : 1,
+    "color" : "#4caf50",
+    "nok" : 190000000
+  }, {
+    "id" : "366644-2010",
+    "name" : "366644-2010 (Contract award)",
+    "group" : 1,
+    "color" : "#2a788e",
+    "nok" : null
+  }, {
+    "id" : "239395-2010",
+    "name" : "239395-2010 (Contract award)",
+    "group" : 1,
+    "color" : "#2a788e",
+    "nok" : null
+  }, {
+    "id" : "2010-565374",
+    "name" : "2010-565374 (Contract award)",
+    "group" : 1,
+    "color" : "#4caf50",
+    "nok" : null
+  }, {
+    "id" : "2011-285520",
+    "name" : "2011-285520 (Additional information)",
+    "group" : 1,
+    "color" : "#1f77b4",
+    "nok" : null
+  }, {
+    "id" : "2011-442225",
+    "name" : "2011-442225 (Additional information)",
+    "group" : 1,
+    "color" : "#1f77b4",
+    "nok" : null
+  }, {
+    "id" : "2011-240721",
+    "name" : "2011-240721 (Contract notice)",
+    "group" : 1,
+    "color" : "#f0f921",
+    "nok" : 920000000
+  }, {
+    "id" : "2011-745484",
+    "name" : "2011-745484 (Additional information)",
+    "group" : 1,
+    "color" : "#1f77b4",
+    "nok" : null
+  }, {
+    "id" : "2011-777247",
+    "name" : "2011-777247 (Contract award)",
+    "group" : 1,
+    "color" : "#4caf50",
+    "nok" : 920000000
+  }, {
+    "id" : "2011-910767",
+    "name" : "2011-910767 (Contract notice)",
+    "group" : 1,
+    "color" : "#f0f921",
+    "nok" : 300000000
+  }, {
+    "id" : "343149-2011",
+    "name" : "343149-2011 (Contract notice)",
+    "group" : 1,
+    "color" : "#ff7f0e",
+    "nok" : 300000000
+  }, {
+    "id" : "2011-269130",
+    "name" : "2011-269130 (Additional information)",
+    "group" : 1,
+    "color" : "#1f77b4",
+    "nok" : null
+  }, {
+    "id" : "2011-832719",
+    "name" : "2011-832719 (Additional information)",
+    "group" : 1,
+    "color" : "#1f77b4",
+    "nok" : null
+  }, {
+    "id" : "2011-147471",
+    "name" : "2011-147471 (Additional information)",
+    "group" : 1,
+    "color" : "#1f77b4",
+    "nok" : null
+  }, {
+    "id" : "345914-2011",
+    "name" : "345914-2011 (Contract award)",
+    "group" : 1,
+    "color" : "#2a788e",
+    "nok" : 920000000
+  }, {
+    "id" : "2011-545457",
+    "name" : "2011-545457 (Additional information)",
+    "group" : 1,
+    "color" : "#1f77b4",
+    "nok" : null
+  }, {
+    "id" : "2011-541230",
+    "name" : "2011-541230 (Additional information)",
+    "group" : 1,
+    "color" : "#1f77b4",
+    "nok" : null
+  }, {
+    "id" : "2011-369646",
+    "name" : "2011-369646 (Additional information)",
+    "group" : 1,
+    "color" : "#1f77b4",
+    "nok" : null
+  }, {
+    "id" : "2011-318813",
+    "name" : "2011-318813 (Additional information)",
+    "group" : 1,
+    "color" : "#1f77b4",
+    "nok" : null
+  }, {
+    "id" : "2011-323844",
+    "name" : "2011-323844 (Additional information)",
+    "group" : 1,
+    "color" : "#1f77b4",
+    "nok" : null
+  }, {
+    "id" : "2011-829167",
+    "name" : "2011-829167 (Additional information)",
+    "group" : 1,
+    "color" : "#1f77b4",
+    "nok" : null
+  }, {
+    "id" : "2011-609872",
+    "name" : "2011-609872 (Additional information)",
+    "group" : 1,
+    "color" : "#1f77b4",
+    "nok" : null
+  }, {
+    "id" : "101167-2011",
+    "name" : "101167-2011 (Contract notice)",
+    "group" : 1,
+    "color" : "#ff7f0e",
+    "nok" : 920000000
+  }, {
+    "id" : "2011-578177",
+    "name" : "2011-578177 (Additional information)",
+    "group" : 1,
+    "color" : "#1f77b4",
+    "nok" : null
+  }, {
+    "id" : "2016-781698",
+    "name" : "2016-781698 (Contract award)",
+    "group" : 1,
+    "color" : "#4caf50",
+    "nok" : null
+  }, {
+    "id" : "2016-344436",
+    "name" : "2016-344436 (Contract notice)",
+    "group" : 1,
+    "color" : "#f0f921",
     "nok" : 280000000
+  }, {
+    "id" : "2016-070892",
+    "name" : "2016-070892 (Contract notice)",
+    "group" : 1,
+    "color" : "#f0f921",
+    "nok" : null
+  }, {
+    "id" : "2016-404263",
+    "name" : "2016-404263 (Contract award)",
+    "group" : 1,
+    "color" : "#4caf50",
+    "nok" : 641099270
+  }, {
+    "id" : "2016-665571",
+    "name" : "2016-665571 (Contract notice)",
+    "group" : 1,
+    "color" : "#f0f921",
+    "nok" : 280000000
+  }, {
+    "id" : "2016-573035",
+    "name" : "2016-573035 (Additional information)",
+    "group" : 1,
+    "color" : "#1f77b4",
+    "nok" : null
+  }, {
+    "id" : "2016-826862",
+    "name" : "2016-826862 (Contract award)",
+    "group" : 1,
+    "color" : "#4caf50",
+    "nok" : 498355652
   }, {
     "id" : "021001-2016",
     "name" : "021001-2016 (Contract notice)",
@@ -570,14 +936,374 @@
     "color" : "#ff7f0e",
     "nok" : 280000000
   }, {
-    "id" : "297607-2007",
-    "name" : "297607-2007 (Contract notice)",
+    "id" : "2016-082071",
+    "name" : "2016-082071 (Contract notice)",
+    "group" : 1,
+    "color" : "#f0f921",
+    "nok" : 640000000
+  }, {
+    "id" : "020995-2016",
+    "name" : "020995-2016 (Contract notice)",
     "group" : 1,
     "color" : "#ff7f0e",
-    "nok" : 200000000
+    "nok" : 280000000
+  }, {
+    "id" : "2016-701898",
+    "name" : "2016-701898 (Contract award)",
+    "group" : 1,
+    "color" : "#4caf50",
+    "nok" : null
+  }, {
+    "id" : "2005-656943",
+    "name" : "2005-656943 (Contract notice)",
+    "group" : 1,
+    "color" : "#f0f921",
+    "nok" : null
+  }, {
+    "id" : "2005-939340",
+    "name" : "2005-939340 (Contract notice)",
+    "group" : 1,
+    "color" : "#f0f921",
+    "nok" : null
+  }, {
+    "id" : "2005-728398",
+    "name" : "2005-728398 (Contract award)",
+    "group" : 1,
+    "color" : "#4caf50",
+    "nok" : null
+  }, {
+    "id" : "2005-403461",
+    "name" : "2005-403461 (Contract award)",
+    "group" : 1,
+    "color" : "#4caf50",
+    "nok" : null
+  }, {
+    "id" : "2003-688176",
+    "name" : "2003-688176 (Contract notice)",
+    "group" : 1,
+    "color" : "#f0f921",
+    "nok" : null
+  }, {
+    "id" : "2003-433664",
+    "name" : "2003-433664 (Contract award)",
+    "group" : 1,
+    "color" : "#4caf50",
+    "nok" : null
+  }, {
+    "id" : "2003-224157",
+    "name" : "2003-224157 (Contract award)",
+    "group" : 1,
+    "color" : "#4caf50",
+    "nok" : null
+  }, {
+    "id" : "2003-412524",
+    "name" : "2003-412524 (Contract award)",
+    "group" : 1,
+    "color" : "#4caf50",
+    "nok" : null
+  }, {
+    "id" : "2004-758811",
+    "name" : "2004-758811 (Contract notice)",
+    "group" : 1,
+    "color" : "#f0f921",
+    "nok" : null
+  }, {
+    "id" : "2004-632638",
+    "name" : "2004-632638 (Contract notice)",
+    "group" : 1,
+    "color" : "#f0f921",
+    "nok" : null
+  }, {
+    "id" : "2004-482951",
+    "name" : "2004-482951 (Contract award)",
+    "group" : 1,
+    "color" : "#4caf50",
+    "nok" : null
+  }, {
+    "id" : "422668-2015",
+    "name" : "422668-2015 (Contract award)",
+    "group" : 1,
+    "color" : "#2a788e",
+    "nok" : null
+  }, {
+    "id" : "069254-2015",
+    "name" : "069254-2015 (Contract award)",
+    "group" : 1,
+    "color" : "#2a788e",
+    "nok" : 211864477
+  }, {
+    "id" : "154131-2015",
+    "name" : "154131-2015 (Contract award)",
+    "group" : 1,
+    "color" : "#2a788e",
+    "nok" : 220000000
+  }, {
+    "id" : "025677-2015",
+    "name" : "025677-2015 (Contract award)",
+    "group" : 1,
+    "color" : "#2a788e",
+    "nok" : 750000000
+  }, {
+    "id" : "111721-2015",
+    "name" : "111721-2015 (Additional information)",
+    "group" : 1,
+    "color" : "#1f77b4",
+    "nok" : null
+  }, {
+    "id" : "140875-2016",
+    "name" : "140875-2016 (Contract award)",
+    "group" : 1,
+    "color" : "#2a788e",
+    "nok" : null
+  }, {
+    "id" : "026760-2016",
+    "name" : "026760-2016 (Additional information)",
+    "group" : 1,
+    "color" : "#1f77b4",
+    "nok" : null
+  }, {
+    "id" : "450726-2016",
+    "name" : "450726-2016 (Contract notice)",
+    "group" : 1,
+    "color" : "#ff7f0e",
+    "nok" : null
+  }, {
+    "id" : "243954-2016",
+    "name" : "243954-2016 (Contract award)",
+    "group" : 1,
+    "color" : "#2a788e",
+    "nok" : 498355652
+  }, {
+    "id" : "432917-2016",
+    "name" : "432917-2016 (Contract award)",
+    "group" : 1,
+    "color" : "#2a788e",
+    "nok" : 641099270
+  }, {
+    "id" : "322049-2016",
+    "name" : "322049-2016 (Contract award)",
+    "group" : 1,
+    "color" : "#2a788e",
+    "nok" : null
+  }, {
+    "id" : "A-2 NORGE AS",
+    "name" : "A-2 NORGE AS",
+    "group" : 2,
+    "color" : "#5302a3",
+    "nok" : null
+  }, {
+    "id" : "MNEMONIC AS",
+    "name" : "MNEMONIC AS",
+    "group" : 2,
+    "color" : "#5302a3",
+    "nok" : null
+  }, {
+    "id" : "ACCENTURE AS",
+    "name" : "ACCENTURE AS",
+    "group" : 2,
+    "color" : "#5302a3",
+    "nok" : null
+  }, {
+    "id" : "EXPERIS AS",
+    "name" : "EXPERIS AS",
+    "group" : 2,
+    "color" : "#5302a3",
+    "nok" : null
+  }, {
+    "id" : "RIGHT MANAGEMENT NORWAY AS",
+    "name" : "RIGHT MANAGEMENT NORWAY AS",
+    "group" : 2,
+    "color" : "#5302a3",
+    "nok" : null
+  }, {
+    "id" : "ERNST & YOUNG AS",
+    "name" : "ERNST & YOUNG AS",
+    "group" : 2,
+    "color" : "#5302a3",
+    "nok" : null
+  }, {
+    "id" : "BEKK CONSULTING AS",
+    "name" : "BEKK CONSULTING AS",
+    "group" : 2,
+    "color" : "#5302a3",
+    "nok" : null
+  }, {
+    "id" : "ACANDO AS",
+    "name" : "ACANDO AS",
+    "group" : 2,
+    "color" : "#5302a3",
+    "nok" : null
+  }, {
+    "id" : "PROMIS AS",
+    "name" : "PROMIS AS",
+    "group" : 2,
+    "color" : "#5302a3",
+    "nok" : null
+  }, {
+    "id" : "CAPGEMINI NORGE AS",
+    "name" : "CAPGEMINI NORGE AS",
+    "group" : 2,
+    "color" : "#5302a3",
+    "nok" : null
+  }, {
+    "id" : "VISMA CONSULTING AS",
+    "name" : "VISMA CONSULTING AS",
+    "group" : 2,
+    "color" : "#5302a3",
+    "nok" : null
+  }, {
+    "id" : "REDPILL LINPRO AS",
+    "name" : "REDPILL LINPRO AS",
+    "group" : 2,
+    "color" : "#5302a3",
+    "nok" : null
+  }, {
+    "id" : "PUNDIT NETWORKS AS",
+    "name" : "PUNDIT NETWORKS AS",
+    "group" : 2,
+    "color" : "#5302a3",
+    "nok" : null
+  }, {
+    "id" : "KONKURRANSEN BLE AVLYST PÅ DETTE KOMPETANSEOMRÅDET",
+    "name" : "KONKURRANSEN BLE AVLYST PÅ DETTE KOMPETANSEOMRÅDET",
+    "group" : 2,
+    "color" : "#5302a3",
+    "nok" : null
+  }, {
+    "id" : "COMPUTAS AS",
+    "name" : "COMPUTAS AS",
+    "group" : 2,
+    "color" : "#5302a3",
+    "nok" : null
+  }, {
+    "id" : "WM-DATA AS",
+    "name" : "WM-DATA AS",
+    "group" : 2,
+    "color" : "#5302a3",
+    "nok" : null
   }, {
     "id" : "SIRIUS IT",
     "name" : "SIRIUS IT",
+    "group" : 2,
+    "color" : "#5302a3",
+    "nok" : null
+  }, {
+    "id" : "STERIA AS",
+    "name" : "STERIA AS",
+    "group" : 2,
+    "color" : "#5302a3",
+    "nok" : null
+  }, {
+    "id" : "AVENIR AS",
+    "name" : "AVENIR AS",
+    "group" : 2,
+    "color" : "#5302a3",
+    "nok" : null
+  }, {
+    "id" : "BOUVET AS",
+    "name" : "BOUVET AS",
+    "group" : 2,
+    "color" : "#5302a3",
+    "nok" : null
+  }, {
+    "id" : "CRAYON AS",
+    "name" : "CRAYON AS",
+    "group" : 2,
+    "color" : "#5302a3",
+    "nok" : null
+  }, {
+    "id" : "DAVINCI CONSULTING AS",
+    "name" : "DAVINCI CONSULTING AS",
+    "group" : 2,
+    "color" : "#5302a3",
+    "nok" : null
+  }, {
+    "id" : "EDISYS CONSULTING AS",
+    "name" : "EDISYS CONSULTING AS",
+    "group" : 2,
+    "color" : "#5302a3",
+    "nok" : null
+  }, {
+    "id" : "ERGO GROUP AS",
+    "name" : "ERGO GROUP AS",
+    "group" : 2,
+    "color" : "#5302a3",
+    "nok" : null
+  }, {
+    "id" : "IBM AS",
+    "name" : "IBM AS",
+    "group" : 2,
+    "color" : "#5302a3",
+    "nok" : null
+  }, {
+    "id" : "SANDBOX SOLUTIONS",
+    "name" : "SANDBOX SOLUTIONS",
+    "group" : 2,
+    "color" : "#5302a3",
+    "nok" : null
+  }, {
+    "id" : "SENSEIT AS",
+    "name" : "SENSEIT AS",
+    "group" : 2,
+    "color" : "#5302a3",
+    "nok" : null
+  }, {
+    "id" : "SIRIUS IT AS",
+    "name" : "SIRIUS IT AS",
+    "group" : 2,
+    "color" : "#5302a3",
+    "nok" : null
+  }, {
+    "id" : "SYMANTEC NORWAY AS",
+    "name" : "SYMANTEC NORWAY AS",
+    "group" : 2,
+    "color" : "#5302a3",
+    "nok" : null
+  }, {
+    "id" : "TELEPLAN AS",
+    "name" : "TELEPLAN AS",
+    "group" : 2,
+    "color" : "#5302a3",
+    "nok" : null
+  }, {
+    "id" : "VISMA UNIQUE AS",
+    "name" : "VISMA UNIQUE AS",
+    "group" : 2,
+    "color" : "#5302a3",
+    "nok" : null
+  }, {
+    "id" : "APPLICATION DEVELOPMENT GROUP AS",
+    "name" : "APPLICATION DEVELOPMENT GROUP AS",
+    "group" : 2,
+    "color" : "#5302a3",
+    "nok" : null
+  }, {
+    "id" : "KITH",
+    "name" : "KITH",
+    "group" : 2,
+    "color" : "#5302a3",
+    "nok" : null
+  }, {
+    "id" : "ACCENTURE ANS",
+    "name" : "ACCENTURE ANS",
+    "group" : 2,
+    "color" : "#5302a3",
+    "nok" : null
+  }, {
+    "id" : "ABEO AS",
+    "name" : "ABEO AS",
+    "group" : 2,
+    "color" : "#5302a3",
+    "nok" : null
+  }, {
+    "id" : "ARCTICPARK CONSULTING AS",
+    "name" : "ARCTICPARK CONSULTING AS",
+    "group" : 2,
+    "color" : "#5302a3",
+    "nok" : null
+  }, {
+    "id" : "BEARINGPOINT",
+    "name" : "BEARINGPOINT",
     "group" : 2,
     "color" : "#5302a3",
     "nok" : null
@@ -588,8 +1314,86 @@
     "color" : "#5302a3",
     "nok" : null
   }, {
-    "id" : "COMPUTAS AS",
-    "name" : "COMPUTAS AS",
+    "id" : "CONSIDER AS",
+    "name" : "CONSIDER AS",
+    "group" : 2,
+    "color" : "#5302a3",
+    "nok" : null
+  }, {
+    "id" : "DELL AS",
+    "name" : "DELL AS",
+    "group" : 2,
+    "color" : "#5302a3",
+    "nok" : null
+  }, {
+    "id" : "FORNEBU CONSULTING AS",
+    "name" : "FORNEBU CONSULTING AS",
+    "group" : 2,
+    "color" : "#5302a3",
+    "nok" : null
+  }, {
+    "id" : "HEWLETT-PACKARD NORGE AS",
+    "name" : "HEWLETT-PACKARD NORGE AS",
+    "group" : 2,
+    "color" : "#5302a3",
+    "nok" : null
+  }, {
+    "id" : "INNOVATEC - INNOVATIVE TECHNOLOGIES AS",
+    "name" : "INNOVATEC - INNOVATIVE TECHNOLOGIES AS",
+    "group" : 2,
+    "color" : "#5302a3",
+    "nok" : null
+  }, {
+    "id" : "KONSENSIT",
+    "name" : "KONSENSIT",
+    "group" : 2,
+    "color" : "#5302a3",
+    "nok" : null
+  }, {
+    "id" : "MICROSOFT NORGE AS",
+    "name" : "MICROSOFT NORGE AS",
+    "group" : 2,
+    "color" : "#5302a3",
+    "nok" : null
+  }, {
+    "id" : "OBJECTNET AS",
+    "name" : "OBJECTNET AS",
+    "group" : 2,
+    "color" : "#5302a3",
+    "nok" : null
+  }, {
+    "id" : "OBJECTWARE AS",
+    "name" : "OBJECTWARE AS",
+    "group" : 2,
+    "color" : "#5302a3",
+    "nok" : null
+  }, {
+    "id" : "OPUS ONE AS",
+    "name" : "OPUS ONE AS",
+    "group" : 2,
+    "color" : "#5302a3",
+    "nok" : null
+  }, {
+    "id" : "PRICEWATERHOUSECOOPERS AS",
+    "name" : "PRICEWATERHOUSECOOPERS AS",
+    "group" : 2,
+    "color" : "#5302a3",
+    "nok" : null
+  }, {
+    "id" : "UNICONSULT AS",
+    "name" : "UNICONSULT AS",
+    "group" : 2,
+    "color" : "#5302a3",
+    "nok" : null
+  }, {
+    "id" : "WM DATA",
+    "name" : "WM DATA",
+    "group" : 2,
+    "color" : "#5302a3",
+    "nok" : null
+  }, {
+    "id" : "INTERNATIONAL BUSINESS MACHINES AS (IBM)",
+    "name" : "INTERNATIONAL BUSINESS MACHINES AS (IBM)",
     "group" : 2,
     "color" : "#5302a3",
     "nok" : null
@@ -630,12 +1434,6 @@
     "color" : "#5302a3",
     "nok" : null
   }, {
-    "id" : "ERNST & YOUNG AS",
-    "name" : "ERNST & YOUNG AS",
-    "group" : 2,
-    "color" : "#5302a3",
-    "nok" : null
-  }, {
     "id" : "EWORK NORGE AS",
     "name" : "EWORK NORGE AS",
     "group" : 2,
@@ -656,12 +1454,6 @@
   }, {
     "id" : "INMETA CRAYON",
     "name" : "INMETA CRAYON",
-    "group" : 2,
-    "color" : "#5302a3",
-    "nok" : null
-  }, {
-    "id" : "INNOVATEC - INNOVATIVE TECHNOLOGIES AS",
-    "name" : "INNOVATEC - INNOVATIVE TECHNOLOGIES AS",
     "group" : 2,
     "color" : "#5302a3",
     "nok" : null
@@ -714,18 +1506,6 @@
     "color" : "#5302a3",
     "nok" : null
   }, {
-    "id" : "STERIA AS",
-    "name" : "STERIA AS",
-    "group" : 2,
-    "color" : "#5302a3",
-    "nok" : null
-  }, {
-    "id" : "UNICONSULT AS",
-    "name" : "UNICONSULT AS",
-    "group" : 2,
-    "color" : "#5302a3",
-    "nok" : null
-  }, {
     "id" : "VISMA SIRIUS AS",
     "name" : "VISMA SIRIUS AS",
     "group" : 2,
@@ -734,18 +1514,6 @@
   }, {
     "id" : "TELEPLAN CONSULTING AS",
     "name" : "TELEPLAN CONSULTING AS",
-    "group" : 2,
-    "color" : "#5302a3",
-    "nok" : null
-  }, {
-    "id" : "ACANDO AS",
-    "name" : "ACANDO AS",
-    "group" : 2,
-    "color" : "#5302a3",
-    "nok" : null
-  }, {
-    "id" : "ACCENTURE AS",
-    "name" : "ACCENTURE AS",
     "group" : 2,
     "color" : "#5302a3",
     "nok" : null
@@ -768,74 +1536,8 @@
     "color" : "#5302a3",
     "nok" : null
   }, {
-    "id" : "BEKK CONSULTING AS",
-    "name" : "BEKK CONSULTING AS",
-    "group" : 2,
-    "color" : "#5302a3",
-    "nok" : null
-  }, {
     "id" : "BOUVET ASA, BERGEN",
     "name" : "BOUVET ASA, BERGEN",
-    "group" : 2,
-    "color" : "#5302a3",
-    "nok" : null
-  }, {
-    "id" : "CAPGEMINI NORGE AS",
-    "name" : "CAPGEMINI NORGE AS",
-    "group" : 2,
-    "color" : "#5302a3",
-    "nok" : null
-  }, {
-    "id" : "ACCENTURE",
-    "name" : "ACCENTURE",
-    "group" : 2,
-    "color" : "#5302a3",
-    "nok" : null
-  }, {
-    "id" : "WM-DATA AS",
-    "name" : "WM-DATA AS",
-    "group" : 2,
-    "color" : "#5302a3",
-    "nok" : null
-  }, {
-    "id" : "EXPERIS AS",
-    "name" : "EXPERIS AS",
-    "group" : 2,
-    "color" : "#5302a3",
-    "nok" : null
-  }, {
-    "id" : "RIGHT MANAGEMENT NORWAY AS",
-    "name" : "RIGHT MANAGEMENT NORWAY AS",
-    "group" : 2,
-    "color" : "#5302a3",
-    "nok" : null
-  }, {
-    "id" : "PROMIS AS",
-    "name" : "PROMIS AS",
-    "group" : 2,
-    "color" : "#5302a3",
-    "nok" : null
-  }, {
-    "id" : "VISMA CONSULTING AS",
-    "name" : "VISMA CONSULTING AS",
-    "group" : 2,
-    "color" : "#5302a3",
-    "nok" : null
-  }, {
-    "id" : "REDPILL LINPRO AS",
-    "name" : "REDPILL LINPRO AS",
-    "group" : 2,
-    "color" : "#5302a3",
-    "nok" : null
-  }, {
-    "id" : "PUNDIT NETWORKS AS",
-    "name" : "PUNDIT NETWORKS AS",
-    "group" : 2,
-    "color" : "#5302a3",
-    "nok" : null
-  }, {
-    "id" : "KONKURRANSEN BLE AVLYST PÅ DETTE KOMPETANSEOMRÅDET",
-    "name" : "KONKURRANSEN BLE AVLYST PÅ DETTE KOMPETANSEOMRÅDET",
     "group" : 2,
     "color" : "#5302a3",
     "nok" : null
@@ -872,18 +1574,6 @@
   }, {
     "id" : "KRISTIN WILHELMSEN AS",
     "name" : "KRISTIN WILHELMSEN AS",
-    "group" : 2,
-    "color" : "#5302a3",
-    "nok" : null
-  }, {
-    "id" : "ACCENTURE ANS",
-    "name" : "ACCENTURE ANS",
-    "group" : 2,
-    "color" : "#5302a3",
-    "nok" : null
-  }, {
-    "id" : "DAVINCI CONSULTING AS",
-    "name" : "DAVINCI CONSULTING AS",
     "group" : 2,
     "color" : "#5302a3",
     "nok" : null
@@ -930,12 +1620,6 @@
     "color" : "#5302a3",
     "nok" : null
   }, {
-    "id" : "VISMA UNIQUE AS",
-    "name" : "VISMA UNIQUE AS",
-    "group" : 2,
-    "color" : "#5302a3",
-    "nok" : null
-  }, {
     "id" : "DELOITTE CONSULTING",
     "name" : "DELOITTE CONSULTING",
     "group" : 2,
@@ -962,12 +1646,6 @@
   }, {
     "id" : "EDB IT DRIFT",
     "name" : "EDB IT DRIFT",
-    "group" : 2,
-    "color" : "#5302a3",
-    "nok" : null
-  }, {
-    "id" : "HEWLETT-PACKARD NORGE AS",
-    "name" : "HEWLETT-PACKARD NORGE AS",
     "group" : 2,
     "color" : "#5302a3",
     "nok" : null
@@ -1002,20 +1680,14 @@
     "color" : "#5302a3",
     "nok" : null
   }, {
+    "id" : "ACCENTURE",
+    "name" : "ACCENTURE",
+    "group" : 2,
+    "color" : "#5302a3",
+    "nok" : null
+  }, {
     "id" : "TIETOENATOR AS",
     "name" : "TIETOENATOR AS",
-    "group" : 2,
-    "color" : "#5302a3",
-    "nok" : null
-  }, {
-    "id" : "MNEMONIC AS",
-    "name" : "MNEMONIC AS",
-    "group" : 2,
-    "color" : "#5302a3",
-    "nok" : null
-  }, {
-    "id" : "OBJECTWARE AS",
-    "name" : "OBJECTWARE AS",
     "group" : 2,
     "color" : "#5302a3",
     "nok" : null
@@ -1038,175 +1710,89 @@
     "color" : "#5302a3",
     "nok" : null
   }, {
-    "id" : "INTERNATIONAL BUSINESS MACHINES AS (IBM)",
-    "name" : "INTERNATIONAL BUSINESS MACHINES AS (IBM)",
+    "id" : "EXPERIS AS, ORG. NR. 982 683 955",
+    "name" : "EXPERIS AS, ORG. NR. 982 683 955",
     "group" : 2,
     "color" : "#5302a3",
     "nok" : null
   }, {
-    "id" : "A-2 NORGE AS",
-    "name" : "A-2 NORGE AS",
+    "id" : "ACCENTURE AS, ORG.NR. 992 037 601",
+    "name" : "ACCENTURE AS, ORG.NR. 992 037 601",
     "group" : 2,
     "color" : "#5302a3",
     "nok" : null
   }, {
-    "id" : "IBM AS",
-    "name" : "IBM AS",
+    "id" : "RIGHT MANAGEMENT NORWAY AS, ORG.NR. 977 213 800",
+    "name" : "RIGHT MANAGEMENT NORWAY AS, ORG.NR. 977 213 800",
     "group" : 2,
     "color" : "#5302a3",
     "nok" : null
   }, {
-    "id" : "ABEO AS",
-    "name" : "ABEO AS",
+    "id" : "ERNST & YOUNG AS, ORG. NR. 976 389 387",
+    "name" : "ERNST & YOUNG AS, ORG. NR. 976 389 387",
     "group" : 2,
     "color" : "#5302a3",
     "nok" : null
   }, {
-    "id" : "FORNEBU CONSULTING AS",
-    "name" : "FORNEBU CONSULTING AS",
+    "id" : "BEKK CONSULTING AS, ORG. NR. 981 566 378",
+    "name" : "BEKK CONSULTING AS, ORG. NR. 981 566 378",
     "group" : 2,
     "color" : "#5302a3",
     "nok" : null
   }, {
-    "id" : "AVENIR AS",
-    "name" : "AVENIR AS",
+    "id" : "ACANDO AS, ORG. NR. 979 191 138",
+    "name" : "ACANDO AS, ORG. NR. 979 191 138",
     "group" : 2,
     "color" : "#5302a3",
     "nok" : null
   }, {
-    "id" : "BOUVET AS",
-    "name" : "BOUVET AS",
+    "id" : "PROMIS AS, ORG.NR. 877 380 092",
+    "name" : "PROMIS AS, ORG.NR. 877 380 092",
     "group" : 2,
     "color" : "#5302a3",
     "nok" : null
   }, {
-    "id" : "CRAYON AS",
-    "name" : "CRAYON AS",
+    "id" : "CAPGEMINI NORGE AS, ORG.NR. 943 574 537",
+    "name" : "CAPGEMINI NORGE AS, ORG.NR. 943 574 537",
     "group" : 2,
     "color" : "#5302a3",
     "nok" : null
   }, {
-    "id" : "EDISYS CONSULTING AS",
-    "name" : "EDISYS CONSULTING AS",
+    "id" : "VISMA CONSULTING AS, ORG.NR. 990 432 368",
+    "name" : "VISMA CONSULTING AS, ORG.NR. 990 432 368",
     "group" : 2,
     "color" : "#5302a3",
     "nok" : null
   }, {
-    "id" : "ERGO GROUP AS",
-    "name" : "ERGO GROUP AS",
+    "id" : "REDPILL LINPRO AS, ORG.NR. 975 842 061",
+    "name" : "REDPILL LINPRO AS, ORG.NR. 975 842 061",
     "group" : 2,
     "color" : "#5302a3",
     "nok" : null
   }, {
-    "id" : "SANDBOX SOLUTIONS",
-    "name" : "SANDBOX SOLUTIONS",
+    "id" : "PUNDIT NETWORKS AS, ORG.NR. 998 613 353",
+    "name" : "PUNDIT NETWORKS AS, ORG.NR. 998 613 353",
     "group" : 2,
     "color" : "#5302a3",
     "nok" : null
   }, {
-    "id" : "SENSEIT AS",
-    "name" : "SENSEIT AS",
-    "group" : 2,
-    "color" : "#5302a3",
-    "nok" : null
-  }, {
-    "id" : "SIRIUS IT AS",
-    "name" : "SIRIUS IT AS",
-    "group" : 2,
-    "color" : "#5302a3",
-    "nok" : null
-  }, {
-    "id" : "SYMANTEC NORWAY AS",
-    "name" : "SYMANTEC NORWAY AS",
-    "group" : 2,
-    "color" : "#5302a3",
-    "nok" : null
-  }, {
-    "id" : "TELEPLAN AS",
-    "name" : "TELEPLAN AS",
-    "group" : 2,
-    "color" : "#5302a3",
-    "nok" : null
-  }, {
-    "id" : "APPLICATION DEVELOPMENT GROUP AS",
-    "name" : "APPLICATION DEVELOPMENT GROUP AS",
-    "group" : 2,
-    "color" : "#5302a3",
-    "nok" : null
-  }, {
-    "id" : "KITH",
-    "name" : "KITH",
-    "group" : 2,
-    "color" : "#5302a3",
-    "nok" : null
-  }, {
-    "id" : "ARCTICPARK CONSULTING AS",
-    "name" : "ARCTICPARK CONSULTING AS",
-    "group" : 2,
-    "color" : "#5302a3",
-    "nok" : null
-  }, {
-    "id" : "BEARINGPOINT",
-    "name" : "BEARINGPOINT",
-    "group" : 2,
-    "color" : "#5302a3",
-    "nok" : null
-  }, {
-    "id" : "CONSIDER AS",
-    "name" : "CONSIDER AS",
-    "group" : 2,
-    "color" : "#5302a3",
-    "nok" : null
-  }, {
-    "id" : "DELL AS",
-    "name" : "DELL AS",
-    "group" : 2,
-    "color" : "#5302a3",
-    "nok" : null
-  }, {
-    "id" : "KONSENSIT",
-    "name" : "KONSENSIT",
-    "group" : 2,
-    "color" : "#5302a3",
-    "nok" : null
-  }, {
-    "id" : "MICROSOFT NORGE AS",
-    "name" : "MICROSOFT NORGE AS",
-    "group" : 2,
-    "color" : "#5302a3",
-    "nok" : null
-  }, {
-    "id" : "OBJECTNET AS",
-    "name" : "OBJECTNET AS",
-    "group" : 2,
-    "color" : "#5302a3",
-    "nok" : null
-  }, {
-    "id" : "OPUS ONE AS",
-    "name" : "OPUS ONE AS",
-    "group" : 2,
-    "color" : "#5302a3",
-    "nok" : null
-  }, {
-    "id" : "PRICEWATERHOUSECOOPERS AS",
-    "name" : "PRICEWATERHOUSECOOPERS AS",
-    "group" : 2,
-    "color" : "#5302a3",
-    "nok" : null
-  }, {
-    "id" : "WM DATA",
-    "name" : "WM DATA",
+    "id" : "THE COMPETITION HAS BEEN CANCELLED FOR THIS COMPETENCE AREA",
+    "name" : "THE COMPETITION HAS BEEN CANCELLED FOR THIS COMPETENCE AREA",
     "group" : 2,
     "color" : "#5302a3",
     "nok" : null
   } ],
   "links" : [ {
     "source" : "NAV",
-    "target" : "2004-758811",
+    "target" : "2013-307839",
     "value" : 10
   }, {
     "source" : "NAV",
-    "target" : "2009-564426",
+    "target" : "350607-2013",
+    "value" : 10
+  }, {
+    "source" : "NAV",
+    "target" : "286805-2014",
     "value" : 10
   }, {
     "source" : "NAV",
@@ -1214,71 +1800,19 @@
     "value" : 10
   }, {
     "source" : "NAV",
-    "target" : "2016-344436",
+    "target" : "2014-398870",
     "value" : 10
   }, {
     "source" : "NAV",
-    "target" : "101167-2011",
+    "target" : "2014-410278",
     "value" : 10
   }, {
     "source" : "NAV",
-    "target" : "2009-928327",
+    "target" : "214426-2014",
     "value" : 10
   }, {
     "source" : "NAV",
-    "target" : "2011-910767",
-    "value" : 10
-  }, {
-    "source" : "NAV",
-    "target" : "330718-2009",
-    "value" : 10
-  }, {
-    "source" : "NAV",
-    "target" : "107172-2015",
-    "value" : 10
-  }, {
-    "source" : "NAV",
-    "target" : "2005-656943",
-    "value" : 10
-  }, {
-    "source" : "NAV",
-    "target" : "2009-104423",
-    "value" : 10
-  }, {
-    "source" : "NAV",
-    "target" : "2009-960559",
-    "value" : 10
-  }, {
-    "source" : "NAV",
-    "target" : "2015-113743",
-    "value" : 10
-  }, {
-    "source" : "NAV",
-    "target" : "343149-2011",
-    "value" : 10
-  }, {
-    "source" : "NAV",
-    "target" : "2009-105937",
-    "value" : 10
-  }, {
-    "source" : "NAV",
-    "target" : "2012-264355",
-    "value" : 10
-  }, {
-    "source" : "NAV",
-    "target" : "2016-665571",
-    "value" : 10
-  }, {
-    "source" : "NAV",
-    "target" : "2005-939340",
-    "value" : 10
-  }, {
-    "source" : "NAV",
-    "target" : "2009-228412",
-    "value" : 10
-  }, {
-    "source" : "NAV",
-    "target" : "2012-266032",
+    "target" : "170406-2014",
     "value" : 10
   }, {
     "source" : "NAV",
@@ -1286,7 +1820,187 @@
     "value" : 10
   }, {
     "source" : "NAV",
+    "target" : "2015-113743",
+    "value" : 10
+  }, {
+    "source" : "NAV",
+    "target" : "174732-2015",
+    "value" : 10
+  }, {
+    "source" : "NAV",
+    "target" : "107172-2015",
+    "value" : 10
+  }, {
+    "source" : "NAV",
+    "target" : "431381-2015",
+    "value" : 10
+  }, {
+    "source" : "NAV",
+    "target" : "2015-340383",
+    "value" : 10
+  }, {
+    "source" : "NAV",
+    "target" : "274297-2012",
+    "value" : 10
+  }, {
+    "source" : "NAV",
+    "target" : "303163-2012",
+    "value" : 10
+  }, {
+    "source" : "NAV",
+    "target" : "2012-266882",
+    "value" : 10
+  }, {
+    "source" : "NAV",
+    "target" : "2012-267534",
+    "value" : 10
+  }, {
+    "source" : "NAV",
+    "target" : "291864-2012",
+    "value" : 10
+  }, {
+    "source" : "NAV",
+    "target" : "2012-264355",
+    "value" : 10
+  }, {
+    "source" : "NAV",
+    "target" : "2012-266032",
+    "value" : 10
+  }, {
+    "source" : "NAV",
+    "target" : "246258-2012",
+    "value" : 10
+  }, {
+    "source" : "NAV",
+    "target" : "287834-2012",
+    "value" : 10
+  }, {
+    "source" : "NAV",
+    "target" : "2012-268087",
+    "value" : 10
+  }, {
+    "source" : "NAV",
+    "target" : "2006-814012",
+    "value" : 10
+  }, {
+    "source" : "NAV",
+    "target" : "2007-561299",
+    "value" : 10
+  }, {
+    "source" : "NAV",
+    "target" : "2007-596014",
+    "value" : 10
+  }, {
+    "source" : "NAV",
+    "target" : "2007-910896",
+    "value" : 10
+  }, {
+    "source" : "NAV",
+    "target" : "297607-2007",
+    "value" : 10
+  }, {
+    "source" : "NAV",
+    "target" : "302292-2009",
+    "value" : 10
+  }, {
+    "source" : "NAV",
+    "target" : "2009-332068",
+    "value" : 10
+  }, {
+    "source" : "NAV",
+    "target" : "289873-2009",
+    "value" : 10
+  }, {
+    "source" : "NAV",
+    "target" : "327962-2009",
+    "value" : 10
+  }, {
+    "source" : "NAV",
+    "target" : "2009-529000",
+    "value" : 10
+  }, {
+    "source" : "NAV",
+    "target" : "2009-431850",
+    "value" : 10
+  }, {
+    "source" : "NAV",
     "target" : "2009-266589",
+    "value" : 10
+  }, {
+    "source" : "NAV",
+    "target" : "2009-472406",
+    "value" : 10
+  }, {
+    "source" : "NAV",
+    "target" : "335293-2009",
+    "value" : 10
+  }, {
+    "source" : "NAV",
+    "target" : "2009-960559",
+    "value" : 10
+  }, {
+    "source" : "NAV",
+    "target" : "2009-928327",
+    "value" : 10
+  }, {
+    "source" : "NAV",
+    "target" : "2009-563552",
+    "value" : 10
+  }, {
+    "source" : "NAV",
+    "target" : "327963-2009",
+    "value" : 10
+  }, {
+    "source" : "NAV",
+    "target" : "2009-180018",
+    "value" : 10
+  }, {
+    "source" : "NAV",
+    "target" : "310295-2009",
+    "value" : 10
+  }, {
+    "source" : "NAV",
+    "target" : "2009-564426",
+    "value" : 10
+  }, {
+    "source" : "NAV",
+    "target" : "329263-2009",
+    "value" : 10
+  }, {
+    "source" : "NAV",
+    "target" : "329262-2009",
+    "value" : 10
+  }, {
+    "source" : "NAV",
+    "target" : "312096-2009",
+    "value" : 10
+  }, {
+    "source" : "NAV",
+    "target" : "329264-2009",
+    "value" : 10
+  }, {
+    "source" : "NAV",
+    "target" : "285326-2009",
+    "value" : 10
+  }, {
+    "source" : "NAV",
+    "target" : "2009-104423",
+    "value" : 10
+  }, {
+    "source" : "NAV",
+    "target" : "330718-2009",
+    "value" : 10
+  }, {
+    "source" : "NAV",
+    "target" : "296701-2009",
+    "value" : 10
+  }, {
+    "source" : "NAV",
+    "target" : "2009-105937",
+    "value" : 10
+  }, {
+    "source" : "NAV",
+    "target" : "2009-228412",
     "value" : 10
   }, {
     "source" : "NAV",
@@ -1298,67 +2012,23 @@
     "value" : 10
   }, {
     "source" : "NAV",
-    "target" : "2006-814012",
+    "target" : "2011-240721",
     "value" : 10
   }, {
     "source" : "NAV",
-    "target" : "2009-332068",
+    "target" : "2011-910767",
     "value" : 10
   }, {
     "source" : "NAV",
-    "target" : "2015-340383",
+    "target" : "343149-2011",
     "value" : 10
   }, {
     "source" : "NAV",
-    "target" : "285326-2009",
+    "target" : "101167-2011",
     "value" : 10
   }, {
     "source" : "NAV",
-    "target" : "2007-561299",
-    "value" : 10
-  }, {
-    "source" : "NAV",
-    "target" : "2009-431850",
-    "value" : 10
-  }, {
-    "source" : "NAV",
-    "target" : "2013-307839",
-    "value" : 10
-  }, {
-    "source" : "NAV",
-    "target" : "327963-2009",
-    "value" : 10
-  }, {
-    "source" : "NAV",
-    "target" : "2003-688176",
-    "value" : 10
-  }, {
-    "source" : "NAV",
-    "target" : "2007-596014",
-    "value" : 10
-  }, {
-    "source" : "NAV",
-    "target" : "2009-472406",
-    "value" : 10
-  }, {
-    "source" : "NAV",
-    "target" : "2014-398870",
-    "value" : 10
-  }, {
-    "source" : "NAV",
-    "target" : "329262-2009",
-    "value" : 10
-  }, {
-    "source" : "NAV",
-    "target" : "2007-910896",
-    "value" : 10
-  }, {
-    "source" : "NAV",
-    "target" : "2009-529000",
-    "value" : 10
-  }, {
-    "source" : "NAV",
-    "target" : "2014-410278",
+    "target" : "2016-344436",
     "value" : 10
   }, {
     "source" : "NAV",
@@ -1366,63 +2036,7 @@
     "value" : 10
   }, {
     "source" : "NAV",
-    "target" : "329263-2009",
-    "value" : 10
-  }, {
-    "source" : "NAV",
-    "target" : "2004-632638",
-    "value" : 10
-  }, {
-    "source" : "NAV",
-    "target" : "2009-563552",
-    "value" : 10
-  }, {
-    "source" : "NAV",
-    "target" : "2011-240721",
-    "value" : 10
-  }, {
-    "source" : "NAV",
-    "target" : "2016-082071",
-    "value" : 10
-  }, {
-    "source" : "NAV",
-    "target" : "329264-2009",
-    "value" : 10
-  }, {
-    "source" : "NAV",
-    "target" : "327962-2009",
-    "value" : 10
-  }, {
-    "source" : "NAV",
-    "target" : "246258-2012",
-    "value" : 10
-  }, {
-    "source" : "NAV",
-    "target" : "274297-2012",
-    "value" : 10
-  }, {
-    "source" : "NAV",
-    "target" : "170406-2014",
-    "value" : 10
-  }, {
-    "source" : "NAV",
-    "target" : "214426-2014",
-    "value" : 10
-  }, {
-    "source" : "NAV",
-    "target" : "286805-2014",
-    "value" : 10
-  }, {
-    "source" : "NAV",
-    "target" : "174732-2015",
-    "value" : 10
-  }, {
-    "source" : "NAV",
-    "target" : "431381-2015",
-    "value" : 10
-  }, {
-    "source" : "NAV",
-    "target" : "020995-2016",
+    "target" : "2016-665571",
     "value" : 10
   }, {
     "source" : "NAV",
@@ -1434,155 +2048,59 @@
     "value" : 10
   }, {
     "source" : "NAV",
-    "target" : "297607-2007",
+    "target" : "2016-082071",
     "value" : 10
   }, {
-    "source" : "SIRIUS IT",
-    "target" : "2008-306918",
+    "source" : "NAV",
+    "target" : "020995-2016",
     "value" : 10
   }, {
-    "source" : "CIBER NORGE AS",
-    "target" : "2011-777247",
+    "source" : "NAV",
+    "target" : "2005-656943",
     "value" : 10
   }, {
-    "source" : "COMPUTAS AS",
-    "target" : "2011-777247",
+    "source" : "NAV",
+    "target" : "2005-939340",
     "value" : 10
   }, {
-    "source" : "DECISIVE AS",
-    "target" : "2011-777247",
+    "source" : "NAV",
+    "target" : "2003-688176",
     "value" : 10
   }, {
-    "source" : "DELL NORGE",
-    "target" : "2011-777247",
+    "source" : "NAV",
+    "target" : "2004-758811",
     "value" : 10
   }, {
-    "source" : "DELOITTE",
-    "target" : "2011-777247",
+    "source" : "NAV",
+    "target" : "2004-632638",
     "value" : 10
   }, {
-    "source" : "DEVOTEAM DAVINCI AS",
-    "target" : "2011-777247",
+    "source" : "NAV",
+    "target" : "450726-2016",
     "value" : 10
   }, {
-    "source" : "EBS CONSULTING AS",
-    "target" : "2011-777247",
+    "source" : "A-2 NORGE AS",
+    "target" : "2013-281292",
     "value" : 10
   }, {
-    "source" : "EDB ERGO GROUP 13 AS",
-    "target" : "2011-777247",
+    "source" : "A-2 NORGE AS",
+    "target" : "039829-2013",
     "value" : 10
   }, {
-    "source" : "ERNST & YOUNG AS",
-    "target" : "2011-777247",
+    "source" : "MNEMONIC AS",
+    "target" : "039828-2013",
     "value" : 10
   }, {
-    "source" : "EWORK NORGE AS",
-    "target" : "2011-777247",
-    "value" : 10
-  }, {
-    "source" : "GARTNER NORGE AS",
-    "target" : "2011-777247",
-    "value" : 10
-  }, {
-    "source" : "HEWLETT PACKARD NORGE AS",
-    "target" : "2011-777247",
-    "value" : 10
-  }, {
-    "source" : "INMETA CRAYON",
-    "target" : "2011-777247",
-    "value" : 10
-  }, {
-    "source" : "INNOVATEC - INNOVATIVE TECHNOLOGIES AS",
-    "target" : "2011-777247",
-    "value" : 10
-  }, {
-    "source" : "KNOW IT OBJECTNET AS",
-    "target" : "2011-777247",
-    "value" : 10
-  }, {
-    "source" : "KPMG",
-    "target" : "2011-777247",
-    "value" : 10
-  }, {
-    "source" : "METIER AS",
-    "target" : "2011-777247",
-    "value" : 10
-  }, {
-    "source" : "MILES OSLO AS",
-    "target" : "2011-777247",
-    "value" : 10
-  }, {
-    "source" : "NORSKE SYSTEMARKITEKTER",
-    "target" : "2011-777247",
-    "value" : 10
-  }, {
-    "source" : "PRICEWATERHOUSECOOPERS",
-    "target" : "2011-777247",
-    "value" : 10
-  }, {
-    "source" : "PROMIS",
-    "target" : "2011-777247",
-    "value" : 10
-  }, {
-    "source" : "RAMBØLL MANAGEMENT AS",
-    "target" : "2011-777247",
-    "value" : 10
-  }, {
-    "source" : "STERIA AS",
-    "target" : "2011-777247",
-    "value" : 10
-  }, {
-    "source" : "UNICONSULT AS",
-    "target" : "2011-777247",
-    "value" : 10
-  }, {
-    "source" : "VISMA SIRIUS AS",
-    "target" : "2011-777247",
-    "value" : 10
-  }, {
-    "source" : "TELEPLAN CONSULTING AS",
-    "target" : "2011-777247",
-    "value" : 10
-  }, {
-    "source" : "ACANDO AS",
-    "target" : "2011-777247",
+    "source" : "MNEMONIC AS",
+    "target" : "2013-281148",
     "value" : 10
   }, {
     "source" : "ACCENTURE AS",
-    "target" : "2011-777247",
+    "target" : "193354-2014",
     "value" : 10
   }, {
-    "source" : "A2 NORGE AS",
-    "target" : "2011-777247",
-    "value" : 10
-  }, {
-    "source" : "ADG APPLICATION DEVELOPMENT GROUP AS",
-    "target" : "2011-777247",
-    "value" : 10
-  }, {
-    "source" : "ATEA AS",
-    "target" : "2011-777247",
-    "value" : 10
-  }, {
-    "source" : "BEKK CONSULTING AS",
-    "target" : "2011-777247",
-    "value" : 10
-  }, {
-    "source" : "BOUVET ASA, BERGEN",
-    "target" : "2011-777247",
-    "value" : 10
-  }, {
-    "source" : "CAPGEMINI NORGE AS",
-    "target" : "2011-777247",
-    "value" : 10
-  }, {
-    "source" : "ACCENTURE",
-    "target" : "2005-403461",
-    "value" : 10
-  }, {
-    "source" : "WM-DATA AS",
-    "target" : "2008-525251",
+    "source" : "ACCENTURE AS",
+    "target" : "2014-607651",
     "value" : 10
   }, {
     "source" : "EXPERIS AS",
@@ -1637,468 +2155,36 @@
     "target" : "2015-103735",
     "value" : 10
   }, {
-    "source" : "SOPRA STERIA AS",
-    "target" : "2016-404263",
-    "value" : 10
-  }, {
-    "source" : "CAPGEMINI NORGE AS",
-    "target" : "2012-255539",
-    "value" : 10
-  }, {
-    "source" : "EMENTOR NORGE AS",
-    "target" : "2005-728398",
-    "value" : 10
-  }, {
-    "source" : "PROMIS AS",
-    "target" : "2005-728398",
-    "value" : 10
-  }, {
-    "source" : "CAPGEMINI NORGE AS",
-    "target" : "2005-728398",
-    "value" : 10
-  }, {
-    "source" : "CIBER NORGE AS",
-    "target" : "2005-728398",
-    "value" : 10
-  }, {
-    "source" : "BEKK CONSULTING AS",
-    "target" : "2005-728398",
-    "value" : 10
-  }, {
-    "source" : "HM RÅDGIVNING OG IT TEKNOLOGI AS",
-    "target" : "2005-728398",
-    "value" : 10
-  }, {
-    "source" : "SOFTWARE INNOVATION",
-    "target" : "2005-728398",
-    "value" : 10
-  }, {
-    "source" : "TIETO ENATOR",
-    "target" : "2005-728398",
-    "value" : 10
-  }, {
-    "source" : "KRISTIN WILHELMSEN AS",
-    "target" : "2005-728398",
-    "value" : 10
-  }, {
-    "source" : "STERIA AS",
-    "target" : "2005-728398",
-    "value" : 10
-  }, {
-    "source" : "ACCENTURE ANS",
-    "target" : "2005-728398",
-    "value" : 10
-  }, {
-    "source" : "DAVINCI CONSULTING AS",
-    "target" : "2005-728398",
-    "value" : 10
-  }, {
-    "source" : "IBM GLOBAL SERVICES",
-    "target" : "2005-728398",
-    "value" : 10
-  }, {
-    "source" : "EDISYS AS",
-    "target" : "2005-728398",
-    "value" : 10
-  }, {
-    "source" : "KONSENSIT AS",
-    "target" : "2005-728398",
-    "value" : 10
-  }, {
-    "source" : "OPUS ONE",
-    "target" : "2005-728398",
-    "value" : 10
-  }, {
-    "source" : "MANAGE IT AS",
-    "target" : "2005-728398",
-    "value" : 10
-  }, {
-    "source" : "EGROUP ASA",
-    "target" : "2005-728398",
-    "value" : 10
-  }, {
-    "source" : "SMARTNET AS",
-    "target" : "2005-728398",
-    "value" : 10
-  }, {
-    "source" : "VISMA UNIQUE AS",
-    "target" : "2005-728398",
-    "value" : 10
-  }, {
-    "source" : "DELOITTE CONSULTING",
-    "target" : "2005-728398",
-    "value" : 10
-  }, {
-    "source" : "ORACLE NORGE AS",
-    "target" : "2005-728398",
-    "value" : 10
-  }, {
-    "source" : "OKB CONSULTING AS",
-    "target" : "2005-728398",
-    "value" : 10
-  }, {
-    "source" : "COMPUTAS AS",
-    "target" : "2005-728398",
-    "value" : 10
-  }, {
-    "source" : "ABEO",
-    "target" : "2005-728398",
-    "value" : 10
-  }, {
-    "source" : "EDB IT DRIFT",
-    "target" : "2005-728398",
-    "value" : 10
-  }, {
-    "source" : "HEWLETT-PACKARD NORGE AS",
-    "target" : "2005-728398",
-    "value" : 10
-  }, {
-    "source" : "CLASSIC IT DATAKONSULENTER",
-    "target" : "2005-728398",
-    "value" : 10
-  }, {
-    "source" : "COMMERCIAL DATA SERVERS AS",
-    "target" : "2005-728398",
-    "value" : 10
-  }, {
-    "source" : "NINETECHGRUPPEN",
-    "target" : "2005-728398",
-    "value" : 10
-  }, {
-    "source" : "NORSKE SYSTEMARKITEKTER",
-    "target" : "2005-728398",
-    "value" : 10
-  }, {
-    "source" : "IT INVEST AS",
-    "target" : "2005-728398",
-    "value" : 10
-  }, {
-    "source" : "HAMAR DATAKONSULT AS",
-    "target" : "2005-728398",
-    "value" : 10
-  }, {
-    "source" : "ACCENTURE AS",
-    "target" : "2010-362225",
-    "value" : 10
-  }, {
-    "source" : "CAPGEMINI NORGE AS",
-    "target" : "2010-565374",
-    "value" : 10
-  }, {
-    "source" : "VISMA CONSULTING AS",
-    "target" : "2016-701898",
-    "value" : 10
-  }, {
-    "source" : "TIETOENATOR AS",
-    "target" : "2003-224157",
-    "value" : 10
-  }, {
-    "source" : "STERIA AS",
-    "target" : "2006-358902",
-    "value" : 10
-  }, {
-    "source" : "MNEMONIC AS",
-    "target" : "2013-281148",
-    "value" : 10
-  }, {
-    "source" : "VISMA CONSULTING AS",
-    "target" : "2015-322128",
-    "value" : 10
-  }, {
-    "source" : "ATEA AS",
-    "target" : "2016-781698",
-    "value" : 10
-  }, {
-    "source" : "UNICONSULT AS",
-    "target" : "2003-412524",
-    "value" : 10
-  }, {
-    "source" : "TIETOENATOR AS",
-    "target" : "2003-412524",
-    "value" : 10
-  }, {
-    "source" : "TIETOENATOR AS",
-    "target" : "2003-412524",
-    "value" : 10
-  }, {
-    "source" : "TIETOENATOR AS",
-    "target" : "2003-412524",
-    "value" : 10
-  }, {
-    "source" : "TIETOENATOR AS",
-    "target" : "2003-412524",
-    "value" : 10
-  }, {
-    "source" : "STERIA AS",
-    "target" : "2003-412524",
-    "value" : 10
-  }, {
-    "source" : "STERIA AS",
-    "target" : "2003-412524",
-    "value" : 10
-  }, {
-    "source" : "PROMIS AS",
-    "target" : "2003-412524",
-    "value" : 10
-  }, {
-    "source" : "ORACLE NORGE AS",
-    "target" : "2003-412524",
-    "value" : 10
-  }, {
-    "source" : "ORACLE NORGE AS",
-    "target" : "2003-412524",
-    "value" : 10
-  }, {
-    "source" : "OBJECTWARE AS",
-    "target" : "2003-412524",
-    "value" : 10
-  }, {
-    "source" : "OBJECTWARE AS",
-    "target" : "2003-412524",
-    "value" : 10
-  }, {
-    "source" : "OBJECTWARE AS",
-    "target" : "2003-412524",
-    "value" : 10
-  }, {
-    "source" : "OBJECTWARE AS",
-    "target" : "2003-412524",
-    "value" : 10
-  }, {
-    "source" : "NORSKE SYSTEMARKITEKTER AS",
-    "target" : "2003-412524",
-    "value" : 10
-  }, {
-    "source" : "NORSKE SYSTEMARKITEKTER AS",
-    "target" : "2003-412524",
-    "value" : 10
-  }, {
-    "source" : "HEWLETT-PACKARD NORGE AS",
-    "target" : "2003-412524",
-    "value" : 10
-  }, {
-    "source" : "HEWLETT-PACKARD NORGE AS",
-    "target" : "2003-412524",
-    "value" : 10
-  }, {
-    "source" : "DAVINCI CONSULTING AS",
-    "target" : "2003-412524",
-    "value" : 10
-  }, {
-    "source" : "CAP GEMINI ERNST & YOUNG NORGE AS",
-    "target" : "2003-412524",
-    "value" : 10
-  }, {
-    "source" : "CAP GEMINI",
-    "target" : "2003-412524",
-    "value" : 10
-  }, {
-    "source" : "CAP GEMINI",
-    "target" : "2003-412524",
-    "value" : 10
-  }, {
-    "source" : "CAP GEMINI",
-    "target" : "2003-412524",
-    "value" : 10
-  }, {
-    "source" : "CAP GEMINI",
-    "target" : "2003-412524",
-    "value" : 10
-  }, {
-    "source" : "BEKK CONSULTING AS",
-    "target" : "2003-412524",
-    "value" : 10
-  }, {
-    "source" : "BEKK CONSULTING AS",
-    "target" : "2003-412524",
-    "value" : 10
-  }, {
-    "source" : "ACCENTURE ANS",
-    "target" : "2003-412524",
-    "value" : 10
-  }, {
-    "source" : "ACCENTURE ANS",
-    "target" : "2003-412524",
-    "value" : 10
-  }, {
-    "source" : "UNICONSULT AS",
-    "target" : "2003-412524",
-    "value" : 10
-  }, {
-    "source" : "TIETOENATOR AS",
-    "target" : "2003-412524",
-    "value" : 10
-  }, {
-    "source" : "TIETOENATOR AS",
-    "target" : "2003-412524",
-    "value" : 10
-  }, {
-    "source" : "TIETOENATOR AS",
-    "target" : "2003-412524",
-    "value" : 10
-  }, {
-    "source" : "TIETOENATOR AS",
-    "target" : "2003-412524",
-    "value" : 10
-  }, {
-    "source" : "STERIA AS",
-    "target" : "2003-412524",
-    "value" : 10
-  }, {
-    "source" : "STERIA AS",
-    "target" : "2003-412524",
-    "value" : 10
-  }, {
-    "source" : "PROMIS AS",
-    "target" : "2003-412524",
-    "value" : 10
-  }, {
-    "source" : "ORACLE NORGE AS",
-    "target" : "2003-412524",
-    "value" : 10
-  }, {
-    "source" : "ORACLE NORGE AS",
-    "target" : "2003-412524",
-    "value" : 10
-  }, {
-    "source" : "OBJECTWARE AS",
-    "target" : "2003-412524",
-    "value" : 10
-  }, {
-    "source" : "OBJECTWARE AS",
-    "target" : "2003-412524",
-    "value" : 10
-  }, {
-    "source" : "OBJECTWARE AS",
-    "target" : "2003-412524",
-    "value" : 10
-  }, {
-    "source" : "OBJECTWARE AS",
-    "target" : "2003-412524",
-    "value" : 10
-  }, {
-    "source" : "NORSKE SYSTEMARKITEKTER AS",
-    "target" : "2003-412524",
-    "value" : 10
-  }, {
-    "source" : "NORSKE SYSTEMARKITEKTER AS",
-    "target" : "2003-412524",
-    "value" : 10
-  }, {
-    "source" : "HEWLETT-PACKARD NORGE AS",
-    "target" : "2003-412524",
-    "value" : 10
-  }, {
-    "source" : "HEWLETT-PACKARD NORGE AS",
-    "target" : "2003-412524",
-    "value" : 10
-  }, {
-    "source" : "DAVINCI CONSULTING AS",
-    "target" : "2003-412524",
-    "value" : 10
-  }, {
-    "source" : "CAP GEMINI ERNST & YOUNG NORGE AS",
-    "target" : "2003-412524",
-    "value" : 10
-  }, {
-    "source" : "CAP GEMINI",
-    "target" : "2003-412524",
-    "value" : 10
-  }, {
-    "source" : "CAP GEMINI",
-    "target" : "2003-412524",
-    "value" : 10
-  }, {
-    "source" : "CAP GEMINI",
-    "target" : "2003-412524",
-    "value" : 10
-  }, {
-    "source" : "CAP GEMINI",
-    "target" : "2003-412524",
-    "value" : 10
-  }, {
-    "source" : "BEKK CONSULTING AS",
-    "target" : "2003-412524",
-    "value" : 10
-  }, {
-    "source" : "BEKK CONSULTING AS",
-    "target" : "2003-412524",
-    "value" : 10
-  }, {
-    "source" : "ACCENTURE ANS",
-    "target" : "2003-412524",
-    "value" : 10
-  }, {
-    "source" : "ACCENTURE ANS",
-    "target" : "2003-412524",
-    "value" : 10
-  }, {
-    "source" : "INTERNATIONAL BUSINESS MACHINES AS (IBM)",
-    "target" : "2010-751604",
-    "value" : 10
-  }, {
-    "source" : "A-2 NORGE AS",
-    "target" : "2013-281292",
-    "value" : 10
-  }, {
-    "source" : "ACCENTURE AS",
-    "target" : "2016-826862",
-    "value" : 10
-  }, {
-    "source" : "UNICONSULT AS",
-    "target" : "2003-433664",
-    "value" : 10
-  }, {
-    "source" : "UNICONSULT AS",
-    "target" : "2003-433664",
-    "value" : 10
-  }, {
-    "source" : "TIETOENATOR AS",
-    "target" : "2003-433664",
-    "value" : 10
-  }, {
-    "source" : "UNICONSULT AS",
-    "target" : "2003-433664",
-    "value" : 10
-  }, {
-    "source" : "UNICONSULT AS",
-    "target" : "2003-433664",
-    "value" : 10
-  }, {
-    "source" : "TIETOENATOR AS",
-    "target" : "2003-433664",
-    "value" : 10
-  }, {
-    "source" : "COMPUTAS AS",
-    "target" : "2010-872701",
-    "value" : 10
-  }, {
     "source" : "ACCENTURE AS",
     "target" : "2015-512386",
-    "value" : 10
-  }, {
-    "source" : "IBM AS",
-    "target" : "2010-937025",
     "value" : 10
   }, {
     "source" : "COMPUTAS AS",
     "target" : "2015-661253",
     "value" : 10
   }, {
-    "source" : "ABEO AS",
-    "target" : "2004-482951",
+    "source" : "VISMA CONSULTING AS",
+    "target" : "2015-322128",
     "value" : 10
   }, {
-    "source" : "DAVINCI CONSULTING AS",
-    "target" : "2004-482951",
+    "source" : "CAPGEMINI NORGE AS",
+    "target" : "119079-2012",
     "value" : 10
   }, {
-    "source" : "FORNEBU CONSULTING AS",
-    "target" : "2004-482951",
+    "source" : "CAPGEMINI NORGE AS",
+    "target" : "2012-255539",
     "value" : 10
   }, {
-    "source" : "ACCENTURE AS",
-    "target" : "2010-956101",
+    "source" : "WM-DATA AS",
+    "target" : "2008-525251",
+    "value" : 10
+  }, {
+    "source" : "SIRIUS IT",
+    "target" : "2008-306918",
+    "value" : 10
+  }, {
+    "source" : "STERIA AS",
+    "target" : "2006-358902",
     "value" : 10
   }, {
     "source" : "AVENIR AS",
@@ -2253,28 +2339,852 @@
     "target" : "2007-958909",
     "value" : 10
   }, {
+    "source" : "COMPUTAS AS",
+    "target" : "2010-872701",
+    "value" : 10
+  }, {
     "source" : "ACCENTURE AS",
-    "target" : "2014-607651",
+    "target" : "2010-956101",
     "value" : 10
   }, {
-    "source" : "2008-306918",
-    "target" : "297607-2007",
+    "source" : "INTERNATIONAL BUSINESS MACHINES AS (IBM)",
+    "target" : "2010-751604",
     "value" : 10
   }, {
-    "source" : "2009-564426",
-    "target" : "161942-2009",
+    "source" : "ACCENTURE AS",
+    "target" : "2010-362225",
     "value" : 10
   }, {
-    "source" : "2011-777247",
-    "target" : "101167-2011",
+    "source" : "IBM AS",
+    "target" : "2010-937025",
     "value" : 10
   }, {
-    "source" : "101167-2011",
-    "target" : "101167-2011",
+    "source" : "CAPGEMINI NORGE AS",
+    "target" : "2010-565374",
     "value" : 10
   }, {
-    "source" : "2009-928327",
-    "target" : "161942-2009",
+    "source" : "CIBER NORGE AS",
+    "target" : "2011-777247",
+    "value" : 10
+  }, {
+    "source" : "COMPUTAS AS",
+    "target" : "2011-777247",
+    "value" : 10
+  }, {
+    "source" : "DECISIVE AS",
+    "target" : "2011-777247",
+    "value" : 10
+  }, {
+    "source" : "DELL NORGE",
+    "target" : "2011-777247",
+    "value" : 10
+  }, {
+    "source" : "DELOITTE",
+    "target" : "2011-777247",
+    "value" : 10
+  }, {
+    "source" : "DEVOTEAM DAVINCI AS",
+    "target" : "2011-777247",
+    "value" : 10
+  }, {
+    "source" : "EBS CONSULTING AS",
+    "target" : "2011-777247",
+    "value" : 10
+  }, {
+    "source" : "EDB ERGO GROUP 13 AS",
+    "target" : "2011-777247",
+    "value" : 10
+  }, {
+    "source" : "ERNST & YOUNG AS",
+    "target" : "2011-777247",
+    "value" : 10
+  }, {
+    "source" : "EWORK NORGE AS",
+    "target" : "2011-777247",
+    "value" : 10
+  }, {
+    "source" : "GARTNER NORGE AS",
+    "target" : "2011-777247",
+    "value" : 10
+  }, {
+    "source" : "HEWLETT PACKARD NORGE AS",
+    "target" : "2011-777247",
+    "value" : 10
+  }, {
+    "source" : "INMETA CRAYON",
+    "target" : "2011-777247",
+    "value" : 10
+  }, {
+    "source" : "INNOVATEC - INNOVATIVE TECHNOLOGIES AS",
+    "target" : "2011-777247",
+    "value" : 10
+  }, {
+    "source" : "KNOW IT OBJECTNET AS",
+    "target" : "2011-777247",
+    "value" : 10
+  }, {
+    "source" : "KPMG",
+    "target" : "2011-777247",
+    "value" : 10
+  }, {
+    "source" : "METIER AS",
+    "target" : "2011-777247",
+    "value" : 10
+  }, {
+    "source" : "MILES OSLO AS",
+    "target" : "2011-777247",
+    "value" : 10
+  }, {
+    "source" : "NORSKE SYSTEMARKITEKTER",
+    "target" : "2011-777247",
+    "value" : 10
+  }, {
+    "source" : "PRICEWATERHOUSECOOPERS",
+    "target" : "2011-777247",
+    "value" : 10
+  }, {
+    "source" : "PROMIS",
+    "target" : "2011-777247",
+    "value" : 10
+  }, {
+    "source" : "RAMBØLL MANAGEMENT AS",
+    "target" : "2011-777247",
+    "value" : 10
+  }, {
+    "source" : "STERIA AS",
+    "target" : "2011-777247",
+    "value" : 10
+  }, {
+    "source" : "UNICONSULT AS",
+    "target" : "2011-777247",
+    "value" : 10
+  }, {
+    "source" : "VISMA SIRIUS AS",
+    "target" : "2011-777247",
+    "value" : 10
+  }, {
+    "source" : "TELEPLAN CONSULTING AS",
+    "target" : "2011-777247",
+    "value" : 10
+  }, {
+    "source" : "ACANDO AS",
+    "target" : "2011-777247",
+    "value" : 10
+  }, {
+    "source" : "ACCENTURE AS",
+    "target" : "2011-777247",
+    "value" : 10
+  }, {
+    "source" : "A2 NORGE AS",
+    "target" : "2011-777247",
+    "value" : 10
+  }, {
+    "source" : "ADG APPLICATION DEVELOPMENT GROUP AS",
+    "target" : "2011-777247",
+    "value" : 10
+  }, {
+    "source" : "ATEA AS",
+    "target" : "2011-777247",
+    "value" : 10
+  }, {
+    "source" : "BEKK CONSULTING AS",
+    "target" : "2011-777247",
+    "value" : 10
+  }, {
+    "source" : "BOUVET ASA, BERGEN",
+    "target" : "2011-777247",
+    "value" : 10
+  }, {
+    "source" : "CAPGEMINI NORGE AS",
+    "target" : "2011-777247",
+    "value" : 10
+  }, {
+    "source" : "COMPUTAS AS",
+    "target" : "345914-2011",
+    "value" : 10
+  }, {
+    "source" : "DECISIVE AS",
+    "target" : "345914-2011",
+    "value" : 10
+  }, {
+    "source" : "DELL NORGE",
+    "target" : "345914-2011",
+    "value" : 10
+  }, {
+    "source" : "DELOITTE",
+    "target" : "345914-2011",
+    "value" : 10
+  }, {
+    "source" : "DEVOTEAM DAVINCI AS",
+    "target" : "345914-2011",
+    "value" : 10
+  }, {
+    "source" : "EBS CONSULTING AS",
+    "target" : "345914-2011",
+    "value" : 10
+  }, {
+    "source" : "EDB ERGO GROUP 13 AS",
+    "target" : "345914-2011",
+    "value" : 10
+  }, {
+    "source" : "ERNST & YOUNG AS",
+    "target" : "345914-2011",
+    "value" : 10
+  }, {
+    "source" : "EWORK NORGE AS",
+    "target" : "345914-2011",
+    "value" : 10
+  }, {
+    "source" : "GARTNER NORGE AS",
+    "target" : "345914-2011",
+    "value" : 10
+  }, {
+    "source" : "HEWLETT PACKARD NORGE AS",
+    "target" : "345914-2011",
+    "value" : 10
+  }, {
+    "source" : "INMETA CRAYON",
+    "target" : "345914-2011",
+    "value" : 10
+  }, {
+    "source" : "INNOVATEC - INNOVATIVE TECHNOLOGIES AS",
+    "target" : "345914-2011",
+    "value" : 10
+  }, {
+    "source" : "KNOW IT OBJECTNET AS",
+    "target" : "345914-2011",
+    "value" : 10
+  }, {
+    "source" : "KPMG",
+    "target" : "345914-2011",
+    "value" : 10
+  }, {
+    "source" : "METIER AS",
+    "target" : "345914-2011",
+    "value" : 10
+  }, {
+    "source" : "MILES OSLO AS",
+    "target" : "345914-2011",
+    "value" : 10
+  }, {
+    "source" : "NORSKE SYSTEMARKITEKTER",
+    "target" : "345914-2011",
+    "value" : 10
+  }, {
+    "source" : "PRICEWATERHOUSECOOPERS",
+    "target" : "345914-2011",
+    "value" : 10
+  }, {
+    "source" : "PROMIS",
+    "target" : "345914-2011",
+    "value" : 10
+  }, {
+    "source" : "RAMBØLL MANAGEMENT AS",
+    "target" : "345914-2011",
+    "value" : 10
+  }, {
+    "source" : "STERIA AS",
+    "target" : "345914-2011",
+    "value" : 10
+  }, {
+    "source" : "UNICONSULT AS",
+    "target" : "345914-2011",
+    "value" : 10
+  }, {
+    "source" : "VISMA SIRIUS AS",
+    "target" : "345914-2011",
+    "value" : 10
+  }, {
+    "source" : "TELEPLAN CONSULTING AS",
+    "target" : "345914-2011",
+    "value" : 10
+  }, {
+    "source" : "ACANDO AS",
+    "target" : "345914-2011",
+    "value" : 10
+  }, {
+    "source" : "ACCENTURE AS",
+    "target" : "345914-2011",
+    "value" : 10
+  }, {
+    "source" : "A2 NORGE AS",
+    "target" : "345914-2011",
+    "value" : 10
+  }, {
+    "source" : "ADG APPLICATION DEVELOPMENT GROUP AS",
+    "target" : "345914-2011",
+    "value" : 10
+  }, {
+    "source" : "ATEA AS",
+    "target" : "345914-2011",
+    "value" : 10
+  }, {
+    "source" : "BEKK CONSULTING AS",
+    "target" : "345914-2011",
+    "value" : 10
+  }, {
+    "source" : "BOUVET ASA, BERGEN",
+    "target" : "345914-2011",
+    "value" : 10
+  }, {
+    "source" : "CAPGEMINI NORGE AS",
+    "target" : "345914-2011",
+    "value" : 10
+  }, {
+    "source" : "CIBER NORGE AS",
+    "target" : "345914-2011",
+    "value" : 10
+  }, {
+    "source" : "ATEA AS",
+    "target" : "2016-781698",
+    "value" : 10
+  }, {
+    "source" : "SOPRA STERIA AS",
+    "target" : "2016-404263",
+    "value" : 10
+  }, {
+    "source" : "ACCENTURE AS",
+    "target" : "2016-826862",
+    "value" : 10
+  }, {
+    "source" : "VISMA CONSULTING AS",
+    "target" : "2016-701898",
+    "value" : 10
+  }, {
+    "source" : "EMENTOR NORGE AS",
+    "target" : "2005-728398",
+    "value" : 10
+  }, {
+    "source" : "PROMIS AS",
+    "target" : "2005-728398",
+    "value" : 10
+  }, {
+    "source" : "CAPGEMINI NORGE AS",
+    "target" : "2005-728398",
+    "value" : 10
+  }, {
+    "source" : "CIBER NORGE AS",
+    "target" : "2005-728398",
+    "value" : 10
+  }, {
+    "source" : "BEKK CONSULTING AS",
+    "target" : "2005-728398",
+    "value" : 10
+  }, {
+    "source" : "HM RÅDGIVNING OG IT TEKNOLOGI AS",
+    "target" : "2005-728398",
+    "value" : 10
+  }, {
+    "source" : "SOFTWARE INNOVATION",
+    "target" : "2005-728398",
+    "value" : 10
+  }, {
+    "source" : "TIETO ENATOR",
+    "target" : "2005-728398",
+    "value" : 10
+  }, {
+    "source" : "KRISTIN WILHELMSEN AS",
+    "target" : "2005-728398",
+    "value" : 10
+  }, {
+    "source" : "STERIA AS",
+    "target" : "2005-728398",
+    "value" : 10
+  }, {
+    "source" : "ACCENTURE ANS",
+    "target" : "2005-728398",
+    "value" : 10
+  }, {
+    "source" : "DAVINCI CONSULTING AS",
+    "target" : "2005-728398",
+    "value" : 10
+  }, {
+    "source" : "IBM GLOBAL SERVICES",
+    "target" : "2005-728398",
+    "value" : 10
+  }, {
+    "source" : "EDISYS AS",
+    "target" : "2005-728398",
+    "value" : 10
+  }, {
+    "source" : "KONSENSIT AS",
+    "target" : "2005-728398",
+    "value" : 10
+  }, {
+    "source" : "OPUS ONE",
+    "target" : "2005-728398",
+    "value" : 10
+  }, {
+    "source" : "MANAGE IT AS",
+    "target" : "2005-728398",
+    "value" : 10
+  }, {
+    "source" : "EGROUP ASA",
+    "target" : "2005-728398",
+    "value" : 10
+  }, {
+    "source" : "SMARTNET AS",
+    "target" : "2005-728398",
+    "value" : 10
+  }, {
+    "source" : "VISMA UNIQUE AS",
+    "target" : "2005-728398",
+    "value" : 10
+  }, {
+    "source" : "DELOITTE CONSULTING",
+    "target" : "2005-728398",
+    "value" : 10
+  }, {
+    "source" : "ORACLE NORGE AS",
+    "target" : "2005-728398",
+    "value" : 10
+  }, {
+    "source" : "OKB CONSULTING AS",
+    "target" : "2005-728398",
+    "value" : 10
+  }, {
+    "source" : "COMPUTAS AS",
+    "target" : "2005-728398",
+    "value" : 10
+  }, {
+    "source" : "ABEO",
+    "target" : "2005-728398",
+    "value" : 10
+  }, {
+    "source" : "EDB IT DRIFT",
+    "target" : "2005-728398",
+    "value" : 10
+  }, {
+    "source" : "HEWLETT-PACKARD NORGE AS",
+    "target" : "2005-728398",
+    "value" : 10
+  }, {
+    "source" : "CLASSIC IT DATAKONSULENTER",
+    "target" : "2005-728398",
+    "value" : 10
+  }, {
+    "source" : "COMMERCIAL DATA SERVERS AS",
+    "target" : "2005-728398",
+    "value" : 10
+  }, {
+    "source" : "NINETECHGRUPPEN",
+    "target" : "2005-728398",
+    "value" : 10
+  }, {
+    "source" : "NORSKE SYSTEMARKITEKTER",
+    "target" : "2005-728398",
+    "value" : 10
+  }, {
+    "source" : "IT INVEST AS",
+    "target" : "2005-728398",
+    "value" : 10
+  }, {
+    "source" : "HAMAR DATAKONSULT AS",
+    "target" : "2005-728398",
+    "value" : 10
+  }, {
+    "source" : "ACCENTURE",
+    "target" : "2005-403461",
+    "value" : 10
+  }, {
+    "source" : "UNICONSULT AS",
+    "target" : "2003-433664",
+    "value" : 10
+  }, {
+    "source" : "UNICONSULT AS",
+    "target" : "2003-433664",
+    "value" : 10
+  }, {
+    "source" : "TIETOENATOR AS",
+    "target" : "2003-433664",
+    "value" : 10
+  }, {
+    "source" : "UNICONSULT AS",
+    "target" : "2003-433664",
+    "value" : 10
+  }, {
+    "source" : "UNICONSULT AS",
+    "target" : "2003-433664",
+    "value" : 10
+  }, {
+    "source" : "TIETOENATOR AS",
+    "target" : "2003-433664",
+    "value" : 10
+  }, {
+    "source" : "TIETOENATOR AS",
+    "target" : "2003-224157",
+    "value" : 10
+  }, {
+    "source" : "UNICONSULT AS",
+    "target" : "2003-412524",
+    "value" : 10
+  }, {
+    "source" : "TIETOENATOR AS",
+    "target" : "2003-412524",
+    "value" : 10
+  }, {
+    "source" : "TIETOENATOR AS",
+    "target" : "2003-412524",
+    "value" : 10
+  }, {
+    "source" : "TIETOENATOR AS",
+    "target" : "2003-412524",
+    "value" : 10
+  }, {
+    "source" : "TIETOENATOR AS",
+    "target" : "2003-412524",
+    "value" : 10
+  }, {
+    "source" : "STERIA AS",
+    "target" : "2003-412524",
+    "value" : 10
+  }, {
+    "source" : "STERIA AS",
+    "target" : "2003-412524",
+    "value" : 10
+  }, {
+    "source" : "PROMIS AS",
+    "target" : "2003-412524",
+    "value" : 10
+  }, {
+    "source" : "ORACLE NORGE AS",
+    "target" : "2003-412524",
+    "value" : 10
+  }, {
+    "source" : "ORACLE NORGE AS",
+    "target" : "2003-412524",
+    "value" : 10
+  }, {
+    "source" : "OBJECTWARE AS",
+    "target" : "2003-412524",
+    "value" : 10
+  }, {
+    "source" : "OBJECTWARE AS",
+    "target" : "2003-412524",
+    "value" : 10
+  }, {
+    "source" : "OBJECTWARE AS",
+    "target" : "2003-412524",
+    "value" : 10
+  }, {
+    "source" : "OBJECTWARE AS",
+    "target" : "2003-412524",
+    "value" : 10
+  }, {
+    "source" : "NORSKE SYSTEMARKITEKTER AS",
+    "target" : "2003-412524",
+    "value" : 10
+  }, {
+    "source" : "NORSKE SYSTEMARKITEKTER AS",
+    "target" : "2003-412524",
+    "value" : 10
+  }, {
+    "source" : "HEWLETT-PACKARD NORGE AS",
+    "target" : "2003-412524",
+    "value" : 10
+  }, {
+    "source" : "HEWLETT-PACKARD NORGE AS",
+    "target" : "2003-412524",
+    "value" : 10
+  }, {
+    "source" : "DAVINCI CONSULTING AS",
+    "target" : "2003-412524",
+    "value" : 10
+  }, {
+    "source" : "CAP GEMINI ERNST & YOUNG NORGE AS",
+    "target" : "2003-412524",
+    "value" : 10
+  }, {
+    "source" : "CAP GEMINI",
+    "target" : "2003-412524",
+    "value" : 10
+  }, {
+    "source" : "CAP GEMINI",
+    "target" : "2003-412524",
+    "value" : 10
+  }, {
+    "source" : "CAP GEMINI",
+    "target" : "2003-412524",
+    "value" : 10
+  }, {
+    "source" : "CAP GEMINI",
+    "target" : "2003-412524",
+    "value" : 10
+  }, {
+    "source" : "BEKK CONSULTING AS",
+    "target" : "2003-412524",
+    "value" : 10
+  }, {
+    "source" : "BEKK CONSULTING AS",
+    "target" : "2003-412524",
+    "value" : 10
+  }, {
+    "source" : "ACCENTURE ANS",
+    "target" : "2003-412524",
+    "value" : 10
+  }, {
+    "source" : "ACCENTURE ANS",
+    "target" : "2003-412524",
+    "value" : 10
+  }, {
+    "source" : "UNICONSULT AS",
+    "target" : "2003-412524",
+    "value" : 10
+  }, {
+    "source" : "TIETOENATOR AS",
+    "target" : "2003-412524",
+    "value" : 10
+  }, {
+    "source" : "TIETOENATOR AS",
+    "target" : "2003-412524",
+    "value" : 10
+  }, {
+    "source" : "TIETOENATOR AS",
+    "target" : "2003-412524",
+    "value" : 10
+  }, {
+    "source" : "TIETOENATOR AS",
+    "target" : "2003-412524",
+    "value" : 10
+  }, {
+    "source" : "STERIA AS",
+    "target" : "2003-412524",
+    "value" : 10
+  }, {
+    "source" : "STERIA AS",
+    "target" : "2003-412524",
+    "value" : 10
+  }, {
+    "source" : "PROMIS AS",
+    "target" : "2003-412524",
+    "value" : 10
+  }, {
+    "source" : "ORACLE NORGE AS",
+    "target" : "2003-412524",
+    "value" : 10
+  }, {
+    "source" : "ORACLE NORGE AS",
+    "target" : "2003-412524",
+    "value" : 10
+  }, {
+    "source" : "OBJECTWARE AS",
+    "target" : "2003-412524",
+    "value" : 10
+  }, {
+    "source" : "OBJECTWARE AS",
+    "target" : "2003-412524",
+    "value" : 10
+  }, {
+    "source" : "OBJECTWARE AS",
+    "target" : "2003-412524",
+    "value" : 10
+  }, {
+    "source" : "OBJECTWARE AS",
+    "target" : "2003-412524",
+    "value" : 10
+  }, {
+    "source" : "NORSKE SYSTEMARKITEKTER AS",
+    "target" : "2003-412524",
+    "value" : 10
+  }, {
+    "source" : "NORSKE SYSTEMARKITEKTER AS",
+    "target" : "2003-412524",
+    "value" : 10
+  }, {
+    "source" : "HEWLETT-PACKARD NORGE AS",
+    "target" : "2003-412524",
+    "value" : 10
+  }, {
+    "source" : "HEWLETT-PACKARD NORGE AS",
+    "target" : "2003-412524",
+    "value" : 10
+  }, {
+    "source" : "DAVINCI CONSULTING AS",
+    "target" : "2003-412524",
+    "value" : 10
+  }, {
+    "source" : "CAP GEMINI ERNST & YOUNG NORGE AS",
+    "target" : "2003-412524",
+    "value" : 10
+  }, {
+    "source" : "CAP GEMINI",
+    "target" : "2003-412524",
+    "value" : 10
+  }, {
+    "source" : "CAP GEMINI",
+    "target" : "2003-412524",
+    "value" : 10
+  }, {
+    "source" : "CAP GEMINI",
+    "target" : "2003-412524",
+    "value" : 10
+  }, {
+    "source" : "CAP GEMINI",
+    "target" : "2003-412524",
+    "value" : 10
+  }, {
+    "source" : "BEKK CONSULTING AS",
+    "target" : "2003-412524",
+    "value" : 10
+  }, {
+    "source" : "BEKK CONSULTING AS",
+    "target" : "2003-412524",
+    "value" : 10
+  }, {
+    "source" : "ACCENTURE ANS",
+    "target" : "2003-412524",
+    "value" : 10
+  }, {
+    "source" : "ACCENTURE ANS",
+    "target" : "2003-412524",
+    "value" : 10
+  }, {
+    "source" : "ABEO AS",
+    "target" : "2004-482951",
+    "value" : 10
+  }, {
+    "source" : "DAVINCI CONSULTING AS",
+    "target" : "2004-482951",
+    "value" : 10
+  }, {
+    "source" : "FORNEBU CONSULTING AS",
+    "target" : "2004-482951",
+    "value" : 10
+  }, {
+    "source" : "EXPERIS AS, ORG. NR. 982 683 955",
+    "target" : "422668-2015",
+    "value" : 10
+  }, {
+    "source" : "ACCENTURE AS, ORG.NR. 992 037 601",
+    "target" : "422668-2015",
+    "value" : 10
+  }, {
+    "source" : "RIGHT MANAGEMENT NORWAY AS, ORG.NR. 977 213 800",
+    "target" : "422668-2015",
+    "value" : 10
+  }, {
+    "source" : "ERNST & YOUNG AS, ORG. NR. 976 389 387",
+    "target" : "422668-2015",
+    "value" : 10
+  }, {
+    "source" : "BEKK CONSULTING AS, ORG. NR. 981 566 378",
+    "target" : "422668-2015",
+    "value" : 10
+  }, {
+    "source" : "ERNST & YOUNG AS, ORG. NR. 976 389 387",
+    "target" : "422668-2015",
+    "value" : 10
+  }, {
+    "source" : "ACANDO AS, ORG. NR. 979 191 138",
+    "target" : "422668-2015",
+    "value" : 10
+  }, {
+    "source" : "PROMIS AS, ORG.NR. 877 380 092",
+    "target" : "422668-2015",
+    "value" : 10
+  }, {
+    "source" : "CAPGEMINI NORGE AS, ORG.NR. 943 574 537",
+    "target" : "422668-2015",
+    "value" : 10
+  }, {
+    "source" : "VISMA CONSULTING AS, ORG.NR. 990 432 368",
+    "target" : "422668-2015",
+    "value" : 10
+  }, {
+    "source" : "REDPILL LINPRO AS, ORG.NR. 975 842 061",
+    "target" : "422668-2015",
+    "value" : 10
+  }, {
+    "source" : "PUNDIT NETWORKS AS, ORG.NR. 998 613 353",
+    "target" : "422668-2015",
+    "value" : 10
+  }, {
+    "source" : "THE COMPETITION HAS BEEN CANCELLED FOR THIS COMPETENCE AREA",
+    "target" : "422668-2015",
+    "value" : 10
+  }, {
+    "source" : "VISMA CONSULTING AS",
+    "target" : "069254-2015",
+    "value" : 10
+  }, {
+    "source" : "COMPUTAS AS",
+    "target" : "154131-2015",
+    "value" : 10
+  }, {
+    "source" : "ACCENTURE AS",
+    "target" : "025677-2015",
+    "value" : 10
+  }, {
+    "source" : "VISMA CONSULTING AS",
+    "target" : "140875-2016",
+    "value" : 10
+  }, {
+    "source" : "ACCENTURE AS",
+    "target" : "243954-2016",
+    "value" : 10
+  }, {
+    "source" : "SOPRA STERIA AS",
+    "target" : "432917-2016",
+    "value" : 10
+  }, {
+    "source" : "ATEA AS",
+    "target" : "322049-2016",
+    "value" : 10
+  }, {
+    "source" : "2013-281292",
+    "target" : "274297-2012",
+    "value" : 10
+  }, {
+    "source" : "350607-2013",
+    "target" : "350607-2013",
+    "value" : 10
+  }, {
+    "source" : "039829-2013",
+    "target" : "039829-2013",
+    "value" : 10
+  }, {
+    "source" : "039829-2013",
+    "target" : "274297-2012",
+    "value" : 10
+  }, {
+    "source" : "039829-2013",
+    "target" : "274297-2012",
+    "value" : 10
+  }, {
+    "source" : "039828-2013",
+    "target" : "039828-2013",
+    "value" : 10
+  }, {
+    "source" : "039828-2013",
+    "target" : "246258-2012",
+    "value" : 10
+  }, {
+    "source" : "039828-2013",
+    "target" : "246258-2012",
+    "value" : 10
+  }, {
+    "source" : "2013-281148",
+    "target" : "246258-2012",
+    "value" : 10
+  }, {
+    "source" : "286805-2014",
+    "target" : "286805-2014",
+    "value" : 10
+  }, {
+    "source" : "193354-2014",
+    "target" : "193354-2014",
+    "value" : 10
+  }, {
+    "source" : "2014-607651",
+    "target" : "2013-307839",
+    "value" : 10
+  }, {
+    "source" : "214426-2014",
+    "target" : "214426-2014",
+    "value" : 10
+  }, {
+    "source" : "170406-2014",
+    "target" : "170406-2014",
     "value" : 10
   }, {
     "source" : "2015-103735",
@@ -2285,122 +3195,6 @@
     "target" : "2015-340383",
     "value" : 10
   }, {
-    "source" : "2016-404263",
-    "target" : "021001-2016",
-    "value" : 10
-  }, {
-    "source" : "2016-404263",
-    "target" : "2016-082071",
-    "value" : 10
-  }, {
-    "source" : "107172-2015",
-    "target" : "107172-2015",
-    "value" : 10
-  }, {
-    "source" : "2009-104423",
-    "target" : "161942-2009",
-    "value" : 10
-  }, {
-    "source" : "2009-960559",
-    "target" : "161942-2009",
-    "value" : 10
-  }, {
-    "source" : "2012-255539",
-    "target" : "343149-2011",
-    "value" : 10
-  }, {
-    "source" : "2016-573035",
-    "target" : "020995-2016",
-    "value" : 10
-  }, {
-    "source" : "2016-573035",
-    "target" : "2016-665571",
-    "value" : 10
-  }, {
-    "source" : "2016-573035",
-    "target" : "2016-665571",
-    "value" : 10
-  }, {
-    "source" : "343149-2011",
-    "target" : "343149-2011",
-    "value" : 10
-  }, {
-    "source" : "2009-105937",
-    "target" : "161942-2009",
-    "value" : 10
-  }, {
-    "source" : "2010-362225",
-    "target" : "327963-2009",
-    "value" : 10
-  }, {
-    "source" : "2009-228412",
-    "target" : "161942-2009",
-    "value" : 10
-  }, {
-    "source" : "2010-565374",
-    "target" : "330718-2009",
-    "value" : 10
-  }, {
-    "source" : "2012-266032",
-    "target" : "264548-2012",
-    "value" : 10
-  }, {
-    "source" : "2016-701898",
-    "target" : "174732-2015",
-    "value" : 10
-  }, {
-    "source" : "2016-701898",
-    "target" : "2015-307826",
-    "value" : 10
-  }, {
-    "source" : "2009-266589",
-    "target" : "161942-2009",
-    "value" : 10
-  }, {
-    "source" : "2013-281148",
-    "target" : "246258-2012",
-    "value" : 10
-  }, {
-    "source" : "2015-322128",
-    "target" : "214426-2014",
-    "value" : 10
-  }, {
-    "source" : "2015-322128",
-    "target" : "2014-398870",
-    "value" : 10
-  }, {
-    "source" : "2016-781698",
-    "target" : "026763-2016",
-    "value" : 10
-  }, {
-    "source" : "2016-781698",
-    "target" : "2016-344436",
-    "value" : 10
-  }, {
-    "source" : "2009-332068",
-    "target" : "161942-2009",
-    "value" : 10
-  }, {
-    "source" : "2010-751604",
-    "target" : "329262-2009",
-    "value" : 10
-  }, {
-    "source" : "2013-281292",
-    "target" : "274297-2012",
-    "value" : 10
-  }, {
-    "source" : "2016-826862",
-    "target" : "431381-2015",
-    "value" : 10
-  }, {
-    "source" : "2016-826862",
-    "target" : "2015-113743",
-    "value" : 10
-  }, {
-    "source" : "2010-872701",
-    "target" : "327962-2009",
-    "value" : 10
-  }, {
     "source" : "2015-512386",
     "target" : "170406-2014",
     "value" : 10
@@ -2409,12 +3203,28 @@
     "target" : "2014-888660",
     "value" : 10
   }, {
-    "source" : "2009-472406",
-    "target" : "161942-2009",
+    "source" : "2015-828848",
+    "target" : "107172-2015",
     "value" : 10
   }, {
-    "source" : "2010-937025",
-    "target" : "329263-2009",
+    "source" : "2015-828848",
+    "target" : "2015-340383",
+    "value" : 10
+  }, {
+    "source" : "2015-828848",
+    "target" : "2015-340383",
+    "value" : 10
+  }, {
+    "source" : "174732-2015",
+    "target" : "174732-2015",
+    "value" : 10
+  }, {
+    "source" : "107172-2015",
+    "target" : "107172-2015",
+    "value" : 10
+  }, {
+    "source" : "431381-2015",
+    "target" : "431381-2015",
     "value" : 10
   }, {
     "source" : "2015-661253",
@@ -2425,28 +3235,12 @@
     "target" : "2014-410278",
     "value" : 10
   }, {
-    "source" : "2009-529000",
-    "target" : "161942-2009",
+    "source" : "2015-322128",
+    "target" : "214426-2014",
     "value" : 10
   }, {
-    "source" : "2010-956101",
-    "target" : "329264-2009",
-    "value" : 10
-  }, {
-    "source" : "2009-563552",
-    "target" : "161942-2009",
-    "value" : 10
-  }, {
-    "source" : "2014-607651",
-    "target" : "2013-307839",
-    "value" : 10
-  }, {
-    "source" : "246258-2012",
-    "target" : "246258-2012",
-    "value" : 10
-  }, {
-    "source" : "264548-2012",
-    "target" : "264548-2012",
+    "source" : "2015-322128",
+    "target" : "2014-398870",
     "value" : 10
   }, {
     "source" : "274297-2012",
@@ -2461,28 +3255,216 @@
     "target" : "274297-2012",
     "value" : 10
   }, {
-    "source" : "170406-2014",
-    "target" : "170406-2014",
+    "source" : "303163-2012",
+    "target" : "264548-2012",
     "value" : 10
   }, {
-    "source" : "214426-2014",
-    "target" : "214426-2014",
+    "source" : "303163-2012",
+    "target" : "264548-2012",
     "value" : 10
   }, {
-    "source" : "286805-2014",
-    "target" : "286805-2014",
+    "source" : "303163-2012",
+    "target" : "303163-2012",
     "value" : 10
   }, {
-    "source" : "174732-2015",
-    "target" : "174732-2015",
+    "source" : "2012-266882",
+    "target" : "264548-2012",
     "value" : 10
   }, {
-    "source" : "431381-2015",
+    "source" : "119079-2012",
+    "target" : "119079-2012",
+    "value" : 10
+  }, {
+    "source" : "119079-2012",
+    "target" : "343149-2011",
+    "value" : 10
+  }, {
+    "source" : "119079-2012",
+    "target" : "343149-2011",
+    "value" : 10
+  }, {
+    "source" : "2012-267534",
+    "target" : "264548-2012",
+    "value" : 10
+  }, {
+    "source" : "291864-2012",
+    "target" : "264548-2012",
+    "value" : 10
+  }, {
+    "source" : "291864-2012",
+    "target" : "264548-2012",
+    "value" : 10
+  }, {
+    "source" : "291864-2012",
+    "target" : "291864-2012",
+    "value" : 10
+  }, {
+    "source" : "2012-266032",
+    "target" : "264548-2012",
+    "value" : 10
+  }, {
+    "source" : "264548-2012",
+    "target" : "264548-2012",
+    "value" : 10
+  }, {
+    "source" : "246258-2012",
+    "target" : "246258-2012",
+    "value" : 10
+  }, {
+    "source" : "2012-255539",
+    "target" : "343149-2011",
+    "value" : 10
+  }, {
+    "source" : "287834-2012",
+    "target" : "264548-2012",
+    "value" : 10
+  }, {
+    "source" : "287834-2012",
+    "target" : "264548-2012",
+    "value" : 10
+  }, {
+    "source" : "287834-2012",
+    "target" : "287834-2012",
+    "value" : 10
+  }, {
+    "source" : "2012-268087",
+    "target" : "264548-2012",
+    "value" : 10
+  }, {
+    "source" : "2008-306918",
+    "target" : "297607-2007",
+    "value" : 10
+  }, {
+    "source" : "2009-332068",
+    "target" : "161942-2009",
+    "value" : 10
+  }, {
+    "source" : "2009-529000",
+    "target" : "161942-2009",
+    "value" : 10
+  }, {
+    "source" : "2009-266589",
+    "target" : "161942-2009",
+    "value" : 10
+  }, {
+    "source" : "2009-472406",
+    "target" : "161942-2009",
+    "value" : 10
+  }, {
+    "source" : "2009-960559",
+    "target" : "161942-2009",
+    "value" : 10
+  }, {
+    "source" : "2009-928327",
+    "target" : "161942-2009",
+    "value" : 10
+  }, {
+    "source" : "2009-563552",
+    "target" : "161942-2009",
+    "value" : 10
+  }, {
+    "source" : "2009-180018",
+    "target" : "161942-2009",
+    "value" : 10
+  }, {
+    "source" : "2009-564426",
+    "target" : "161942-2009",
+    "value" : 10
+  }, {
+    "source" : "2009-104423",
+    "target" : "161942-2009",
+    "value" : 10
+  }, {
+    "source" : "2009-105937",
+    "target" : "161942-2009",
+    "value" : 10
+  }, {
+    "source" : "2009-228412",
+    "target" : "161942-2009",
+    "value" : 10
+  }, {
+    "source" : "2010-872701",
+    "target" : "327962-2009",
+    "value" : 10
+  }, {
+    "source" : "2010-956101",
+    "target" : "329264-2009",
+    "value" : 10
+  }, {
+    "source" : "2010-751604",
+    "target" : "329262-2009",
+    "value" : 10
+  }, {
+    "source" : "2010-362225",
+    "target" : "327963-2009",
+    "value" : 10
+  }, {
+    "source" : "2010-937025",
+    "target" : "329263-2009",
+    "value" : 10
+  }, {
+    "source" : "2010-565374",
+    "target" : "330718-2009",
+    "value" : 10
+  }, {
+    "source" : "2011-777247",
+    "target" : "101167-2011",
+    "value" : 10
+  }, {
+    "source" : "343149-2011",
+    "target" : "343149-2011",
+    "value" : 10
+  }, {
+    "source" : "345914-2011",
+    "target" : "101167-2011",
+    "value" : 10
+  }, {
+    "source" : "345914-2011",
+    "target" : "101167-2011",
+    "value" : 10
+  }, {
+    "source" : "345914-2011",
+    "target" : "345914-2011",
+    "value" : 10
+  }, {
+    "source" : "101167-2011",
+    "target" : "101167-2011",
+    "value" : 10
+  }, {
+    "source" : "2016-781698",
+    "target" : "026763-2016",
+    "value" : 10
+  }, {
+    "source" : "2016-781698",
+    "target" : "2016-344436",
+    "value" : 10
+  }, {
+    "source" : "2016-404263",
+    "target" : "021001-2016",
+    "value" : 10
+  }, {
+    "source" : "2016-404263",
+    "target" : "2016-082071",
+    "value" : 10
+  }, {
+    "source" : "2016-573035",
+    "target" : "020995-2016",
+    "value" : 10
+  }, {
+    "source" : "2016-573035",
+    "target" : "2016-665571",
+    "value" : 10
+  }, {
+    "source" : "2016-573035",
+    "target" : "2016-665571",
+    "value" : 10
+  }, {
+    "source" : "2016-826862",
     "target" : "431381-2015",
     "value" : 10
   }, {
-    "source" : "020995-2016",
-    "target" : "020995-2016",
+    "source" : "2016-826862",
+    "target" : "2015-113743",
     "value" : 10
   }, {
     "source" : "021001-2016",
@@ -2491,6 +3473,134 @@
   }, {
     "source" : "026763-2016",
     "target" : "026763-2016",
+    "value" : 10
+  }, {
+    "source" : "020995-2016",
+    "target" : "020995-2016",
+    "value" : 10
+  }, {
+    "source" : "2016-701898",
+    "target" : "174732-2015",
+    "value" : 10
+  }, {
+    "source" : "2016-701898",
+    "target" : "2015-307826",
+    "value" : 10
+  }, {
+    "source" : "422668-2015",
+    "target" : "107172-2015",
+    "value" : 10
+  }, {
+    "source" : "422668-2015",
+    "target" : "107172-2015",
+    "value" : 10
+  }, {
+    "source" : "422668-2015",
+    "target" : "422668-2015",
+    "value" : 10
+  }, {
+    "source" : "069254-2015",
+    "target" : "069254-2015",
+    "value" : 10
+  }, {
+    "source" : "069254-2015",
+    "target" : "214426-2014",
+    "value" : 10
+  }, {
+    "source" : "069254-2015",
+    "target" : "214426-2014",
+    "value" : 10
+  }, {
+    "source" : "154131-2015",
+    "target" : "154131-2015",
+    "value" : 10
+  }, {
+    "source" : "154131-2015",
+    "target" : "286805-2014",
+    "value" : 10
+  }, {
+    "source" : "154131-2015",
+    "target" : "286805-2014",
+    "value" : 10
+  }, {
+    "source" : "025677-2015",
+    "target" : "025677-2015",
+    "value" : 10
+  }, {
+    "source" : "025677-2015",
+    "target" : "170406-2014",
+    "value" : 10
+  }, {
+    "source" : "025677-2015",
+    "target" : "170406-2014",
+    "value" : 10
+  }, {
+    "source" : "111721-2015",
+    "target" : "107172-2015",
+    "value" : 10
+  }, {
+    "source" : "111721-2015",
+    "target" : "111721-2015",
+    "value" : 10
+  }, {
+    "source" : "140875-2016",
+    "target" : "140875-2016",
+    "value" : 10
+  }, {
+    "source" : "140875-2016",
+    "target" : "174732-2015",
+    "value" : 10
+  }, {
+    "source" : "140875-2016",
+    "target" : "174732-2015",
+    "value" : 10
+  }, {
+    "source" : "026760-2016",
+    "target" : "020995-2016",
+    "value" : 10
+  }, {
+    "source" : "026760-2016",
+    "target" : "026760-2016",
+    "value" : 10
+  }, {
+    "source" : "450726-2016",
+    "target" : "450726-2016",
+    "value" : 10
+  }, {
+    "source" : "243954-2016",
+    "target" : "243954-2016",
+    "value" : 10
+  }, {
+    "source" : "243954-2016",
+    "target" : "431381-2015",
+    "value" : 10
+  }, {
+    "source" : "243954-2016",
+    "target" : "431381-2015",
+    "value" : 10
+  }, {
+    "source" : "432917-2016",
+    "target" : "021001-2016",
+    "value" : 10
+  }, {
+    "source" : "432917-2016",
+    "target" : "021001-2016",
+    "value" : 10
+  }, {
+    "source" : "432917-2016",
+    "target" : "432917-2016",
+    "value" : 10
+  }, {
+    "source" : "322049-2016",
+    "target" : "026763-2016",
+    "value" : 10
+  }, {
+    "source" : "322049-2016",
+    "target" : "026763-2016",
+    "value" : 10
+  }, {
+    "source" : "322049-2016",
+    "target" : "322049-2016",
     "value" : 10
   } ]
 }
