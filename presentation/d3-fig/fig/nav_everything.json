@@ -696,6 +696,12 @@
     "color" : "#4caf50",
     "nok" : 90000000
   }, {
+    "id" : "142758-2010",
+    "name" : "142758-2010 (Contract notice)",
+    "group" : 1,
+    "color" : "#ff7f0e",
+    "nok" : 14000000
+  }, {
     "id" : "184820-2010",
     "name" : "184820-2010 (Additional information)",
     "group" : 1,
@@ -2009,6 +2015,10 @@
   }, {
     "source" : "NAV",
     "target" : "255337-2010",
+    "value" : 10
+  }, {
+    "source" : "NAV",
+    "target" : "142758-2010",
     "value" : 10
   }, {
     "source" : "NAV",
@@ -3577,6 +3587,10 @@
   }, {
     "source" : "2010-872701",
     "target" : "327962-2009",
+    "value" : 10
+  }, {
+    "source" : "184820-2010",
+    "target" : "142758-2010",
     "value" : 10
   }, {
     "source" : "2010-956101",
