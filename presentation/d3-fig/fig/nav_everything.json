@@ -1026,6 +1026,78 @@
     "color" : "#4caf50",
     "nok" : null
   }, {
+    "id" : "2009-529884",
+    "name" : "2009-529884 (Additional information)",
+    "group" : 1,
+    "color" : "#1f77b4",
+    "nok" : null
+  }, {
+    "id" : "2009-302086",
+    "name" : "2009-302086 (Additional information)",
+    "group" : 1,
+    "color" : "#1f77b4",
+    "nok" : null
+  }, {
+    "id" : "2010-245638",
+    "name" : "2010-245638 (Contract award)",
+    "group" : 1,
+    "color" : "#4caf50",
+    "nok" : null
+  }, {
+    "id" : "317438-2010",
+    "name" : "317438-2010 (Contract award)",
+    "group" : 1,
+    "color" : "#2a788e",
+    "nok" : null
+  }, {
+    "id" : "2012-992141",
+    "name" : "2012-992141 (Additional information)",
+    "group" : 1,
+    "color" : "#1f77b4",
+    "nok" : null
+  }, {
+    "id" : "2012-195449",
+    "name" : "2012-195449 (Additional information)",
+    "group" : 1,
+    "color" : "#1f77b4",
+    "nok" : null
+  }, {
+    "id" : "2012-478280",
+    "name" : "2012-478280 (Additional information)",
+    "group" : 1,
+    "color" : "#1f77b4",
+    "nok" : null
+  }, {
+    "id" : "2012-927475",
+    "name" : "2012-927475 (Additional information)",
+    "group" : 1,
+    "color" : "#1f77b4",
+    "nok" : null
+  }, {
+    "id" : "2012-138966",
+    "name" : "2012-138966 (Additional information)",
+    "group" : 1,
+    "color" : "#1f77b4",
+    "nok" : null
+  }, {
+    "id" : "2012-388715",
+    "name" : "2012-388715 (Additional information)",
+    "group" : 1,
+    "color" : "#1f77b4",
+    "nok" : null
+  }, {
+    "id" : "2013-292627",
+    "name" : "2013-292627 (Contract award)",
+    "group" : 1,
+    "color" : "#4caf50",
+    "nok" : null
+  }, {
+    "id" : "145604-2013",
+    "name" : "145604-2013 (Contract award)",
+    "group" : 1,
+    "color" : "#2a788e",
+    "nok" : null
+  }, {
     "id" : "422668-2015",
     "name" : "422668-2015 (Contract award)",
     "group" : 1,
@@ -1712,6 +1784,12 @@
   }, {
     "id" : "CAP GEMINI",
     "name" : "CAP GEMINI",
+    "group" : 2,
+    "color" : "#5302a3",
+    "nok" : null
+  }, {
+    "id" : "LEMONTREE AS",
+    "name" : "LEMONTREE AS",
     "group" : 2,
     "color" : "#5302a3",
     "nok" : null
@@ -3061,6 +3139,18 @@
     "target" : "2004-482951",
     "value" : 10
   }, {
+    "source" : "SIRIUS IT AS",
+    "target" : "2010-245638",
+    "value" : 10
+  }, {
+    "source" : "LEMONTREE AS",
+    "target" : "2013-292627",
+    "value" : 10
+  }, {
+    "source" : "LEMONTREE AS",
+    "target" : "145604-2013",
+    "value" : 10
+  }, {
     "source" : "EXPERIS AS, ORG. NR. 982 683 955",
     "target" : "422668-2015",
     "value" : 10
@@ -3767,6 +3857,62 @@
   }, {
     "source" : "2016-701898",
     "target" : "2015-307826",
+    "value" : 10
+  }, {
+    "source" : "2009-529884",
+    "target" : "2009-673942",
+    "value" : 10
+  }, {
+    "source" : "2009-302086",
+    "target" : "2009-673942",
+    "value" : 10
+  }, {
+    "source" : "2010-245638",
+    "target" : "335293-2009",
+    "value" : 10
+  }, {
+    "source" : "317438-2010",
+    "target" : "335293-2009",
+    "value" : 10
+  }, {
+    "source" : "2012-992141",
+    "target" : "2012-267534",
+    "value" : 10
+  }, {
+    "source" : "2012-195449",
+    "target" : "2012-268087",
+    "value" : 10
+  }, {
+    "source" : "2012-478280",
+    "target" : "2012-266882",
+    "value" : 10
+  }, {
+    "source" : "2012-927475",
+    "target" : "2012-268087",
+    "value" : 10
+  }, {
+    "source" : "2012-138966",
+    "target" : "2012-266882",
+    "value" : 10
+  }, {
+    "source" : "2012-388715",
+    "target" : "2012-267534",
+    "value" : 10
+  }, {
+    "source" : "2013-292627",
+    "target" : "303163-2012",
+    "value" : 10
+  }, {
+    "source" : "145604-2013",
+    "target" : "145604-2013",
+    "value" : 10
+  }, {
+    "source" : "145604-2013",
+    "target" : "303163-2012",
+    "value" : 10
+  }, {
+    "source" : "145604-2013",
+    "target" : "303163-2012",
     "value" : 10
   }, {
     "source" : "422668-2015",
