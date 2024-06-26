@@ -258,6 +258,12 @@
     "color" : "#f0f921",
     "nok" : 30000000
   }, {
+    "id" : "005977-2008",
+    "name" : "005977-2008 (Contract award)",
+    "group" : 1,
+    "color" : "#2a788e",
+    "nok" : null
+  }, {
     "id" : "2008-525251",
     "name" : "2008-525251 (Contract award)",
     "group" : 1,
