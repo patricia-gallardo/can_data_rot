@@ -1212,12 +1212,6 @@
     "color" : "#5302a3",
     "nok" : null
   }, {
-    "id" : "ACANDO AS, ORG. NR. 979 191 138",
-    "name" : "ACANDO AS, ORG. NR. 979 191 138",
-    "group" : 2,
-    "color" : "#5302a3",
-    "nok" : null
-  }, {
     "id" : "ACCENTURE",
     "name" : "ACCENTURE",
     "group" : 2,
@@ -1232,12 +1226,6 @@
   }, {
     "id" : "ACCENTURE AS",
     "name" : "ACCENTURE AS",
-    "group" : 2,
-    "color" : "#5302a3",
-    "nok" : null
-  }, {
-    "id" : "ACCENTURE AS, ORG.NR. 992 037 601",
-    "name" : "ACCENTURE AS, ORG.NR. 992 037 601",
     "group" : 2,
     "color" : "#5302a3",
     "nok" : null
@@ -1284,12 +1272,6 @@
     "color" : "#5302a3",
     "nok" : null
   }, {
-    "id" : "BEKK CONSULTING AS, ORG. NR. 981 566 378",
-    "name" : "BEKK CONSULTING AS, ORG. NR. 981 566 378",
-    "group" : 2,
-    "color" : "#5302a3",
-    "nok" : null
-  }, {
     "id" : "BOUVET AS",
     "name" : "BOUVET AS",
     "group" : 2,
@@ -1316,12 +1298,6 @@
   }, {
     "id" : "CAPGEMINI NORGE AS",
     "name" : "CAPGEMINI NORGE AS",
-    "group" : 2,
-    "color" : "#5302a3",
-    "nok" : null
-  }, {
-    "id" : "CAPGEMINI NORGE AS, ORG.NR. 943 574 537",
-    "name" : "CAPGEMINI NORGE AS, ORG.NR. 943 574 537",
     "group" : 2,
     "color" : "#5302a3",
     "nok" : null
@@ -1458,12 +1434,6 @@
     "color" : "#5302a3",
     "nok" : null
   }, {
-    "id" : "ERNST & YOUNG AS, ORG. NR. 976 389 387",
-    "name" : "ERNST & YOUNG AS, ORG. NR. 976 389 387",
-    "group" : 2,
-    "color" : "#5302a3",
-    "nok" : null
-  }, {
     "id" : "EWORK NORGE AS",
     "name" : "EWORK NORGE AS",
     "group" : 2,
@@ -1472,12 +1442,6 @@
   }, {
     "id" : "EXPERIS AS",
     "name" : "EXPERIS AS",
-    "group" : 2,
-    "color" : "#5302a3",
-    "nok" : null
-  }, {
-    "id" : "EXPERIS AS, ORG. NR. 982 683 955",
-    "name" : "EXPERIS AS, ORG. NR. 982 683 955",
     "group" : 2,
     "color" : "#5302a3",
     "nok" : null
@@ -1562,12 +1526,6 @@
   }, {
     "id" : "KNOW IT OBJECTNET AS",
     "name" : "KNOW IT OBJECTNET AS",
-    "group" : 2,
-    "color" : "#5302a3",
-    "nok" : null
-  }, {
-    "id" : "KONKURRANSEN BLE AVLYST PÅ DETTE KOMPETANSEOMRÅDET",
-    "name" : "KONKURRANSEN BLE AVLYST PÅ DETTE KOMPETANSEOMRÅDET",
     "group" : 2,
     "color" : "#5302a3",
     "nok" : null
@@ -1716,20 +1674,8 @@
     "color" : "#5302a3",
     "nok" : null
   }, {
-    "id" : "PROMIS AS, ORG.NR. 877 380 092",
-    "name" : "PROMIS AS, ORG.NR. 877 380 092",
-    "group" : 2,
-    "color" : "#5302a3",
-    "nok" : null
-  }, {
     "id" : "PUNDIT NETWORKS AS",
     "name" : "PUNDIT NETWORKS AS",
-    "group" : 2,
-    "color" : "#5302a3",
-    "nok" : null
-  }, {
-    "id" : "PUNDIT NETWORKS AS, ORG.NR. 998 613 353",
-    "name" : "PUNDIT NETWORKS AS, ORG.NR. 998 613 353",
     "group" : 2,
     "color" : "#5302a3",
     "nok" : null
@@ -1746,20 +1692,8 @@
     "color" : "#5302a3",
     "nok" : null
   }, {
-    "id" : "REDPILL LINPRO AS, ORG.NR. 975 842 061",
-    "name" : "REDPILL LINPRO AS, ORG.NR. 975 842 061",
-    "group" : 2,
-    "color" : "#5302a3",
-    "nok" : null
-  }, {
     "id" : "RIGHT MANAGEMENT NORWAY AS",
     "name" : "RIGHT MANAGEMENT NORWAY AS",
-    "group" : 2,
-    "color" : "#5302a3",
-    "nok" : null
-  }, {
-    "id" : "RIGHT MANAGEMENT NORWAY AS, ORG.NR. 977 213 800",
-    "name" : "RIGHT MANAGEMENT NORWAY AS, ORG.NR. 977 213 800",
     "group" : 2,
     "color" : "#5302a3",
     "nok" : null
@@ -1830,12 +1764,6 @@
     "color" : "#5302a3",
     "nok" : null
   }, {
-    "id" : "THE COMPETITION HAS BEEN CANCELLED FOR THIS COMPETENCE AREA",
-    "name" : "THE COMPETITION HAS BEEN CANCELLED FOR THIS COMPETENCE AREA",
-    "group" : 2,
-    "color" : "#5302a3",
-    "nok" : null
-  }, {
     "id" : "TIETO ENATOR",
     "name" : "TIETO ENATOR",
     "group" : 2,
@@ -1856,12 +1784,6 @@
   }, {
     "id" : "VISMA CONSULTING AS",
     "name" : "VISMA CONSULTING AS",
-    "group" : 2,
-    "color" : "#5302a3",
-    "nok" : null
-  }, {
-    "id" : "VISMA CONSULTING AS, ORG.NR. 990 432 368",
-    "name" : "VISMA CONSULTING AS, ORG.NR. 990 432 368",
     "group" : 2,
     "color" : "#5302a3",
     "nok" : null
@@ -2755,10 +2677,6 @@
     "target" : "2015-103735",
     "value" : 10
   }, {
-    "source" : "ACANDO AS, ORG. NR. 979 191 138",
-    "target" : "422668-2015",
-    "value" : 10
-  }, {
     "source" : "ACCENTURE",
     "target" : "2005-403461",
     "value" : 10
@@ -2829,10 +2747,6 @@
   }, {
     "source" : "ACCENTURE AS",
     "target" : "243954-2016",
-    "value" : 10
-  }, {
-    "source" : "ACCENTURE AS, ORG.NR. 992 037 601",
-    "target" : "422668-2015",
     "value" : 10
   }, {
     "source" : "ADG APPLICATION DEVELOPMENT GROUP AS",
@@ -2909,10 +2823,6 @@
   }, {
     "source" : "BEKK CONSULTING AS",
     "target" : "2015-103735",
-    "value" : 10
-  }, {
-    "source" : "BEKK CONSULTING AS, ORG. NR. 981 566 378",
-    "target" : "422668-2015",
     "value" : 10
   }, {
     "source" : "BOUVET AS",
@@ -2997,10 +2907,6 @@
   }, {
     "source" : "CAPGEMINI NORGE AS",
     "target" : "2015-103735",
-    "value" : 10
-  }, {
-    "source" : "CAPGEMINI NORGE AS, ORG.NR. 943 574 537",
-    "target" : "422668-2015",
     "value" : 10
   }, {
     "source" : "CIBER NORGE AS",
@@ -3179,14 +3085,6 @@
     "target" : "2015-103735",
     "value" : 10
   }, {
-    "source" : "ERNST & YOUNG AS, ORG. NR. 976 389 387",
-    "target" : "422668-2015",
-    "value" : 10
-  }, {
-    "source" : "ERNST & YOUNG AS, ORG. NR. 976 389 387",
-    "target" : "422668-2015",
-    "value" : 10
-  }, {
     "source" : "EWORK NORGE AS",
     "target" : "2011-777247",
     "value" : 10
@@ -3197,10 +3095,6 @@
   }, {
     "source" : "EXPERIS AS",
     "target" : "2015-103735",
-    "value" : 10
-  }, {
-    "source" : "EXPERIS AS, ORG. NR. 982 683 955",
-    "target" : "422668-2015",
     "value" : 10
   }, {
     "source" : "FORNEBU CONSULTING AS",
@@ -3309,10 +3203,6 @@
   }, {
     "source" : "KNOW IT OBJECTNET AS",
     "target" : "345914-2011",
-    "value" : 10
-  }, {
-    "source" : "KONKURRANSEN BLE AVLYST PÅ DETTE KOMPETANSEOMRÅDET",
-    "target" : "2015-103735",
     "value" : 10
   }, {
     "source" : "KONSENSIT",
@@ -3823,16 +3713,8 @@
     "target" : "2015-103735",
     "value" : 10
   }, {
-    "source" : "PROMIS AS, ORG.NR. 877 380 092",
-    "target" : "422668-2015",
-    "value" : 10
-  }, {
     "source" : "PUNDIT NETWORKS AS",
     "target" : "2015-103735",
-    "value" : 10
-  }, {
-    "source" : "PUNDIT NETWORKS AS, ORG.NR. 998 613 353",
-    "target" : "422668-2015",
     "value" : 10
   }, {
     "source" : "RAMBØLL MANAGEMENT AS",
@@ -3847,16 +3729,8 @@
     "target" : "2015-103735",
     "value" : 10
   }, {
-    "source" : "REDPILL LINPRO AS, ORG.NR. 975 842 061",
-    "target" : "422668-2015",
-    "value" : 10
-  }, {
     "source" : "RIGHT MANAGEMENT NORWAY AS",
     "target" : "2015-103735",
-    "value" : 10
-  }, {
-    "source" : "RIGHT MANAGEMENT NORWAY AS, ORG.NR. 977 213 800",
-    "target" : "422668-2015",
     "value" : 10
   }, {
     "source" : "SANDBOX SOLUTIONS",
@@ -3945,10 +3819,6 @@
   }, {
     "source" : "TELEPLAN CONSULTING AS",
     "target" : "345914-2011",
-    "value" : 10
-  }, {
-    "source" : "THE COMPETITION HAS BEEN CANCELLED FOR THIS COMPETENCE AREA",
-    "target" : "422668-2015",
     "value" : 10
   }, {
     "source" : "TIETO ENATOR",
@@ -4053,10 +3923,6 @@
   }, {
     "source" : "VISMA CONSULTING AS",
     "target" : "2016-701898",
-    "value" : 10
-  }, {
-    "source" : "VISMA CONSULTING AS, ORG.NR. 990 432 368",
-    "target" : "422668-2015",
     "value" : 10
   }, {
     "source" : "VISMA SIRIUS AS",
