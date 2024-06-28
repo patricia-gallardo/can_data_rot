@@ -1,1183 +1,1183 @@
 {
   "nodes" : [ {
     "id" : "005977-2008",
-    "name" : "005977-2008 (Contract award)",
+    "name" : "005977-2008 (Contract award): Framework agreement for ICT operations.",
     "group" : 1,
     "color" : "#2a788e",
     "nok" : null
   }, {
     "id" : "020995-2016",
-    "name" : "020995-2016 (Contract notice)",
+    "name" : "020995-2016 (Contract notice): A framework agreement and maintenance of the Norwegian Labour and Welfare Administration's central infrastructure in the Norwegian Labour and Welfare Administration.",
     "group" : 1,
     "color" : "#ff7f0e",
     "nok" : 280000000
   }, {
     "id" : "021001-2016",
-    "name" : "021001-2016 (Contract notice)",
+    "name" : "021001-2016 (Contract notice): Development and maintenance of resolution system.",
     "group" : 1,
     "color" : "#ff7f0e",
     "nok" : 640000000
   }, {
     "id" : "025677-2015",
-    "name" : "025677-2015 (Contract award)",
+    "name" : "025677-2015 (Contract award): Maintenance and further development of the Pension system.",
     "group" : 1,
     "color" : "#2a788e",
     "nok" : 750000000
   }, {
     "id" : "026760-2016",
-    "name" : "026760-2016 (Additional information)",
+    "name" : "026760-2016 (Additional information): NO-Oslo: Maintenance of information technology equipment",
     "group" : 1,
     "color" : "#1f77b4",
     "nok" : null
   }, {
     "id" : "026763-2016",
-    "name" : "026763-2016 (Contract notice)",
+    "name" : "026763-2016 (Contract notice): A framework agreement and maintenance of the Norwegian Labour and Welfare Administration's central infrastructure in the Norwegian Labour and Welfare Administration.",
     "group" : 1,
     "color" : "#ff7f0e",
     "nok" : 280000000
   }, {
     "id" : "039828-2013",
-    "name" : "039828-2013 (Contract award)",
+    "name" : "039828-2013 (Contract award): Framework and maintenance agreement for ICT security systems.",
     "group" : 1,
     "color" : "#2a788e",
     "nok" : 40000000
   }, {
     "id" : "039829-2013",
-    "name" : "039829-2013 (Contract award)",
+    "name" : "039829-2013 (Contract award): Agreement for quality assurance assistance.",
     "group" : 1,
     "color" : "#2a788e",
     "nok" : null
   }, {
     "id" : "069254-2015",
-    "name" : "069254-2015 (Contract award)",
+    "name" : "069254-2015 (Contract award): Maintenance and further development of the Joint Registry.",
     "group" : 1,
     "color" : "#2a788e",
     "nok" : 211864477
   }, {
     "id" : "101167-2011",
-    "name" : "101167-2011 (Contract notice)",
+    "name" : "101167-2011 (Contract notice): Framework agreements for consultancy services within ICT.",
     "group" : 1,
     "color" : "#ff7f0e",
     "nok" : 920000000
   }, {
     "id" : "107172-2015",
-    "name" : "107172-2015 (Contract notice)",
+    "name" : "107172-2015 (Contract notice): Procurement of parallel framework agreements for consultancy services for NAV.",
     "group" : 1,
     "color" : "#ff7f0e",
     "nok" : 1473600000
   }, {
     "id" : "111721-2015",
-    "name" : "111721-2015 (Additional information)",
+    "name" : "111721-2015 (Additional information): NO-Oslo: IT services: consulting, software development, Internet and support",
     "group" : 1,
     "color" : "#1f77b4",
     "nok" : null
   }, {
     "id" : "119079-2012",
-    "name" : "119079-2012 (Contract award)",
+    "name" : "119079-2012 (Contract award): Procurement of maintenance and further development contract for Arena.",
     "group" : 1,
     "color" : "#2a788e",
     "nok" : null
   }, {
     "id" : "140875-2016",
-    "name" : "140875-2016 (Contract award)",
+    "name" : "140875-2016 (Contract award): Maintenance and further development of the document management system.",
     "group" : 1,
     "color" : "#2a788e",
     "nok" : null
   }, {
     "id" : "142758-2010",
-    "name" : "142758-2010 (Contract notice)",
+    "name" : "142758-2010 (Contract notice): Purchase, adaptation and maintenance of process system.",
     "group" : 1,
     "color" : "#ff7f0e",
     "nok" : 14000000
   }, {
     "id" : "145604-2013",
-    "name" : "145604-2013 (Contract award)",
+    "name" : "145604-2013 (Contract award): Procurement of tools which support an overall test process for NAV ICT.",
     "group" : 1,
     "color" : "#2a788e",
     "nok" : null
   }, {
     "id" : "154131-2015",
-    "name" : "154131-2015 (Contract award)",
+    "name" : "154131-2015 (Contract award): Maintenance and development of a Data warehouse.",
     "group" : 1,
     "color" : "#2a788e",
     "nok" : 220000000
   }, {
     "id" : "161942-2009",
-    "name" : "161942-2009 (Prior information notice without call for competition)",
+    "name" : "161942-2009 (Prior information notice without call for competition): Administration of NAV's new pension system.",
     "group" : 1,
     "color" : "#1f77b4",
     "nok" : null
   }, {
     "id" : "170406-2014",
-    "name" : "170406-2014 (Contract notice)",
+    "name" : "170406-2014 (Contract notice): Maintenance and further development of the pension system.",
     "group" : 1,
     "color" : "#ff7f0e",
     "nok" : 600000000
   }, {
     "id" : "174732-2015",
-    "name" : "174732-2015 (Contract notice)",
+    "name" : "174732-2015 (Contract notice): Maintenance and further development of the document management system.",
     "group" : 1,
     "color" : "#ff7f0e",
     "nok" : 152000000
   }, {
     "id" : "184820-2010",
-    "name" : "184820-2010 (Additional information)",
+    "name" : "184820-2010 (Additional information): NO-Oslo: software package and information systems",
     "group" : 1,
     "color" : "#1f77b4",
     "nok" : null
   }, {
     "id" : "193354-2014",
-    "name" : "193354-2014 (Contract award)",
+    "name" : "193354-2014 (Contract award): Electronic trade, integration and security.",
     "group" : 1,
     "color" : "#2a788e",
     "nok" : 404238932
   }, {
     "id" : "2003-224157",
-    "name" : "2003-224157 (Contract award)",
+    "name" : "2003-224157 (Contract award): Videreutvikling av saksbehandlingssytemet Arena",
     "group" : 1,
     "color" : "#4caf50",
     "nok" : null
   }, {
     "id" : "2003-412524",
-    "name" : "2003-412524 (Contract award)",
+    "name" : "2003-412524 (Contract award): Rammeavtale for IKT-relaterte konsulenttjenester til Aetat",
     "group" : 1,
     "color" : "#4caf50",
     "nok" : null
   }, {
     "id" : "2003-433664",
-    "name" : "2003-433664 (Contract award)",
+    "name" : "2003-433664 (Contract award): IKT-relaterte konsulenttjenester - 4 Roller",
     "group" : 1,
     "color" : "#4caf50",
     "nok" : null
   }, {
     "id" : "2003-688176",
-    "name" : "2003-688176 (Contract notice)",
+    "name" : "2003-688176 (Contract notice): Rammeavtaler om konsulenttjenester innen tele-/datakommunikasjon",
     "group" : 1,
     "color" : "#f0f921",
     "nok" : null
   }, {
     "id" : "2004-482951",
-    "name" : "2004-482951 (Contract award)",
+    "name" : "2004-482951 (Contract award): Rammeavtaler om konsulenttjenester innen teknisk kvalitetssikring",
     "group" : 1,
     "color" : "#4caf50",
     "nok" : null
   }, {
     "id" : "2004-632638",
-    "name" : "2004-632638 (Contract notice)",
+    "name" : "2004-632638 (Contract notice): Rammeavtale for kjøp av konsulenttjenester til trygdeetatens IT-virksomhet",
     "group" : 1,
     "color" : "#f0f921",
     "nok" : null
   }, {
     "id" : "2004-758811",
-    "name" : "2004-758811 (Contract notice)",
+    "name" : "2004-758811 (Contract notice): Rammeavtaler om konsulenttjenester innen teknisk kvalitetssikring",
     "group" : 1,
     "color" : "#f0f921",
     "nok" : null
   }, {
     "id" : "2005-403461",
-    "name" : "2005-403461 (Contract award)",
+    "name" : "2005-403461 (Contract award): Rammeavtale for kjøp av konsulenttjenester til pensjonsprosjektet",
     "group" : 1,
     "color" : "#4caf50",
     "nok" : null
   }, {
     "id" : "2005-656943",
-    "name" : "2005-656943 (Contract notice)",
+    "name" : "2005-656943 (Contract notice): Rammeavtale for kjøp av konsulenttjenester til pensjonsprosjektet - Prekvalifisering",
     "group" : 1,
     "color" : "#f0f921",
     "nok" : null
   }, {
     "id" : "2005-728398",
-    "name" : "2005-728398 (Contract award)",
+    "name" : "2005-728398 (Contract award): Rammeavtale for kjøp av konsulenttjenester til trygdeetatens IT-virksomhet",
     "group" : 1,
     "color" : "#4caf50",
     "nok" : null
   }, {
     "id" : "2005-939340",
-    "name" : "2005-939340 (Contract notice)",
+    "name" : "2005-939340 (Contract notice): Anskaffelse i forbindelse med Remedy ARS",
     "group" : 1,
     "color" : "#f0f921",
     "nok" : null
   }, {
     "id" : "200541-2010",
-    "name" : "200541-2010 (Contract award)",
+    "name" : "200541-2010 (Contract award): Procurement of maintenance and development agreement for Data warehouse 2.",
     "group" : 1,
     "color" : "#2a788e",
     "nok" : null
   }, {
     "id" : "2006-358902",
-    "name" : "2006-358902 (Contract award)",
+    "name" : "2006-358902 (Contract award): Anskaffelse av vedlikeholdstjenester for Rikstrygdeverket, Remedy ARS",
     "group" : 1,
     "color" : "#4caf50",
     "nok" : null
   }, {
     "id" : "2006-814012",
-    "name" : "2006-814012 (Contract notice)",
+    "name" : "2006-814012 (Contract notice): Rammeavtale om konsulnettjenester innenfor IKT-området",
     "group" : 1,
     "color" : "#f0f921",
     "nok" : null
   }, {
     "id" : "2007-100659",
-    "name" : "2007-100659 (Additional information)",
+    "name" : "2007-100659 (Additional information): Kvalifikasjonsgrunnlag Arena",
     "group" : 1,
     "color" : "#1f77b4",
     "nok" : null
   }, {
     "id" : "2007-441251",
-    "name" : "2007-441251 (Additional information)",
+    "name" : "2007-441251 (Additional information): Endring i kvalifikasjonsgrunnlag",
     "group" : 1,
     "color" : "#1f77b4",
     "nok" : null
   }, {
     "id" : "2007-461550",
-    "name" : "2007-461550 (Additional information)",
+    "name" : "2007-461550 (Additional information): Endring i kunngjøring pkt. II.1.4",
     "group" : 1,
     "color" : "#1f77b4",
     "nok" : null
   }, {
     "id" : "2007-521466",
-    "name" : "2007-521466 (Additional information)",
+    "name" : "2007-521466 (Additional information): Tilleggsinformasjon",
     "group" : 1,
     "color" : "#1f77b4",
     "nok" : null
   }, {
     "id" : "2007-561299",
-    "name" : "2007-561299 (Contract notice)",
+    "name" : "2007-561299 (Contract notice): Rammeavtale for IKT-drift",
     "group" : 1,
     "color" : "#f0f921",
     "nok" : 20000000
   }, {
     "id" : "2007-596014",
-    "name" : "2007-596014 (Contract notice)",
+    "name" : "2007-596014 (Contract notice): Anskaffelse av vedlikeholds- og videreutviklingsavtale for Arena saksbehandlingssystem",
     "group" : 1,
     "color" : "#f0f921",
     "nok" : 200000000
   }, {
     "id" : "2007-828229",
-    "name" : "2007-828229 (Additional information)",
+    "name" : "2007-828229 (Additional information): Endring av anslått kontraktsverdi",
     "group" : 1,
     "color" : "#1f77b4",
     "nok" : null
   }, {
     "id" : "2007-910896",
-    "name" : "2007-910896 (Contract notice)",
+    "name" : "2007-910896 (Contract notice): Rammeavtale om IKT sikkerhetsovervåkning",
     "group" : 1,
     "color" : "#f0f921",
     "nok" : null
   }, {
     "id" : "2007-958909",
-    "name" : "2007-958909 (Contract award)",
+    "name" : "2007-958909 (Contract award): Rammeavtale om konsulenttjenester innenfor IKT-området",
     "group" : 1,
     "color" : "#4caf50",
     "nok" : null
   }, {
     "id" : "2008-306918",
-    "name" : "2008-306918 (Contract award)",
+    "name" : "2008-306918 (Contract award): Anskaffelse av vedlikeholds- og videreutviklingsavtale for Arena saksbehandlingssystem",
     "group" : 1,
     "color" : "#4caf50",
     "nok" : null
   }, {
     "id" : "2008-525251",
-    "name" : "2008-525251 (Contract award)",
+    "name" : "2008-525251 (Contract award): Rammeavtale for IKT-drift",
     "group" : 1,
     "color" : "#4caf50",
     "nok" : null
   }, {
     "id" : "2009-104423",
-    "name" : "2009-104423 (Contract notice)",
+    "name" : "2009-104423 (Contract notice): Anskaffelse av vedlikeholds- og videreutviklingsavtale for Datavarehus",
     "group" : 1,
     "color" : "#f0f921",
     "nok" : 120000000
   }, {
     "id" : "2009-105937",
-    "name" : "2009-105937 (Contract notice)",
+    "name" : "2009-105937 (Contract notice): Anskaffelse av vedlikeholds- og videreutviklingsavtale for Fellessystemer",
     "group" : 1,
     "color" : "#f0f921",
     "nok" : 102000000
   }, {
     "id" : "2009-151018",
-    "name" : "2009-151018 (Additional information)",
+    "name" : "2009-151018 (Additional information): Oracle",
     "group" : 1,
     "color" : "#1f77b4",
     "nok" : null
   }, {
     "id" : "2009-156040",
-    "name" : "2009-156040 (Additional information)",
+    "name" : "2009-156040 (Additional information): Kunngjøring kansellert",
     "group" : 1,
     "color" : "#1f77b4",
     "nok" : null
   }, {
     "id" : "2009-180018",
-    "name" : "2009-180018 (Contract notice)",
+    "name" : "2009-180018 (Contract notice): Anskaffelse av vedlikeholds- og videreutviklingsavtale for Brev- og arkivløsning",
     "group" : 1,
     "color" : "#f0f921",
     "nok" : 150000000
   }, {
     "id" : "2009-183073",
-    "name" : "2009-183073 (Additional information)",
+    "name" : "2009-183073 (Additional information): Tidsfristen for innlevering av tilbud og/eller kunngjøringens tidsfrist er blitt forandret",
     "group" : 1,
     "color" : "#1f77b4",
     "nok" : null
   }, {
     "id" : "2009-228412",
-    "name" : "2009-228412 (Contract notice)",
+    "name" : "2009-228412 (Contract notice): Anskaffelse av vedlikeholds- og videreutviklingsavtale for Fellesregistre",
     "group" : 1,
     "color" : "#f0f921",
     "nok" : 240000000
   }, {
     "id" : "2009-266589",
-    "name" : "2009-266589 (Contract notice)",
+    "name" : "2009-266589 (Contract notice): Anskaffelse av vedlikeholds- og videreutviklingsavtale for Fellesregistre V2",
     "group" : 1,
     "color" : "#f0f921",
     "nok" : 240000000
   }, {
     "id" : "2009-267259",
-    "name" : "2009-267259 (Additional information)",
+    "name" : "2009-267259 (Additional information): Kunngjøring kansellert",
     "group" : 1,
     "color" : "#1f77b4",
     "nok" : null
   }, {
     "id" : "2009-302086",
-    "name" : "2009-302086 (Additional information)",
+    "name" : "2009-302086 (Additional information): NAV anskaffelse \"Frovaltning Ny Pensjonsløsning\"",
     "group" : 1,
     "color" : "#1f77b4",
     "nok" : null
   }, {
     "id" : "2009-316085",
-    "name" : "2009-316085 (Additional information)",
+    "name" : "2009-316085 (Additional information): Kvalifikasjonsgrunnlag pkt. 4.2",
     "group" : 1,
     "color" : "#1f77b4",
     "nok" : null
   }, {
     "id" : "2009-321812",
-    "name" : "2009-321812 (Additional information)",
+    "name" : "2009-321812 (Additional information): Kunngjøring kansellert",
     "group" : 1,
     "color" : "#1f77b4",
     "nok" : null
   }, {
     "id" : "2009-332068",
-    "name" : "2009-332068 (Contract notice)",
+    "name" : "2009-332068 (Contract notice): Anskaffelse av vedlikeholds- og videreutviklingsavtale for Økonomisystemer",
     "group" : 1,
     "color" : "#f0f921",
     "nok" : 210000000
   }, {
     "id" : "2009-394908",
-    "name" : "2009-394908 (Additional information)",
+    "name" : "2009-394908 (Additional information): Kunngjørings pkt. III.2",
     "group" : 1,
     "color" : "#1f77b4",
     "nok" : null
   }, {
     "id" : "2009-431850",
-    "name" : "2009-431850 (Contract notice)",
+    "name" : "2009-431850 (Contract notice): Anskaffelse av vedlikeholds- og videreutviklingsavtale for Fellessystemer",
     "group" : 1,
     "color" : "#f0f921",
     "nok" : 102000000
   }, {
     "id" : "2009-432740",
-    "name" : "2009-432740 (Additional information)",
+    "name" : "2009-432740 (Additional information): NAV har mottatt spørsmål vedr. oppdatering lagt ut på Doffin 03.11.2009.",
     "group" : 1,
     "color" : "#1f77b4",
     "nok" : null
   }, {
     "id" : "2009-464110",
-    "name" : "2009-464110 (Additional information)",
+    "name" : "2009-464110 (Additional information): Bruk av underleverandør",
     "group" : 1,
     "color" : "#1f77b4",
     "nok" : null
   }, {
     "id" : "2009-472406",
-    "name" : "2009-472406 (Contract notice)",
+    "name" : "2009-472406 (Contract notice): Anskaffelse av vedlikeholds- og videreutviklingsavtale for Integrasjon og rammeverk",
     "group" : 1,
     "color" : "#f0f921",
     "nok" : 120000000
   }, {
     "id" : "2009-485629",
-    "name" : "2009-485629 (Additional information)",
+    "name" : "2009-485629 (Additional information): Spørsmål vedr antall leverandører",
     "group" : 1,
     "color" : "#1f77b4",
     "nok" : null
   }, {
     "id" : "2009-506747",
-    "name" : "2009-506747 (Additional information)",
+    "name" : "2009-506747 (Additional information): Kunngjøring kansellert",
     "group" : 1,
     "color" : "#1f77b4",
     "nok" : null
   }, {
     "id" : "2009-521959",
-    "name" : "2009-521959 (Additional information)",
+    "name" : "2009-521959 (Additional information): SPØRSMÅL OG SVAR 2 - Pensjon og Bidrag",
     "group" : 1,
     "color" : "#1f77b4",
     "nok" : null
   }, {
     "id" : "2009-529000",
-    "name" : "2009-529000 (Contract notice)",
+    "name" : "2009-529000 (Contract notice): Anskaffelse av vedlikeholds- og videreutviklingsavtale for Pensjons- og bidragsløsningene V2",
     "group" : 1,
     "color" : "#f0f921",
     "nok" : 420000000
   }, {
     "id" : "2009-529884",
-    "name" : "2009-529884 (Additional information)",
+    "name" : "2009-529884 (Additional information): Konkurranse om avtale for forvaltning av NAVs nye pensjonsløsning",
     "group" : 1,
     "color" : "#1f77b4",
     "nok" : null
   }, {
     "id" : "2009-563552",
-    "name" : "2009-563552 (Contract notice)",
+    "name" : "2009-563552 (Contract notice): Anskaffelse av vedlikeholds- og videreutviklingsavtale for Økonomisystemer V2",
     "group" : 1,
     "color" : "#f0f921",
     "nok" : 210000000
   }, {
     "id" : "2009-564426",
-    "name" : "2009-564426 (Contract notice)",
+    "name" : "2009-564426 (Contract notice): Anskaffelse av vedlikeholds- og videreutviklingsavtale for Datavarehus V2",
     "group" : 1,
     "color" : "#f0f921",
     "nok" : 120000000
   }, {
     "id" : "2009-613225",
-    "name" : "2009-613225 (Additional information)",
+    "name" : "2009-613225 (Additional information): Spørsmål vedr. kvalifikasjonsgrunnlaget pkt. 1.3",
     "group" : 1,
     "color" : "#1f77b4",
     "nok" : null
   }, {
     "id" : "2009-621016",
-    "name" : "2009-621016 (Additional information)",
+    "name" : "2009-621016 (Additional information): Oppdatering kvalifikasjonsgrunnlag Fellessystemer",
     "group" : 1,
     "color" : "#1f77b4",
     "nok" : null
   }, {
     "id" : "2009-636026",
-    "name" : "2009-636026 (Additional information)",
+    "name" : "2009-636026 (Additional information): Spørsmål og svar 1",
     "group" : 1,
     "color" : "#1f77b4",
     "nok" : null
   }, {
     "id" : "2009-672437",
-    "name" : "2009-672437 (Additional information)",
+    "name" : "2009-672437 (Additional information): Kunngjøring kansellert",
     "group" : 1,
     "color" : "#1f77b4",
     "nok" : null
   }, {
     "id" : "2009-673942",
-    "name" : "2009-673942 (Prior information notice without call for competition)",
+    "name" : "2009-673942 (Prior information notice without call for competition): Forvaltning av NAVs nye pensjonsløsning",
     "group" : 1,
     "color" : "#1f77b4",
     "nok" : null
   }, {
     "id" : "2009-710908",
-    "name" : "2009-710908 (Additional information)",
+    "name" : "2009-710908 (Additional information): Tidsfristen for innlevering av tilbud og/eller kunngjøringens tidsfrist er blitt forandret",
     "group" : 1,
     "color" : "#1f77b4",
     "nok" : null
   }, {
     "id" : "2009-733577",
-    "name" : "2009-733577 (Additional information)",
+    "name" : "2009-733577 (Additional information): Kunngjøring kansellert",
     "group" : 1,
     "color" : "#1f77b4",
     "nok" : null
   }, {
     "id" : "2009-738364",
-    "name" : "2009-738364 (Additional information)",
+    "name" : "2009-738364 (Additional information): Spørsmål og svar 1",
     "group" : 1,
     "color" : "#1f77b4",
     "nok" : null
   }, {
     "id" : "2009-741150",
-    "name" : "2009-741150 (Additional information)",
+    "name" : "2009-741150 (Additional information): Spørsmål vedr oppdatering pr. 03.11.2009",
     "group" : 1,
     "color" : "#1f77b4",
     "nok" : null
   }, {
     "id" : "2009-775394",
-    "name" : "2009-775394 (Additional information)",
+    "name" : "2009-775394 (Additional information): Oppdatering kvalifikasjonsgrunnlag Pensjon og Bidrag",
     "group" : 1,
     "color" : "#1f77b4",
     "nok" : null
   }, {
     "id" : "2009-789303",
-    "name" : "2009-789303 (Additional information)",
+    "name" : "2009-789303 (Additional information): NAV har mottatt spørsmål vedr. oppdatering lagt ut på Doffin 03.11.2009.",
     "group" : 1,
     "color" : "#1f77b4",
     "nok" : null
   }, {
     "id" : "2009-832953",
-    "name" : "2009-832953 (Additional information)",
+    "name" : "2009-832953 (Additional information): Kvalifikasjonsgrunnlag pkt. 4.2",
     "group" : 1,
     "color" : "#1f77b4",
     "nok" : null
   }, {
     "id" : "2009-880381",
-    "name" : "2009-880381 (Additional information)",
+    "name" : "2009-880381 (Additional information): Spørsmål vedr kvalifikasjonsgrunnlagets pkt. 1.3",
     "group" : 1,
     "color" : "#1f77b4",
     "nok" : null
   }, {
     "id" : "2009-901066",
-    "name" : "2009-901066 (Additional information)",
+    "name" : "2009-901066 (Additional information): Kunngjøringens pkt. III.2",
     "group" : 1,
     "color" : "#1f77b4",
     "nok" : null
   }, {
     "id" : "2009-928327",
-    "name" : "2009-928327 (Contract notice)",
+    "name" : "2009-928327 (Contract notice): Anskaffelse av vedlikeholds- og videreutviklingsavtale for Pensjons- og Bidragsløsningene",
     "group" : 1,
     "color" : "#f0f921",
     "nok" : 420000000
   }, {
     "id" : "2009-960559",
-    "name" : "2009-960559 (Contract notice)",
+    "name" : "2009-960559 (Contract notice): Anskaffelse av vedlikeholds- og videreutviklingsavtale for Fellessystemer V2",
     "group" : 1,
     "color" : "#f0f921",
     "nok" : 102000000
   }, {
     "id" : "2009-965224",
-    "name" : "2009-965224 (Additional information)",
+    "name" : "2009-965224 (Additional information): Oppdatering kvalifikasjonsgrunnlag Økonomisystemer",
     "group" : 1,
     "color" : "#1f77b4",
     "nok" : null
   }, {
     "id" : "2009-982589",
-    "name" : "2009-982589 (Additional information)",
+    "name" : "2009-982589 (Additional information): Avlysning av konkurransen",
     "group" : 1,
     "color" : "#1f77b4",
     "nok" : null
   }, {
     "id" : "2010-245638",
-    "name" : "2010-245638 (Contract award)",
+    "name" : "2010-245638 (Contract award): Anskaffelse av vedlikeholds- og videreutviklingsavtale for Brev- og arkivløsning",
     "group" : 1,
     "color" : "#4caf50",
     "nok" : null
   }, {
     "id" : "2010-286362",
-    "name" : "2010-286362 (Additional information)",
+    "name" : "2010-286362 (Additional information): Kunngjøring kansellert",
     "group" : 1,
     "color" : "#1f77b4",
     "nok" : null
   }, {
     "id" : "2010-362225",
-    "name" : "2010-362225 (Contract award)",
+    "name" : "2010-362225 (Contract award): Anskaffelse av vedlikeholds- og videreutviklingsavtale for Pensjons- og bidragsløsningene V2",
     "group" : 1,
     "color" : "#4caf50",
     "nok" : 330000000
   }, {
     "id" : "2010-446693",
-    "name" : "2010-446693 (Additional information)",
+    "name" : "2010-446693 (Additional information): Endring i kvalifikasjonsgrunnlaget punkt 3.4",
     "group" : 1,
     "color" : "#1f77b4",
     "nok" : null
   }, {
     "id" : "2010-565374",
-    "name" : "2010-565374 (Contract award)",
+    "name" : "2010-565374 (Contract award): Anskaffelse av vedlikeholds- og videreutviklingsavtale for Datavarehus V2",
     "group" : 1,
     "color" : "#4caf50",
     "nok" : null
   }, {
     "id" : "2010-661038",
-    "name" : "2010-661038 (Contract notice)",
+    "name" : "2010-661038 (Contract notice): Konsulenttjenester ifm etablering og innføring av IBM Rational System Architect",
     "group" : 1,
     "color" : "#f0f921",
     "nok" : 495000
   }, {
     "id" : "2010-751604",
-    "name" : "2010-751604 (Contract award)",
+    "name" : "2010-751604 (Contract award): Anskaffelse av vedlikeholds- og videreutviklingsavtale for Økonomisystemer V2",
     "group" : 1,
     "color" : "#4caf50",
     "nok" : 200000000
   }, {
     "id" : "2010-872701",
-    "name" : "2010-872701 (Contract award)",
+    "name" : "2010-872701 (Contract award): Anskaffelse av vedlikeholds- og videreutviklingsavtale for Fellessystemer V2",
     "group" : 1,
     "color" : "#4caf50",
     "nok" : 90000000
   }, {
     "id" : "2010-937025",
-    "name" : "2010-937025 (Contract award)",
+    "name" : "2010-937025 (Contract award): Anskaffelse av vedlikeholds- og videreutviklingsavtale for Fellesregistre V2",
     "group" : 1,
     "color" : "#4caf50",
     "nok" : 190000000
   }, {
     "id" : "2010-949268",
-    "name" : "2010-949268 (Contract notice)",
+    "name" : "2010-949268 (Contract notice): Kjøp, tilpassning og vedlikehold av prosessverktøy",
     "group" : 1,
     "color" : "#f0f921",
     "nok" : 14000000
   }, {
     "id" : "2010-956101",
-    "name" : "2010-956101 (Contract award)",
+    "name" : "2010-956101 (Contract award): Anskaffelse av vedlikeholds- og videreutviklingsavtale for Integrasjon og rammeverk",
     "group" : 1,
     "color" : "#4caf50",
     "nok" : 150000000
   }, {
     "id" : "2011-147471",
-    "name" : "2011-147471 (Additional information)",
+    "name" : "2011-147471 (Additional information): Spørsmål og svar til konkurransegrunnlaget",
     "group" : 1,
     "color" : "#1f77b4",
     "nok" : null
   }, {
     "id" : "2011-240721",
-    "name" : "2011-240721 (Contract notice)",
+    "name" : "2011-240721 (Contract notice): Anskaffelse av rammeavtaler for konsulenttjenester innenfor IKT-området",
     "group" : 1,
     "color" : "#f0f921",
     "nok" : 920000000
   }, {
     "id" : "2011-269130",
-    "name" : "2011-269130 (Additional information)",
+    "name" : "2011-269130 (Additional information): VEDLAGT FIL: VEDLEGG 2 versjon 2",
     "group" : 1,
     "color" : "#1f77b4",
     "nok" : null
   }, {
     "id" : "2011-285520",
-    "name" : "2011-285520 (Additional information)",
+    "name" : "2011-285520 (Additional information): Spørsmål og svar til kvalifikasjonsgrunnlaget Arena versjon 1",
     "group" : 1,
     "color" : "#1f77b4",
     "nok" : null
   }, {
     "id" : "2011-318813",
-    "name" : "2011-318813 (Additional information)",
+    "name" : "2011-318813 (Additional information): Spørsmål og svar til kvalifikasjonsgrunnlaget",
     "group" : 1,
     "color" : "#1f77b4",
     "nok" : null
   }, {
     "id" : "2011-323844",
-    "name" : "2011-323844 (Additional information)",
+    "name" : "2011-323844 (Additional information): VEDLAGT FIL: Spørsmål og svar prekvalifisering Arena versjon 2",
     "group" : 1,
     "color" : "#1f77b4",
     "nok" : null
   }, {
     "id" : "2011-369646",
-    "name" : "2011-369646 (Additional information)",
+    "name" : "2011-369646 (Additional information): Forsinkelse",
     "group" : 1,
     "color" : "#1f77b4",
     "nok" : null
   }, {
     "id" : "2011-442225",
-    "name" : "2011-442225 (Additional information)",
+    "name" : "2011-442225 (Additional information): Spørsmål og svar til konkurransegrunnlaget",
     "group" : 1,
     "color" : "#1f77b4",
     "nok" : null
   }, {
     "id" : "2011-541230",
-    "name" : "2011-541230 (Additional information)",
+    "name" : "2011-541230 (Additional information): Spørsmål og svar til konkurransegrunnlaget",
     "group" : 1,
     "color" : "#1f77b4",
     "nok" : null
   }, {
     "id" : "2011-545457",
-    "name" : "2011-545457 (Additional information)",
+    "name" : "2011-545457 (Additional information): VEDLAGT FIL: Spørsmål og svar versjon 5",
     "group" : 1,
     "color" : "#1f77b4",
     "nok" : null
   }, {
     "id" : "2011-578177",
-    "name" : "2011-578177 (Additional information)",
+    "name" : "2011-578177 (Additional information): VEDLAGT FIL: Spørsmål og svar prekvalifisering Arena versjon 4",
     "group" : 1,
     "color" : "#1f77b4",
     "nok" : null
   }, {
     "id" : "2011-609872",
-    "name" : "2011-609872 (Additional information)",
+    "name" : "2011-609872 (Additional information): Spørsmål og svar prekvalifisering Arena versjon 3",
     "group" : 1,
     "color" : "#1f77b4",
     "nok" : null
   }, {
     "id" : "2011-745484",
-    "name" : "2011-745484 (Additional information)",
+    "name" : "2011-745484 (Additional information): VEDLAGT FIL: Spørsmål og svar prekvalifisering Arena versjon 3",
     "group" : 1,
     "color" : "#1f77b4",
     "nok" : null
   }, {
     "id" : "2011-777247",
-    "name" : "2011-777247 (Contract award)",
+    "name" : "2011-777247 (Contract award): Anskaffelse av rammeavtaler for konsulenttjenester innenfor IKT-området",
     "group" : 1,
     "color" : "#4caf50",
     "nok" : 920000000
   }, {
     "id" : "2011-829167",
-    "name" : "2011-829167 (Additional information)",
+    "name" : "2011-829167 (Additional information): VEDLAGT FIL: Spørsmål og svar prekvalifisering Arena versjon 1",
     "group" : 1,
     "color" : "#1f77b4",
     "nok" : null
   }, {
     "id" : "2011-832719",
-    "name" : "2011-832719 (Additional information)",
+    "name" : "2011-832719 (Additional information): VEDLAGT FIL: Spørsmål og svar prekvalifisering Arena versjon 5",
     "group" : 1,
     "color" : "#1f77b4",
     "nok" : null
   }, {
     "id" : "2011-910767",
-    "name" : "2011-910767 (Contract notice)",
+    "name" : "2011-910767 (Contract notice): Anskaffelse av vedlikeholds- og videreutviklingsavtale for Arena",
     "group" : 1,
     "color" : "#f0f921",
     "nok" : 300000000
   }, {
     "id" : "2012-102241",
-    "name" : "2012-102241 (Additional information)",
+    "name" : "2012-102241 (Additional information): VEDLAGT FIL: 120910 Spørsml-svar kvalik",
     "group" : 1,
     "color" : "#1f77b4",
     "nok" : null
   }, {
     "id" : "2012-138966",
-    "name" : "2012-138966 (Additional information)",
+    "name" : "2012-138966 (Additional information): Kunngjøring kansellert",
     "group" : 1,
     "color" : "#1f77b4",
     "nok" : null
   }, {
     "id" : "2012-195449",
-    "name" : "2012-195449 (Additional information)",
+    "name" : "2012-195449 (Additional information): VEDLAGT FIL: Spørsmål og svar pr. 15.10.2012",
     "group" : 1,
     "color" : "#1f77b4",
     "nok" : null
   }, {
     "id" : "2012-255539",
-    "name" : "2012-255539 (Contract award)",
+    "name" : "2012-255539 (Contract award): Anskaffelse av vedlikeholds- og videreutviklingsavtale for Arena",
     "group" : 1,
     "color" : "#4caf50",
     "nok" : null
   }, {
     "id" : "2012-264355",
-    "name" : "2012-264355 (Contract notice)",
+    "name" : "2012-264355 (Contract notice): Rammeavtale og vedlikeholdsavtale for IKT-sikkerhetsløsninger",
     "group" : 1,
     "color" : "#f0f921",
     "nok" : 32000000
   }, {
     "id" : "2012-265312",
-    "name" : "2012-265312 (Prior information notice without call for competition)",
+    "name" : "2012-265312 (Prior information notice without call for competition): Oppdatert informasjon om Moderniseringsprogrammet i Arbeids- og velferdsdirektoratet fase 1",
     "group" : 1,
     "color" : "#1f77b4",
     "nok" : null
   }, {
     "id" : "2012-266032",
-    "name" : "2012-266032 (Contract notice)",
+    "name" : "2012-266032 (Contract notice): Anskaffelse av avtale for bistand til kvalitetssikring",
     "group" : 1,
     "color" : "#f0f921",
     "nok" : 12000000
   }, {
     "id" : "2012-266882",
-    "name" : "2012-266882 (Contract notice)",
+    "name" : "2012-266882 (Contract notice): Anskaffelse av bistand til tekniske gjennomganger",
     "group" : 1,
     "color" : "#f0f921",
     "nok" : 12000000
   }, {
     "id" : "2012-267534",
-    "name" : "2012-267534 (Contract notice)",
+    "name" : "2012-267534 (Contract notice): Anskaffelse av bistand til tekniske gjennomganger",
     "group" : 1,
     "color" : "#f0f921",
     "nok" : 12000000
   }, {
     "id" : "2012-268087",
-    "name" : "2012-268087 (Contract notice)",
+    "name" : "2012-268087 (Contract notice): Anskaffelse av verktøy som støtter en helhetlig testprosess for NAV IKT",
     "group" : 1,
     "color" : "#f0f921",
     "nok" : 30000000
   }, {
     "id" : "2012-388715",
-    "name" : "2012-388715 (Additional information)",
+    "name" : "2012-388715 (Additional information): Kunngjøring kansellert",
     "group" : 1,
     "color" : "#1f77b4",
     "nok" : null
   }, {
     "id" : "2012-409953",
-    "name" : "2012-409953 (Additional information)",
+    "name" : "2012-409953 (Additional information): VEDLAGT FIL: 12-1171 Spørsmål og svar",
     "group" : 1,
     "color" : "#1f77b4",
     "nok" : null
   }, {
     "id" : "2012-478280",
-    "name" : "2012-478280 (Additional information)",
+    "name" : "2012-478280 (Additional information): Kunngjøring kansellert",
     "group" : 1,
     "color" : "#1f77b4",
     "nok" : null
   }, {
     "id" : "2012-927475",
-    "name" : "2012-927475 (Additional information)",
+    "name" : "2012-927475 (Additional information): ERSTATTET FIL: Spørsmål og svar pr. 15.10.2012",
     "group" : 1,
     "color" : "#1f77b4",
     "nok" : null
   }, {
     "id" : "2012-992141",
-    "name" : "2012-992141 (Additional information)",
+    "name" : "2012-992141 (Additional information): VEDLAGT FIL: 121002 Spørsml-svar kvalik",
     "group" : 1,
     "color" : "#1f77b4",
     "nok" : null
   }, {
     "id" : "2013-281148",
-    "name" : "2013-281148 (Contract award)",
+    "name" : "2013-281148 (Contract award): Rammeavtale og vedlikeholdsavtale for IKT-sikkerhetsløsninger",
     "group" : 1,
     "color" : "#4caf50",
     "nok" : 40000000
   }, {
     "id" : "2013-281292",
-    "name" : "2013-281292 (Contract award)",
+    "name" : "2013-281292 (Contract award): Anskaffelse av avtale for bistand til kvalitetssikring",
     "group" : 1,
     "color" : "#4caf50",
     "nok" : null
   }, {
     "id" : "2013-292627",
-    "name" : "2013-292627 (Contract award)",
+    "name" : "2013-292627 (Contract award): Anskaffelse av verktøy som støtter en helhetlig testprosess for NAV IKT",
     "group" : 1,
     "color" : "#4caf50",
     "nok" : null
   }, {
     "id" : "2013-307839",
-    "name" : "2013-307839 (Contract notice)",
+    "name" : "2013-307839 (Contract notice): Elektronisk samhandling, integrasjon og sikkerhet",
     "group" : 1,
     "color" : "#f0f921",
     "nok" : 432000000
   }, {
     "id" : "2013-321081",
-    "name" : "2013-321081 (Additional information)",
+    "name" : "2013-321081 (Additional information): VEDLAGT FIL: Sporsmaal_og_svar_20131113",
     "group" : 1,
     "color" : "#1f77b4",
     "nok" : null
   }, {
     "id" : "2014-398870",
-    "name" : "2014-398870 (Contract notice)",
+    "name" : "2014-398870 (Contract notice): Vedlikehold og videreutvikling av Fellesregistre",
     "group" : 1,
     "color" : "#f0f921",
     "nok" : null
   }, {
     "id" : "2014-410278",
-    "name" : "2014-410278 (Contract notice)",
+    "name" : "2014-410278 (Contract notice): Vedlikehold og videreutvikling for Datavarehus",
     "group" : 1,
     "color" : "#f0f921",
     "nok" : 220000000
   }, {
     "id" : "2014-607651",
-    "name" : "2014-607651 (Contract award)",
+    "name" : "2014-607651 (Contract award): Elektronsik samhandling, integrasjon og sikkerhet",
     "group" : 1,
     "color" : "#4caf50",
     "nok" : 404238932
   }, {
     "id" : "2014-888660",
-    "name" : "2014-888660 (Contract notice)",
+    "name" : "2014-888660 (Contract notice): Vedlikehold og videreutvikling av Pensjonsløsningen",
     "group" : 1,
     "color" : "#f0f921",
     "nok" : 600000000
   }, {
     "id" : "2015-103735",
-    "name" : "2015-103735 (Contract award)",
+    "name" : "2015-103735 (Contract award): Anskaffelse av parallelle rammeavtaler for konsulenttjenester til NAV",
     "group" : 1,
     "color" : "#4caf50",
     "nok" : null
   }, {
     "id" : "2015-113743",
-    "name" : "2015-113743 (Contract notice)",
+    "name" : "2015-113743 (Contract notice): Anskaffelse av Bistand på kundesiden til Prosjekt 2 i Modernisering av IKT i NAV",
     "group" : 1,
     "color" : "#f0f921",
     "nok" : null
   }, {
     "id" : "2015-307826",
-    "name" : "2015-307826 (Contract notice)",
+    "name" : "2015-307826 (Contract notice): Vedlikehold og videreutvikling av dokumenthåndtering",
     "group" : 1,
     "color" : "#f0f921",
     "nok" : 152000000
   }, {
     "id" : "2015-322128",
-    "name" : "2015-322128 (Contract award)",
+    "name" : "2015-322128 (Contract award): Vedlikehold og videreutvikling av Fellesregistre",
     "group" : 1,
     "color" : "#4caf50",
     "nok" : 211864477
   }, {
     "id" : "2015-340383",
-    "name" : "2015-340383 (Contract notice)",
+    "name" : "2015-340383 (Contract notice): Anskaffelse av parallelle rammeavtaler for konsulenttjenester til NAV",
     "group" : 1,
     "color" : "#f0f921",
     "nok" : 1473600000
   }, {
     "id" : "2015-512386",
-    "name" : "2015-512386 (Contract award)",
+    "name" : "2015-512386 (Contract award): Vedlikehold og videreutvikling av Pensjonsløsningen",
     "group" : 1,
     "color" : "#4caf50",
     "nok" : 750000000
   }, {
     "id" : "2015-661253",
-    "name" : "2015-661253 (Contract award)",
+    "name" : "2015-661253 (Contract award): Vedlikehold og videreutvikling for Datavarehus",
     "group" : 1,
     "color" : "#4caf50",
     "nok" : 220000000
   }, {
     "id" : "2015-828848",
-    "name" : "2015-828848 (Additional information)",
+    "name" : "2015-828848 (Additional information): Anskaffelse av parallelle rammeavtaler for konsulenttjenester til NAV",
     "group" : 1,
     "color" : "#1f77b4",
     "nok" : null
   }, {
     "id" : "2016-070892",
-    "name" : "2016-070892 (Contract notice)",
+    "name" : "2016-070892 (Contract notice): Anskaffelse av vedlikeholds- og videreutviklingsavtale for Arena",
     "group" : 1,
     "color" : "#f0f921",
     "nok" : null
   }, {
     "id" : "2016-082071",
-    "name" : "2016-082071 (Contract notice)",
+    "name" : "2016-082071 (Contract notice): Utvikling og vedlikehold av Vedtaksløsning",
     "group" : 1,
     "color" : "#f0f921",
     "nok" : 640000000
   }, {
     "id" : "2016-344436",
-    "name" : "2016-344436 (Contract notice)",
+    "name" : "2016-344436 (Contract notice): Rammeavtale og vedlikehold for sentral infrastruktur i NAV",
     "group" : 1,
     "color" : "#f0f921",
     "nok" : 280000000
   }, {
     "id" : "2016-404263",
-    "name" : "2016-404263 (Contract award)",
+    "name" : "2016-404263 (Contract award): Utvikling og vedlikehold av Vedtaksløsning",
     "group" : 1,
     "color" : "#4caf50",
     "nok" : 641099270
   }, {
     "id" : "2016-573035",
-    "name" : "2016-573035 (Additional information)",
+    "name" : "2016-573035 (Additional information): Rammeavtale og vedlikehold for sentral infrastruktur i NAV",
     "group" : 1,
     "color" : "#1f77b4",
     "nok" : null
   }, {
     "id" : "2016-665571",
-    "name" : "2016-665571 (Contract notice)",
+    "name" : "2016-665571 (Contract notice): Rammeavtale og vedlikehold for sentral infrastruktur i NAV",
     "group" : 1,
     "color" : "#f0f921",
     "nok" : 280000000
   }, {
     "id" : "2016-701898",
-    "name" : "2016-701898 (Contract award)",
+    "name" : "2016-701898 (Contract award): Vedlikehold og videreutvikling av dokumenthåndtering",
     "group" : 1,
     "color" : "#4caf50",
     "nok" : null
   }, {
     "id" : "2016-781698",
-    "name" : "2016-781698 (Contract award)",
+    "name" : "2016-781698 (Contract award): Rammeavtale og vedlikehold for sentral infrastruktur i NAV",
     "group" : 1,
     "color" : "#4caf50",
     "nok" : null
   }, {
     "id" : "2016-826862",
-    "name" : "2016-826862 (Contract award)",
+    "name" : "2016-826862 (Contract award): Anskaffelse av Bistand på kundesiden til Prosjekt 2 i Modernisering av IKT i NAV",
     "group" : 1,
     "color" : "#4caf50",
     "nok" : 498355652
   }, {
     "id" : "214426-2014",
-    "name" : "214426-2014 (Contract notice)",
+    "name" : "214426-2014 (Contract notice): Maintenance and further development of the Joint Registry.",
     "group" : 1,
     "color" : "#ff7f0e",
     "nok" : null
   }, {
     "id" : "236418-2010",
-    "name" : "236418-2010 (Contract award)",
+    "name" : "236418-2010 (Contract award): Procurement of maintenance and development agreement for Pension and contribution systems V2.",
     "group" : 1,
     "color" : "#2a788e",
-    "nok" : null
+    "nok" : 330000000
   }, {
     "id" : "237835-2010",
-    "name" : "237835-2010 (Contract award)",
+    "name" : "237835-2010 (Contract award): Procurement of maintenance and development agreement for Joint systems V2.",
     "group" : 1,
     "color" : "#2a788e",
-    "nok" : null
+    "nok" : 90000000
   }, {
     "id" : "239395-2010",
-    "name" : "239395-2010 (Contract award)",
+    "name" : "239395-2010 (Contract award): Procurement of maintenance and development agreement for Joint Register V2.",
     "group" : 1,
     "color" : "#2a788e",
-    "nok" : null
+    "nok" : 190000000
   }, {
     "id" : "243954-2016",
-    "name" : "243954-2016 (Contract award)",
+    "name" : "243954-2016 (Contract award): Procurement of Assistance on the customer side for Project 2 in Modernisation of ICT at NAV.",
     "group" : 1,
     "color" : "#2a788e",
     "nok" : 498355652
   }, {
     "id" : "246258-2012",
-    "name" : "246258-2012 (Contract notice)",
+    "name" : "246258-2012 (Contract notice): Framework and maintenance agreement for ICT security systems.",
     "group" : 1,
     "color" : "#ff7f0e",
     "nok" : 32000000
   }, {
     "id" : "255337-2010",
-    "name" : "255337-2010 (Contract notice)",
+    "name" : "255337-2010 (Contract notice): Consultancy services for the establishment and implementation of IBM Rational System Architect.",
     "group" : 1,
     "color" : "#ff7f0e",
     "nok" : 495000
   }, {
     "id" : "264548-2012",
-    "name" : "264548-2012 (Prior information notice without call for competition)",
+    "name" : "264548-2012 (Prior information notice without call for competition): Updated information of the Modernisation programme in the Norwegian Labour and Welfare Service (NAV), stage 1.",
     "group" : 1,
     "color" : "#1f77b4",
     "nok" : null
   }, {
     "id" : "274297-2012",
-    "name" : "274297-2012 (Contract notice)",
+    "name" : "274297-2012 (Contract notice): Agreement for quality assurance assistance.",
     "group" : 1,
     "color" : "#ff7f0e",
     "nok" : 12000000
   }, {
     "id" : "285326-2009",
-    "name" : "285326-2009 (Contract notice)",
+    "name" : "285326-2009 (Contract notice): Maintenance and further development contract for Joint Systems.",
     "group" : 1,
     "color" : "#ff7f0e",
     "nok" : 102000000
   }, {
     "id" : "286805-2014",
-    "name" : "286805-2014 (Contract notice)",
+    "name" : "286805-2014 (Contract notice): Maintenance and development of a Data warehouse.",
     "group" : 1,
     "color" : "#ff7f0e",
     "nok" : 220000000
   }, {
     "id" : "287834-2012",
-    "name" : "287834-2012 (Contract notice)",
+    "name" : "287834-2012 (Contract notice): Assistance with technical reviews.",
     "group" : 1,
     "color" : "#ff7f0e",
     "nok" : 12000000
   }, {
     "id" : "289873-2009",
-    "name" : "289873-2009 (Contract notice)",
+    "name" : "289873-2009 (Contract notice): Maintenance and further development contract for Joint Systems.",
     "group" : 1,
     "color" : "#ff7f0e",
     "nok" : 102000000
   }, {
     "id" : "291864-2012",
-    "name" : "291864-2012 (Contract notice)",
+    "name" : "291864-2012 (Contract notice): Procurement support for technical reviews.",
     "group" : 1,
     "color" : "#ff7f0e",
     "nok" : 12000000
   }, {
     "id" : "296701-2009",
-    "name" : "296701-2009 (Contract notice)",
+    "name" : "296701-2009 (Contract notice): Maintenance and further development contract for the Pension and Contribution Schemes.",
     "group" : 1,
     "color" : "#ff7f0e",
     "nok" : 420000000
   }, {
     "id" : "297607-2007",
-    "name" : "297607-2007 (Contract notice)",
+    "name" : "297607-2007 (Contract notice): Procurement of maintenance and further development agreement for Arena case-handling system.",
     "group" : 1,
     "color" : "#ff7f0e",
     "nok" : 200000000
   }, {
     "id" : "302292-2009",
-    "name" : "302292-2009 (Contract notice)",
+    "name" : "302292-2009 (Contract notice): Maintenance and further development contract for finance systems.",
     "group" : 1,
     "color" : "#ff7f0e",
     "nok" : 210000000
   }, {
     "id" : "303163-2012",
-    "name" : "303163-2012 (Contract notice)",
+    "name" : "303163-2012 (Contract notice): Procurement of tools which support an overall test process for NAV ICT.",
     "group" : 1,
     "color" : "#ff7f0e",
     "nok" : 30000000
   }, {
     "id" : "310295-2009",
-    "name" : "310295-2009 (Contract notice)",
+    "name" : "310295-2009 (Contract notice): Procurement of maintenance of further development for Dataware house.",
     "group" : 1,
     "color" : "#ff7f0e",
     "nok" : 120000000
   }, {
     "id" : "312096-2009",
-    "name" : "312096-2009 (Contract notice)",
+    "name" : "312096-2009 (Contract notice): Maintenance and further development contract for the Joint Registers.",
     "group" : 1,
     "color" : "#ff7f0e",
     "nok" : 240000000
   }, {
     "id" : "317438-2010",
-    "name" : "317438-2010 (Contract award)",
+    "name" : "317438-2010 (Contract award): Procurement of maintenance and development agreement for mail and file system.",
     "group" : 1,
     "color" : "#2a788e",
     "nok" : null
   }, {
     "id" : "322049-2016",
-    "name" : "322049-2016 (Contract award)",
+    "name" : "322049-2016 (Contract award): A framework agreement and maintenance of the Norwegian Labour and Welfare Administration's central infrastructure in the Norwegian Labour and Welfare Administration.",
     "group" : 1,
     "color" : "#2a788e",
     "nok" : null
   }, {
     "id" : "327962-2009",
-    "name" : "327962-2009 (Contract notice)",
+    "name" : "327962-2009 (Contract notice): Procurement of maintenance and development agreement for Joint systems V2.",
     "group" : 1,
     "color" : "#ff7f0e",
     "nok" : 102000000
   }, {
     "id" : "327963-2009",
-    "name" : "327963-2009 (Contract notice)",
+    "name" : "327963-2009 (Contract notice): Procurement of maintenance and development agreement for Pension and contribution systems V2.",
     "group" : 1,
     "color" : "#ff7f0e",
     "nok" : 420000000
   }, {
     "id" : "329262-2009",
-    "name" : "329262-2009 (Contract notice)",
+    "name" : "329262-2009 (Contract notice): Procurement of maintenance and development agreement for Financial systems V2.",
     "group" : 1,
     "color" : "#ff7f0e",
     "nok" : 210000000
   }, {
     "id" : "329263-2009",
-    "name" : "329263-2009 (Contract notice)",
+    "name" : "329263-2009 (Contract notice): Procurement of maintenance and development agreement for Joint Register V2.",
     "group" : 1,
     "color" : "#ff7f0e",
     "nok" : 240000000
   }, {
     "id" : "329264-2009",
-    "name" : "329264-2009 (Contract notice)",
+    "name" : "329264-2009 (Contract notice): Procurement of maintenance and development agreement for Integration and framework.",
     "group" : 1,
     "color" : "#ff7f0e",
     "nok" : 120000000
   }, {
     "id" : "329920-2010",
-    "name" : "329920-2010 (Contract award)",
+    "name" : "329920-2010 (Contract award): Procurement of maintenance and development agreement for integration and framework.",
     "group" : 1,
     "color" : "#2a788e",
-    "nok" : null
+    "nok" : 150000000
   }, {
     "id" : "330718-2009",
-    "name" : "330718-2009 (Contract notice)",
+    "name" : "330718-2009 (Contract notice): Procurement of maintenance and development agreement for Data warehouse 2.",
     "group" : 1,
     "color" : "#ff7f0e",
     "nok" : 120000000
   }, {
     "id" : "335293-2009",
-    "name" : "335293-2009 (Contract notice)",
+    "name" : "335293-2009 (Contract notice): Procurement of maintenance and development agreement for mail and file system.",
     "group" : 1,
     "color" : "#ff7f0e",
     "nok" : 150000000
   }, {
     "id" : "343149-2011",
-    "name" : "343149-2011 (Contract notice)",
+    "name" : "343149-2011 (Contract notice): Procurement of maintenance and further development contract for Arena.",
     "group" : 1,
     "color" : "#ff7f0e",
     "nok" : 300000000
   }, {
     "id" : "345914-2011",
-    "name" : "345914-2011 (Contract award)",
+    "name" : "345914-2011 (Contract award): Framework agreements for consultancy services within ICT.",
     "group" : 1,
     "color" : "#2a788e",
     "nok" : 920000000
   }, {
     "id" : "350607-2013",
-    "name" : "350607-2013 (Contract notice)",
+    "name" : "350607-2013 (Contract notice): Electronic collaboration, integration and security.",
     "group" : 1,
     "color" : "#ff7f0e",
     "nok" : 432000000
   }, {
     "id" : "366644-2010",
-    "name" : "366644-2010 (Contract award)",
+    "name" : "366644-2010 (Contract award): Procurement of maintenance and development agreement for Financial systems V2.",
     "group" : 1,
     "color" : "#2a788e",
-    "nok" : null
+    "nok" : 200000000
   }, {
     "id" : "422668-2015",
-    "name" : "422668-2015 (Contract award)",
+    "name" : "422668-2015 (Contract award): Procurement of parallel framework agreements for consultancy services for NAV.",
     "group" : 1,
     "color" : "#2a788e",
     "nok" : null
   }, {
     "id" : "431381-2015",
-    "name" : "431381-2015 (Contract notice)",
+    "name" : "431381-2015 (Contract notice): Procurement of Assistance on the customer side for Project 2 in Modernisation of ICT at NAV.",
     "group" : 1,
     "color" : "#ff7f0e",
     "nok" : null
   }, {
     "id" : "432917-2016",
-    "name" : "432917-2016 (Contract award)",
+    "name" : "432917-2016 (Contract award): Development and maintenance of resolution system.",
     "group" : 1,
     "color" : "#2a788e",
     "nok" : 641099270
   }, {
     "id" : "450726-2016",
-    "name" : "450726-2016 (Contract notice)",
+    "name" : "450726-2016 (Contract notice): The procurement of a maintenance and development agreement for Arena.",
     "group" : 1,
     "color" : "#ff7f0e",
     "nok" : null
