@@ -2714,6 +2714,14 @@
     "value" : 10
   }, {
     "source" : "ACCENTURE AS",
+    "target" : "236418-2010",
+    "value" : 10
+  }, {
+    "source" : "ACCENTURE AS",
+    "target" : "329920-2010",
+    "value" : 10
+  }, {
+    "source" : "ACCENTURE AS",
     "target" : "2011-777247",
     "value" : 10
   }, {
@@ -2886,6 +2894,10 @@
     "value" : 10
   }, {
     "source" : "CAPGEMINI NORGE AS",
+    "target" : "200541-2010",
+    "value" : 10
+  }, {
+    "source" : "CAPGEMINI NORGE AS",
     "target" : "2010-565374",
     "value" : 10
   }, {
@@ -2943,6 +2955,10 @@
   }, {
     "source" : "COMPUTAS AS",
     "target" : "2010-872701",
+    "value" : 10
+  }, {
+    "source" : "COMPUTAS AS",
+    "target" : "237835-2010",
     "value" : 10
   }, {
     "source" : "COMPUTAS AS",
@@ -3161,6 +3177,10 @@
     "target" : "2010-937025",
     "value" : 10
   }, {
+    "source" : "IBM AS",
+    "target" : "239395-2010",
+    "value" : 10
+  }, {
     "source" : "IBM GLOBAL SERVICES",
     "target" : "2005-728398",
     "value" : 10
@@ -3187,6 +3207,10 @@
   }, {
     "source" : "INTERNATIONAL BUSINESS MACHINES AS (IBM)",
     "target" : "2010-751604",
+    "value" : 10
+  }, {
+    "source" : "INTERNATIONAL BUSINESS MACHINES AS (IBM)",
+    "target" : "366644-2010",
     "value" : 10
   }, {
     "source" : "IT INVEST AS",
@@ -3753,6 +3777,10 @@
     "target" : "2010-245638",
     "value" : 10
   }, {
+    "source" : "SIRIUS IT AS",
+    "target" : "317438-2010",
+    "value" : 10
+  }, {
     "source" : "SMARTNET AS",
     "target" : "2005-728398",
     "value" : 10
@@ -3943,6 +3971,10 @@
   }, {
     "source" : "WM DATA",
     "target" : "2007-958909",
+    "value" : 10
+  }, {
+    "source" : "WM-DATA AS",
+    "target" : "005977-2008",
     "value" : 10
   }, {
     "source" : "WM-DATA AS",
