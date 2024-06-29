@@ -18,6 +18,12 @@
     "color" : "#ff7f0e",
     "nok" : 640000000
   }, {
+    "id" : "024218-2012",
+    "name" : "024218-2012 (Contract notice): Contracts for basic development, further development and maintenance of self-service systems.",
+    "group" : 1,
+    "color" : "#ff7f0e",
+    "nok" : 368000000
+  }, {
     "id" : "025677-2015",
     "name" : "025677-2015 (Contract award): Maintenance and further development of the Pension system.",
     "group" : 1,
@@ -726,11 +732,23 @@
     "color" : "#1f77b4",
     "nok" : null
   }, {
+    "id" : "2012-248180",
+    "name" : "2012-248180 (Contract notice): Anskaffelse av avtaler for grunnutvikling, videreutvikling og vedlikehold av selvbetjeningsløsninger",
+    "group" : 1,
+    "color" : "#f0f921",
+    "nok" : 368000000
+  }, {
     "id" : "2012-255539",
     "name" : "2012-255539 (Contract award): Anskaffelse av vedlikeholds- og videreutviklingsavtale for Arena",
     "group" : 1,
     "color" : "#4caf50",
     "nok" : null
+  }, {
+    "id" : "2012-261751",
+    "name" : "2012-261751 (Contract award): Anskaffelse av avtaler for grunnutvikling, videreutvikling og vedlikehold av selvbetjeningsløsninger",
+    "group" : 1,
+    "color" : "#4caf50",
+    "nok" : 387367000
   }, {
     "id" : "2012-264355",
     "name" : "2012-264355 (Contract notice): Rammeavtale og vedlikeholdsavtale for IKT-sikkerhetsløsninger",
@@ -1128,6 +1146,12 @@
     "color" : "#ff7f0e",
     "nok" : 120000000
   }, {
+    "id" : "334769-2011",
+    "name" : "334769-2011 (Prior information notice without call for competition): 6-year programme for the modernisation of services in the Labour and Welfare Services.",
+    "group" : 1,
+    "color" : "#1f77b4",
+    "nok" : null
+  }, {
     "id" : "335293-2009",
     "name" : "335293-2009 (Contract notice): Procurement of maintenance and development agreement for mail and file system.",
     "group" : 1,
@@ -1157,6 +1181,12 @@
     "group" : 1,
     "color" : "#2a788e",
     "nok" : 200000000
+  }, {
+    "id" : "406728-2011",
+    "name" : "406728-2011 (Prior information notice without call for competition): Modernisation of ICT the Work and Welfare Directorate phase 1.",
+    "group" : 1,
+    "color" : "#1f77b4",
+    "nok" : null
   }, {
     "id" : "422668-2015",
     "name" : "422668-2015 (Contract award): Procurement of parallel framework agreements for consultancy services for NAV.",
@@ -1813,6 +1843,14 @@
     "nok" : null
   } ],
   "links" : [ {
+    "source" : "024218-2012",
+    "target" : "334769-2011",
+    "value" : 10
+  }, {
+    "source" : "024218-2012",
+    "target" : "406728-2011",
+    "value" : 10
+  }, {
     "source" : "025677-2015",
     "target" : "170406-2014",
     "value" : 10
@@ -2261,12 +2299,28 @@
     "target" : "2012-268087",
     "value" : 10
   }, {
+    "source" : "2012-248180",
+    "target" : "334769-2011",
+    "value" : 10
+  }, {
+    "source" : "2012-248180",
+    "target" : "406728-2011",
+    "value" : 10
+  }, {
     "source" : "2012-255539",
     "target" : "343149-2011",
     "value" : 10
   }, {
     "source" : "2012-255539",
     "target" : "119079-2012",
+    "value" : 10
+  }, {
+    "source" : "2012-261751",
+    "target" : "024218-2012",
+    "value" : 10
+  }, {
+    "source" : "2012-261751",
+    "target" : "406728-2011",
     "value" : 10
   }, {
     "source" : "2012-264355",
@@ -2827,6 +2881,10 @@
   }, {
     "source" : "BEKK CONSULTING AS",
     "target" : "345914-2011",
+    "value" : 10
+  }, {
+    "source" : "BEKK CONSULTING AS",
+    "target" : "2012-261751",
     "value" : 10
   }, {
     "source" : "BEKK CONSULTING AS",
@@ -3463,6 +3521,14 @@
   }, {
     "source" : "NAV",
     "target" : "343149-2011",
+    "value" : 10
+  }, {
+    "source" : "NAV",
+    "target" : "024218-2012",
+    "value" : 10
+  }, {
+    "source" : "NAV",
+    "target" : "2012-248180",
     "value" : 10
   }, {
     "source" : "NAV",
