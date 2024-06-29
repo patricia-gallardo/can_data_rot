@@ -42,6 +42,18 @@
     "color" : "#ff7f0e",
     "nok" : 280000000
   }, {
+    "id" : "027549-2012",
+    "name" : "027549-2012 (Contract notice): Contracts for an information platform and performance management.",
+    "group" : 1,
+    "color" : "#ff7f0e",
+    "nok" : 288000000
+  }, {
+    "id" : "029347-2012",
+    "name" : "029347-2012 (Contract notice): Contracts for basic development, further development and maintenance of resolution discussions.",
+    "group" : 1,
+    "color" : "#ff7f0e",
+    "nok" : 360000000
+  }, {
     "id" : "039828-2013",
     "name" : "039828-2013 (Contract award): Framework and maintenance agreement for ICT security systems.",
     "group" : 1,
@@ -53,6 +65,18 @@
     "group" : 1,
     "color" : "#2a788e",
     "nok" : null
+  }, {
+    "id" : "044136-2012",
+    "name" : "044136-2012 (Contract notice): Procurement of maintenance and development agreement for Infotrygd.",
+    "group" : 1,
+    "color" : "#ff7f0e",
+    "nok" : 160000000
+  }, {
+    "id" : "055291-2012",
+    "name" : "055291-2012 (Contract notice): Contracts for an information platform and performance management.",
+    "group" : 1,
+    "color" : "#ff7f0e",
+    "nok" : 288000000
   }, {
     "id" : "069254-2015",
     "name" : "069254-2015 (Contract award): Maintenance and further development of the Joint Registry.",
@@ -618,6 +642,12 @@
     "color" : "#1f77b4",
     "nok" : null
   }, {
+    "id" : "2011-225144",
+    "name" : "2011-225144 (Additional information): VEDLAGT FIL: 111025 Dokument til doffin",
+    "group" : 1,
+    "color" : "#1f77b4",
+    "nok" : null
+  }, {
     "id" : "2011-240721",
     "name" : "2011-240721 (Contract notice): Anskaffelse av rammeavtaler for konsulenttjenester innenfor IKT-området",
     "group" : 1,
@@ -644,6 +674,12 @@
   }, {
     "id" : "2011-323844",
     "name" : "2011-323844 (Additional information): VEDLAGT FIL: Spørsmål og svar prekvalifisering Arena versjon 2",
+    "group" : 1,
+    "color" : "#1f77b4",
+    "nok" : null
+  }, {
+    "id" : "2011-335364",
+    "name" : "2011-335364 (Prior information notice without call for competition): Modernisering av IKT Arbeids- og velferdsdirektoratet fase 1",
     "group" : 1,
     "color" : "#1f77b4",
     "nok" : null
@@ -696,6 +732,12 @@
     "color" : "#4caf50",
     "nok" : 920000000
   }, {
+    "id" : "2011-804828",
+    "name" : "2011-804828 (Additional information): VEDLAGT FIL: 120118 Informasjonsmøte",
+    "group" : 1,
+    "color" : "#1f77b4",
+    "nok" : null
+  }, {
     "id" : "2011-829167",
     "name" : "2011-829167 (Additional information): VEDLAGT FIL: Spørsmål og svar prekvalifisering Arena versjon 1",
     "group" : 1,
@@ -708,14 +750,44 @@
     "color" : "#1f77b4",
     "nok" : null
   }, {
+    "id" : "2011-856371",
+    "name" : "2011-856371 (Additional information): VEDLAGT FIL: Spørsmål og svar",
+    "group" : 1,
+    "color" : "#1f77b4",
+    "nok" : null
+  }, {
     "id" : "2011-910767",
     "name" : "2011-910767 (Contract notice): Anskaffelse av vedlikeholds- og videreutviklingsavtale for Arena",
     "group" : 1,
     "color" : "#f0f921",
     "nok" : 300000000
   }, {
+    "id" : "2011-951865",
+    "name" : "2011-951865 (Additional information): Informasjon til markedet",
+    "group" : 1,
+    "color" : "#1f77b4",
+    "nok" : null
+  }, {
+    "id" : "2011-977688",
+    "name" : "2011-977688 (Prior information notice without call for competition): 6-årig program for Modernisering av tjenester i Arbeids- og velferdsetaten",
+    "group" : 1,
+    "color" : "#1f77b4",
+    "nok" : null
+  }, {
     "id" : "2012-102241",
     "name" : "2012-102241 (Additional information): VEDLAGT FIL: 120910 Spørsml-svar kvalik",
+    "group" : 1,
+    "color" : "#1f77b4",
+    "nok" : null
+  }, {
+    "id" : "2012-102736",
+    "name" : "2012-102736 (Additional information): VEDLAGT FIL: 170212 spørsmål og svar MOD3 II",
+    "group" : 1,
+    "color" : "#1f77b4",
+    "nok" : null
+  }, {
+    "id" : "2012-107678",
+    "name" : "2012-107678 (Additional information): VEDLAGT FIL: 170212 spørsmål og svar MOD02 II",
     "group" : 1,
     "color" : "#1f77b4",
     "nok" : null
@@ -732,11 +804,41 @@
     "color" : "#1f77b4",
     "nok" : null
   }, {
+    "id" : "2012-219404",
+    "name" : "2012-219404 (Additional information): VEDLAGT FIL: 140212 spørsmål og svar MOD3 I",
+    "group" : 1,
+    "color" : "#1f77b4",
+    "nok" : null
+  }, {
     "id" : "2012-248180",
     "name" : "2012-248180 (Contract notice): Anskaffelse av avtaler for grunnutvikling, videreutvikling og vedlikehold av selvbetjeningsløsninger",
     "group" : 1,
     "color" : "#f0f921",
     "nok" : 368000000
+  }, {
+    "id" : "2012-248198",
+    "name" : "2012-248198 (Contract notice): Anskaffelse av avtaler for grunnutvikling, videreutvikling og vedlikehold av vedtaksbehandling",
+    "group" : 1,
+    "color" : "#f0f921",
+    "nok" : 360000000
+  }, {
+    "id" : "2012-248232",
+    "name" : "2012-248232 (Contract notice): Anskaffelse av avtaler for informasjonsplattform og virksomhetsstyring",
+    "group" : 1,
+    "color" : "#f0f921",
+    "nok" : 288000000
+  }, {
+    "id" : "2012-249244",
+    "name" : "2012-249244 (Contract notice): Anskaffelse av vedlikeholds- og videreutviklingsavtaler for Infotrygd",
+    "group" : 1,
+    "color" : "#f0f921",
+    "nok" : 160000000
+  }, {
+    "id" : "2012-250331",
+    "name" : "2012-250331 (Contract notice): Anskaffelse av avtaler for informasjonsplattform og virksomhetsstyring",
+    "group" : 1,
+    "color" : "#f0f921",
+    "nok" : 288000000
   }, {
     "id" : "2012-255539",
     "name" : "2012-255539 (Contract award): Anskaffelse av vedlikeholds- og videreutviklingsavtale for Arena",
@@ -749,6 +851,18 @@
     "group" : 1,
     "color" : "#4caf50",
     "nok" : 387367000
+  }, {
+    "id" : "2012-262172",
+    "name" : "2012-262172 (Contract award): Anskaffelse av avtaler for informasjonsplattform og virksomhetsstyring",
+    "group" : 1,
+    "color" : "#4caf50",
+    "nok" : 275367697
+  }, {
+    "id" : "2012-262205",
+    "name" : "2012-262205 (Contract award): Anskaffelse av avtaler for grunnutvikling, videreutvikling og vedlikehold av vedtaksbehandling",
+    "group" : 1,
+    "color" : "#4caf50",
+    "nok" : 343882450
   }, {
     "id" : "2012-264355",
     "name" : "2012-264355 (Contract notice): Rammeavtale og vedlikeholdsavtale for IKT-sikkerhetsløsninger",
@@ -786,6 +900,24 @@
     "color" : "#f0f921",
     "nok" : 30000000
   }, {
+    "id" : "2012-273372",
+    "name" : "2012-273372 (Contract award): Anskaffelse av vedlikeholds- og videreutviklingsavtaler for Infotrygd",
+    "group" : 1,
+    "color" : "#4caf50",
+    "nok" : 214200000
+  }, {
+    "id" : "2012-345902",
+    "name" : "2012-345902 (Additional information): Viktig informasjon om anskaffelse av Informasjonsplattform og virksomhetsstyring",
+    "group" : 1,
+    "color" : "#1f77b4",
+    "nok" : null
+  }, {
+    "id" : "2012-373776",
+    "name" : "2012-373776 (Additional information): VEDLAGT FIL: 170212 spørsmål og svar MOD01 I",
+    "group" : 1,
+    "color" : "#1f77b4",
+    "nok" : null
+  }, {
     "id" : "2012-388715",
     "name" : "2012-388715 (Additional information): Kunngjøring kansellert",
     "group" : 1,
@@ -800,6 +932,36 @@
   }, {
     "id" : "2012-478280",
     "name" : "2012-478280 (Additional information): Kunngjøring kansellert",
+    "group" : 1,
+    "color" : "#1f77b4",
+    "nok" : null
+  }, {
+    "id" : "2012-564386",
+    "name" : "2012-564386 (Additional information): Kunngjøring kansellert",
+    "group" : 1,
+    "color" : "#1f77b4",
+    "nok" : null
+  }, {
+    "id" : "2012-594786",
+    "name" : "2012-594786 (Additional information): Spørsmål og svar til kvalifikasjongrunnlag",
+    "group" : 1,
+    "color" : "#1f77b4",
+    "nok" : null
+  }, {
+    "id" : "2012-734608",
+    "name" : "2012-734608 (Additional information): VEDLAGT FIL: 170212 spørsmål og svar MOD3 II",
+    "group" : 1,
+    "color" : "#1f77b4",
+    "nok" : null
+  }, {
+    "id" : "2012-875386",
+    "name" : "2012-875386 (Additional information): VEDLAGT FIL: 160212 spørsmål og svar MOD02 I",
+    "group" : 1,
+    "color" : "#1f77b4",
+    "nok" : null
+  }, {
+    "id" : "2012-886198",
+    "name" : "2012-886198 (Additional information): VEDLAGT FIL: 140212 spørsmål og svar MOD3 I",
     "group" : 1,
     "color" : "#1f77b4",
     "nok" : null
@@ -971,6 +1133,24 @@
     "group" : 1,
     "color" : "#4caf50",
     "nok" : 498355652
+  }, {
+    "id" : "204739-2012",
+    "name" : "204739-2012 (Contract award): Contracts for basic development, further development and maintenance of self-service systems.",
+    "group" : 1,
+    "color" : "#2a788e",
+    "nok" : 387367000
+  }, {
+    "id" : "206719-2012",
+    "name" : "206719-2012 (Contract award): Contracts for an information platform and performance management.",
+    "group" : 1,
+    "color" : "#2a788e",
+    "nok" : 275367697
+  }, {
+    "id" : "208484-2012",
+    "name" : "208484-2012 (Contract award): Contracts for basic development, further development and maintenance of resolution discussions.",
+    "group" : 1,
+    "color" : "#2a788e",
+    "nok" : 343882450
   }, {
     "id" : "214426-2014",
     "name" : "214426-2014 (Contract notice): Maintenance and further development of the Joint Registry.",
@@ -1181,6 +1361,12 @@
     "group" : 1,
     "color" : "#2a788e",
     "nok" : 200000000
+  }, {
+    "id" : "370424-2012",
+    "name" : "370424-2012 (Contract award): Procurement of maintenance and development agreement for Infotrygd.",
+    "group" : 1,
+    "color" : "#2a788e",
+    "nok" : 214200000
   }, {
     "id" : "406728-2011",
     "name" : "406728-2011 (Prior information notice without call for competition): Modernisation of ICT the Work and Welfare Directorate phase 1.",
@@ -1508,6 +1694,12 @@
   }, {
     "id" : "HM RÅDGIVNING OG IT TEKNOLOGI AS",
     "name" : "HM RÅDGIVNING OG IT TEKNOLOGI AS",
+    "group" : 2,
+    "color" : "#5302a3",
+    "nok" : null
+  }, {
+    "id" : "IBM",
+    "name" : "IBM",
     "group" : 2,
     "color" : "#5302a3",
     "nok" : null
@@ -1859,12 +2051,44 @@
     "target" : "020995-2016",
     "value" : 10
   }, {
+    "source" : "027549-2012",
+    "target" : "334769-2011",
+    "value" : 10
+  }, {
+    "source" : "027549-2012",
+    "target" : "406728-2011",
+    "value" : 10
+  }, {
+    "source" : "029347-2012",
+    "target" : "334769-2011",
+    "value" : 10
+  }, {
+    "source" : "029347-2012",
+    "target" : "406728-2011",
+    "value" : 10
+  }, {
     "source" : "039828-2013",
     "target" : "246258-2012",
     "value" : 10
   }, {
     "source" : "039829-2013",
     "target" : "274297-2012",
+    "value" : 10
+  }, {
+    "source" : "044136-2012",
+    "target" : "334769-2011",
+    "value" : 10
+  }, {
+    "source" : "044136-2012",
+    "target" : "406728-2011",
+    "value" : 10
+  }, {
+    "source" : "055291-2012",
+    "target" : "334769-2011",
+    "value" : 10
+  }, {
+    "source" : "055291-2012",
+    "target" : "406728-2011",
     "value" : 10
   }, {
     "source" : "069254-2015",
@@ -2219,6 +2443,10 @@
     "target" : "2011-240721",
     "value" : 10
   }, {
+    "source" : "2011-225144",
+    "target" : "2011-977688",
+    "value" : 10
+  }, {
     "source" : "2011-240721",
     "target" : "101167-2011",
     "value" : 10
@@ -2237,6 +2465,10 @@
   }, {
     "source" : "2011-323844",
     "target" : "2011-910767",
+    "value" : 10
+  }, {
+    "source" : "2011-335364",
+    "target" : "406728-2011",
     "value" : 10
   }, {
     "source" : "2011-369646",
@@ -2275,6 +2507,10 @@
     "target" : "345914-2011",
     "value" : 10
   }, {
+    "source" : "2011-804828",
+    "target" : "2011-335364",
+    "value" : 10
+  }, {
     "source" : "2011-829167",
     "target" : "2011-910767",
     "value" : 10
@@ -2283,12 +2519,32 @@
     "target" : "2011-910767",
     "value" : 10
   }, {
+    "source" : "2011-856371",
+    "target" : "2011-977688",
+    "value" : 10
+  }, {
     "source" : "2011-910767",
     "target" : "343149-2011",
     "value" : 10
   }, {
+    "source" : "2011-951865",
+    "target" : "2011-977688",
+    "value" : 10
+  }, {
+    "source" : "2011-977688",
+    "target" : "334769-2011",
+    "value" : 10
+  }, {
     "source" : "2012-102241",
     "target" : "2012-266032",
+    "value" : 10
+  }, {
+    "source" : "2012-102736",
+    "target" : "2012-250331",
+    "value" : 10
+  }, {
+    "source" : "2012-107678",
+    "target" : "2012-248198",
     "value" : 10
   }, {
     "source" : "2012-138966",
@@ -2299,11 +2555,63 @@
     "target" : "2012-268087",
     "value" : 10
   }, {
+    "source" : "2012-219404",
+    "target" : "2012-248232",
+    "value" : 10
+  }, {
     "source" : "2012-248180",
     "target" : "334769-2011",
     "value" : 10
   }, {
     "source" : "2012-248180",
+    "target" : "406728-2011",
+    "value" : 10
+  }, {
+    "source" : "2012-248180",
+    "target" : "024218-2012",
+    "value" : 10
+  }, {
+    "source" : "2012-248198",
+    "target" : "334769-2011",
+    "value" : 10
+  }, {
+    "source" : "2012-248198",
+    "target" : "406728-2011",
+    "value" : 10
+  }, {
+    "source" : "2012-248198",
+    "target" : "029347-2012",
+    "value" : 10
+  }, {
+    "source" : "2012-248232",
+    "target" : "334769-2011",
+    "value" : 10
+  }, {
+    "source" : "2012-248232",
+    "target" : "406728-2011",
+    "value" : 10
+  }, {
+    "source" : "2012-248232",
+    "target" : "027549-2012",
+    "value" : 10
+  }, {
+    "source" : "2012-249244",
+    "target" : "334769-2011",
+    "value" : 10
+  }, {
+    "source" : "2012-249244",
+    "target" : "406728-2011",
+    "value" : 10
+  }, {
+    "source" : "2012-249244",
+    "target" : "044136-2012",
+    "value" : 10
+  }, {
+    "source" : "2012-250331",
+    "target" : "334769-2011",
+    "value" : 10
+  }, {
+    "source" : "2012-250331",
     "target" : "406728-2011",
     "value" : 10
   }, {
@@ -2321,6 +2629,42 @@
   }, {
     "source" : "2012-261751",
     "target" : "406728-2011",
+    "value" : 10
+  }, {
+    "source" : "2012-261751",
+    "target" : "204739-2012",
+    "value" : 10
+  }, {
+    "source" : "2012-262172",
+    "target" : "055291-2012",
+    "value" : 10
+  }, {
+    "source" : "2012-262172",
+    "target" : "334769-2011",
+    "value" : 10
+  }, {
+    "source" : "2012-262172",
+    "target" : "406728-2011",
+    "value" : 10
+  }, {
+    "source" : "2012-262172",
+    "target" : "206719-2012",
+    "value" : 10
+  }, {
+    "source" : "2012-262205",
+    "target" : "029347-2012",
+    "value" : 10
+  }, {
+    "source" : "2012-262205",
+    "target" : "334769-2011",
+    "value" : 10
+  }, {
+    "source" : "2012-262205",
+    "target" : "406728-2011",
+    "value" : 10
+  }, {
+    "source" : "2012-262205",
+    "target" : "208484-2012",
     "value" : 10
   }, {
     "source" : "2012-264355",
@@ -2363,6 +2707,22 @@
     "target" : "303163-2012",
     "value" : 10
   }, {
+    "source" : "2012-273372",
+    "target" : "044136-2012",
+    "value" : 10
+  }, {
+    "source" : "2012-273372",
+    "target" : "370424-2012",
+    "value" : 10
+  }, {
+    "source" : "2012-345902",
+    "target" : "2012-248232",
+    "value" : 10
+  }, {
+    "source" : "2012-373776",
+    "target" : "2012-248180",
+    "value" : 10
+  }, {
     "source" : "2012-388715",
     "target" : "2012-267534",
     "value" : 10
@@ -2373,6 +2733,26 @@
   }, {
     "source" : "2012-478280",
     "target" : "2012-266882",
+    "value" : 10
+  }, {
+    "source" : "2012-564386",
+    "target" : "2012-248232",
+    "value" : 10
+  }, {
+    "source" : "2012-594786",
+    "target" : "2012-248232",
+    "value" : 10
+  }, {
+    "source" : "2012-734608",
+    "target" : "2012-248232",
+    "value" : 10
+  }, {
+    "source" : "2012-875386",
+    "target" : "2012-248198",
+    "value" : 10
+  }, {
+    "source" : "2012-886198",
+    "target" : "2012-250331",
     "value" : 10
   }, {
     "source" : "2012-927475",
@@ -2583,6 +2963,38 @@
     "target" : "243954-2016",
     "value" : 10
   }, {
+    "source" : "204739-2012",
+    "target" : "024218-2012",
+    "value" : 10
+  }, {
+    "source" : "204739-2012",
+    "target" : "406728-2011",
+    "value" : 10
+  }, {
+    "source" : "206719-2012",
+    "target" : "055291-2012",
+    "value" : 10
+  }, {
+    "source" : "206719-2012",
+    "target" : "334769-2011",
+    "value" : 10
+  }, {
+    "source" : "206719-2012",
+    "target" : "406728-2011",
+    "value" : 10
+  }, {
+    "source" : "208484-2012",
+    "target" : "029347-2012",
+    "value" : 10
+  }, {
+    "source" : "208484-2012",
+    "target" : "334769-2011",
+    "value" : 10
+  }, {
+    "source" : "208484-2012",
+    "target" : "406728-2011",
+    "value" : 10
+  }, {
     "source" : "236418-2010",
     "target" : "327963-2009",
     "value" : 10
@@ -2683,6 +3095,10 @@
     "target" : "329262-2009",
     "value" : 10
   }, {
+    "source" : "370424-2012",
+    "target" : "044136-2012",
+    "value" : 10
+  }, {
     "source" : "422668-2015",
     "target" : "107172-2015",
     "value" : 10
@@ -2733,6 +3149,14 @@
   }, {
     "source" : "ACCENTURE",
     "target" : "2005-403461",
+    "value" : 10
+  }, {
+    "source" : "ACCENTURE",
+    "target" : "2012-262205",
+    "value" : 10
+  }, {
+    "source" : "ACCENTURE",
+    "target" : "208484-2012",
     "value" : 10
   }, {
     "source" : "ACCENTURE ANS",
@@ -2888,6 +3312,10 @@
     "value" : 10
   }, {
     "source" : "BEKK CONSULTING AS",
+    "target" : "204739-2012",
+    "value" : 10
+  }, {
+    "source" : "BEKK CONSULTING AS",
     "target" : "2015-103735",
     "value" : 10
   }, {
@@ -3025,6 +3453,14 @@
   }, {
     "source" : "COMPUTAS AS",
     "target" : "345914-2011",
+    "value" : 10
+  }, {
+    "source" : "COMPUTAS AS",
+    "target" : "2012-262172",
+    "value" : 10
+  }, {
+    "source" : "COMPUTAS AS",
+    "target" : "206719-2012",
     "value" : 10
   }, {
     "source" : "COMPUTAS AS",
@@ -3225,6 +3661,14 @@
   }, {
     "source" : "HM RÅDGIVNING OG IT TEKNOLOGI AS",
     "target" : "2005-728398",
+    "value" : 10
+  }, {
+    "source" : "IBM",
+    "target" : "2012-273372",
+    "value" : 10
+  }, {
+    "source" : "IBM",
+    "target" : "370424-2012",
     "value" : 10
   }, {
     "source" : "IBM AS",
@@ -3528,7 +3972,39 @@
     "value" : 10
   }, {
     "source" : "NAV",
+    "target" : "027549-2012",
+    "value" : 10
+  }, {
+    "source" : "NAV",
+    "target" : "029347-2012",
+    "value" : 10
+  }, {
+    "source" : "NAV",
+    "target" : "044136-2012",
+    "value" : 10
+  }, {
+    "source" : "NAV",
+    "target" : "055291-2012",
+    "value" : 10
+  }, {
+    "source" : "NAV",
     "target" : "2012-248180",
+    "value" : 10
+  }, {
+    "source" : "NAV",
+    "target" : "2012-248198",
+    "value" : 10
+  }, {
+    "source" : "NAV",
+    "target" : "2012-248232",
+    "value" : 10
+  }, {
+    "source" : "NAV",
+    "target" : "2012-249244",
+    "value" : 10
+  }, {
+    "source" : "NAV",
+    "target" : "2012-250331",
     "value" : 10
   }, {
     "source" : "NAV",
