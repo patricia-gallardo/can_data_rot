@@ -3147,6 +3147,10 @@
     "target" : "2015-103735",
     "value" : 10
   }, {
+    "source" : "ACANDO AS",
+    "target" : "422668-2015",
+    "value" : 10
+  }, {
     "source" : "ACCENTURE",
     "target" : "2005-403461",
     "value" : 10
@@ -3225,6 +3229,10 @@
   }, {
     "source" : "ACCENTURE AS",
     "target" : "2015-512386",
+    "value" : 10
+  }, {
+    "source" : "ACCENTURE AS",
+    "target" : "422668-2015",
     "value" : 10
   }, {
     "source" : "ACCENTURE AS",
@@ -3319,6 +3327,10 @@
     "target" : "2015-103735",
     "value" : 10
   }, {
+    "source" : "BEKK CONSULTING AS",
+    "target" : "422668-2015",
+    "value" : 10
+  }, {
     "source" : "BOUVET AS",
     "target" : "2007-958909",
     "value" : 10
@@ -3405,6 +3417,10 @@
   }, {
     "source" : "CAPGEMINI NORGE AS",
     "target" : "2015-103735",
+    "value" : 10
+  }, {
+    "source" : "CAPGEMINI NORGE AS",
+    "target" : "422668-2015",
     "value" : 10
   }, {
     "source" : "CIBER NORGE AS",
@@ -3595,6 +3611,14 @@
     "target" : "2015-103735",
     "value" : 10
   }, {
+    "source" : "ERNST & YOUNG AS",
+    "target" : "422668-2015",
+    "value" : 10
+  }, {
+    "source" : "ERNST & YOUNG AS",
+    "target" : "422668-2015",
+    "value" : 10
+  }, {
     "source" : "EWORK NORGE AS",
     "target" : "2011-777247",
     "value" : 10
@@ -3605,6 +3629,10 @@
   }, {
     "source" : "EXPERIS AS",
     "target" : "2015-103735",
+    "value" : 10
+  }, {
+    "source" : "EXPERIS AS",
+    "target" : "422668-2015",
     "value" : 10
   }, {
     "source" : "FORNEBU CONSULTING AS",
@@ -4279,8 +4307,16 @@
     "target" : "2015-103735",
     "value" : 10
   }, {
+    "source" : "PROMIS AS",
+    "target" : "422668-2015",
+    "value" : 10
+  }, {
     "source" : "PUNDIT NETWORKS AS",
     "target" : "2015-103735",
+    "value" : 10
+  }, {
+    "source" : "PUNDIT NETWORKS AS",
+    "target" : "422668-2015",
     "value" : 10
   }, {
     "source" : "RAMBØLL MANAGEMENT AS",
@@ -4295,8 +4331,16 @@
     "target" : "2015-103735",
     "value" : 10
   }, {
+    "source" : "REDPILL LINPRO AS",
+    "target" : "422668-2015",
+    "value" : 10
+  }, {
     "source" : "RIGHT MANAGEMENT NORWAY AS",
     "target" : "2015-103735",
+    "value" : 10
+  }, {
+    "source" : "RIGHT MANAGEMENT NORWAY AS",
+    "target" : "422668-2015",
     "value" : 10
   }, {
     "source" : "SANDBOX SOLUTIONS",
@@ -4485,6 +4529,10 @@
   }, {
     "source" : "VISMA CONSULTING AS",
     "target" : "2015-322128",
+    "value" : 10
+  }, {
+    "source" : "VISMA CONSULTING AS",
+    "target" : "422668-2015",
     "value" : 10
   }, {
     "source" : "VISMA CONSULTING AS",
