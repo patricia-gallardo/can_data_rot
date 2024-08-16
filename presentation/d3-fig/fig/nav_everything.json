@@ -72,6 +72,12 @@
     "color" : "#ff7f0e",
     "nok" : 160000000
   }, {
+    "id" : "050702-2012",
+    "name" : "050702-2012 (Additional information): NO-Oslo: IT services: consulting, software development, Internet and support",
+    "group" : 1,
+    "color" : "#1f77b4",
+    "nok" : null
+  }, {
     "id" : "055291-2012",
     "name" : "055291-2012 (Contract notice): Contracts for an information platform and performance management.",
     "group" : 1,
@@ -234,16 +240,40 @@
     "color" : "#2a788e",
     "nok" : null
   }, {
+    "id" : "2006-102380",
+    "name" : "2006-102380 (Additional information): Konkurransegrunnlag Del III revidert",
+    "group" : 1,
+    "color" : "#1f77b4",
+    "nok" : null
+  }, {
+    "id" : "2006-103465",
+    "name" : "2006-103465 (Additional information): Konkurransegrunnlag Del I revidert",
+    "group" : 1,
+    "color" : "#1f77b4",
+    "nok" : null
+  }, {
     "id" : "2006-358902",
     "name" : "2006-358902 (Contract award): Anskaffelse av vedlikeholdstjenester for Rikstrygdeverket, Remedy ARS",
     "group" : 1,
     "color" : "#4caf50",
     "nok" : null
   }, {
+    "id" : "2006-588740",
+    "name" : "2006-588740 (Additional information): Endringer/presisering",
+    "group" : 1,
+    "color" : "#1f77b4",
+    "nok" : null
+  }, {
     "id" : "2006-814012",
     "name" : "2006-814012 (Contract notice): Rammeavtale om konsulnettjenester innenfor IKT-området",
     "group" : 1,
     "color" : "#f0f921",
+    "nok" : null
+  }, {
+    "id" : "2006-943065",
+    "name" : "2006-943065 (Additional information): Presiseringer ift kompetanseområdene",
+    "group" : 1,
+    "color" : "#1f77b4",
     "nok" : null
   }, {
     "id" : "2007-100659",
@@ -1146,6 +1176,12 @@
     "color" : "#2a788e",
     "nok" : 275367697
   }, {
+    "id" : "207848-2008",
+    "name" : "207848-2008 (Contract award): Procurement of maintenance and further development agreement for Arena case-handling system.",
+    "group" : 1,
+    "color" : "#2a788e",
+    "nok" : null
+  }, {
     "id" : "208484-2012",
     "name" : "208484-2012 (Contract award): Contracts for basic development, further development and maintenance of resolution discussions.",
     "group" : 1,
@@ -1154,6 +1190,18 @@
   }, {
     "id" : "214426-2014",
     "name" : "214426-2014 (Contract notice): Maintenance and further development of the Joint Registry.",
+    "group" : 1,
+    "color" : "#ff7f0e",
+    "nok" : null
+  }, {
+    "id" : "223423-2007",
+    "name" : "223423-2007 (Contract award): Framework agreement for ICT consultancy services.",
+    "group" : 1,
+    "color" : "#2a788e",
+    "nok" : null
+  }, {
+    "id" : "225058-2007",
+    "name" : "225058-2007 (Contract notice): Framework agreement for ICT security surveillance.",
     "group" : 1,
     "color" : "#ff7f0e",
     "nok" : null
@@ -1218,11 +1266,23 @@
     "color" : "#ff7f0e",
     "nok" : 220000000
   }, {
+    "id" : "286900-2009",
+    "name" : "286900-2009 (Additional information): NO-Oslo: custom software development services",
+    "group" : 1,
+    "color" : "#1f77b4",
+    "nok" : null
+  }, {
     "id" : "287834-2012",
     "name" : "287834-2012 (Contract notice): Assistance with technical reviews.",
     "group" : 1,
     "color" : "#ff7f0e",
     "nok" : 12000000
+  }, {
+    "id" : "289224-2012",
+    "name" : "289224-2012 (Additional information): NO-Oslo: IT services: consulting, software development, Internet and support",
+    "group" : 1,
+    "color" : "#1f77b4",
+    "nok" : null
   }, {
     "id" : "289873-2009",
     "name" : "289873-2009 (Contract notice): Maintenance and further development contract for Joint Systems.",
@@ -1272,16 +1332,58 @@
     "color" : "#ff7f0e",
     "nok" : 240000000
   }, {
+    "id" : "316957-2009",
+    "name" : "316957-2009 (Additional information): NO-Oslo: custom software development services",
+    "group" : 1,
+    "color" : "#1f77b4",
+    "nok" : null
+  }, {
+    "id" : "317028-2009",
+    "name" : "317028-2009 (Additional information): NO-Oslo: custom software development services",
+    "group" : 1,
+    "color" : "#1f77b4",
+    "nok" : null
+  }, {
     "id" : "317438-2010",
     "name" : "317438-2010 (Contract award): Procurement of maintenance and development agreement for mail and file system.",
     "group" : 1,
     "color" : "#2a788e",
     "nok" : null
   }, {
+    "id" : "320799-2009",
+    "name" : "320799-2009 (Additional information): NO-Oslo: custom software development services",
+    "group" : 1,
+    "color" : "#1f77b4",
+    "nok" : null
+  }, {
+    "id" : "320800-2009",
+    "name" : "320800-2009 (Additional information): NO-Oslo: custom software development services",
+    "group" : 1,
+    "color" : "#1f77b4",
+    "nok" : null
+  }, {
+    "id" : "320811-2009",
+    "name" : "320811-2009 (Additional information): NO-Oslo: custom software development services",
+    "group" : 1,
+    "color" : "#1f77b4",
+    "nok" : null
+  }, {
+    "id" : "322047-2009",
+    "name" : "322047-2009 (Additional information): NO-Oslo: custom software development services",
+    "group" : 1,
+    "color" : "#1f77b4",
+    "nok" : null
+  }, {
     "id" : "322049-2016",
     "name" : "322049-2016 (Contract award): A framework agreement and maintenance of the Norwegian Labour and Welfare Administration's central infrastructure in the Norwegian Labour and Welfare Administration.",
     "group" : 1,
     "color" : "#2a788e",
+    "nok" : null
+  }, {
+    "id" : "322050-2009",
+    "name" : "322050-2009 (Additional information): NO-Oslo: custom software development services",
+    "group" : 1,
+    "color" : "#1f77b4",
     "nok" : null
   }, {
     "id" : "327962-2009",
@@ -1337,6 +1439,12 @@
     "group" : 1,
     "color" : "#ff7f0e",
     "nok" : 150000000
+  }, {
+    "id" : "337951-2012",
+    "name" : "337951-2012 (Additional information): NO-Oslo: IT services: consulting, software development, Internet and support",
+    "group" : 1,
+    "color" : "#1f77b4",
+    "nok" : null
   }, {
     "id" : "343149-2011",
     "name" : "343149-2011 (Contract notice): Procurement of maintenance and further development contract for Arena.",
@@ -1494,8 +1602,8 @@
     "color" : "#5302a3",
     "nok" : null
   }, {
-    "id" : "BOUVET ASA, BERGEN",
-    "name" : "BOUVET ASA, BERGEN",
+    "id" : "BOUVET ASA; BERGEN",
+    "name" : "BOUVET ASA; BERGEN",
     "group" : 2,
     "color" : "#5302a3",
     "nok" : null
@@ -1728,8 +1836,8 @@
     "color" : "#5302a3",
     "nok" : null
   }, {
-    "id" : "INTERNATIONAL BUSINESS MACHINES AS (IBM)",
-    "name" : "INTERNATIONAL BUSINESS MACHINES AS (IBM)",
+    "id" : "INTERNATIONAL BUSINESS MACHINES AS",
+    "name" : "INTERNATIONAL BUSINESS MACHINES AS",
     "group" : 2,
     "color" : "#5302a3",
     "nok" : null
@@ -2035,22 +2143,46 @@
     "nok" : null
   } ],
   "links" : [ {
+    "source" : "020995-2016",
+    "target" : "2016-665571",
+    "value" : 10
+  }, {
+    "source" : "021001-2016",
+    "target" : "2016-082071",
+    "value" : 10
+  }, {
     "source" : "024218-2012",
     "target" : "334769-2011",
     "value" : 10
   }, {
     "source" : "024218-2012",
     "target" : "406728-2011",
+    "value" : 10
+  }, {
+    "source" : "024218-2012",
+    "target" : "2012-248180",
     "value" : 10
   }, {
     "source" : "025677-2015",
     "target" : "170406-2014",
     "value" : 10
   }, {
+    "source" : "025677-2015",
+    "target" : "2015-512386",
+    "value" : 10
+  }, {
     "source" : "026760-2016",
     "target" : "020995-2016",
     "value" : 10
   }, {
+    "source" : "026760-2016",
+    "target" : "2016-573035",
+    "value" : 10
+  }, {
+    "source" : "026763-2016",
+    "target" : "2016-344436",
+    "value" : 10
+  }, {
     "source" : "027549-2012",
     "target" : "334769-2011",
     "value" : 10
@@ -2059,12 +2191,20 @@
     "target" : "406728-2011",
     "value" : 10
   }, {
+    "source" : "027549-2012",
+    "target" : "2012-248232",
+    "value" : 10
+  }, {
     "source" : "029347-2012",
     "target" : "334769-2011",
     "value" : 10
   }, {
     "source" : "029347-2012",
     "target" : "406728-2011",
+    "value" : 10
+  }, {
+    "source" : "029347-2012",
+    "target" : "2012-248198",
     "value" : 10
   }, {
     "source" : "039828-2013",
@@ -2083,6 +2223,14 @@
     "target" : "406728-2011",
     "value" : 10
   }, {
+    "source" : "044136-2012",
+    "target" : "2012-249244",
+    "value" : 10
+  }, {
+    "source" : "050702-2012",
+    "target" : "027549-2012",
+    "value" : 10
+  }, {
     "source" : "055291-2012",
     "target" : "334769-2011",
     "value" : 10
@@ -2091,44 +2239,192 @@
     "target" : "406728-2011",
     "value" : 10
   }, {
+    "source" : "055291-2012",
+    "target" : "2012-250331",
+    "value" : 10
+  }, {
     "source" : "069254-2015",
     "target" : "214426-2014",
+    "value" : 10
+  }, {
+    "source" : "069254-2015",
+    "target" : "2015-322128",
+    "value" : 10
+  }, {
+    "source" : "101167-2011",
+    "target" : "2011-240721",
+    "value" : 10
+  }, {
+    "source" : "107172-2015",
+    "target" : "2015-340383",
     "value" : 10
   }, {
     "source" : "111721-2015",
     "target" : "107172-2015",
     "value" : 10
   }, {
+    "source" : "111721-2015",
+    "target" : "2015-828848",
+    "value" : 10
+  }, {
     "source" : "119079-2012",
     "target" : "343149-2011",
+    "value" : 10
+  }, {
+    "source" : "119079-2012",
+    "target" : "2012-255539",
     "value" : 10
   }, {
     "source" : "140875-2016",
     "target" : "174732-2015",
     "value" : 10
   }, {
+    "source" : "140875-2016",
+    "target" : "2016-701898",
+    "value" : 10
+  }, {
+    "source" : "142758-2010",
+    "target" : "2010-949268",
+    "value" : 10
+  }, {
     "source" : "145604-2013",
     "target" : "303163-2012",
+    "value" : 10
+  }, {
+    "source" : "145604-2013",
+    "target" : "2013-292627",
     "value" : 10
   }, {
     "source" : "154131-2015",
     "target" : "286805-2014",
     "value" : 10
   }, {
+    "source" : "154131-2015",
+    "target" : "2015-661253",
+    "value" : 10
+  }, {
+    "source" : "161942-2009",
+    "target" : "2009-673942",
+    "value" : 10
+  }, {
+    "source" : "170406-2014",
+    "target" : "2014-888660",
+    "value" : 10
+  }, {
+    "source" : "174732-2015",
+    "target" : "2015-307826",
+    "value" : 10
+  }, {
     "source" : "184820-2010",
     "target" : "142758-2010",
+    "value" : 10
+  }, {
+    "source" : "193354-2014",
+    "target" : "2014-607651",
     "value" : 10
   }, {
     "source" : "200541-2010",
     "target" : "330718-2009",
     "value" : 10
   }, {
+    "source" : "200541-2010",
+    "target" : "2010-565374",
+    "value" : 10
+  }, {
+    "source" : "2006-102380",
+    "target" : "2006-814012",
+    "value" : 10
+  }, {
+    "source" : "2006-102380",
+    "target" : "2006-103465",
+    "value" : 10
+  }, {
+    "source" : "2006-102380",
+    "target" : "2006-588740",
+    "value" : 10
+  }, {
+    "source" : "2006-102380",
+    "target" : "2006-943065",
+    "value" : 10
+  }, {
+    "source" : "2006-103465",
+    "target" : "2006-814012",
+    "value" : 10
+  }, {
+    "source" : "2006-103465",
+    "target" : "2006-102380",
+    "value" : 10
+  }, {
+    "source" : "2006-103465",
+    "target" : "2006-588740",
+    "value" : 10
+  }, {
+    "source" : "2006-103465",
+    "target" : "2006-943065",
+    "value" : 10
+  }, {
+    "source" : "2006-588740",
+    "target" : "2006-814012",
+    "value" : 10
+  }, {
+    "source" : "2006-588740",
+    "target" : "2006-102380",
+    "value" : 10
+  }, {
+    "source" : "2006-588740",
+    "target" : "2006-103465",
+    "value" : 10
+  }, {
+    "source" : "2006-588740",
+    "target" : "2006-943065",
+    "value" : 10
+  }, {
+    "source" : "2006-814012",
+    "target" : "2006-102380",
+    "value" : 10
+  }, {
+    "source" : "2006-814012",
+    "target" : "2006-103465",
+    "value" : 10
+  }, {
+    "source" : "2006-814012",
+    "target" : "2006-588740",
+    "value" : 10
+  }, {
+    "source" : "2006-814012",
+    "target" : "2006-943065",
+    "value" : 10
+  }, {
+    "source" : "2006-943065",
+    "target" : "2006-814012",
+    "value" : 10
+  }, {
+    "source" : "2006-943065",
+    "target" : "2006-102380",
+    "value" : 10
+  }, {
+    "source" : "2006-943065",
+    "target" : "2006-103465",
+    "value" : 10
+  }, {
+    "source" : "2006-943065",
+    "target" : "2006-588740",
+    "value" : 10
+  }, {
     "source" : "2007-100659",
     "target" : "2007-596014",
     "value" : 10
   }, {
+    "source" : "2007-100659",
+    "target" : "2007-521466",
+    "value" : 10
+  }, {
     "source" : "2007-441251",
     "target" : "2007-561299",
+    "value" : 10
+  }, {
+    "source" : "2007-441251",
+    "target" : "2007-828229",
     "value" : 10
   }, {
     "source" : "2007-461550",
@@ -2139,8 +2435,44 @@
     "target" : "2007-596014",
     "value" : 10
   }, {
+    "source" : "2007-521466",
+    "target" : "2007-100659",
+    "value" : 10
+  }, {
+    "source" : "2007-561299",
+    "target" : "2007-441251",
+    "value" : 10
+  }, {
+    "source" : "2007-561299",
+    "target" : "2007-828229",
+    "value" : 10
+  }, {
+    "source" : "2007-596014",
+    "target" : "2007-100659",
+    "value" : 10
+  }, {
+    "source" : "2007-596014",
+    "target" : "2007-521466",
+    "value" : 10
+  }, {
     "source" : "2007-828229",
     "target" : "2007-561299",
+    "value" : 10
+  }, {
+    "source" : "2007-828229",
+    "target" : "2007-441251",
+    "value" : 10
+  }, {
+    "source" : "2007-910896",
+    "target" : "225058-2007",
+    "value" : 10
+  }, {
+    "source" : "2007-910896",
+    "target" : "2007-461550",
+    "value" : 10
+  }, {
+    "source" : "2007-958909",
+    "target" : "223423-2007",
     "value" : 10
   }, {
     "source" : "2008-306918",
@@ -2155,6 +2487,18 @@
     "target" : "310295-2009",
     "value" : 10
   }, {
+    "source" : "2009-104423",
+    "target" : "2009-267259",
+    "value" : 10
+  }, {
+    "source" : "2009-104423",
+    "target" : "2009-485629",
+    "value" : 10
+  }, {
+    "source" : "2009-104423",
+    "target" : "2009-613225",
+    "value" : 10
+  }, {
     "source" : "2009-105937",
     "target" : "161942-2009",
     "value" : 10
@@ -2163,12 +2507,64 @@
     "target" : "289873-2009",
     "value" : 10
   }, {
+    "source" : "2009-105937",
+    "target" : "2009-316085",
+    "value" : 10
+  }, {
+    "source" : "2009-105937",
+    "target" : "2009-432740",
+    "value" : 10
+  }, {
+    "source" : "2009-105937",
+    "target" : "2009-464110",
+    "value" : 10
+  }, {
+    "source" : "2009-105937",
+    "target" : "2009-621016",
+    "value" : 10
+  }, {
+    "source" : "2009-105937",
+    "target" : "2009-636026",
+    "value" : 10
+  }, {
+    "source" : "2009-105937",
+    "target" : "2009-672437",
+    "value" : 10
+  }, {
+    "source" : "2009-105937",
+    "target" : "2009-710908",
+    "value" : 10
+  }, {
+    "source" : "2009-105937",
+    "target" : "2009-982589",
+    "value" : 10
+  }, {
     "source" : "2009-151018",
     "target" : "2009-332068",
     "value" : 10
   }, {
+    "source" : "2009-151018",
+    "target" : "2009-394908",
+    "value" : 10
+  }, {
+    "source" : "2009-151018",
+    "target" : "2009-733577",
+    "value" : 10
+  }, {
+    "source" : "2009-151018",
+    "target" : "2009-789303",
+    "value" : 10
+  }, {
+    "source" : "2009-151018",
+    "target" : "2009-965224",
+    "value" : 10
+  }, {
     "source" : "2009-156040",
     "target" : "2009-228412",
+    "value" : 10
+  }, {
+    "source" : "2009-156040",
+    "target" : "2009-880381",
     "value" : 10
   }, {
     "source" : "2009-180018",
@@ -2183,12 +2579,48 @@
     "target" : "2009-928327",
     "value" : 10
   }, {
+    "source" : "2009-183073",
+    "target" : "2009-321812",
+    "value" : 10
+  }, {
+    "source" : "2009-183073",
+    "target" : "2009-521959",
+    "value" : 10
+  }, {
+    "source" : "2009-183073",
+    "target" : "2009-738364",
+    "value" : 10
+  }, {
+    "source" : "2009-183073",
+    "target" : "2009-741150",
+    "value" : 10
+  }, {
+    "source" : "2009-183073",
+    "target" : "2009-775394",
+    "value" : 10
+  }, {
+    "source" : "2009-183073",
+    "target" : "2009-832953",
+    "value" : 10
+  }, {
+    "source" : "2009-183073",
+    "target" : "2009-901066",
+    "value" : 10
+  }, {
     "source" : "2009-228412",
     "target" : "161942-2009",
     "value" : 10
   }, {
     "source" : "2009-228412",
     "target" : "312096-2009",
+    "value" : 10
+  }, {
+    "source" : "2009-228412",
+    "target" : "2009-156040",
+    "value" : 10
+  }, {
+    "source" : "2009-228412",
+    "target" : "2009-880381",
     "value" : 10
   }, {
     "source" : "2009-266589",
@@ -2203,16 +2635,84 @@
     "target" : "2009-104423",
     "value" : 10
   }, {
+    "source" : "2009-267259",
+    "target" : "2009-485629",
+    "value" : 10
+  }, {
+    "source" : "2009-267259",
+    "target" : "2009-613225",
+    "value" : 10
+  }, {
     "source" : "2009-302086",
     "target" : "2009-673942",
+    "value" : 10
+  }, {
+    "source" : "2009-302086",
+    "target" : "2009-529884",
     "value" : 10
   }, {
     "source" : "2009-316085",
     "target" : "2009-105937",
     "value" : 10
   }, {
+    "source" : "2009-316085",
+    "target" : "2009-432740",
+    "value" : 10
+  }, {
+    "source" : "2009-316085",
+    "target" : "2009-464110",
+    "value" : 10
+  }, {
+    "source" : "2009-316085",
+    "target" : "2009-621016",
+    "value" : 10
+  }, {
+    "source" : "2009-316085",
+    "target" : "2009-636026",
+    "value" : 10
+  }, {
+    "source" : "2009-316085",
+    "target" : "2009-672437",
+    "value" : 10
+  }, {
+    "source" : "2009-316085",
+    "target" : "2009-710908",
+    "value" : 10
+  }, {
+    "source" : "2009-316085",
+    "target" : "2009-982589",
+    "value" : 10
+  }, {
     "source" : "2009-321812",
     "target" : "2009-928327",
+    "value" : 10
+  }, {
+    "source" : "2009-321812",
+    "target" : "2009-183073",
+    "value" : 10
+  }, {
+    "source" : "2009-321812",
+    "target" : "2009-521959",
+    "value" : 10
+  }, {
+    "source" : "2009-321812",
+    "target" : "2009-738364",
+    "value" : 10
+  }, {
+    "source" : "2009-321812",
+    "target" : "2009-741150",
+    "value" : 10
+  }, {
+    "source" : "2009-321812",
+    "target" : "2009-775394",
+    "value" : 10
+  }, {
+    "source" : "2009-321812",
+    "target" : "2009-832953",
+    "value" : 10
+  }, {
+    "source" : "2009-321812",
+    "target" : "2009-901066",
     "value" : 10
   }, {
     "source" : "2009-332068",
@@ -2223,20 +2723,116 @@
     "target" : "302292-2009",
     "value" : 10
   }, {
+    "source" : "2009-332068",
+    "target" : "2009-151018",
+    "value" : 10
+  }, {
+    "source" : "2009-332068",
+    "target" : "2009-394908",
+    "value" : 10
+  }, {
+    "source" : "2009-332068",
+    "target" : "2009-733577",
+    "value" : 10
+  }, {
+    "source" : "2009-332068",
+    "target" : "2009-789303",
+    "value" : 10
+  }, {
+    "source" : "2009-332068",
+    "target" : "2009-965224",
+    "value" : 10
+  }, {
     "source" : "2009-394908",
     "target" : "2009-332068",
+    "value" : 10
+  }, {
+    "source" : "2009-394908",
+    "target" : "2009-151018",
+    "value" : 10
+  }, {
+    "source" : "2009-394908",
+    "target" : "2009-733577",
+    "value" : 10
+  }, {
+    "source" : "2009-394908",
+    "target" : "2009-789303",
+    "value" : 10
+  }, {
+    "source" : "2009-394908",
+    "target" : "2009-965224",
     "value" : 10
   }, {
     "source" : "2009-431850",
     "target" : "285326-2009",
     "value" : 10
   }, {
+    "source" : "2009-431850",
+    "target" : "2009-506747",
+    "value" : 10
+  }, {
     "source" : "2009-432740",
     "target" : "2009-105937",
     "value" : 10
   }, {
+    "source" : "2009-432740",
+    "target" : "2009-316085",
+    "value" : 10
+  }, {
+    "source" : "2009-432740",
+    "target" : "2009-464110",
+    "value" : 10
+  }, {
+    "source" : "2009-432740",
+    "target" : "2009-621016",
+    "value" : 10
+  }, {
+    "source" : "2009-432740",
+    "target" : "2009-636026",
+    "value" : 10
+  }, {
+    "source" : "2009-432740",
+    "target" : "2009-672437",
+    "value" : 10
+  }, {
+    "source" : "2009-432740",
+    "target" : "2009-710908",
+    "value" : 10
+  }, {
+    "source" : "2009-432740",
+    "target" : "2009-982589",
+    "value" : 10
+  }, {
     "source" : "2009-464110",
     "target" : "2009-105937",
+    "value" : 10
+  }, {
+    "source" : "2009-464110",
+    "target" : "2009-316085",
+    "value" : 10
+  }, {
+    "source" : "2009-464110",
+    "target" : "2009-432740",
+    "value" : 10
+  }, {
+    "source" : "2009-464110",
+    "target" : "2009-621016",
+    "value" : 10
+  }, {
+    "source" : "2009-464110",
+    "target" : "2009-636026",
+    "value" : 10
+  }, {
+    "source" : "2009-464110",
+    "target" : "2009-672437",
+    "value" : 10
+  }, {
+    "source" : "2009-464110",
+    "target" : "2009-710908",
+    "value" : 10
+  }, {
+    "source" : "2009-464110",
+    "target" : "2009-982589",
     "value" : 10
   }, {
     "source" : "2009-472406",
@@ -2251,12 +2847,48 @@
     "target" : "2009-104423",
     "value" : 10
   }, {
+    "source" : "2009-485629",
+    "target" : "2009-267259",
+    "value" : 10
+  }, {
+    "source" : "2009-485629",
+    "target" : "2009-613225",
+    "value" : 10
+  }, {
     "source" : "2009-506747",
     "target" : "2009-431850",
     "value" : 10
   }, {
     "source" : "2009-521959",
     "target" : "2009-928327",
+    "value" : 10
+  }, {
+    "source" : "2009-521959",
+    "target" : "2009-183073",
+    "value" : 10
+  }, {
+    "source" : "2009-521959",
+    "target" : "2009-321812",
+    "value" : 10
+  }, {
+    "source" : "2009-521959",
+    "target" : "2009-738364",
+    "value" : 10
+  }, {
+    "source" : "2009-521959",
+    "target" : "2009-741150",
+    "value" : 10
+  }, {
+    "source" : "2009-521959",
+    "target" : "2009-775394",
+    "value" : 10
+  }, {
+    "source" : "2009-521959",
+    "target" : "2009-832953",
+    "value" : 10
+  }, {
+    "source" : "2009-521959",
+    "target" : "2009-901066",
     "value" : 10
   }, {
     "source" : "2009-529000",
@@ -2269,6 +2901,10 @@
   }, {
     "source" : "2009-529884",
     "target" : "2009-673942",
+    "value" : 10
+  }, {
+    "source" : "2009-529884",
+    "target" : "2009-302086",
     "value" : 10
   }, {
     "source" : "2009-563552",
@@ -2291,56 +2927,360 @@
     "target" : "2009-104423",
     "value" : 10
   }, {
+    "source" : "2009-613225",
+    "target" : "2009-267259",
+    "value" : 10
+  }, {
+    "source" : "2009-613225",
+    "target" : "2009-485629",
+    "value" : 10
+  }, {
     "source" : "2009-621016",
     "target" : "2009-105937",
+    "value" : 10
+  }, {
+    "source" : "2009-621016",
+    "target" : "2009-316085",
+    "value" : 10
+  }, {
+    "source" : "2009-621016",
+    "target" : "2009-432740",
+    "value" : 10
+  }, {
+    "source" : "2009-621016",
+    "target" : "2009-464110",
+    "value" : 10
+  }, {
+    "source" : "2009-621016",
+    "target" : "2009-636026",
+    "value" : 10
+  }, {
+    "source" : "2009-621016",
+    "target" : "2009-672437",
+    "value" : 10
+  }, {
+    "source" : "2009-621016",
+    "target" : "2009-710908",
+    "value" : 10
+  }, {
+    "source" : "2009-621016",
+    "target" : "2009-982589",
     "value" : 10
   }, {
     "source" : "2009-636026",
     "target" : "2009-105937",
     "value" : 10
   }, {
+    "source" : "2009-636026",
+    "target" : "2009-316085",
+    "value" : 10
+  }, {
+    "source" : "2009-636026",
+    "target" : "2009-432740",
+    "value" : 10
+  }, {
+    "source" : "2009-636026",
+    "target" : "2009-464110",
+    "value" : 10
+  }, {
+    "source" : "2009-636026",
+    "target" : "2009-621016",
+    "value" : 10
+  }, {
+    "source" : "2009-636026",
+    "target" : "2009-672437",
+    "value" : 10
+  }, {
+    "source" : "2009-636026",
+    "target" : "2009-710908",
+    "value" : 10
+  }, {
+    "source" : "2009-636026",
+    "target" : "2009-982589",
+    "value" : 10
+  }, {
     "source" : "2009-672437",
     "target" : "2009-105937",
+    "value" : 10
+  }, {
+    "source" : "2009-672437",
+    "target" : "2009-316085",
+    "value" : 10
+  }, {
+    "source" : "2009-672437",
+    "target" : "2009-432740",
+    "value" : 10
+  }, {
+    "source" : "2009-672437",
+    "target" : "2009-464110",
+    "value" : 10
+  }, {
+    "source" : "2009-672437",
+    "target" : "2009-621016",
+    "value" : 10
+  }, {
+    "source" : "2009-672437",
+    "target" : "2009-636026",
+    "value" : 10
+  }, {
+    "source" : "2009-672437",
+    "target" : "2009-710908",
+    "value" : 10
+  }, {
+    "source" : "2009-672437",
+    "target" : "2009-982589",
     "value" : 10
   }, {
     "source" : "2009-673942",
     "target" : "161942-2009",
     "value" : 10
   }, {
+    "source" : "2009-673942",
+    "target" : "2009-302086",
+    "value" : 10
+  }, {
+    "source" : "2009-673942",
+    "target" : "2009-529884",
+    "value" : 10
+  }, {
     "source" : "2009-710908",
     "target" : "2009-105937",
+    "value" : 10
+  }, {
+    "source" : "2009-710908",
+    "target" : "2009-316085",
+    "value" : 10
+  }, {
+    "source" : "2009-710908",
+    "target" : "2009-432740",
+    "value" : 10
+  }, {
+    "source" : "2009-710908",
+    "target" : "2009-464110",
+    "value" : 10
+  }, {
+    "source" : "2009-710908",
+    "target" : "2009-621016",
+    "value" : 10
+  }, {
+    "source" : "2009-710908",
+    "target" : "2009-636026",
+    "value" : 10
+  }, {
+    "source" : "2009-710908",
+    "target" : "2009-672437",
+    "value" : 10
+  }, {
+    "source" : "2009-710908",
+    "target" : "2009-982589",
     "value" : 10
   }, {
     "source" : "2009-733577",
     "target" : "2009-332068",
     "value" : 10
   }, {
+    "source" : "2009-733577",
+    "target" : "2009-151018",
+    "value" : 10
+  }, {
+    "source" : "2009-733577",
+    "target" : "2009-394908",
+    "value" : 10
+  }, {
+    "source" : "2009-733577",
+    "target" : "2009-789303",
+    "value" : 10
+  }, {
+    "source" : "2009-733577",
+    "target" : "2009-965224",
+    "value" : 10
+  }, {
     "source" : "2009-738364",
     "target" : "2009-928327",
+    "value" : 10
+  }, {
+    "source" : "2009-738364",
+    "target" : "2009-183073",
+    "value" : 10
+  }, {
+    "source" : "2009-738364",
+    "target" : "2009-321812",
+    "value" : 10
+  }, {
+    "source" : "2009-738364",
+    "target" : "2009-521959",
+    "value" : 10
+  }, {
+    "source" : "2009-738364",
+    "target" : "2009-741150",
+    "value" : 10
+  }, {
+    "source" : "2009-738364",
+    "target" : "2009-775394",
+    "value" : 10
+  }, {
+    "source" : "2009-738364",
+    "target" : "2009-832953",
+    "value" : 10
+  }, {
+    "source" : "2009-738364",
+    "target" : "2009-901066",
     "value" : 10
   }, {
     "source" : "2009-741150",
     "target" : "2009-928327",
     "value" : 10
   }, {
+    "source" : "2009-741150",
+    "target" : "2009-183073",
+    "value" : 10
+  }, {
+    "source" : "2009-741150",
+    "target" : "2009-321812",
+    "value" : 10
+  }, {
+    "source" : "2009-741150",
+    "target" : "2009-521959",
+    "value" : 10
+  }, {
+    "source" : "2009-741150",
+    "target" : "2009-738364",
+    "value" : 10
+  }, {
+    "source" : "2009-741150",
+    "target" : "2009-775394",
+    "value" : 10
+  }, {
+    "source" : "2009-741150",
+    "target" : "2009-832953",
+    "value" : 10
+  }, {
+    "source" : "2009-741150",
+    "target" : "2009-901066",
+    "value" : 10
+  }, {
     "source" : "2009-775394",
     "target" : "2009-928327",
+    "value" : 10
+  }, {
+    "source" : "2009-775394",
+    "target" : "2009-183073",
+    "value" : 10
+  }, {
+    "source" : "2009-775394",
+    "target" : "2009-321812",
+    "value" : 10
+  }, {
+    "source" : "2009-775394",
+    "target" : "2009-521959",
+    "value" : 10
+  }, {
+    "source" : "2009-775394",
+    "target" : "2009-738364",
+    "value" : 10
+  }, {
+    "source" : "2009-775394",
+    "target" : "2009-741150",
+    "value" : 10
+  }, {
+    "source" : "2009-775394",
+    "target" : "2009-832953",
+    "value" : 10
+  }, {
+    "source" : "2009-775394",
+    "target" : "2009-901066",
     "value" : 10
   }, {
     "source" : "2009-789303",
     "target" : "2009-332068",
     "value" : 10
   }, {
+    "source" : "2009-789303",
+    "target" : "2009-151018",
+    "value" : 10
+  }, {
+    "source" : "2009-789303",
+    "target" : "2009-394908",
+    "value" : 10
+  }, {
+    "source" : "2009-789303",
+    "target" : "2009-733577",
+    "value" : 10
+  }, {
+    "source" : "2009-789303",
+    "target" : "2009-965224",
+    "value" : 10
+  }, {
     "source" : "2009-832953",
     "target" : "2009-928327",
+    "value" : 10
+  }, {
+    "source" : "2009-832953",
+    "target" : "2009-183073",
+    "value" : 10
+  }, {
+    "source" : "2009-832953",
+    "target" : "2009-321812",
+    "value" : 10
+  }, {
+    "source" : "2009-832953",
+    "target" : "2009-521959",
+    "value" : 10
+  }, {
+    "source" : "2009-832953",
+    "target" : "2009-738364",
+    "value" : 10
+  }, {
+    "source" : "2009-832953",
+    "target" : "2009-741150",
+    "value" : 10
+  }, {
+    "source" : "2009-832953",
+    "target" : "2009-775394",
+    "value" : 10
+  }, {
+    "source" : "2009-832953",
+    "target" : "2009-901066",
     "value" : 10
   }, {
     "source" : "2009-880381",
     "target" : "2009-228412",
     "value" : 10
   }, {
+    "source" : "2009-880381",
+    "target" : "2009-156040",
+    "value" : 10
+  }, {
     "source" : "2009-901066",
     "target" : "2009-928327",
+    "value" : 10
+  }, {
+    "source" : "2009-901066",
+    "target" : "2009-183073",
+    "value" : 10
+  }, {
+    "source" : "2009-901066",
+    "target" : "2009-321812",
+    "value" : 10
+  }, {
+    "source" : "2009-901066",
+    "target" : "2009-521959",
+    "value" : 10
+  }, {
+    "source" : "2009-901066",
+    "target" : "2009-738364",
+    "value" : 10
+  }, {
+    "source" : "2009-901066",
+    "target" : "2009-741150",
+    "value" : 10
+  }, {
+    "source" : "2009-901066",
+    "target" : "2009-775394",
+    "value" : 10
+  }, {
+    "source" : "2009-901066",
+    "target" : "2009-832953",
     "value" : 10
   }, {
     "source" : "2009-928327",
@@ -2349,6 +3289,38 @@
   }, {
     "source" : "2009-928327",
     "target" : "296701-2009",
+    "value" : 10
+  }, {
+    "source" : "2009-928327",
+    "target" : "2009-183073",
+    "value" : 10
+  }, {
+    "source" : "2009-928327",
+    "target" : "2009-321812",
+    "value" : 10
+  }, {
+    "source" : "2009-928327",
+    "target" : "2009-521959",
+    "value" : 10
+  }, {
+    "source" : "2009-928327",
+    "target" : "2009-738364",
+    "value" : 10
+  }, {
+    "source" : "2009-928327",
+    "target" : "2009-741150",
+    "value" : 10
+  }, {
+    "source" : "2009-928327",
+    "target" : "2009-775394",
+    "value" : 10
+  }, {
+    "source" : "2009-928327",
+    "target" : "2009-832953",
+    "value" : 10
+  }, {
+    "source" : "2009-928327",
+    "target" : "2009-901066",
     "value" : 10
   }, {
     "source" : "2009-960559",
@@ -2363,8 +3335,52 @@
     "target" : "2009-332068",
     "value" : 10
   }, {
+    "source" : "2009-965224",
+    "target" : "2009-151018",
+    "value" : 10
+  }, {
+    "source" : "2009-965224",
+    "target" : "2009-394908",
+    "value" : 10
+  }, {
+    "source" : "2009-965224",
+    "target" : "2009-733577",
+    "value" : 10
+  }, {
+    "source" : "2009-965224",
+    "target" : "2009-789303",
+    "value" : 10
+  }, {
     "source" : "2009-982589",
     "target" : "2009-105937",
+    "value" : 10
+  }, {
+    "source" : "2009-982589",
+    "target" : "2009-316085",
+    "value" : 10
+  }, {
+    "source" : "2009-982589",
+    "target" : "2009-432740",
+    "value" : 10
+  }, {
+    "source" : "2009-982589",
+    "target" : "2009-464110",
+    "value" : 10
+  }, {
+    "source" : "2009-982589",
+    "target" : "2009-621016",
+    "value" : 10
+  }, {
+    "source" : "2009-982589",
+    "target" : "2009-636026",
+    "value" : 10
+  }, {
+    "source" : "2009-982589",
+    "target" : "2009-672437",
+    "value" : 10
+  }, {
+    "source" : "2009-982589",
+    "target" : "2009-710908",
     "value" : 10
   }, {
     "source" : "2010-245638",
@@ -2379,6 +3395,10 @@
     "target" : "2010-949268",
     "value" : 10
   }, {
+    "source" : "2010-286362",
+    "target" : "2010-446693",
+    "value" : 10
+  }, {
     "source" : "2010-362225",
     "target" : "327963-2009",
     "value" : 10
@@ -2389,6 +3409,10 @@
   }, {
     "source" : "2010-446693",
     "target" : "2010-949268",
+    "value" : 10
+  }, {
+    "source" : "2010-446693",
+    "target" : "2010-286362",
     "value" : 10
   }, {
     "source" : "2010-565374",
@@ -2431,6 +3455,14 @@
     "target" : "142758-2010",
     "value" : 10
   }, {
+    "source" : "2010-949268",
+    "target" : "2010-286362",
+    "value" : 10
+  }, {
+    "source" : "2010-949268",
+    "target" : "2010-446693",
+    "value" : 10
+  }, {
     "source" : "2010-956101",
     "target" : "329264-2009",
     "value" : 10
@@ -2443,60 +3475,384 @@
     "target" : "2011-240721",
     "value" : 10
   }, {
+    "source" : "2011-147471",
+    "target" : "2011-318813",
+    "value" : 10
+  }, {
+    "source" : "2011-147471",
+    "target" : "2011-369646",
+    "value" : 10
+  }, {
+    "source" : "2011-147471",
+    "target" : "2011-442225",
+    "value" : 10
+  }, {
+    "source" : "2011-147471",
+    "target" : "2011-541230",
+    "value" : 10
+  }, {
+    "source" : "2011-147471",
+    "target" : "2011-545457",
+    "value" : 10
+  }, {
     "source" : "2011-225144",
     "target" : "2011-977688",
+    "value" : 10
+  }, {
+    "source" : "2011-225144",
+    "target" : "2011-856371",
+    "value" : 10
+  }, {
+    "source" : "2011-225144",
+    "target" : "2011-951865",
     "value" : 10
   }, {
     "source" : "2011-240721",
     "target" : "101167-2011",
     "value" : 10
   }, {
+    "source" : "2011-240721",
+    "target" : "2011-147471",
+    "value" : 10
+  }, {
+    "source" : "2011-240721",
+    "target" : "2011-318813",
+    "value" : 10
+  }, {
+    "source" : "2011-240721",
+    "target" : "2011-369646",
+    "value" : 10
+  }, {
+    "source" : "2011-240721",
+    "target" : "2011-442225",
+    "value" : 10
+  }, {
+    "source" : "2011-240721",
+    "target" : "2011-541230",
+    "value" : 10
+  }, {
+    "source" : "2011-240721",
+    "target" : "2011-545457",
+    "value" : 10
+  }, {
     "source" : "2011-269130",
     "target" : "2011-910767",
+    "value" : 10
+  }, {
+    "source" : "2011-269130",
+    "target" : "2011-285520",
+    "value" : 10
+  }, {
+    "source" : "2011-269130",
+    "target" : "2011-323844",
+    "value" : 10
+  }, {
+    "source" : "2011-269130",
+    "target" : "2011-578177",
+    "value" : 10
+  }, {
+    "source" : "2011-269130",
+    "target" : "2011-609872",
+    "value" : 10
+  }, {
+    "source" : "2011-269130",
+    "target" : "2011-745484",
+    "value" : 10
+  }, {
+    "source" : "2011-269130",
+    "target" : "2011-829167",
+    "value" : 10
+  }, {
+    "source" : "2011-269130",
+    "target" : "2011-832719",
     "value" : 10
   }, {
     "source" : "2011-285520",
     "target" : "2011-910767",
     "value" : 10
   }, {
+    "source" : "2011-285520",
+    "target" : "2011-269130",
+    "value" : 10
+  }, {
+    "source" : "2011-285520",
+    "target" : "2011-323844",
+    "value" : 10
+  }, {
+    "source" : "2011-285520",
+    "target" : "2011-578177",
+    "value" : 10
+  }, {
+    "source" : "2011-285520",
+    "target" : "2011-609872",
+    "value" : 10
+  }, {
+    "source" : "2011-285520",
+    "target" : "2011-745484",
+    "value" : 10
+  }, {
+    "source" : "2011-285520",
+    "target" : "2011-829167",
+    "value" : 10
+  }, {
+    "source" : "2011-285520",
+    "target" : "2011-832719",
+    "value" : 10
+  }, {
     "source" : "2011-318813",
     "target" : "2011-240721",
+    "value" : 10
+  }, {
+    "source" : "2011-318813",
+    "target" : "2011-147471",
+    "value" : 10
+  }, {
+    "source" : "2011-318813",
+    "target" : "2011-369646",
+    "value" : 10
+  }, {
+    "source" : "2011-318813",
+    "target" : "2011-442225",
+    "value" : 10
+  }, {
+    "source" : "2011-318813",
+    "target" : "2011-541230",
+    "value" : 10
+  }, {
+    "source" : "2011-318813",
+    "target" : "2011-545457",
     "value" : 10
   }, {
     "source" : "2011-323844",
     "target" : "2011-910767",
     "value" : 10
   }, {
+    "source" : "2011-323844",
+    "target" : "2011-269130",
+    "value" : 10
+  }, {
+    "source" : "2011-323844",
+    "target" : "2011-285520",
+    "value" : 10
+  }, {
+    "source" : "2011-323844",
+    "target" : "2011-578177",
+    "value" : 10
+  }, {
+    "source" : "2011-323844",
+    "target" : "2011-609872",
+    "value" : 10
+  }, {
+    "source" : "2011-323844",
+    "target" : "2011-745484",
+    "value" : 10
+  }, {
+    "source" : "2011-323844",
+    "target" : "2011-829167",
+    "value" : 10
+  }, {
+    "source" : "2011-323844",
+    "target" : "2011-832719",
+    "value" : 10
+  }, {
     "source" : "2011-335364",
     "target" : "406728-2011",
+    "value" : 10
+  }, {
+    "source" : "2011-335364",
+    "target" : "2011-804828",
     "value" : 10
   }, {
     "source" : "2011-369646",
     "target" : "2011-240721",
     "value" : 10
   }, {
+    "source" : "2011-369646",
+    "target" : "2011-147471",
+    "value" : 10
+  }, {
+    "source" : "2011-369646",
+    "target" : "2011-318813",
+    "value" : 10
+  }, {
+    "source" : "2011-369646",
+    "target" : "2011-442225",
+    "value" : 10
+  }, {
+    "source" : "2011-369646",
+    "target" : "2011-541230",
+    "value" : 10
+  }, {
+    "source" : "2011-369646",
+    "target" : "2011-545457",
+    "value" : 10
+  }, {
     "source" : "2011-442225",
     "target" : "2011-240721",
+    "value" : 10
+  }, {
+    "source" : "2011-442225",
+    "target" : "2011-147471",
+    "value" : 10
+  }, {
+    "source" : "2011-442225",
+    "target" : "2011-318813",
+    "value" : 10
+  }, {
+    "source" : "2011-442225",
+    "target" : "2011-369646",
+    "value" : 10
+  }, {
+    "source" : "2011-442225",
+    "target" : "2011-541230",
+    "value" : 10
+  }, {
+    "source" : "2011-442225",
+    "target" : "2011-545457",
     "value" : 10
   }, {
     "source" : "2011-541230",
     "target" : "2011-240721",
     "value" : 10
   }, {
+    "source" : "2011-541230",
+    "target" : "2011-147471",
+    "value" : 10
+  }, {
+    "source" : "2011-541230",
+    "target" : "2011-318813",
+    "value" : 10
+  }, {
+    "source" : "2011-541230",
+    "target" : "2011-369646",
+    "value" : 10
+  }, {
+    "source" : "2011-541230",
+    "target" : "2011-442225",
+    "value" : 10
+  }, {
+    "source" : "2011-541230",
+    "target" : "2011-545457",
+    "value" : 10
+  }, {
     "source" : "2011-545457",
     "target" : "2011-240721",
+    "value" : 10
+  }, {
+    "source" : "2011-545457",
+    "target" : "2011-147471",
+    "value" : 10
+  }, {
+    "source" : "2011-545457",
+    "target" : "2011-318813",
+    "value" : 10
+  }, {
+    "source" : "2011-545457",
+    "target" : "2011-369646",
+    "value" : 10
+  }, {
+    "source" : "2011-545457",
+    "target" : "2011-442225",
+    "value" : 10
+  }, {
+    "source" : "2011-545457",
+    "target" : "2011-541230",
     "value" : 10
   }, {
     "source" : "2011-578177",
     "target" : "2011-910767",
     "value" : 10
   }, {
+    "source" : "2011-578177",
+    "target" : "2011-269130",
+    "value" : 10
+  }, {
+    "source" : "2011-578177",
+    "target" : "2011-285520",
+    "value" : 10
+  }, {
+    "source" : "2011-578177",
+    "target" : "2011-323844",
+    "value" : 10
+  }, {
+    "source" : "2011-578177",
+    "target" : "2011-609872",
+    "value" : 10
+  }, {
+    "source" : "2011-578177",
+    "target" : "2011-745484",
+    "value" : 10
+  }, {
+    "source" : "2011-578177",
+    "target" : "2011-829167",
+    "value" : 10
+  }, {
+    "source" : "2011-578177",
+    "target" : "2011-832719",
+    "value" : 10
+  }, {
     "source" : "2011-609872",
     "target" : "2011-910767",
     "value" : 10
   }, {
+    "source" : "2011-609872",
+    "target" : "2011-269130",
+    "value" : 10
+  }, {
+    "source" : "2011-609872",
+    "target" : "2011-285520",
+    "value" : 10
+  }, {
+    "source" : "2011-609872",
+    "target" : "2011-323844",
+    "value" : 10
+  }, {
+    "source" : "2011-609872",
+    "target" : "2011-578177",
+    "value" : 10
+  }, {
+    "source" : "2011-609872",
+    "target" : "2011-745484",
+    "value" : 10
+  }, {
+    "source" : "2011-609872",
+    "target" : "2011-829167",
+    "value" : 10
+  }, {
+    "source" : "2011-609872",
+    "target" : "2011-832719",
+    "value" : 10
+  }, {
     "source" : "2011-745484",
     "target" : "2011-910767",
+    "value" : 10
+  }, {
+    "source" : "2011-745484",
+    "target" : "2011-269130",
+    "value" : 10
+  }, {
+    "source" : "2011-745484",
+    "target" : "2011-285520",
+    "value" : 10
+  }, {
+    "source" : "2011-745484",
+    "target" : "2011-323844",
+    "value" : 10
+  }, {
+    "source" : "2011-745484",
+    "target" : "2011-578177",
+    "value" : 10
+  }, {
+    "source" : "2011-745484",
+    "target" : "2011-609872",
+    "value" : 10
+  }, {
+    "source" : "2011-745484",
+    "target" : "2011-829167",
+    "value" : 10
+  }, {
+    "source" : "2011-745484",
+    "target" : "2011-832719",
     "value" : 10
   }, {
     "source" : "2011-777247",
@@ -2515,24 +3871,140 @@
     "target" : "2011-910767",
     "value" : 10
   }, {
+    "source" : "2011-829167",
+    "target" : "2011-269130",
+    "value" : 10
+  }, {
+    "source" : "2011-829167",
+    "target" : "2011-285520",
+    "value" : 10
+  }, {
+    "source" : "2011-829167",
+    "target" : "2011-323844",
+    "value" : 10
+  }, {
+    "source" : "2011-829167",
+    "target" : "2011-578177",
+    "value" : 10
+  }, {
+    "source" : "2011-829167",
+    "target" : "2011-609872",
+    "value" : 10
+  }, {
+    "source" : "2011-829167",
+    "target" : "2011-745484",
+    "value" : 10
+  }, {
+    "source" : "2011-829167",
+    "target" : "2011-832719",
+    "value" : 10
+  }, {
     "source" : "2011-832719",
     "target" : "2011-910767",
+    "value" : 10
+  }, {
+    "source" : "2011-832719",
+    "target" : "2011-269130",
+    "value" : 10
+  }, {
+    "source" : "2011-832719",
+    "target" : "2011-285520",
+    "value" : 10
+  }, {
+    "source" : "2011-832719",
+    "target" : "2011-323844",
+    "value" : 10
+  }, {
+    "source" : "2011-832719",
+    "target" : "2011-578177",
+    "value" : 10
+  }, {
+    "source" : "2011-832719",
+    "target" : "2011-609872",
+    "value" : 10
+  }, {
+    "source" : "2011-832719",
+    "target" : "2011-745484",
+    "value" : 10
+  }, {
+    "source" : "2011-832719",
+    "target" : "2011-829167",
     "value" : 10
   }, {
     "source" : "2011-856371",
     "target" : "2011-977688",
     "value" : 10
   }, {
+    "source" : "2011-856371",
+    "target" : "2011-225144",
+    "value" : 10
+  }, {
+    "source" : "2011-856371",
+    "target" : "2011-951865",
+    "value" : 10
+  }, {
     "source" : "2011-910767",
     "target" : "343149-2011",
+    "value" : 10
+  }, {
+    "source" : "2011-910767",
+    "target" : "2011-269130",
+    "value" : 10
+  }, {
+    "source" : "2011-910767",
+    "target" : "2011-285520",
+    "value" : 10
+  }, {
+    "source" : "2011-910767",
+    "target" : "2011-323844",
+    "value" : 10
+  }, {
+    "source" : "2011-910767",
+    "target" : "2011-578177",
+    "value" : 10
+  }, {
+    "source" : "2011-910767",
+    "target" : "2011-609872",
+    "value" : 10
+  }, {
+    "source" : "2011-910767",
+    "target" : "2011-745484",
+    "value" : 10
+  }, {
+    "source" : "2011-910767",
+    "target" : "2011-829167",
+    "value" : 10
+  }, {
+    "source" : "2011-910767",
+    "target" : "2011-832719",
     "value" : 10
   }, {
     "source" : "2011-951865",
     "target" : "2011-977688",
     "value" : 10
   }, {
+    "source" : "2011-951865",
+    "target" : "2011-225144",
+    "value" : 10
+  }, {
+    "source" : "2011-951865",
+    "target" : "2011-856371",
+    "value" : 10
+  }, {
     "source" : "2011-977688",
     "target" : "334769-2011",
+    "value" : 10
+  }, {
+    "source" : "2011-977688",
+    "target" : "2011-225144",
+    "value" : 10
+  }, {
+    "source" : "2011-977688",
+    "target" : "2011-856371",
+    "value" : 10
+  }, {
+    "source" : "2011-977688",
+    "target" : "2011-951865",
     "value" : 10
   }, {
     "source" : "2012-102241",
@@ -2543,20 +4015,52 @@
     "target" : "2012-250331",
     "value" : 10
   }, {
+    "source" : "2012-102736",
+    "target" : "2012-886198",
+    "value" : 10
+  }, {
     "source" : "2012-107678",
     "target" : "2012-248198",
+    "value" : 10
+  }, {
+    "source" : "2012-107678",
+    "target" : "2012-875386",
     "value" : 10
   }, {
     "source" : "2012-138966",
     "target" : "2012-266882",
     "value" : 10
   }, {
+    "source" : "2012-138966",
+    "target" : "2012-478280",
+    "value" : 10
+  }, {
     "source" : "2012-195449",
     "target" : "2012-268087",
     "value" : 10
   }, {
+    "source" : "2012-195449",
+    "target" : "2012-927475",
+    "value" : 10
+  }, {
     "source" : "2012-219404",
     "target" : "2012-248232",
+    "value" : 10
+  }, {
+    "source" : "2012-219404",
+    "target" : "2012-345902",
+    "value" : 10
+  }, {
+    "source" : "2012-219404",
+    "target" : "2012-564386",
+    "value" : 10
+  }, {
+    "source" : "2012-219404",
+    "target" : "2012-594786",
+    "value" : 10
+  }, {
+    "source" : "2012-219404",
+    "target" : "2012-734608",
     "value" : 10
   }, {
     "source" : "2012-248180",
@@ -2571,6 +4075,10 @@
     "target" : "024218-2012",
     "value" : 10
   }, {
+    "source" : "2012-248180",
+    "target" : "2012-373776",
+    "value" : 10
+  }, {
     "source" : "2012-248198",
     "target" : "334769-2011",
     "value" : 10
@@ -2583,6 +4091,14 @@
     "target" : "029347-2012",
     "value" : 10
   }, {
+    "source" : "2012-248198",
+    "target" : "2012-107678",
+    "value" : 10
+  }, {
+    "source" : "2012-248198",
+    "target" : "2012-875386",
+    "value" : 10
+  }, {
     "source" : "2012-248232",
     "target" : "334769-2011",
     "value" : 10
@@ -2593,6 +4109,26 @@
   }, {
     "source" : "2012-248232",
     "target" : "027549-2012",
+    "value" : 10
+  }, {
+    "source" : "2012-248232",
+    "target" : "2012-219404",
+    "value" : 10
+  }, {
+    "source" : "2012-248232",
+    "target" : "2012-345902",
+    "value" : 10
+  }, {
+    "source" : "2012-248232",
+    "target" : "2012-564386",
+    "value" : 10
+  }, {
+    "source" : "2012-248232",
+    "target" : "2012-594786",
+    "value" : 10
+  }, {
+    "source" : "2012-248232",
+    "target" : "2012-734608",
     "value" : 10
   }, {
     "source" : "2012-249244",
@@ -2613,6 +4149,18 @@
   }, {
     "source" : "2012-250331",
     "target" : "406728-2011",
+    "value" : 10
+  }, {
+    "source" : "2012-250331",
+    "target" : "055291-2012",
+    "value" : 10
+  }, {
+    "source" : "2012-250331",
+    "target" : "2012-102736",
+    "value" : 10
+  }, {
+    "source" : "2012-250331",
+    "target" : "2012-886198",
     "value" : 10
   }, {
     "source" : "2012-255539",
@@ -2671,6 +4219,10 @@
     "target" : "246258-2012",
     "value" : 10
   }, {
+    "source" : "2012-264355",
+    "target" : "2012-409953",
+    "value" : 10
+  }, {
     "source" : "2012-265312",
     "target" : "264548-2012",
     "value" : 10
@@ -2683,12 +4235,24 @@
     "target" : "274297-2012",
     "value" : 10
   }, {
+    "source" : "2012-266032",
+    "target" : "2012-102241",
+    "value" : 10
+  }, {
     "source" : "2012-266882",
     "target" : "264548-2012",
     "value" : 10
   }, {
     "source" : "2012-266882",
     "target" : "287834-2012",
+    "value" : 10
+  }, {
+    "source" : "2012-266882",
+    "target" : "2012-138966",
+    "value" : 10
+  }, {
+    "source" : "2012-266882",
+    "target" : "2012-478280",
     "value" : 10
   }, {
     "source" : "2012-267534",
@@ -2699,12 +4263,28 @@
     "target" : "291864-2012",
     "value" : 10
   }, {
+    "source" : "2012-267534",
+    "target" : "2012-388715",
+    "value" : 10
+  }, {
+    "source" : "2012-267534",
+    "target" : "2012-992141",
+    "value" : 10
+  }, {
     "source" : "2012-268087",
     "target" : "264548-2012",
     "value" : 10
   }, {
     "source" : "2012-268087",
     "target" : "303163-2012",
+    "value" : 10
+  }, {
+    "source" : "2012-268087",
+    "target" : "2012-195449",
+    "value" : 10
+  }, {
+    "source" : "2012-268087",
+    "target" : "2012-927475",
     "value" : 10
   }, {
     "source" : "2012-273372",
@@ -2719,12 +4299,32 @@
     "target" : "2012-248232",
     "value" : 10
   }, {
+    "source" : "2012-345902",
+    "target" : "2012-219404",
+    "value" : 10
+  }, {
+    "source" : "2012-345902",
+    "target" : "2012-564386",
+    "value" : 10
+  }, {
+    "source" : "2012-345902",
+    "target" : "2012-594786",
+    "value" : 10
+  }, {
+    "source" : "2012-345902",
+    "target" : "2012-734608",
+    "value" : 10
+  }, {
     "source" : "2012-373776",
     "target" : "2012-248180",
     "value" : 10
   }, {
     "source" : "2012-388715",
     "target" : "2012-267534",
+    "value" : 10
+  }, {
+    "source" : "2012-388715",
+    "target" : "2012-992141",
     "value" : 10
   }, {
     "source" : "2012-409953",
@@ -2735,32 +4335,100 @@
     "target" : "2012-266882",
     "value" : 10
   }, {
+    "source" : "2012-478280",
+    "target" : "2012-138966",
+    "value" : 10
+  }, {
     "source" : "2012-564386",
     "target" : "2012-248232",
+    "value" : 10
+  }, {
+    "source" : "2012-564386",
+    "target" : "2012-219404",
+    "value" : 10
+  }, {
+    "source" : "2012-564386",
+    "target" : "2012-345902",
+    "value" : 10
+  }, {
+    "source" : "2012-564386",
+    "target" : "2012-594786",
+    "value" : 10
+  }, {
+    "source" : "2012-564386",
+    "target" : "2012-734608",
     "value" : 10
   }, {
     "source" : "2012-594786",
     "target" : "2012-248232",
     "value" : 10
   }, {
+    "source" : "2012-594786",
+    "target" : "2012-219404",
+    "value" : 10
+  }, {
+    "source" : "2012-594786",
+    "target" : "2012-345902",
+    "value" : 10
+  }, {
+    "source" : "2012-594786",
+    "target" : "2012-564386",
+    "value" : 10
+  }, {
+    "source" : "2012-594786",
+    "target" : "2012-734608",
+    "value" : 10
+  }, {
     "source" : "2012-734608",
     "target" : "2012-248232",
+    "value" : 10
+  }, {
+    "source" : "2012-734608",
+    "target" : "2012-219404",
+    "value" : 10
+  }, {
+    "source" : "2012-734608",
+    "target" : "2012-345902",
+    "value" : 10
+  }, {
+    "source" : "2012-734608",
+    "target" : "2012-564386",
+    "value" : 10
+  }, {
+    "source" : "2012-734608",
+    "target" : "2012-594786",
     "value" : 10
   }, {
     "source" : "2012-875386",
     "target" : "2012-248198",
     "value" : 10
   }, {
+    "source" : "2012-875386",
+    "target" : "2012-107678",
+    "value" : 10
+  }, {
     "source" : "2012-886198",
     "target" : "2012-250331",
+    "value" : 10
+  }, {
+    "source" : "2012-886198",
+    "target" : "2012-102736",
     "value" : 10
   }, {
     "source" : "2012-927475",
     "target" : "2012-268087",
     "value" : 10
   }, {
+    "source" : "2012-927475",
+    "target" : "2012-195449",
+    "value" : 10
+  }, {
     "source" : "2012-992141",
     "target" : "2012-267534",
+    "value" : 10
+  }, {
+    "source" : "2012-992141",
+    "target" : "2012-388715",
     "value" : 10
   }, {
     "source" : "2013-281148",
@@ -2789,6 +4457,10 @@
   }, {
     "source" : "2013-307839",
     "target" : "350607-2013",
+    "value" : 10
+  }, {
+    "source" : "2013-307839",
+    "target" : "2013-321081",
     "value" : 10
   }, {
     "source" : "2013-321081",
@@ -2849,6 +4521,10 @@
   }, {
     "source" : "2015-340383",
     "target" : "107172-2015",
+    "value" : 10
+  }, {
+    "source" : "2015-340383",
+    "target" : "2015-828848",
     "value" : 10
   }, {
     "source" : "2015-512386",
@@ -2927,6 +4603,10 @@
     "target" : "020995-2016",
     "value" : 10
   }, {
+    "source" : "2016-665571",
+    "target" : "2016-573035",
+    "value" : 10
+  }, {
     "source" : "2016-701898",
     "target" : "174732-2015",
     "value" : 10
@@ -2971,6 +4651,10 @@
     "target" : "406728-2011",
     "value" : 10
   }, {
+    "source" : "204739-2012",
+    "target" : "2012-261751",
+    "value" : 10
+  }, {
     "source" : "206719-2012",
     "target" : "055291-2012",
     "value" : 10
@@ -2981,6 +4665,14 @@
   }, {
     "source" : "206719-2012",
     "target" : "406728-2011",
+    "value" : 10
+  }, {
+    "source" : "206719-2012",
+    "target" : "2012-262172",
+    "value" : 10
+  }, {
+    "source" : "207848-2008",
+    "target" : "297607-2007",
     "value" : 10
   }, {
     "source" : "208484-2012",
@@ -2995,116 +4687,328 @@
     "target" : "406728-2011",
     "value" : 10
   }, {
+    "source" : "208484-2012",
+    "target" : "2012-262205",
+    "value" : 10
+  }, {
+    "source" : "214426-2014",
+    "target" : "2014-398870",
+    "value" : 10
+  }, {
+    "source" : "223423-2007",
+    "target" : "2007-958909",
+    "value" : 10
+  }, {
+    "source" : "225058-2007",
+    "target" : "2007-910896",
+    "value" : 10
+  }, {
     "source" : "236418-2010",
     "target" : "327963-2009",
+    "value" : 10
+  }, {
+    "source" : "236418-2010",
+    "target" : "2010-362225",
     "value" : 10
   }, {
     "source" : "237835-2010",
     "target" : "327962-2009",
     "value" : 10
   }, {
+    "source" : "237835-2010",
+    "target" : "2010-872701",
+    "value" : 10
+  }, {
     "source" : "239395-2010",
     "target" : "329263-2009",
+    "value" : 10
+  }, {
+    "source" : "239395-2010",
+    "target" : "2010-937025",
     "value" : 10
   }, {
     "source" : "243954-2016",
     "target" : "431381-2015",
     "value" : 10
   }, {
+    "source" : "243954-2016",
+    "target" : "2016-826862",
+    "value" : 10
+  }, {
+    "source" : "246258-2012",
+    "target" : "2012-264355",
+    "value" : 10
+  }, {
+    "source" : "255337-2010",
+    "target" : "2010-661038",
+    "value" : 10
+  }, {
+    "source" : "264548-2012",
+    "target" : "2012-265312",
+    "value" : 10
+  }, {
     "source" : "274297-2012",
     "target" : "264548-2012",
+    "value" : 10
+  }, {
+    "source" : "274297-2012",
+    "target" : "2012-266032",
+    "value" : 10
+  }, {
+    "source" : "285326-2009",
+    "target" : "2009-431850",
+    "value" : 10
+  }, {
+    "source" : "286805-2014",
+    "target" : "2014-410278",
+    "value" : 10
+  }, {
+    "source" : "286900-2009",
+    "target" : "285326-2009",
     "value" : 10
   }, {
     "source" : "287834-2012",
     "target" : "264548-2012",
     "value" : 10
   }, {
+    "source" : "287834-2012",
+    "target" : "2012-266882",
+    "value" : 10
+  }, {
+    "source" : "289224-2012",
+    "target" : "287834-2012",
+    "value" : 10
+  }, {
     "source" : "289873-2009",
     "target" : "161942-2009",
+    "value" : 10
+  }, {
+    "source" : "289873-2009",
+    "target" : "2009-105937",
     "value" : 10
   }, {
     "source" : "291864-2012",
     "target" : "264548-2012",
     "value" : 10
   }, {
+    "source" : "291864-2012",
+    "target" : "2012-267534",
+    "value" : 10
+  }, {
     "source" : "296701-2009",
     "target" : "161942-2009",
+    "value" : 10
+  }, {
+    "source" : "296701-2009",
+    "target" : "2009-928327",
     "value" : 10
   }, {
     "source" : "302292-2009",
     "target" : "161942-2009",
     "value" : 10
   }, {
+    "source" : "302292-2009",
+    "target" : "2009-332068",
+    "value" : 10
+  }, {
     "source" : "303163-2012",
     "target" : "264548-2012",
+    "value" : 10
+  }, {
+    "source" : "303163-2012",
+    "target" : "2012-268087",
     "value" : 10
   }, {
     "source" : "310295-2009",
     "target" : "161942-2009",
     "value" : 10
   }, {
+    "source" : "310295-2009",
+    "target" : "2009-104423",
+    "value" : 10
+  }, {
     "source" : "312096-2009",
     "target" : "161942-2009",
+    "value" : 10
+  }, {
+    "source" : "312096-2009",
+    "target" : "2009-228412",
+    "value" : 10
+  }, {
+    "source" : "316957-2009",
+    "target" : "289873-2009",
+    "value" : 10
+  }, {
+    "source" : "317028-2009",
+    "target" : "296701-2009",
     "value" : 10
   }, {
     "source" : "317438-2010",
     "target" : "335293-2009",
     "value" : 10
   }, {
+    "source" : "317438-2010",
+    "target" : "2010-245638",
+    "value" : 10
+  }, {
+    "source" : "320799-2009",
+    "target" : "289873-2009",
+    "value" : 10
+  }, {
+    "source" : "320800-2009",
+    "target" : "312096-2009",
+    "value" : 10
+  }, {
+    "source" : "320811-2009",
+    "target" : "310295-2009",
+    "value" : 10
+  }, {
+    "source" : "322047-2009",
+    "target" : "296701-2009",
+    "value" : 10
+  }, {
     "source" : "322049-2016",
     "target" : "026763-2016",
+    "value" : 10
+  }, {
+    "source" : "322049-2016",
+    "target" : "2016-781698",
+    "value" : 10
+  }, {
+    "source" : "322050-2009",
+    "target" : "302292-2009",
     "value" : 10
   }, {
     "source" : "327962-2009",
     "target" : "161942-2009",
     "value" : 10
   }, {
+    "source" : "327962-2009",
+    "target" : "2009-960559",
+    "value" : 10
+  }, {
     "source" : "327963-2009",
     "target" : "161942-2009",
+    "value" : 10
+  }, {
+    "source" : "327963-2009",
+    "target" : "2009-529000",
     "value" : 10
   }, {
     "source" : "329262-2009",
     "target" : "161942-2009",
     "value" : 10
   }, {
+    "source" : "329262-2009",
+    "target" : "2009-563552",
+    "value" : 10
+  }, {
     "source" : "329263-2009",
     "target" : "161942-2009",
+    "value" : 10
+  }, {
+    "source" : "329263-2009",
+    "target" : "2009-266589",
     "value" : 10
   }, {
     "source" : "329264-2009",
     "target" : "161942-2009",
     "value" : 10
   }, {
+    "source" : "329264-2009",
+    "target" : "2009-472406",
+    "value" : 10
+  }, {
     "source" : "329920-2010",
     "target" : "329264-2009",
+    "value" : 10
+  }, {
+    "source" : "329920-2010",
+    "target" : "2010-956101",
     "value" : 10
   }, {
     "source" : "330718-2009",
     "target" : "161942-2009",
     "value" : 10
   }, {
+    "source" : "330718-2009",
+    "target" : "2009-564426",
+    "value" : 10
+  }, {
+    "source" : "334769-2011",
+    "target" : "2011-977688",
+    "value" : 10
+  }, {
     "source" : "335293-2009",
     "target" : "161942-2009",
+    "value" : 10
+  }, {
+    "source" : "335293-2009",
+    "target" : "2009-180018",
+    "value" : 10
+  }, {
+    "source" : "337951-2012",
+    "target" : "291864-2012",
+    "value" : 10
+  }, {
+    "source" : "343149-2011",
+    "target" : "2011-910767",
     "value" : 10
   }, {
     "source" : "345914-2011",
     "target" : "101167-2011",
     "value" : 10
   }, {
+    "source" : "345914-2011",
+    "target" : "2011-777247",
+    "value" : 10
+  }, {
+    "source" : "350607-2013",
+    "target" : "2013-307839",
+    "value" : 10
+  }, {
     "source" : "366644-2010",
     "target" : "329262-2009",
+    "value" : 10
+  }, {
+    "source" : "366644-2010",
+    "target" : "2010-751604",
     "value" : 10
   }, {
     "source" : "370424-2012",
     "target" : "044136-2012",
     "value" : 10
   }, {
+    "source" : "370424-2012",
+    "target" : "2012-273372",
+    "value" : 10
+  }, {
+    "source" : "406728-2011",
+    "target" : "2011-335364",
+    "value" : 10
+  }, {
     "source" : "422668-2015",
     "target" : "107172-2015",
     "value" : 10
   }, {
+    "source" : "422668-2015",
+    "target" : "2015-103735",
+    "value" : 10
+  }, {
+    "source" : "431381-2015",
+    "target" : "2015-113743",
+    "value" : 10
+  }, {
     "source" : "432917-2016",
     "target" : "021001-2016",
+    "value" : 10
+  }, {
+    "source" : "432917-2016",
+    "target" : "2016-404263",
+    "value" : 10
+  }, {
+    "source" : "450726-2016",
+    "target" : "2016-070892",
     "value" : 10
   }, {
     "source" : "A-2 NORGE AS",
@@ -3133,6 +5037,10 @@
   }, {
     "source" : "ABEO AS",
     "target" : "2007-958909",
+    "value" : 10
+  }, {
+    "source" : "ABEO AS",
+    "target" : "223423-2007",
     "value" : 10
   }, {
     "source" : "ACANDO AS",
@@ -3185,6 +5093,10 @@
   }, {
     "source" : "ACCENTURE ANS",
     "target" : "2007-958909",
+    "value" : 10
+  }, {
+    "source" : "ACCENTURE ANS",
+    "target" : "223423-2007",
     "value" : 10
   }, {
     "source" : "ACCENTURE AS",
@@ -3255,8 +5167,16 @@
     "target" : "2007-958909",
     "value" : 10
   }, {
+    "source" : "APPLICATION DEVELOPMENT GROUP AS",
+    "target" : "223423-2007",
+    "value" : 10
+  }, {
     "source" : "ARCTICPARK CONSULTING AS",
     "target" : "2007-958909",
+    "value" : 10
+  }, {
+    "source" : "ARCTICPARK CONSULTING AS",
+    "target" : "223423-2007",
     "value" : 10
   }, {
     "source" : "ATEA AS",
@@ -3279,8 +5199,16 @@
     "target" : "2007-958909",
     "value" : 10
   }, {
+    "source" : "AVENIR AS",
+    "target" : "223423-2007",
+    "value" : 10
+  }, {
     "source" : "BEARINGPOINT",
     "target" : "2007-958909",
+    "value" : 10
+  }, {
+    "source" : "BEARINGPOINT",
+    "target" : "223423-2007",
     "value" : 10
   }, {
     "source" : "BEKK CONSULTING AS",
@@ -3305,6 +5233,10 @@
   }, {
     "source" : "BEKK CONSULTING AS",
     "target" : "2007-958909",
+    "value" : 10
+  }, {
+    "source" : "BEKK CONSULTING AS",
+    "target" : "223423-2007",
     "value" : 10
   }, {
     "source" : "BEKK CONSULTING AS",
@@ -3335,11 +5267,15 @@
     "target" : "2007-958909",
     "value" : 10
   }, {
-    "source" : "BOUVET ASA, BERGEN",
+    "source" : "BOUVET AS",
+    "target" : "223423-2007",
+    "value" : 10
+  }, {
+    "source" : "BOUVET ASA; BERGEN",
     "target" : "2011-777247",
     "value" : 10
   }, {
-    "source" : "BOUVET ASA, BERGEN",
+    "source" : "BOUVET ASA; BERGEN",
     "target" : "345914-2011",
     "value" : 10
   }, {
@@ -3389,6 +5325,10 @@
   }, {
     "source" : "CAPGEMINI NORGE AS",
     "target" : "2007-958909",
+    "value" : 10
+  }, {
+    "source" : "CAPGEMINI NORGE AS",
+    "target" : "223423-2007",
     "value" : 10
   }, {
     "source" : "CAPGEMINI NORGE AS",
@@ -3432,6 +5372,10 @@
     "value" : 10
   }, {
     "source" : "CIBER NORGE AS",
+    "target" : "223423-2007",
+    "value" : 10
+  }, {
+    "source" : "CIBER NORGE AS",
     "target" : "2011-777247",
     "value" : 10
   }, {
@@ -3453,6 +5397,10 @@
   }, {
     "source" : "COMPUTAS AS",
     "target" : "2007-958909",
+    "value" : 10
+  }, {
+    "source" : "COMPUTAS AS",
+    "target" : "223423-2007",
     "value" : 10
   }, {
     "source" : "COMPUTAS AS",
@@ -3491,8 +5439,16 @@
     "target" : "2007-958909",
     "value" : 10
   }, {
+    "source" : "CONSIDER AS",
+    "target" : "223423-2007",
+    "value" : 10
+  }, {
     "source" : "CRAYON AS",
     "target" : "2007-958909",
+    "value" : 10
+  }, {
+    "source" : "CRAYON AS",
+    "target" : "223423-2007",
     "value" : 10
   }, {
     "source" : "DAVINCI CONSULTING AS",
@@ -3515,6 +5471,10 @@
     "target" : "2007-958909",
     "value" : 10
   }, {
+    "source" : "DAVINCI CONSULTING AS",
+    "target" : "223423-2007",
+    "value" : 10
+  }, {
     "source" : "DECISIVE AS",
     "target" : "2011-777247",
     "value" : 10
@@ -3525,6 +5485,10 @@
   }, {
     "source" : "DELL AS",
     "target" : "2007-958909",
+    "value" : 10
+  }, {
+    "source" : "DELL AS",
+    "target" : "223423-2007",
     "value" : 10
   }, {
     "source" : "DELL NORGE",
@@ -3583,6 +5547,10 @@
     "target" : "2007-958909",
     "value" : 10
   }, {
+    "source" : "EDISYS CONSULTING AS",
+    "target" : "223423-2007",
+    "value" : 10
+  }, {
     "source" : "EGROUP ASA",
     "target" : "2005-728398",
     "value" : 10
@@ -3593,6 +5561,10 @@
   }, {
     "source" : "ERGO GROUP AS",
     "target" : "2007-958909",
+    "value" : 10
+  }, {
+    "source" : "ERGO GROUP AS",
+    "target" : "223423-2007",
     "value" : 10
   }, {
     "source" : "ERNST & YOUNG AS",
@@ -3643,6 +5615,10 @@
     "target" : "2007-958909",
     "value" : 10
   }, {
+    "source" : "FORNEBU CONSULTING AS",
+    "target" : "223423-2007",
+    "value" : 10
+  }, {
     "source" : "GARTNER NORGE AS",
     "target" : "2011-777247",
     "value" : 10
@@ -3687,6 +5663,10 @@
     "target" : "2007-958909",
     "value" : 10
   }, {
+    "source" : "HEWLETT-PACKARD NORGE AS",
+    "target" : "223423-2007",
+    "value" : 10
+  }, {
     "source" : "HM RÅDGIVNING OG IT TEKNOLOGI AS",
     "target" : "2005-728398",
     "value" : 10
@@ -3701,6 +5681,10 @@
   }, {
     "source" : "IBM AS",
     "target" : "2007-958909",
+    "value" : 10
+  }, {
+    "source" : "IBM AS",
+    "target" : "223423-2007",
     "value" : 10
   }, {
     "source" : "IBM AS",
@@ -3728,6 +5712,10 @@
     "value" : 10
   }, {
     "source" : "INNOVATEC - INNOVATIVE TECHNOLOGIES AS",
+    "target" : "223423-2007",
+    "value" : 10
+  }, {
+    "source" : "INNOVATEC - INNOVATIVE TECHNOLOGIES AS",
     "target" : "2011-777247",
     "value" : 10
   }, {
@@ -3735,11 +5723,11 @@
     "target" : "345914-2011",
     "value" : 10
   }, {
-    "source" : "INTERNATIONAL BUSINESS MACHINES AS (IBM)",
+    "source" : "INTERNATIONAL BUSINESS MACHINES AS",
     "target" : "2010-751604",
     "value" : 10
   }, {
-    "source" : "INTERNATIONAL BUSINESS MACHINES AS (IBM)",
+    "source" : "INTERNATIONAL BUSINESS MACHINES AS",
     "target" : "366644-2010",
     "value" : 10
   }, {
@@ -3749,6 +5737,10 @@
   }, {
     "source" : "KITH",
     "target" : "2007-958909",
+    "value" : 10
+  }, {
+    "source" : "KITH",
+    "target" : "223423-2007",
     "value" : 10
   }, {
     "source" : "KNOW IT OBJECTNET AS",
@@ -3761,6 +5753,10 @@
   }, {
     "source" : "KONSENSIT",
     "target" : "2007-958909",
+    "value" : 10
+  }, {
+    "source" : "KONSENSIT",
+    "target" : "223423-2007",
     "value" : 10
   }, {
     "source" : "KONSENSIT AS",
@@ -3801,6 +5797,10 @@
   }, {
     "source" : "MICROSOFT NORGE AS",
     "target" : "2007-958909",
+    "value" : 10
+  }, {
+    "source" : "MICROSOFT NORGE AS",
+    "target" : "223423-2007",
     "value" : 10
   }, {
     "source" : "MILES OSLO AS",
@@ -3853,6 +5853,10 @@
   }, {
     "source" : "NAV",
     "target" : "2007-910896",
+    "value" : 10
+  }, {
+    "source" : "NAV",
+    "target" : "225058-2007",
     "value" : 10
   }, {
     "source" : "NAV",
@@ -4199,6 +6203,10 @@
     "target" : "2007-958909",
     "value" : 10
   }, {
+    "source" : "OBJECTNET AS",
+    "target" : "223423-2007",
+    "value" : 10
+  }, {
     "source" : "OBJECTWARE AS",
     "target" : "2003-412524",
     "value" : 10
@@ -4233,6 +6241,10 @@
   }, {
     "source" : "OBJECTWARE AS",
     "target" : "2007-958909",
+    "value" : 10
+  }, {
+    "source" : "OBJECTWARE AS",
+    "target" : "223423-2007",
     "value" : 10
   }, {
     "source" : "OKB CONSULTING AS",
@@ -4245,6 +6257,10 @@
   }, {
     "source" : "OPUS ONE AS",
     "target" : "2007-958909",
+    "value" : 10
+  }, {
+    "source" : "OPUS ONE AS",
+    "target" : "223423-2007",
     "value" : 10
   }, {
     "source" : "ORACLE NORGE AS",
@@ -4279,6 +6295,10 @@
     "target" : "2007-958909",
     "value" : 10
   }, {
+    "source" : "PRICEWATERHOUSECOOPERS AS",
+    "target" : "223423-2007",
+    "value" : 10
+  }, {
     "source" : "PROMIS",
     "target" : "2011-777247",
     "value" : 10
@@ -4301,6 +6321,10 @@
   }, {
     "source" : "PROMIS AS",
     "target" : "2007-958909",
+    "value" : 10
+  }, {
+    "source" : "PROMIS AS",
+    "target" : "223423-2007",
     "value" : 10
   }, {
     "source" : "PROMIS AS",
@@ -4347,16 +6371,32 @@
     "target" : "2007-958909",
     "value" : 10
   }, {
+    "source" : "SANDBOX SOLUTIONS",
+    "target" : "223423-2007",
+    "value" : 10
+  }, {
     "source" : "SENSEIT AS",
     "target" : "2007-958909",
+    "value" : 10
+  }, {
+    "source" : "SENSEIT AS",
+    "target" : "223423-2007",
     "value" : 10
   }, {
     "source" : "SIRIUS IT",
     "target" : "2008-306918",
     "value" : 10
   }, {
+    "source" : "SIRIUS IT",
+    "target" : "207848-2008",
+    "value" : 10
+  }, {
     "source" : "SIRIUS IT AS",
     "target" : "2007-958909",
+    "value" : 10
+  }, {
+    "source" : "SIRIUS IT AS",
+    "target" : "223423-2007",
     "value" : 10
   }, {
     "source" : "SIRIUS IT AS",
@@ -4412,6 +6452,10 @@
     "value" : 10
   }, {
     "source" : "STERIA AS",
+    "target" : "223423-2007",
+    "value" : 10
+  }, {
+    "source" : "STERIA AS",
     "target" : "2011-777247",
     "value" : 10
   }, {
@@ -4423,8 +6467,16 @@
     "target" : "2007-958909",
     "value" : 10
   }, {
+    "source" : "SYMANTEC NORWAY AS",
+    "target" : "223423-2007",
+    "value" : 10
+  }, {
     "source" : "TELEPLAN AS",
     "target" : "2007-958909",
+    "value" : 10
+  }, {
+    "source" : "TELEPLAN AS",
+    "target" : "223423-2007",
     "value" : 10
   }, {
     "source" : "TELEPLAN CONSULTING AS",
@@ -4512,6 +6564,10 @@
     "value" : 10
   }, {
     "source" : "UNICONSULT AS",
+    "target" : "223423-2007",
+    "value" : 10
+  }, {
+    "source" : "UNICONSULT AS",
     "target" : "2011-777247",
     "value" : 10
   }, {
@@ -4559,8 +6615,16 @@
     "target" : "2007-958909",
     "value" : 10
   }, {
+    "source" : "VISMA UNIQUE AS",
+    "target" : "223423-2007",
+    "value" : 10
+  }, {
     "source" : "WM DATA",
     "target" : "2007-958909",
+    "value" : 10
+  }, {
+    "source" : "WM DATA",
+    "target" : "223423-2007",
     "value" : 10
   }, {
     "source" : "WM-DATA AS",
